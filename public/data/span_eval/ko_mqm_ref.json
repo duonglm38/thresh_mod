@@ -1,0 +1,5358 @@
+[
+  {
+    "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+    "target": "이것은 판매세처럼 구조화될 수 있지만, 현실적인 소비세 제안들은 순수 판매세의 역진성 문제가 있음을 인식합니다.",
+    "id": "wikibias_0_gpt4_ez",
+    "target_focus_areas": [
+      [
+        21,
+        61
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        48,
+        57
+      ],
+      [
+        90,
+        152
+      ]
+    ],
+    "reference": "이것이 판매세처럼 구조화될 수 있지만, 소비세에 대한 현실적인 제안들은 순수 판매세의 문제로서 역진성을 인식합니다."
+  },
+  {
+    "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+    "target": "판매세처럼 구조화될 수 있지만, 소비세에 대한 현실적인 제안들은 순수 판매세에는 역진성이 문제라는 점을 인식하고 있습니다.",
+    "id": "wikibias_0_gpt4_clap",
+    "target_focus_areas": [
+      [
+        17,
+        67
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        48,
+        57
+      ],
+      [
+        90,
+        152
+      ]
+    ],
+    "reference": "이것이 판매세처럼 구조화될 수 있지만, 소비세에 대한 현실적인 제안들은 순수 판매세의 문제로서 역진성을 인식합니다."
+  },
+  {
+    "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+    "target": "그리고 대리적으로 Coors Brewing Company 자체도 미국 정치와 공공 정책에서 중요한 역할을 해왔으며, 많은 보수적인 대의명분을 지지해 왔습니다. Coors 가문 구성원들은",
+    "id": "wikibias_22_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        63
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        27,
+        72
+      ]
+    ],
+    "reference": "코어스 가족 구성원과 그에 따른 코어스 양조 회사는 미국 정치 및 공공 정책에서 중요한 역할을 해왔으며, 많은 보수적 원인을 지원해왔습니다."
+  },
+  {
+    "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+    "target": "쿠어스 가문 구성원들은, 그리고 대리적으로 쿠어스 양조 회사 자체도, 미국의 정치와 공공 정책에서 두드러진 역할을 해왔으며, 많은 보수적 대의명분에 지지를 보내왔습니다.",
+    "id": "wikibias_22_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        13,
+        37
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        27,
+        72
+      ]
+    ],
+    "reference": "코어스 가족 구성원과 그에 따른 코어스 양조 회사는 미국 정치 및 공공 정책에서 중요한 역할을 해왔으며, 많은 보수적 원인을 지원해왔습니다."
+  },
+  {
+    "source": "yep, this crap sounds like its from a libertarian",
+    "target": "응, 이 쓰레기는 자유지상주의자 소리 같다.",
+    "id": "toxicspans_1_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        2,
+        23
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        38,
+        49
+      ]
+    ],
+    "reference": "응, 이 쓰레기는 자유지상주의자 같은 소리네."
+  },
+  {
+    "source": "yep, this crap sounds like its from a libertarian",
+    "target": "응, 이런 쓰레기는 자유의지론자한테서 나온 소리 같아.",
+    "id": "toxicspans_1_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        2,
+        29
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        38,
+        49
+      ]
+    ],
+    "reference": "응, 이 쓰레기는 자유지상주의자 같은 소리네."
+  },
+  {
+    "source": "Good answer. !!  Thank you for illustrating the utter stupidity of liberals.",
+    "target": "좋은 답변입니다. !! 자유주의자들의 완전한 어리석음을 보여주셔서 감사합니다.",
+    "id": "toxicspans_105_gpt4_ez",
+    "target_focus_areas": [
+      [
+        12,
+        42
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        54,
+        63
+      ]
+    ],
+    "reference": "좋은 대답입니다. !! 자유주의자들의 완전한 어리석음을 보여주셔서 감사합니다."
+  },
+  {
+    "source": "Good answer. !!  Thank you for illustrating the utter stupidity of liberals.",
+    "target": "좋은 답변입니다. !! 자유주의자들의 완전한 어리석음을 보여줘서 고맙습니다.",
+    "id": "toxicspans_105_gpt4_clap",
+    "target_focus_areas": [
+      [
+        12,
+        41
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        54,
+        63
+      ]
+    ],
+    "reference": "좋은 대답입니다. !! 자유주의자들의 완전한 어리석음을 보여주셔서 감사합니다."
+  },
+  {
+    "source": "@USER @USER You welcome ... Pretenders only do the worse.. Fucking hypocrites 😒😒💆‍♂️",
+    "target": "@USER @USER 어서 와요... 가짜들은 최악의 모습만 보이지.. 젠장 위선자들 😒😒💆‍♂️",
+    "id": "tbo_0_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        39,
+        54
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        59,
+        66
+      ],
+      [
+        67,
+        77
+      ]
+    ],
+    "reference": "@USER @USER 당신 환영합니다 ... 가장 좋지 않은 것만 하는 사기꾼들.. 빌어먹을 위선자들 😒😒💆‍♂️"
+  },
+  {
+    "source": "@USER @USER You welcome ... Pretenders only do the worse.. Fucking hypocrites 😒😒💆‍♂️",
+    "target": "@USER @USER 어서 와... 가짜들만 더 못해.. 빌어먹을 위선자들 😒😒💆‍♂️",
+    "id": "tbo_0_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        31,
+        48
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        59,
+        66
+      ],
+      [
+        67,
+        77
+      ]
+    ],
+    "reference": "@USER @USER 당신 환영합니다 ... 가장 좋지 않은 것만 하는 사기꾼들.. 빌어먹을 위선자들 😒😒💆‍♂️"
+  },
+  {
+    "source": "@USER BEYOND fucked up!!! People are SHIT and the way folks try to talk about cancer in twisted ways is absolutely disgusting",
+    "target": "@USER BEYOND 정말 엉망이야!!! 사람들은 쓰레기고 사람들이 암에 대해 비뚤어진 방식으로 이야기하려고 하는 방식은 정말 역겹다.",
+    "id": "tbo_44_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        23,
+        68
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        26,
+        32
+      ],
+      [
+        37,
+        41
+      ]
+    ],
+    "reference": "@USER BEYOND 정말 끔찍해!!! 사람들은 최악이고, 사람들이 암에 대해 왜곡된 방식으로 이야기하려는 모습은 정말 역겨워."
+  },
+  {
+    "source": "@USER BEYOND fucked up!!! People are SHIT and the way folks try to talk about cancer in twisted ways is absolutely disgusting",
+    "target": "@USER BEYOND 완전 엉망이야!!! 사람들은 개새끼고, 암에 대해 엉터리로 말하려는 사람들의 태도는 정말 역겹다.",
+    "id": "tbo_44_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        23,
+        33
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        26,
+        32
+      ],
+      [
+        37,
+        41
+      ]
+    ],
+    "reference": "@USER BEYOND 정말 끔찍해!!! 사람들은 최악이고, 사람들이 암에 대해 왜곡된 방식으로 이야기하려는 모습은 정말 역겨워."
+  },
+  {
+    "source": "I'm 34 f and I am dating have remarked that I was gazing into his huge mansion like house. He doesn't do anything with. I apologized for not keeping my options and is good advice and similar experiences would be free sometime this week. Not just to see him again. We walked inside and I want to be this way? Basically it's just not what fwb is, he likes me &amp;amp; how to deal with. He is upper middle class white family and friends told me to be ok with that response, I appreciated her patience.",
+    "target": "저는 34세 여성이고 그가 거대한 저택 같은 집을 바라보고 있었다고 말한 적이 있습니다. 그는 그 집에서 아무 일도 하지 않습니다. 저는 선택권을 지키지 못한 것에 대해 사과했고 좋은 조언과 비슷한 경험들이 이번 주에 시간이 될 것이라고 했습니다. 그를 다시 보기 위해서만이 아닙니다. 우리는 안으로 걸어갔고 저는 이런 식으로 하고 싶습니다. 기본적으로 이것이 fwb가 아닙니다, 그는 저를 좋아하고 &amp;amp; 어떻게 대처해야 할지 모릅니다. 그는 상류 중산층 백인 가족이고 친구들은 그 반응에 대해 괜찮아하라고 했으며 저는 그녀의 인내심에 감사했습니다.",
+    "id": "selfdisclosure_0_gpt4_ez",
+    "target_focus_areas": [
+      [
+        0,
+        40
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        8
+      ]
+    ],
+    "reference": "저는 34세 여성이고 현재 연애 중인데, 그의 거대한 맨션 같은 집을 바라보고 있다는 말을 들었습니다. 그는 그 집으로 뭘 하지 않아요. 저는 선택지를 유지하지 못한 것에 대해 사과했습니다. 좋은 조언과 비슷한 경험이 있으시다면 이번 주에 무료로 시간을 낼 수 있을까요? 그를 다시 보려고 하는 것은 아니에요. 우리는 안으로 들어갔고, 저는 이렇게 되는 것이 좋을까요? 기본적으로 이건 친구 이상의 관계가 아니라는 것이며, 그는 저를 좋아하고 그 상황을 어떻게 다뤄야 할지 모르겠어요. 그는 중상류층 백인 가정이고, 친구들은 저에게 그 반응에 괜찮다고 하라고 했어요. 저는 그녀의 인내에 감사했습니다."
+  },
+  {
+    "source": "I'm 34 f and I am dating have remarked that I was gazing into his huge mansion like house. He doesn't do anything with. I apologized for not keeping my options and is good advice and similar experiences would be free sometime this week. Not just to see him again. We walked inside and I want to be this way? Basically it's just not what fwb is, he likes me &amp;amp; how to deal with. He is upper middle class white family and friends told me to be ok with that response, I appreciated her patience.",
+    "target": "저는 34세 여자이고 데이트 중인 사람에게 그의 거대한 저택 같은 집을 바라보고 있었다고 말했습니다. 그는 그 집에서 아무 것도 하지 않습니다. 저는 제 선택지를 지키지 못한 것에 대해 사과했고, 좋은 조언과 비슷한 경험들을 이번 주 언젠가 무료로 나눌 수 있을 거라 했습니다. 그를 다시 보기 위한 것뿐만 아니라요. 우리는 안으로 걸어 들어갔고, 제가 이렇게 행동하고 싶은 걸까요? 기본적으로 그것이 fwb가 아니며, 그는 저를 좋아하고 어떻게 대처해야 할지 모릅니다. 그는 상류 중산층 백인 가족이고, 친구들은 그 반응에 대해 괜찮아 하라고 말했습니다. 저는 그녀의 인내심에 감사했습니다.",
+    "id": "selfdisclosure_0_gpt4_clap",
+    "target_focus_areas": [
+      [
+        0,
+        39
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        8
+      ]
+    ],
+    "reference": "저는 34세 여성이고 현재 연애 중인데, 그의 거대한 맨션 같은 집을 바라보고 있다는 말을 들었습니다. 그는 그 집으로 뭘 하지 않아요. 저는 선택지를 유지하지 못한 것에 대해 사과했습니다. 좋은 조언과 비슷한 경험이 있으시다면 이번 주에 무료로 시간을 낼 수 있을까요? 그를 다시 보려고 하는 것은 아니에요. 우리는 안으로 들어갔고, 저는 이렇게 되는 것이 좋을까요? 기본적으로 이건 친구 이상의 관계가 아니라는 것이며, 그는 저를 좋아하고 그 상황을 어떻게 다뤄야 할지 모르겠어요. 그는 중상류층 백인 가정이고, 친구들은 저에게 그 반응에 괜찮다고 하라고 했어요. 저는 그녀의 인내에 감사했습니다."
+  },
+  {
+    "source": "[Care.com](https://Care.com) is Horrible please don't, My wife is a nanny unfortunately your a little far for her. My niece is also a nanny but she is way booked.",
+    "target": "[Care.com](https://Care.com)은 끔찍합니다. 제발 이용하지 마세요. 제 아내는 보모인데, 안타깝게도 거리가 좀 멀어서요. 제 조카도 보모인데, 예약이 꽉 찼어요.",
+    "id": "selfdisclosure_403_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        49,
+        60
+      ],
+      [
+        79,
+        90
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        55,
+        73
+      ],
+      [
+        115,
+        139
+      ]
+    ],
+    "reference": "Care.com은 끔찍하니 사용하지 마세요. 제 아내는 보모인데, 불행히도 당신의 위치가 그녀에게는 조금 멉니다. 제 조카도 보모인데, 그녀는 예약이 가득 차 있습니다."
+  },
+  {
+    "source": "[Care.com](https://Care.com) is Horrible please don't, My wife is a nanny unfortunately your a little far for her. My niece is also a nanny but she is way booked.",
+    "target": "[Care.com](https://Care.com)은 끔찍합니다. 제발 이용하지 마세요. 제 아내는 보모인데, 안타깝게도 거리가 너무 멉니다. 제 조카도 보모인데 예약이 너무 꽉 찼어요.",
+    "id": "selfdisclosure_403_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        49,
+        60
+      ],
+      [
+        79,
+        104
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        55,
+        73
+      ],
+      [
+        115,
+        139
+      ]
+    ],
+    "reference": "Care.com은 끔찍하니 사용하지 마세요. 제 아내는 보모인데, 불행히도 당신의 위치가 그녀에게는 조금 멉니다. 제 조카도 보모인데, 그녀는 예약이 가득 차 있습니다."
+  },
+  {
+    "source": "if a bitch start scratching amp pulling my hair during a fight omm imma stomp on a hoe head dumb ass bitch",
+    "target": "만약 싸우는 동안 년이 긁기며 내 머리카락을 뽑기 시작하면, 나는 년 머리에 올라타 버릴 거야 멍청한 년아",
+    "id": "hatexplain_751_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        32
+      ],
+      [
+        33,
+        59
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        5,
+        16
+      ],
+      [
+        83,
+        106
+      ]
+    ],
+    "reference": "암캐가 싸움 중에 내 머리카락을 잡아당기는 앰프를 긁기 시작하면 omm imma 괭이 머리를 밟고 멍청한 엉덩이 암캐"
+  },
+  {
+    "source": "if a bitch start scratching amp pulling my hair during a fight omm imma stomp on a hoe head dumb ass bitch",
+    "target": "싸움 도중에 년이 내 머리카락을 긁고 잡아당기기 시작하면, 우아 난 년 머리 밟아줄 거야 멍청한 년아",
+    "id": "hatexplain_751_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        31
+      ],
+      [
+        32,
+        56
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        5,
+        16
+      ],
+      [
+        83,
+        106
+      ]
+    ],
+    "reference": "암캐가 싸움 중에 내 머리카락을 잡아당기는 앰프를 긁기 시작하면 omm imma 괭이 머리를 밟고 멍청한 엉덩이 암캐"
+  },
+  {
+    "source": "me girl otherwise you just a sad ass bitch 😇",
+    "target": "나 여자야, 그렇지 않으면 넌 그냥 안타까운 년일 뿐이야 😇",
+    "id": "hatexplain_940_gpt4_ez",
+    "target_focus_areas": [
+      [
+        6,
+        33
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        29,
+        42
+      ]
+    ],
+    "reference": "– 내 소녀 그렇지 않으면 당신은 단지 슬픈 엉덩이 암캐😇일 뿐입니다"
+  },
+  {
+    "source": "me girl otherwise you just a sad ass bitch 😇",
+    "target": "나한테 관심 가져, 아니면 너는 그냥 불쌍한 년일 뿐이야 😇",
+    "id": "hatexplain_940_gpt4_clap",
+    "target_focus_areas": [
+      [
+        10,
+        33
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        29,
+        42
+      ]
+    ],
+    "reference": "– 내 소녀 그렇지 않으면 당신은 단지 슬픈 엉덩이 암캐😇일 뿐입니다"
+  },
+  {
+    "source": "The Lion, the Witch and the Wardrobe is the first and only published and chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia. The animated television film that was broadcast on CBS in 1979, The Lion, the Witch and the Wardrobe, is a 1979 adaptation of the novel. The 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a British-American high fantasy film directed by Andrew Adamson and based on The Lion, the Witch and the Wardrobe, the Wardrobe, the first published and second chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia.\n",
+    "target": "출판된 유일한 작품이자 연대기 순서상 첫 번째 소설인 《사자와 마녀와 옷장》은 C. S. 루이스의 어린이 판타지 서사시 시리즈, 《나니아 연대기》에 속합니다. 1979년 CBS에서 방영된 애니메이션 TV 영화 사자와 마녀와 옷장은 해당 소설의 1979년 각색작입니다. 2005년 영화 《나니아 연대기: 사자와 마녀와 옷장》은 앤드루 아담슨 감독의 영국-미국 하이 판타지 영화로, C. S. 루이스의 어린이 판타지 서사시 시리즈 《나니아 연대기》에서 처음 출판되고 연대기 순서상 두 번째인 《사자와 마녀와 옷장》을 원작으로 합니다.",
+    "id": "qafeedback_61_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        30
+      ],
+      [
+        88,
+        148
+      ],
+      [
+        180,
+        210
+      ],
+      [
+        248,
+        296
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        54,
+        68
+      ],
+      [
+        232,
+        269
+      ],
+      [
+        275,
+        279
+      ],
+      [
+        387,
+        408
+      ],
+      [
+        449,
+        640
+      ]
+    ],
+    "reference": "《사자, 마녀 그리고 옷장》은 C. S. 루이스의 아동 서사 판타지 시리즈인《나니아 연대기》의 첫 번째이자 유일하게 출판된 연대기 소설입니다. 1979년 CBS에서 방영된 애니메이션 텔레비전 영화 《사자, 마녀 그리고 옷장》은 이 소설의 1979년 각색 작품입니다. 2005년 영화 《나니아 연대기: 사자, 마녀 그리고 옷장》은 앤드류 애담슨 감독이 만든 영국-미국 합작 하이 판타지 영화로, C. S. 루이스의 아동 서사 판타지 시리즈인《나니아 연대기》에서 출판된 첫 번째이자 두 번째 연대기 소설인《사자, 마녀 그리고 옷장》을 기반으로 하고 있습니다."
+  },
+  {
+    "source": "The Lion, the Witch and the Wardrobe is the first and only published and chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia. The animated television film that was broadcast on CBS in 1979, The Lion, the Witch and the Wardrobe, is a 1979 adaptation of the novel. The 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a British-American high fantasy film directed by Andrew Adamson and based on The Lion, the Witch and the Wardrobe, the Wardrobe, the first published and second chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia.\n",
+    "target": "사자, 마녀 그리고 옷장은 C. S. 루이스의 어린이 서사 판타지 시리즈, 나니아 연대기의 첫 번째이자 유일하게 출판되고 시간 순서대로 구성된 소설입니다. 1979년 CBS에서 방영된 애니메이션 TV 영화 사자, 마녀 그리고 옷장은 소설의 1979년 각색작입니다. 2005년 영화 나니아 연대기: 사자, 마녀 그리고 옷장은 앤드루 아담슨이 감독하고 C. S. 루이스의 어린이 서사 판타지 시리즈, 나니아 연대기의 첫 번째 출판물이자 두 번째 시간 순서 소설인 사자, 마녀 그리고 옷장을 기반으로 한 영국-미국 하이 판타지 영화입니다.",
+    "id": "qafeedback_61_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        41,
+        85
+      ],
+      [
+        86,
+        146
+      ],
+      [
+        260,
+        297
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        54,
+        68
+      ],
+      [
+        232,
+        269
+      ],
+      [
+        275,
+        279
+      ],
+      [
+        387,
+        408
+      ],
+      [
+        449,
+        640
+      ]
+    ],
+    "reference": "《사자, 마녀 그리고 옷장》은 C. S. 루이스의 아동 서사 판타지 시리즈인《나니아 연대기》의 첫 번째이자 유일하게 출판된 연대기 소설입니다. 1979년 CBS에서 방영된 애니메이션 텔레비전 영화 《사자, 마녀 그리고 옷장》은 이 소설의 1979년 각색 작품입니다. 2005년 영화 《나니아 연대기: 사자, 마녀 그리고 옷장》은 앤드류 애담슨 감독이 만든 영국-미국 합작 하이 판타지 영화로, C. S. 루이스의 아동 서사 판타지 시리즈인《나니아 연대기》에서 출판된 첫 번째이자 두 번째 연대기 소설인《사자, 마녀 그리고 옷장》을 기반으로 하고 있습니다."
+  },
+  {
+    "source": "The player with the most points in a Finals game is Elgin Baylor, who played 14 seasons in the National Basketball Association for the Los Angeles Lakers. Baylor scored a finals record 61 points in the 1962 NBA Finals against the Los Angeles Lakers.",
+    "target": "결승전 경기에서 가장 많은 점수를 기록한 선수는 로스앤젤레스 레이커스에서 14시즌 동안 활약한 엘진 베일러입니다. 베일러는 1962년 NBA 결승전에서 로스앤젤레스 레이커스를 상대로 결승전 기록인 61점을 기록했습니다.",
+    "id": "qafeedback_87_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        63,
+        121
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        226,
+        249
+      ]
+    ],
+    "reference": "파이널 경기에서 가장 많은 점수를 기록한 선수는 엘진 베일러로, 그는 로스앤젤레스 레이커스를 위해 NBA에서 14 시즌을 뛰었습니다. 베일러는 1962년 NBA 파이널에서 로스앤젤레스 레이커스를 상대로 파이널 기록인 61점을 기록했습니다."
+  },
+  {
+    "source": "The player with the most points in a Finals game is Elgin Baylor, who played 14 seasons in the National Basketball Association for the Los Angeles Lakers. Baylor scored a finals record 61 points in the 1962 NBA Finals against the Los Angeles Lakers.",
+    "target": "결승전 경기에서 가장 많은 점수를 기록한 선수는 로스앤젤레스 레이커스에서 14시즌동안 활동한 엘진 베일러이다. 베일러는 1962년 NBA 결승전에서 로스앤젤레스 레이커스를 상대로 결승전 기록인 61점을 기록했다.",
+    "id": "qafeedback_87_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        61,
+        117
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        226,
+        249
+      ]
+    ],
+    "reference": "파이널 경기에서 가장 많은 점수를 기록한 선수는 엘진 베일러로, 그는 로스앤젤레스 레이커스를 위해 NBA에서 14 시즌을 뛰었습니다. 베일러는 1962년 NBA 파이널에서 로스앤젤레스 레이커스를 상대로 파이널 기록인 61점을 기록했습니다."
+  },
+  {
+    "source": "the princeton vase is a famous example of late classic maya ceramics in codex style , first published in m . d . thompson ' s ' the great maya and his contemporaries ' ( 1931 ) , and now a major piece of the pre - columbian collection of the national museum of mexico . originally painted as a drinking vessel for wine , it depicts a throne being approached by an owl , with an owl flying above him and by three young women surrounding him . in front of the throne a female dancer is being watched and threatened by two young men , a scene that has long been assumed to refer to an incident in the ahau san maya . as to the vase ' s art - historical importance , it invites comparison to the equally famous jaguar baby vase in the san francisco museum collection .",
+    "target": "프린스턴 화병은 후기 고전기 마야 도자기의 유명한 코드스타일 예로, m. d. 톰슨의 ‘위대한 마야와 그의 동시대인들’(1931)에 처음 소개되었으며, 현재는 멕시코 국립박물관의 프리콜럼비아 컬렉션 중 주요 소장품입니다. 원래 와인 잔으로 칠해진 이 화병에는 부엉이가 접근하는 왕좌가 묘사되어 있고, 왕좌 위에는 부엉이 한 마리가 날아다니며 세 명의 젊은 여성들이 그를 에워싸고 있습니다. 왕좌 앞에는 여성 무용수가 두 명의 젊은 남성에게 지켜지고 위협받는 장면이 그려져 있는데, 이는 오래전부터 아하우 산 마야에서의 사건을 가리키는 것으로 여겨져 왔습니다. 미술사적 중요성에 있어서 이 화병은 샌프란시스코 박물관 소장의 동일하게 유명한 재규어 아기 화병과 비교를 초대합니다.",
+    "id": "hades_0_gpt4_ez",
+    "target_focus_areas": [
+      [
+        43,
+        66
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        666,
+        673
+      ]
+    ],
+    "reference": "프린스턴 꽃병은 코드식 스타일의 고전 마야 도예의 유명한 예로, M.D. 톰슨의 '위대한 마야와 그의 동시대인들'(1931)에서 처음으로 발표되었으며, 현재 멕시코 국립 박물관의 주요 전콜롬비아 컬렉션의 일부입니다. 원래 포도주를 위한 음료 용기로 그려진 이 꽃병은 부엉이가 다가가는 왕좌를 묘사하고 있으며, 그 위에는 부엉이가 날아다니고, 주위를 세 명의 젊은 여성이 에워싸고 있습니다. 왕좌 앞에는 여성 댄서가 두 젊은 남자에 의해 지켜보고 위협받고 있는 장면이 있으며, 이는 오래전 아하우산 마야의 사건을 언급하는 것으로 추정되어 왔습니다. 이 꽃병의 예술적 역사적 중요성에 대해 말하자면, 샌프란시스코 박물관 소장품의 유명한 재규어 아기 꽃병과 비교할 수 있습니다."
+  },
+  {
+    "source": "the princeton vase is a famous example of late classic maya ceramics in codex style , first published in m . d . thompson ' s ' the great maya and his contemporaries ' ( 1931 ) , and now a major piece of the pre - columbian collection of the national museum of mexico . originally painted as a drinking vessel for wine , it depicts a throne being approached by an owl , with an owl flying above him and by three young women surrounding him . in front of the throne a female dancer is being watched and threatened by two young men , a scene that has long been assumed to refer to an incident in the ahau san maya . as to the vase ' s art - historical importance , it invites comparison to the equally famous jaguar baby vase in the san francisco museum collection .",
+    "target": "프린스턴 화병은 후기 고전기 마야 도자기의 코덱스 양식에서 유명한 예로, 1931년 M.D. 톰슨의 『위대한 마야와 그의 동시대인들』에 처음 소개되었으며, 현재는 멕시코 국립박물관의 프리콜럼버스 컬렉션의 주요 소장품 중 하나입니다. 원래 와인을 마시는 그릇으로 그려진 이 화병에는 올빼미가 왕좌를 향해 다가가는 모습이 묘사되어 있으며, 그 위에는 올빼미 한 마리가 날고 있고, 그를 둘러싼 세 명의 젊은 여성이 있습니다. 왕좌 앞에서는 한 여성 무용수가 두 명의 젊은 남성에게 지켜지고 위협받는 장면이 그려져 있는데, 이는 오랫동안 아하우 산 마야에서의 사건을 가리키는 것으로 추정되어 왔습니다. 이 화병의 미술사적 중요성에 관해서는 샌프란시스코 박물관 소장으로 역시 유명한 재규어 아기 화병과 비교해 볼 만합니다.",
+    "id": "hades_0_gpt4_clap",
+    "target_focus_areas": [
+      [
+        0,
+        399
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        666,
+        673
+      ]
+    ],
+    "reference": "프린스턴 꽃병은 코드식 스타일의 고전 마야 도예의 유명한 예로, M.D. 톰슨의 '위대한 마야와 그의 동시대인들'(1931)에서 처음으로 발표되었으며, 현재 멕시코 국립 박물관의 주요 전콜롬비아 컬렉션의 일부입니다. 원래 포도주를 위한 음료 용기로 그려진 이 꽃병은 부엉이가 다가가는 왕좌를 묘사하고 있으며, 그 위에는 부엉이가 날아다니고, 주위를 세 명의 젊은 여성이 에워싸고 있습니다. 왕좌 앞에는 여성 댄서가 두 젊은 남자에 의해 지켜보고 위협받고 있는 장면이 있으며, 이는 오래전 아하우산 마야의 사건을 언급하는 것으로 추정되어 왔습니다. 이 꽃병의 예술적 역사적 중요성에 대해 말하자면, 샌프란시스코 박물관 소장품의 유명한 재규어 아기 꽃병과 비교할 수 있습니다."
+  },
+  {
+    "source": "shannon is an unincorporated community in mason county , kentucky , united states . the village is southwest of mason city on u . s . route 40 , in the township of pine hill . the highest point in the community is dominated by a prominent limestone cliff and a mound built by the first settlers of the area . the original limestone lined earthwork is 2 ¹⁄₂ stories - high and 10 feet in diameter . historical holes in the mound have allowed further study and more precise dating of the mound ' s location . shannon is part of the mason city metropolitan statistical area statistical area .",
+    "target": "shannon은 미국 켄터키주 메이슨 카운티의 통합되지 않은 지역 사회입니다. 이 마을은 파인 힐 타운십의 U.S. 40번 국도에서 메이슨 시티 남서쪽에 위치해 있습니다. 이 지역 사회에서 가장 높은 지점은 눈에 띄는 석회암 절벽과 초기 정착민들이 쌓은 언덕으로 이루어져 있습니다. 원래 석회암으로 둘러싸인 흙으로 쌓은 구조물은 높이 2½층이며 지름이 10피트입니다. 언덕에 있는 역사적인 구멍들을 통해 추가적인 연구와 언덕 위치에 대한 보다 정확한 연대 측정이 가능했습니다. shannon은 메이슨 시티 광역 통계 지역의 일부입니다.",
+    "id": "hades_87_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        205,
+        265
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        496,
+        504
+      ]
+    ],
+    "reference": "샤논은 미국 켄터키주 메이슨 카운티에 위치한 비법인 지역입니다. 이 마을은 메이슨 시의 남서쪽에 위치하며, 미국 40번 도로 옆에 있는 파인 힐 타운십에 있습니다. 이 지역의 가장 높은 지점은 눈에 띄는 석회암 절벽과 이 지역의 최초 개척자들이 쌓은 더미가 있습니다. 원래의 석회암으로 덮인 토루는 높이 2 ¹⁄₂층이며 직경은 10피트입니다. 더미의 역사적인 구멍들은 더미의 위치에 대한 추가 연구와 보다 정확한 날짜를 제공할 수 있게 해주었습니다. 샤논은 메이슨 시 대도시 통계 지역의 일부입니다."
+  },
+  {
+    "source": "shannon is an unincorporated community in mason county , kentucky , united states . the village is southwest of mason city on u . s . route 40 , in the township of pine hill . the highest point in the community is dominated by a prominent limestone cliff and a mound built by the first settlers of the area . the original limestone lined earthwork is 2 ¹⁄₂ stories - high and 10 feet in diameter . historical holes in the mound have allowed further study and more precise dating of the mound ' s location . shannon is part of the mason city metropolitan statistical area statistical area .",
+    "target": "섀넌은 미국 켄터키주 메이슨 카운티의 비법인 커뮤니티입니다. 이 마을은 US 40번 국도 메이슨시 남서쪽에 위치하며, 파인힐 타운십에 있습니다. 이 커뮤니티의 최고 지점은 두드러진 석회암 절벽과 이 지역의 초기 정착민들이 쌓은 언덕으로 이루어져 있습니다. 원래 석회암으로 둘러싸인 흙으로 쌓은 구조물은 2½층 높이이고 지름이 10피트입니다. 언덕의 구멍을 통해 추가 연구와 언덕 위치의 보다 정확한 연대 측정이 가능했습니다. 섀넌은 메이슨시 대도시 통계 지역의 일부입니다.",
+    "id": "hades_87_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        190,
+        236
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        496,
+        504
+      ]
+    ],
+    "reference": "샤논은 미국 켄터키주 메이슨 카운티에 위치한 비법인 지역입니다. 이 마을은 메이슨 시의 남서쪽에 위치하며, 미국 40번 도로 옆에 있는 파인 힐 타운십에 있습니다. 이 지역의 가장 높은 지점은 눈에 띄는 석회암 절벽과 이 지역의 최초 개척자들이 쌓은 더미가 있습니다. 원래의 석회암으로 덮인 토루는 높이 2 ¹⁄₂층이며 직경은 10피트입니다. 더미의 역사적인 구멍들은 더미의 위치에 대한 추가 연구와 보다 정확한 날짜를 제공할 수 있게 해주었습니다. 샤논은 메이슨 시 대도시 통계 지역의 일부입니다."
+  },
+  {
+    "source": "The image features a red street sign that reads \"LIKE A BRICK FITTCHEN.\" The sign is mounted on a pole, and it stands out against the background of the snowy cityscape.",
+    "target": "이미지에는 \"LIKE A BRICK FITTCHEN\"이라고 쓰여진 빨간색 길거리 표지판이 나와 있습니다. 표지판은 기둥에 부착되어 있으며, 눈 덮인 도시 배경에 비해 돋보입니다.",
+    "id": "mhal_0_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        77,
+        99
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        104,
+        168
+      ]
+    ],
+    "reference": "이미지에는 \"벽돌 피트첸처럼\"이라고 쓰인 빨간 거리 표지판이 있습니다. 이 표지판은 기둥에 설치되어 있으며, 눈 덮인 도시 풍경의 배경에서 눈에 띕니다."
+  },
+  {
+    "source": "The image features a red street sign that reads \"LIKE A BRICK FITTCHEN.\" The sign is mounted on a pole, and it stands out against the background of the snowy cityscape.",
+    "target": "이미지에는 \"LIKE A BRICK FITTCHEN\"이라고 쓰여 있는 빨간색 길거리 표지판이 나와 있습니다. 표지판은 기둥에 장착되어 있으며 눈 덮인 도시 풍경 배경에 돋보입니다.",
+    "id": "mhal_0_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        60,
+        100
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        104,
+        168
+      ]
+    ],
+    "reference": "이미지에는 \"벽돌 피트첸처럼\"이라고 쓰인 빨간 거리 표지판이 있습니다. 이 표지판은 기둥에 설치되어 있으며, 눈 덮인 도시 풍경의 배경에서 눈에 띕니다."
+  },
+  {
+    "source": "In the image, there are two cats sitting on a carpeted floor. One of the cats is orange and the other is black. The cats are positioned close to each other, creating a cozy and intimate atmosphere. The carpet provides a soft and comfortable surface for the cats to rest on. The overall mood of the image is peaceful and relaxed, as the cats seem to be enjoying each other's company while resting on the carpet.",
+    "target": "그림에는 카펫이 깔린 바닥에 두 마리의 고양이가 앉아 있습니다. 한 마리는 주황색이고 다른 한 마리는 검은색입니다. 고양이들은 서로 가까이 위치해 있어 아늑하고 은밀한 분위기를 자아냅니다. 카펫은 고양이들이 쉴 수 있는 부드럽고 편안한 바닥을 제공합니다. 전체적인 이미지의 분위기는 평화롭고 편안하며, 고양이들이 카펫 위에서 서로의 존재를 즐기는 듯합니다.",
+    "id": "mhal_114_gpt4_ez",
+    "target_focus_areas": [
+      [
+        64,
+        199
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        157,
+        197
+      ],
+      [
+        198,
+        273
+      ],
+      [
+        274,
+        409
+      ]
+    ],
+    "reference": "이미지에는 카펫 바닥에 앉아 있는 두 마리 고양이가 있습니다. 한 마리는 주황색이고 다른 한 마리는 검은색입니다. 고양이들은 서로 가까운 위치에 있어 아늑하고 친밀한 분위기를 만들어냅니다. 카펫은 고양이들이 쉴 수 있는 부드럽고 편안한 표면을 제공합니다. 이미지의 전체적인 분위기는 평화롭고 편안하며, 고양이들이 카펫 위에서 서로의 회사 를 즐기고 있는 것처럼 보입니다."
+  },
+  {
+    "source": "In the image, there are two cats sitting on a carpeted floor. One of the cats is orange and the other is black. The cats are positioned close to each other, creating a cozy and intimate atmosphere. The carpet provides a soft and comfortable surface for the cats to rest on. The overall mood of the image is peaceful and relaxed, as the cats seem to be enjoying each other's company while resting on the carpet.",
+    "target": "사진에는 카펫이 깔린 바닥에 앉아 있는 두 마리 고양이가 있습니다. 한 마리는 주황색이고 다른 한 마리는 검은색입니다. 고양이들은 서로 가까이 위치해 아늑하고 친밀한 분위기를 자아냅니다. 카펫은 고양이들이 편안하게 쉴 수 있는 부드럽고 편안한 표면을 제공합니다. 전체적인 이미지의 분위기는 평화롭고 여유로우며, 고양이들이 카펫 위에서 서로의 동반자임을 즐기며 쉬고 있는 듯 보입니다.",
+    "id": "mhal_114_gpt4_clap",
+    "target_focus_areas": [
+      [
+        66,
+        214
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        157,
+        197
+      ],
+      [
+        198,
+        273
+      ],
+      [
+        274,
+        409
+      ]
+    ],
+    "reference": "이미지에는 카펫 바닥에 앉아 있는 두 마리 고양이가 있습니다. 한 마리는 주황색이고 다른 한 마리는 검은색입니다. 고양이들은 서로 가까운 위치에 있어 아늑하고 친밀한 분위기를 만들어냅니다. 카펫은 고양이들이 쉴 수 있는 부드럽고 편안한 표면을 제공합니다. 이미지의 전체적인 분위기는 평화롭고 편안하며, 고양이들이 카펫 위에서 서로의 회사 를 즐기고 있는 것처럼 보입니다."
+  },
+  {
+    "source": "in this image in the foreground there is one man who is holding some vegetables it seems and walking, and on the right side there is one person who is standing and it looks like there are some vegetables. and there are some poles and plastic covers, and there is a wire. on the wire there are some clothes and some ropes, and in the background also there are poles and we could see roof at the top and there are trees and buildings on the left side and one woman and one child who is holding a cup and eating something. and there are some clothes and we could see some doors, wall and at the bottom there is floor. and in the center there are some poles, and at the top there is sky.",
+    "target": "이 이미지의 전경에는 한 남자가 채소를 들고 걸어가고 있는 듯하고, 오른쪽에는 한 사람이 서 있고 채소들이 있는 것 같습니다. 그리고 기둥들과 플라스틱 덮개들이 있고, 전선이 하나 있습니다. 전선에는 옷들과 밧줄들이 걸려 있고, 배경에도 기둥들이 있으며, 위쪽으로는 지붕이 보이고, 왼쪽에는 나무와 건물들이 있고, 한 여자와 한 아이가 컵을 들고 무언가를 먹고 있습니다. 그리고 옷들이 있고, 문들과 벽을 볼 수 있으며, 아래쪽에는 바닥이 있습니다. 그리고 중앙에는 기둥들이 있고, 위쪽에는 하늘이 있습니다.",
+    "id": "cin_0_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        36
+      ],
+      [
+        37,
+        69
+      ],
+      [
+        70,
+        92
+      ],
+      [
+        93,
+        105
+      ],
+      [
+        106,
+        126
+      ],
+      [
+        127,
+        141
+      ],
+      [
+        142,
+        156
+      ],
+      [
+        157,
+        174
+      ],
+      [
+        175,
+        206
+      ],
+      [
+        207,
+        218
+      ],
+      [
+        219,
+        234
+      ],
+      [
+        235,
+        250
+      ],
+      [
+        251,
+        268
+      ],
+      [
+        269,
+        283
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        41,
+        48
+      ],
+      [
+        49,
+        52
+      ],
+      [
+        64,
+        79
+      ],
+      [
+        133,
+        143
+      ],
+      [
+        144,
+        147
+      ],
+      [
+        188,
+        203
+      ],
+      [
+        219,
+        229
+      ],
+      [
+        234,
+        248
+      ],
+      [
+        263,
+        269
+      ],
+      [
+        274,
+        282
+      ],
+      [
+        293,
+        305
+      ],
+      [
+        310,
+        320
+      ],
+      [
+        359,
+        364
+      ],
+      [
+        382,
+        386
+      ],
+      [
+        412,
+        417
+      ],
+      [
+        422,
+        431
+      ],
+      [
+        453,
+        462
+      ],
+      [
+        467,
+        476
+      ],
+      [
+        492,
+        497
+      ],
+      [
+        509,
+        518
+      ],
+      [
+        534,
+        546
+      ],
+      [
+        564,
+        574
+      ],
+      [
+        576,
+        580
+      ],
+      [
+        608,
+        613
+      ],
+      [
+        643,
+        653
+      ],
+      [
+        679,
+        682
+      ]
+    ],
+    "reference": "이 이미지의 전경에는 채소를 들고 걷고 있는 한 남자가 있습니다. 오른쪽에는 서 있는 사람이 있으며, 그곳에도 채소가 있는 것처럼 보입니다. 그리고 몇 개의 기둥과 플라스틱 덮개가 있으며, 전선도 있습니다. 그 전선에는 몇 개의 옷과 끈이 걸려 있고, 배경에도 기둥이 있으며, 위쪽에는 지붕이 보이고 왼쪽에는 나무와 건물이 있습니다. 또 한 여자가 있고, 한 아이가 컵을 들고 무언가를 먹고 있습니다. 그리고 몇 개의 옷이 있으며, 문과 벽이 보이고 바닥도 보입니다. 중앙에는 몇 개의 기둥이 있고, 위쪽에는 하늘이 있습니다."
+  },
+  {
+    "source": "in this image in the foreground there is one man who is holding some vegetables it seems and walking, and on the right side there is one person who is standing and it looks like there are some vegetables. and there are some poles and plastic covers, and there is a wire. on the wire there are some clothes and some ropes, and in the background also there are poles and we could see roof at the top and there are trees and buildings on the left side and one woman and one child who is holding a cup and eating something. and there are some clothes and we could see some doors, wall and at the bottom there is floor. and in the center there are some poles, and at the top there is sky.",
+    "target": "이 이미지의 전경에는 야채를 들고 걷는 듯한 남자가 한 명 있고, 오른쪽에는 서 있는 사람이 한 명 있으며 야채가 있는 것 같습니다. 그리고 기둥과 비닐 덮개들이 있고, 전선도 있습니다. 전선에는 옷과 밧줄이 걸려 있고, 배경에도 기둥들이 있으며 위쪽으로는 지붕이 보이고, 왼쪽에는 나무와 건물들이 있고, 컵을 들고 무언가를 먹고 있는 여자와 아이가 한 명씩 있습니다. 그리고 옷들이 있고 문, 벽을 볼 수 있으며, 아래쪽에는 바닥이 있습니다. 그리고 중앙에는 기둥들이 있고, 위쪽에는 하늘이 있습니다.",
+    "id": "cin_0_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        281
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        41,
+        48
+      ],
+      [
+        49,
+        52
+      ],
+      [
+        64,
+        79
+      ],
+      [
+        133,
+        143
+      ],
+      [
+        144,
+        147
+      ],
+      [
+        188,
+        203
+      ],
+      [
+        219,
+        229
+      ],
+      [
+        234,
+        248
+      ],
+      [
+        263,
+        269
+      ],
+      [
+        274,
+        282
+      ],
+      [
+        293,
+        305
+      ],
+      [
+        310,
+        320
+      ],
+      [
+        359,
+        364
+      ],
+      [
+        382,
+        386
+      ],
+      [
+        412,
+        417
+      ],
+      [
+        422,
+        431
+      ],
+      [
+        453,
+        462
+      ],
+      [
+        467,
+        476
+      ],
+      [
+        492,
+        497
+      ],
+      [
+        509,
+        518
+      ],
+      [
+        534,
+        546
+      ],
+      [
+        564,
+        574
+      ],
+      [
+        576,
+        580
+      ],
+      [
+        608,
+        613
+      ],
+      [
+        643,
+        653
+      ],
+      [
+        679,
+        682
+      ]
+    ],
+    "reference": "이 이미지의 전경에는 채소를 들고 걷고 있는 한 남자가 있습니다. 오른쪽에는 서 있는 사람이 있으며, 그곳에도 채소가 있는 것처럼 보입니다. 그리고 몇 개의 기둥과 플라스틱 덮개가 있으며, 전선도 있습니다. 그 전선에는 몇 개의 옷과 끈이 걸려 있고, 배경에도 기둥이 있으며, 위쪽에는 지붕이 보이고 왼쪽에는 나무와 건물이 있습니다. 또 한 여자가 있고, 한 아이가 컵을 들고 무언가를 먹고 있습니다. 그리고 몇 개의 옷이 있으며, 문과 벽이 보이고 바닥도 보입니다. 중앙에는 몇 개의 기둥이 있고, 위쪽에는 하늘이 있습니다."
+  },
+  {
+    "source": "Earlier , he visited Our Lady Queen of Angels School in East Harlem .",
+    "target": "이전에 그는 이스트 하렘에 있는 성모 마리아 천사의 여왕 학교를 방문했습니다.",
+    "id": "m2e2_0_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        42
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        10,
+        12
+      ],
+      [
+        13,
+        20
+      ],
+      [
+        39,
+        52
+      ],
+      [
+        56,
+        67
+      ]
+    ],
+    "reference": "그는 이전에 이스트 하바나에 있는 성모 여왕 학교를 방문했습니다."
+  },
+  {
+    "source": "Earlier , he visited Our Lady Queen of Angels School in East Harlem .",
+    "target": "이전에 그는 이스트 하레ム의 어 레이드 퀸 오브 엔젤스 스쿨을 방문했다.",
+    "id": "m2e2_0_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        39
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        10,
+        12
+      ],
+      [
+        13,
+        20
+      ],
+      [
+        39,
+        52
+      ],
+      [
+        56,
+        67
+      ]
+    ],
+    "reference": "그는 이전에 이스트 하바나에 있는 성모 여왕 학교를 방문했습니다."
+  },
+  {
+    "source": "C.T. Vivian , shown at home in Atlanta in June 2015 , 50 years earlier told a hostile white sheriff in Selma , Alabama : ' You ca n't turn your back on justice . '",
+    "target": "C.T. 비비안은 2015년 6월 애틀랜타 자택에서 촬영된 모습이며, 50년 전 앨라배마 셀마에서 적대적인 백인 보안관에게 이렇게 말했습니다: '당신은 정의를 외면할 수 없습니다.'",
+    "id": "m2e2_60_gpt4_ez",
+    "target_focus_areas": [
+      [
+        0,
+        37
+      ],
+      [
+        38,
+        78
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        11
+      ],
+      [
+        31,
+        38
+      ],
+      [
+        92,
+        99
+      ],
+      [
+        103,
+        108
+      ],
+      [
+        111,
+        118
+      ]
+    ],
+    "reference": "C.T. 비비안은 2015년 6월 애틀랜타에서 집에서 보여졌으며, 50년 전 앨라배마 셀마에서 적대적인 백인 보안관에게 '너는 정의를 등 돌릴 수 없다'고 말했다."
+  },
+  {
+    "source": "C.T. Vivian , shown at home in Atlanta in June 2015 , 50 years earlier told a hostile white sheriff in Selma , Alabama : ' You ca n't turn your back on justice . '",
+    "target": "C.T. 비비언은 2015년 6월 애틀랜타의 자택에서 촬영된 사진이며, 50년 전 앨라배마주 셀마에서 적대적인 백인 보안관에게 이렇게 말했습니다: \"당신은 정의를 외면할 수 없습니다.\"",
+    "id": "m2e2_60_gpt4_clap",
+    "target_focus_areas": [
+      [
+        0,
+        38
+      ],
+      [
+        39,
+        80
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        11
+      ],
+      [
+        31,
+        38
+      ],
+      [
+        92,
+        99
+      ],
+      [
+        103,
+        108
+      ],
+      [
+        111,
+        118
+      ]
+    ],
+    "reference": "C.T. 비비안은 2015년 6월 애틀랜타에서 집에서 보여졌으며, 50년 전 앨라배마 셀마에서 적대적인 백인 보안관에게 '너는 정의를 등 돌릴 수 없다'고 말했다."
+  },
+  {
+    "source": "it is a metro station , there is a metro rail on the left side track , the right side track is empty the platform is also empty, there are some boards and posters to the pillars , in the left side platform some people are waiting for the train , there is a big roof above that, there are also some poles they are looking like the network poles , the train is of blue, white and yellow color .",
+    "target": "이곳은 지하철역입니다. 왼쪽 선로에는 지하철이 있고, 오른쪽 선로는 비어 있습니다. 승강장도 비어 있으며, 기둥에는 몇몇 게시판과 포스터가 붙어 있습니다. 사람들은 기차를 기다리기 위해 왼쪽 승강장에 서 있고, 그 위에는 큰 지붕이 있습니다. 또한, 네트워크 기둥처럼 보이는 기둥들도 있습니다. 기차는 파란색, 흰색, 노란색으로 칠해져 있습니다.",
+    "id": "png_0_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        12,
+        28
+      ],
+      [
+        29,
+        45
+      ],
+      [
+        46,
+        58
+      ],
+      [
+        59,
+        85
+      ],
+      [
+        86,
+        116
+      ],
+      [
+        117,
+        134
+      ],
+      [
+        164,
+        172
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        35,
+        45
+      ],
+      [
+        53,
+        68
+      ],
+      [
+        75,
+        91
+      ],
+      [
+        105,
+        113
+      ],
+      [
+        155,
+        162
+      ],
+      [
+        211,
+        217
+      ],
+      [
+        238,
+        243
+      ],
+      [
+        257,
+        265
+      ],
+      [
+        350,
+        355
+      ]
+    ],
+    "reference": "이곳은 지하철역입니다. 왼쪽 선로에는 지하철이 있고, 오른쪽 선로는 비어 있으며, 대합실도 비어 있습니다. 기둥에 몇 개의 판과 포스터가 있습니다. 왼쪽 대합실에는 몇 사람이 기차를 기다리고 있으며, 그 위에 큰 지붕이 있습니다. 또한 통신 기지국처럼 보이는 기둥도 있습니다. 기차는 파란색, 흰색, 노란색입니다."
+  },
+  {
+    "source": "it is a metro station , there is a metro rail on the left side track , the right side track is empty the platform is also empty, there are some boards and posters to the pillars , in the left side platform some people are waiting for the train , there is a big roof above that, there are also some poles they are looking like the network poles , the train is of blue, white and yellow color .",
+    "target": "지하철역입니다. 왼쪽 선로는 지하철 열차가 있고, 오른쪽 선로는 비어 있습니다. 플랫폼도 비어 있고, 기둥에는 간판과 포스터가 몇 개 붙어 있습니다. 왼쪽 플랫폼에는 몇몇 사람들이 기차를 기다리고 있고, 그 위에는 큰 지붕이 있으며, 네트워크 기둥처럼 보이는 기둥들도 있습니다. 열차는 파란색, 흰색, 노란색입니다.",
+    "id": "png_0_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        8,
+        26
+      ],
+      [
+        27,
+        43
+      ],
+      [
+        44,
+        55
+      ],
+      [
+        56,
+        82
+      ],
+      [
+        83,
+        112
+      ],
+      [
+        113,
+        129
+      ],
+      [
+        155,
+        163
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        35,
+        45
+      ],
+      [
+        53,
+        68
+      ],
+      [
+        75,
+        91
+      ],
+      [
+        105,
+        113
+      ],
+      [
+        155,
+        162
+      ],
+      [
+        211,
+        217
+      ],
+      [
+        238,
+        243
+      ],
+      [
+        257,
+        265
+      ],
+      [
+        350,
+        355
+      ]
+    ],
+    "reference": "이곳은 지하철역입니다. 왼쪽 선로에는 지하철이 있고, 오른쪽 선로는 비어 있으며, 대합실도 비어 있습니다. 기둥에 몇 개의 판과 포스터가 있습니다. 왼쪽 대합실에는 몇 사람이 기차를 기다리고 있으며, 그 위에 큰 지붕이 있습니다. 또한 통신 기지국처럼 보이는 기둥도 있습니다. 기차는 파란색, 흰색, 노란색입니다."
+  },
+  {
+    "source": "A man in a blue hard hat and orange safety vest stands in an intersection while holding a flag .",
+    "target": "교차로에 깃발을 들고 서 있는 한 남자가 파란색 안전모와 주황색 안전 조끼를 입고 있습니다.",
+    "id": "flickr_0_0_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        50
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        5
+      ],
+      [
+        9,
+        24
+      ],
+      [
+        29,
+        47
+      ],
+      [
+        58,
+        73
+      ],
+      [
+        88,
+        94
+      ]
+    ],
+    "reference": "파란 헬멧과 주황색 안전 조끼를 입은 한 남자가 깃발을 들고 교차로에 서 있습니다."
+  },
+  {
+    "source": "A man in a blue hard hat and orange safety vest stands in an intersection while holding a flag .",
+    "target": "파란색 안전모와 주황색 안전 조끼를 입은 한 남자가 깃발을 들고 교차로에 서 있다.",
+    "id": "flickr_0_0_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        45
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        5
+      ],
+      [
+        9,
+        24
+      ],
+      [
+        29,
+        47
+      ],
+      [
+        58,
+        73
+      ],
+      [
+        88,
+        94
+      ]
+    ],
+    "reference": "파란 헬멧과 주황색 안전 조끼를 입은 한 남자가 깃발을 들고 교차로에 서 있습니다."
+  },
+  {
+    "source": "Chargers ’ Jamal Williams Arrested For DUI on February 4 , 2009 Chargers defensive tackle Jamal Williams was arrested early Sunday for suspicions of driving under the influence . Williams was pulled over by the California Highway Patrol for speeding in a San Diego freeway . He was given a blood alcohol test but the results have not been revealed . He was taken to the County jail where he was booked and released on bail . According to authorities , he was driving his Bentley at about 1 : 00 am Sunday on highway 94 when the cops stopped him . This is the second DUI related arrest for the team . Earlier this year , star receiver Vincent Jackson was arrested for drunk driving a few days before their play - off game .",
+    "target": "챠저스의 재멀 윌리엄스가 2009년 2월 4일 DUI 혐의로 체포되었습니다. 챠저스의 수비 태클 재멀 윌리엄스는 일요일 이른 아침에 음주 운전 의심으로 체포되었습니다. 그는 캘리포니아 고속도로 순찰대에 의해 샌디에이고 고속도로에서 과속으로 단속되었습니다. 그는 혈중 알코올 검사 를 받았으나 결과는 아직 공개되지 않았습니다. 이후 카운티 구치소로 이송되어 기록을 남기고 보석금으로 석방되었습니다. 당국에 따르면, 일요일 오전 1시경 그는 자신의 벤틀리를 몰고 고속도로 94에서 단속 당했다고 합니다. 이번이 팀에서 두 번째 DUI 관련 체포입니다. 올해 초에는 스타 리시버 빈센트 잭슨이 플레이오프 경기 며칠 전에 음주 운전으로 체포된 바 있습니다.",
+    "id": "eventstoryline_0_gpt4_ez",
+    "target_focus_areas": [
+      [
+        0,
+        41
+      ],
+      [
+        42,
+        92
+      ],
+      [
+        93,
+        141
+      ],
+      [
+        142,
+        180
+      ],
+      [
+        181,
+        220
+      ],
+      [
+        230,
+        278
+      ],
+      [
+        279,
+        305
+      ],
+      [
+        306,
+        362
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        26,
+        34
+      ],
+      [
+        39,
+        42
+      ],
+      [
+        109,
+        117
+      ],
+      [
+        135,
+        145
+      ],
+      [
+        149,
+        176
+      ],
+      [
+        192,
+        203
+      ],
+      [
+        241,
+        249
+      ],
+      [
+        282,
+        287
+      ],
+      [
+        339,
+        347
+      ],
+      [
+        357,
+        362
+      ],
+      [
+        395,
+        401
+      ],
+      [
+        406,
+        414
+      ],
+      [
+        415,
+        422
+      ],
+      [
+        459,
+        466
+      ],
+      [
+        533,
+        540
+      ],
+      [
+        559,
+        565
+      ],
+      [
+        566,
+        569
+      ],
+      [
+        578,
+        584
+      ],
+      [
+        654,
+        662
+      ],
+      [
+        667,
+        680
+      ],
+      [
+        705,
+        720
+      ]
+    ],
+    "reference": "샌디에이고 차져스의 자말 윌리엄스가 2009년 2월 4일 DUI로 체포되었습니다. 차져스의 수비 태클인 자말 윌리엄스는 일요일 이른 아침 음주 운전 의혹으로 체포되었습니다. 그는 샌디에이고 고속도로에서 과속으로 캘리포니아 고속도로 순찰대에 의해 정지되었습니다. 혈중 알코올 검사를 받았지만 결과는 공개되지 않았습니다. 그는 카운티 교도소로 이송되어 예약 후 보석으로 석방되었습니다. 당국에 따르면, 그는 일요일 오전 1시경 고속도로 94에서 벤틀리를 운전하고 있었으며 경찰에 의해 정지되었습니다. 이는 팀의 두 번째 음주 운전 관련 체포입니다. 올해 초, 스타 수신기 빈센트 잭슨이 플레이오프 경기를 며칠 앞두고 음주 운전으로 체포되었습니다."
+  },
+  {
+    "source": "Chargers ’ Jamal Williams Arrested For DUI on February 4 , 2009 Chargers defensive tackle Jamal Williams was arrested early Sunday for suspicions of driving under the influence . Williams was pulled over by the California Highway Patrol for speeding in a San Diego freeway . He was given a blood alcohol test but the results have not been revealed . He was taken to the County jail where he was booked and released on bail . According to authorities , he was driving his Bentley at about 1 : 00 am Sunday on highway 94 when the cops stopped him . This is the second DUI related arrest for the team . Earlier this year , star receiver Vincent Jackson was arrested for drunk driving a few days before their play - off game .",
+    "target": "샌디에이고 차저스의 수비 태클 자말 윌리엄스가 2009년 2월 4일 음주운전 혐의로 체포됐다. 윌리엄스는 일요일 이른 새벽 음주운전 의심으로 체포되었다. 그는 캘리포니아 고속도로 순찰대에 의해 산디에이고 고속도로에서 과속으로 단속되었다. 혈중 알코올 농도 검사를 받았으나 결과는 공개되지 않았다. 그는 카운티 교도소에 구금됐으며 보석금 지불 후 석방되었다. 당국에 따르면 그는 일요일 새벽 1시경 고속도로 94번에서 벤틀리를 운전하다 경찰에 적발되었다. 이번 사건은 팀 내 두 번째 음주운전 관련 체포이다. 올해 초에는 스타 리시버 빈센트 잭슨이 플레이오프 경기 며칠 전 음주운전으로 체포된 바 있다.",
+    "id": "eventstoryline_0_gpt4_clap",
+    "target_focus_areas": [
+      [
+        0,
+        51
+      ],
+      [
+        52,
+        84
+      ],
+      [
+        85,
+        131
+      ],
+      [
+        132,
+        164
+      ],
+      [
+        165,
+        198
+      ],
+      [
+        199,
+        252
+      ],
+      [
+        253,
+        282
+      ],
+      [
+        283,
+        335
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        26,
+        34
+      ],
+      [
+        39,
+        42
+      ],
+      [
+        109,
+        117
+      ],
+      [
+        135,
+        145
+      ],
+      [
+        149,
+        176
+      ],
+      [
+        192,
+        203
+      ],
+      [
+        241,
+        249
+      ],
+      [
+        282,
+        287
+      ],
+      [
+        339,
+        347
+      ],
+      [
+        357,
+        362
+      ],
+      [
+        395,
+        401
+      ],
+      [
+        406,
+        414
+      ],
+      [
+        415,
+        422
+      ],
+      [
+        459,
+        466
+      ],
+      [
+        533,
+        540
+      ],
+      [
+        559,
+        565
+      ],
+      [
+        566,
+        569
+      ],
+      [
+        578,
+        584
+      ],
+      [
+        654,
+        662
+      ],
+      [
+        667,
+        680
+      ],
+      [
+        705,
+        720
+      ]
+    ],
+    "reference": "샌디에이고 차져스의 자말 윌리엄스가 2009년 2월 4일 DUI로 체포되었습니다. 차져스의 수비 태클인 자말 윌리엄스는 일요일 이른 아침 음주 운전 의혹으로 체포되었습니다. 그는 샌디에이고 고속도로에서 과속으로 캘리포니아 고속도로 순찰대에 의해 정지되었습니다. 혈중 알코올 검사를 받았지만 결과는 공개되지 않았습니다. 그는 카운티 교도소로 이송되어 예약 후 보석으로 석방되었습니다. 당국에 따르면, 그는 일요일 오전 1시경 고속도로 94에서 벤틀리를 운전하고 있었으며 경찰에 의해 정지되었습니다. 이는 팀의 두 번째 음주 운전 관련 체포입니다. 올해 초, 스타 수신기 빈센트 잭슨이 플레이오프 경기를 며칠 앞두고 음주 운전으로 체포되었습니다."
+  },
+  {
+    "source": "The January 2010 Rio de Janeiro floods and mudslides was an extreme weather event that affected the State of Rio de Janeiro in Brazil in the first days of January 2010 . at least 85 people died , with at least 29 people in the hotel sankey after it was destroyed by landslides , and many more have been injured . More than 4,000 people were forced to evacuate their homes . The worst affected municipality was Angra dos Reis , about southwest of the city of Rio de Janeiro . At least 35 people were killed at a resort on Ilha Grande : about forty people were staying in the hotel which was buried under a mudslide , and the death toll is expected to rise further . Brazil 's only functioning nuclear power plant , Central Nuclear Almirante Álvaro Alberto , is also located within the municipality : plans were made for a temporary shutdown , as blocked roads would make any evacuation difficult or impossible in the event of an incident at the plant . In Rio Grande do Sul , at least seven people died and 20 went missing after a bridge collapsed due to heavy rains .",
+    "target": "2010년 1월 브라질 리우데자네이루의 홍수와 산사태는 2010년 1월 초에 브라질 리우데자네이루 주에 영향을 미친 극심한 기상 이변이었습니다. 최소 85명이 사망했으며, 산사태로 파괴된 호텔 생키에서는 최소 29명이 사망했고, 훨씬 더 많은 사람들이 부상을 입었습니다. 4,000명 이상이 집에서 대피해야 하는 상황에 처했습니다. 가장 큰 피해를 입은 지역은 리우데자네이루 시의 남서쪽에 위치한 앙그라두스레이스였습니다. 일랴그란데 섬의 한 리조트에서 최소 35명이 숨졌습니다. 약 40명이 산사태로 매몰된 호텔에 머물고 있었으며, 사망자 수는 더 늘어날 것으로 예상됩니다. 브라질 유일의 가동 중인 원자력 발전소인 센트랄 누클레아르 알미란테 알바루 알베르투도 이 지역에 위치해 있었으며, 도로가 막히면 발전소 사고 발생 시 대피가 어렵거나 불가능해짐에 따라 임시 폐쇄 계획이 수립되었습니다. 히우그란지두술에서는 폭우로 인해 다리가 붕괴하면서 최소 7명이 사망하고 20명이 실종되었습니다.",
+    "id": "maven_0_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        79
+      ],
+      [
+        80,
+        94
+      ],
+      [
+        95,
+        126
+      ],
+      [
+        127,
+        150
+      ],
+      [
+        154,
+        184
+      ],
+      [
+        235,
+        266
+      ],
+      [
+        267,
+        296
+      ],
+      [
+        297,
+        320
+      ],
+      [
+        385,
+        442
+      ],
+      [
+        443,
+        496
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        4,
+        16
+      ],
+      [
+        32,
+        38
+      ],
+      [
+        87,
+        95
+      ],
+      [
+        155,
+        167
+      ],
+      [
+        189,
+        193
+      ],
+      [
+        253,
+        262
+      ],
+      [
+        303,
+        310
+      ],
+      [
+        341,
+        347
+      ],
+      [
+        351,
+        359
+      ],
+      [
+        384,
+        392
+      ],
+      [
+        499,
+        505
+      ],
+      [
+        559,
+        566
+      ],
+      [
+        590,
+        596
+      ],
+      [
+        624,
+        629
+      ],
+      [
+        650,
+        654
+      ],
+      [
+        799,
+        804
+      ],
+      [
+        810,
+        814
+      ],
+      [
+        865,
+        869
+      ],
+      [
+        874,
+        884
+      ],
+      [
+        997,
+        1001
+      ],
+      [
+        1009,
+        1013
+      ],
+      [
+        1037,
+        1046
+      ]
+    ],
+    "reference": "2010년 1월 리우데자네이루의 홍수와 산사태는 2010년 1월 초 브라질 리우데자네이루 주에 영향을 미친 극단적인 기상 사건이었다. 최소 85명이 사망했으며, 그 중 최소 29명은 산사태로 파괴된 호텔의 침몰로 사망했다. 또한 많은 부상자가 발생했다. 4,000명 이상의 사람들이 집에서 대피해야 했다. 가장 심각한 피해를 입은 자치체는 리우데자네이루 시의 남서쪽에 위치한 앙그라 두스헤이스였다. 일라 그란데에 있는 한 리조트에서 최소 35명이 숨졌는데, 약 40명이 산사태로 묻힌 호텔에 머물고 있었으며, 사망자 수는 더 증가할 것으로 예상된다. 브라질의 유일한 가동 중인 원자력 발전소인 알미란치 알바로 알베르토 원자력 발전소도 이 자치체 내에 위치해 있다: 발전소에서 사고가 발생할 경우 차단된 도로로 인해 대피가 어렵거나 불가능해질 수 있으므로 임시 중단 계획이 세워졌다. 리우그란지두술에서는 심한 비로 인해 다리가 붕괴되면서 최소 7명이 사망하고 20명이 실종됐다."
+  },
+  {
+    "source": "The January 2010 Rio de Janeiro floods and mudslides was an extreme weather event that affected the State of Rio de Janeiro in Brazil in the first days of January 2010 . at least 85 people died , with at least 29 people in the hotel sankey after it was destroyed by landslides , and many more have been injured . More than 4,000 people were forced to evacuate their homes . The worst affected municipality was Angra dos Reis , about southwest of the city of Rio de Janeiro . At least 35 people were killed at a resort on Ilha Grande : about forty people were staying in the hotel which was buried under a mudslide , and the death toll is expected to rise further . Brazil 's only functioning nuclear power plant , Central Nuclear Almirante Álvaro Alberto , is also located within the municipality : plans were made for a temporary shutdown , as blocked roads would make any evacuation difficult or impossible in the event of an incident at the plant . In Rio Grande do Sul , at least seven people died and 20 went missing after a bridge collapsed due to heavy rains .",
+    "target": "2010년 1월 리우데자네이루 홍수와 산사태는 2010년 1월 초 브라질 리우데자네이루 주에 영향을 미친 극심한 기상 이변이었습니다. 최소 85명이 사망했으며, 산사태로 파괴된 호텔 생키에 있던 최소 29명이 사망했고, 훨씬 더 많은 사람들이 부상을 입었습니다. 4,000명 이상이 집에서 대피해야 했습니다. 가장 큰 피해를 입은 시는 리우데자네이루시 남서쪽의 앙그라두스레이스였습니다. 일랴그란데 섬의 한 리조트에서 최소 35명이 사망했습니다. 호텔에는 약 40명이 투숙하고 있었는데, 산사태로 매몰되었으며, 사망자 수는 더욱 늘어날 것으로 예상됩니다. 브라질 유일의 가동 중인 원자력 발전소인 센트랄 누클레아르 알미란테 알바로 알베르토도 이 시 내에 위치해 있습니다. 도로가 막혀 발전소 사고 발생 시 대피가 어렵거나 불가능해질 경우를 대비하여 일시 폐쇄 계획이 수립되었습니다. 히우그란지두술에서는 폭우로 인해 다리가 붕괴하면서 최소 7명이 사망하고 20명이 실종되었습니다.",
+    "id": "maven_0_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        73
+      ],
+      [
+        74,
+        88
+      ],
+      [
+        89,
+        121
+      ],
+      [
+        122,
+        148
+      ],
+      [
+        149,
+        171
+      ],
+      [
+        172,
+        214
+      ],
+      [
+        215,
+        247
+      ],
+      [
+        248,
+        270
+      ],
+      [
+        271,
+        283
+      ],
+      [
+        284,
+        342
+      ],
+      [
+        374,
+        435
+      ],
+      [
+        436,
+        489
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        4,
+        16
+      ],
+      [
+        32,
+        38
+      ],
+      [
+        87,
+        95
+      ],
+      [
+        155,
+        167
+      ],
+      [
+        189,
+        193
+      ],
+      [
+        253,
+        262
+      ],
+      [
+        303,
+        310
+      ],
+      [
+        341,
+        347
+      ],
+      [
+        351,
+        359
+      ],
+      [
+        384,
+        392
+      ],
+      [
+        499,
+        505
+      ],
+      [
+        559,
+        566
+      ],
+      [
+        590,
+        596
+      ],
+      [
+        624,
+        629
+      ],
+      [
+        650,
+        654
+      ],
+      [
+        799,
+        804
+      ],
+      [
+        810,
+        814
+      ],
+      [
+        865,
+        869
+      ],
+      [
+        874,
+        884
+      ],
+      [
+        997,
+        1001
+      ],
+      [
+        1009,
+        1013
+      ],
+      [
+        1037,
+        1046
+      ]
+    ],
+    "reference": "2010년 1월 리우데자네이루의 홍수와 산사태는 2010년 1월 초 브라질 리우데자네이루 주에 영향을 미친 극단적인 기상 사건이었다. 최소 85명이 사망했으며, 그 중 최소 29명은 산사태로 파괴된 호텔의 침몰로 사망했다. 또한 많은 부상자가 발생했다. 4,000명 이상의 사람들이 집에서 대피해야 했다. 가장 심각한 피해를 입은 자치체는 리우데자네이루 시의 남서쪽에 위치한 앙그라 두스헤이스였다. 일라 그란데에 있는 한 리조트에서 최소 35명이 숨졌는데, 약 40명이 산사태로 묻힌 호텔에 머물고 있었으며, 사망자 수는 더 증가할 것으로 예상된다. 브라질의 유일한 가동 중인 원자력 발전소인 알미란치 알바로 알베르토 원자력 발전소도 이 자치체 내에 위치해 있다: 발전소에서 사고가 발생할 경우 차단된 도로로 인해 대피가 어렵거나 불가능해질 수 있으므로 임시 중단 계획이 세워졌다. 리우그란지두술에서는 심한 비로 인해 다리가 붕괴되면서 최소 7명이 사망하고 20명이 실종됐다."
+  },
+  {
+    "source": "Veterans Slam Government for Shifting Goalpost",
+    "target": "참전용사들, 정부의 목표 변경을 비난  ",
+    "id": "recess_0_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        22
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        24
+      ],
+      [
+        25,
+        28
+      ],
+      [
+        29,
+        46
+      ]
+    ],
+    "reference": "재향군인들은 정부의 목표 변경에 강하게 반발하고 있다."
+  },
+  {
+    "source": "Veterans Slam Government for Shifting Goalpost",
+    "target": "참전 용사들, 목표를 바꾼 정부를 비난",
+    "id": "recess_0_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        21
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        24
+      ],
+      [
+        25,
+        28
+      ],
+      [
+        29,
+        46
+      ]
+    ],
+    "reference": "재향군인들은 정부의 목표 변경에 강하게 반발하고 있다."
+  },
+  {
+    "source": "04th September 2015 04:21 AM NEW DELHI : Deadlock over the ‘ One rank One Pension ’ ( OROP ) scheme persisted on Thursday with agitating ex-servicemen accusing the government of “ constantly shifting the goalpost ” and not coming out with any “ concrete proposal ” to resolve the issue .",
+    "target": "2015년 9월 4일 04:21 AM 뉴델리 : 교착 상태가 계속된 ‘일괄 계급 연금’(OROP) 제도 문제에 대해 항의 중인 전직 군인들은 정부가 “끊임없이 목표를 바꾸고” 있으며 문제를 해결하기 위한 “구체적인 제안”을 내놓지 않고 있다고 비난했다.",
+    "id": "recess_2_gpt4_ez",
+    "target_focus_areas": [
+      [
+        26,
+        88
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        41,
+        49
+      ],
+      [
+        50,
+        54
+      ],
+      [
+        55,
+        99
+      ]
+    ],
+    "reference": "2015년 9월 4일 오전 4시 21분, 뉴델리: '한등급 한연금'(OROP) 계획에 대한 교착 상태가 목요일도 계속되었으며, 시위 중인 퇴역 군인들은 정부가 '지속적으로 목표를 변경하고 있다'고 비난하며 문제 해결을 위한 '구체적인 제안'을 내놓지 않았다고 주장했다."
+  },
+  {
+    "source": "04th September 2015 04:21 AM NEW DELHI : Deadlock over the ‘ One rank One Pension ’ ( OROP ) scheme persisted on Thursday with agitating ex-servicemen accusing the government of “ constantly shifting the goalpost ” and not coming out with any “ concrete proposal ” to resolve the issue .",
+    "target": "2015년 9월 4일 오전 4시 21분 뉴델리: ‘동일 계급 동일 연금’(OROP) 제도를 둘러싼 교착상태가 목요일에도 계속되었으며, 시위 중인 전직 군인들은 정부가 “끊임없이 목표를 바꾸고” 문제를 해결할 “구체적인 제안”을 내놓지 않고 있다고 비난했다.",
+    "id": "recess_2_gpt4_clap",
+    "target_focus_areas": [
+      [
+        26,
+        73
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        41,
+        49
+      ],
+      [
+        50,
+        54
+      ],
+      [
+        55,
+        99
+      ]
+    ],
+    "reference": "2015년 9월 4일 오전 4시 21분, 뉴델리: '한등급 한연금'(OROP) 계획에 대한 교착 상태가 목요일도 계속되었으며, 시위 중인 퇴역 군인들은 정부가 '지속적으로 목표를 변경하고 있다'고 비난하며 문제 해결을 위한 '구체적인 제안'을 내놓지 않았다고 주장했다."
+  },
+  {
+    "source": "Warren should not have taken the test; having taken it, she should not have publicized it; having publicized it, she should quietly fire anyone who urged this gambit and move on.",
+    "target": "워렌은 그 시험을 보지 말았어야 했다. 시험을 봤다면, 결과를 공개하지 말았어야 했고, 결과를 공개했다면, 이 도박을 부추긴 사람들을 조용히 해고하고 넘어가야 한다.",
+    "id": "semeval20task5_0_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        20
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        37
+      ]
+    ],
+    "reference": "워렌은 시험을 치르지 말았어야 했고; 이미 시험을 치른 이상, 그녀는 그것을 공개하지 말았어야 했으며; 그것을 공개한 이상, 그녀는 이 gambit을 권장한 사람들을 조용히 해고하고 나아가야 한다."
+  },
+  {
+    "source": "Warren should not have taken the test; having taken it, she should not have publicized it; having publicized it, she should quietly fire anyone who urged this gambit and move on.",
+    "target": "워렌은 그 시험을 보지 말았어야 했다. 시험을 봤다면, 그걸 공개하지 말았어야 했다. 공개했다면, 이 도박을 부추긴 사람들을 조용히 해고하고 그냥 넘어가야 한다.",
+    "id": "semeval20task5_0_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        29
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        37
+      ]
+    ],
+    "reference": "워렌은 시험을 치르지 말았어야 했고; 이미 시험을 치른 이상, 그녀는 그것을 공개하지 말았어야 했으며; 그것을 공개한 이상, 그녀는 이 gambit을 권장한 사람들을 조용히 해고하고 나아가야 한다."
+  },
+  {
+    "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
+    "target": "\"베어 스턴스의 파급 효과가 월스트리트의 몇몇 회사에만 국한될 것이라는 생각은 틀렸다\"고 디몬은 말했다. 그는 자사가 연준의 재정 지원 없이 베어를 인수하는 데 동의하지 않았을 것이라고 말했고, JP모건도 중앙은행으로부터 베어가 차입한 250억 달러를 보증하기로 합의했다고 말했다.",
+    "id": "semeval20task5_35_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        1,
+        47
+      ],
+      [
+        58,
+        107
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        1,
+        90
+      ],
+      [
+        118,
+        166
+      ]
+    ],
+    "reference": "\"베어 스턴스의 여파가 몇몇 월스트리트 기업에만 국한될 것이라는 생각은 사실이 아니다.\" 다이먼은 그의 회사가 연방준비제도(Fed)의 재정 지원 없이 베어를 인수하겠다고 합의하지 않았다고 말했으며, JPMorgan이 또한 베어가 중앙은행으로부터 차입한 250억 달러를 보증하기로 했다고 언급했다."
+  },
+  {
+    "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
+    "target": "\"베어 스탄스의 여파가 단지 몇몇 월스트리트 회사에만 국한되었다는 생각은 틀렸다\"고 디몬은 말했다. 그는 그의 회사가 연준의 재정 지원 없이 베어를 인수하기로 동의하지 않았을 것이라고 말했고, JP모건도 연준으로부터 베어가 빌린 250억 달러를 보증하기로 동의했다고 말했다.",
+    "id": "semeval20task5_35_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        1,
+        44
+      ],
+      [
+        55,
+        106
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        1,
+        90
+      ],
+      [
+        118,
+        166
+      ]
+    ],
+    "reference": "\"베어 스턴스의 여파가 몇몇 월스트리트 기업에만 국한될 것이라는 생각은 사실이 아니다.\" 다이먼은 그의 회사가 연방준비제도(Fed)의 재정 지원 없이 베어를 인수하겠다고 합의하지 않았다고 말했으며, JPMorgan이 또한 베어가 중앙은행으로부터 차입한 250억 달러를 보증하기로 했다고 언급했다."
+  },
+  {
+    "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
+    "target": "최근에, 3차원(3D) 컨볼루션 신경망(CNNs)은 기존의 2D CNNs에 세 번째인 시간 차원을 추가함으로써 비디오에서 시공간적 표현을 포착하는 주요 방법으로 떠올랐습니다.",
+    "id": "scier_0_0_gpt4_ez",
+    "target_focus_areas": [
+      [
+        12,
+        21
+      ],
+      [
+        22,
+        26
+      ],
+      [
+        27,
+        76
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        36,
+        65
+      ],
+      [
+        68,
+        72
+      ],
+      [
+        190,
+        197
+      ]
+    ],
+    "reference": "최근에 3차원(3D) 합성곱 신경망(CNN)이 비디오에서 시공간 표현을 포착하는 주된 방법으로 떠오르고 있습니다. 이는 기존의 2D CNN에 세 번째인 시간 차원을 추가한 것입니다."
+  },
+  {
+    "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
+    "target": "최근 3차원(3D) 합성곱 신경망(CNN)이 기존 2D CNN에 세 번째 시간 차원을 추가하여 비디오의 시공간 표현을 포착하는 지배적인 방법으로 떠올랐습니다.",
+    "id": "scier_0_0_gpt4_clap",
+    "target_focus_areas": [
+      [
+        10,
+        18
+      ],
+      [
+        23,
+        65
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        36,
+        65
+      ],
+      [
+        68,
+        72
+      ],
+      [
+        190,
+        197
+      ]
+    ],
+    "reference": "최근에 3차원(3D) 합성곱 신경망(CNN)이 비디오에서 시공간 표현을 포착하는 주된 방법으로 떠오르고 있습니다. 이는 기존의 2D CNN에 세 번째인 시간 차원을 추가한 것입니다."
+  },
+  {
+    "source": "The human cell lines of breast cancer (MCF-7), colon adenocarcinoma (HT-29), and leukemia (CCRF/CEM) were obtained from American Type Culture Collection (Rockville, Maryland, USA) and maintained in the Cell Culture Collection at the Institute of Immunology and Experimental Therapy, Wroclaw, Poland.\n",
+    "target": "인간 암세포주인 유방암(MCF-7), 대장 선암(HT-29) 및 백혈병(CCRF/CEM)은 미국 세포 배양 컬렉션(미국 메릴랜드 주 로크빌)으로부터 확보되었으며, 폴란드 브로츠와프의 면역학 및 실험 치료 연구소의 세포 배양 컬렉션에서 유지되었다.",
+    "id": "pubmed_0_2_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        12
+      ],
+      [
+        13,
+        18
+      ],
+      [
+        20,
+        26
+      ],
+      [
+        27,
+        32
+      ],
+      [
+        33,
+        39
+      ],
+      [
+        40,
+        48
+      ],
+      [
+        49,
+        63
+      ],
+      [
+        78,
+        89
+      ],
+      [
+        90,
+        136
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        4,
+        20
+      ],
+      [
+        24,
+        37
+      ],
+      [
+        39,
+        44
+      ],
+      [
+        47,
+        67
+      ],
+      [
+        69,
+        74
+      ],
+      [
+        81,
+        89
+      ],
+      [
+        91,
+        99
+      ],
+      [
+        106,
+        114
+      ],
+      [
+        120,
+        152
+      ],
+      [
+        184,
+        194
+      ],
+      [
+        202,
+        225
+      ],
+      [
+        233,
+        281
+      ]
+    ],
+    "reference": "유방암(MCF-7), 대장 선암(HT-29), 및 백혈병(CCRF/CEM)의 인간 세포주들은 미국 메릴랜드주 록빌에 위치한 American Type Culture Collection에서 얻어졌으며, 폴란드 브로츠와프의 면역학 및 실험 치료 연구소의 세포 배양 컬렉션에서 유지되었습니다."
+  },
+  {
+    "source": "The human cell lines of breast cancer (MCF-7), colon adenocarcinoma (HT-29), and leukemia (CCRF/CEM) were obtained from American Type Culture Collection (Rockville, Maryland, USA) and maintained in the Cell Culture Collection at the Institute of Immunology and Experimental Therapy, Wroclaw, Poland.\n",
+    "target": "유방암(MCF-7), 결장 선암(HT-29), 백혈병(CCRF/CEM) 인간 세포주는 미국 유형 배양 컬렉션(미국 메릴랜드 주 로크빌)에서 얻었으며 폴란드 브로츠와프의 면역학 및 실험 치료 연구소의 세포 배양 컬렉션에서 유지했습니다.",
+    "id": "pubmed_0_2_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        3
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        11,
+        17
+      ],
+      [
+        18,
+        23
+      ],
+      [
+        25,
+        29
+      ],
+      [
+        30,
+        38
+      ],
+      [
+        39,
+        60
+      ],
+      [
+        75,
+        129
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        4,
+        20
+      ],
+      [
+        24,
+        37
+      ],
+      [
+        39,
+        44
+      ],
+      [
+        47,
+        67
+      ],
+      [
+        69,
+        74
+      ],
+      [
+        81,
+        89
+      ],
+      [
+        91,
+        99
+      ],
+      [
+        106,
+        114
+      ],
+      [
+        120,
+        152
+      ],
+      [
+        184,
+        194
+      ],
+      [
+        202,
+        225
+      ],
+      [
+        233,
+        281
+      ]
+    ],
+    "reference": "유방암(MCF-7), 대장 선암(HT-29), 및 백혈병(CCRF/CEM)의 인간 세포주들은 미국 메릴랜드주 록빌에 위치한 American Type Culture Collection에서 얻어졌으며, 폴란드 브로츠와프의 면역학 및 실험 치료 연구소의 세포 배양 컬렉션에서 유지되었습니다."
+  },
+  {
+    "source": "A solution of oxalyl chloride (0.97 ml) in dry dichloromethane (10 ml) was stirred at −55° C. under an atmosphere of dry nitrogen.\n",
+    "target": "건조한 이염화메탄 (10 ml)에 녹인 옥실릴 염화물 (0.97 ml)의 용액을 건조한 질소의 대기 하에서 −55° C에서 揽拌했습니다.",
+    "id": "chemsyn_0_2_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        10
+      ],
+      [
+        11,
+        16
+      ],
+      [
+        17,
+        30
+      ],
+      [
+        31,
+        38
+      ],
+      [
+        39,
+        75
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        2,
+        10
+      ],
+      [
+        14,
+        29
+      ],
+      [
+        31,
+        38
+      ],
+      [
+        43,
+        46
+      ],
+      [
+        47,
+        62
+      ],
+      [
+        64,
+        69
+      ],
+      [
+        75,
+        82
+      ],
+      [
+        86,
+        93
+      ],
+      [
+        103,
+        113
+      ],
+      [
+        117,
+        120
+      ],
+      [
+        121,
+        129
+      ]
+    ],
+    "reference": "건조한 디클로로메탄(10 ml)에서 옥살릴 클로라이드 용액(0.97 ml)을 −55° C에서 건조 질소 분위기에서 교반하였다."
+  },
+  {
+    "source": "A solution of oxalyl chloride (0.97 ml) in dry dichloromethane (10 ml) was stirred at −55° C. under an atmosphere of dry nitrogen.\n",
+    "target": "건조한 이산화질소(10 ml)에 용해된 옥살릴 염화물(0.97 ml) 용액을 건조한 질소 분위기 하에서 -55°C에서 교반하였다.",
+    "id": "chemsyn_0_2_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        9
+      ],
+      [
+        10,
+        15
+      ],
+      [
+        16,
+        29
+      ],
+      [
+        30,
+        37
+      ],
+      [
+        38,
+        71
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        2,
+        10
+      ],
+      [
+        14,
+        29
+      ],
+      [
+        31,
+        38
+      ],
+      [
+        43,
+        46
+      ],
+      [
+        47,
+        62
+      ],
+      [
+        64,
+        69
+      ],
+      [
+        75,
+        82
+      ],
+      [
+        86,
+        93
+      ],
+      [
+        103,
+        113
+      ],
+      [
+        117,
+        120
+      ],
+      [
+        121,
+        129
+      ]
+    ],
+    "reference": "건조한 디클로로메탄(10 ml)에서 옥살릴 클로라이드 용액(0.97 ml)을 −55° C에서 건조 질소 분위기에서 교반하였다."
+  },
+  {
+    "source": "The Contribution of a Speech Perception Intervention to the Prevention of Phonological Awareness Deficits in Children With Speech Sound Disorders | Recent research reveals genetic and symptomatic overlap among children with speech sound disorders (i.e., those who (misarticulate more sounds than would be expected for their age) and children with dyslexia (i.e., those who struggle to learn to read). Children who have speech sound disorders as preschoolers are at risk for the later emergence of dyslexia, a risk that often reveals itself in the form of poor phonological awareness skills during the preschool period. Traditional speech therapy methods focus on articulation accuracy and do not focus on the child's more abstract knowledge of the sound system of the language. The ultimate objective of this research program is to prevent reading disability in children who present with speech sounds disorders. The relative effectiveness of different interventions to help these children achieve age-appropriate phonological processing skills prior to school entry will be investigated. It is expected that a combination of treatment approaches that focus on speech perception skills and vocabulary knowledge will have a superior impact on phonological awareness in comparison with a treatment approach that focuses solely on articulation accuracy.",
+    "target": "음성 인지 중재가 언어 음운 장애 아동의 음운 인식 결손 예방에 기여하는 바 | 최근 연구는 언어 음운 장애(즉, 연령에 비해 더 많은 소리를 잘못 발음하는 아동)와 난독증(즉, 읽기 학습에 어려움을 겪는 아동) 사이에 유전적 및 증상상의 중복이 있음을 밝혀냈다. 유아기 때 언어 음운 장애가 있는 아동은 이후 난독증이 발생할 위험이 있으며, 이 위험은 종종 유아기 동안의 낮은 음운 인식 능력으로 나타난다. 전통적인 언어 치료 방법은 조음 정확성에 초점을 맞추고 있으며, 아동의 언어 음운 체계에 대한 보다 추상적인 지식에는 집중하지 않는다. 이 연구 프로그램의 궁극적인 목표는 언어 음운 장애를 가진 아동의 읽기 장애를 예방하는 것이다. 학교 입학 전에 이들 아동이 연령에 적합한 음운 처리 능력을 획득하도록 돕기 위한 다양한 중재의 상대적 효과가 조사될 예정이다. 음성 인지 능력과 어휘 지식에 초점을 맞춘 치료 접근법의 결합이 조음 정확성에만 초점을 둔 치료 접근법보다 음운 인식에 더 우수한 영향을 미칠 것으로 기대된다.",
+    "id": "neuraltrial_0_gpt4_ez",
+    "target_focus_areas": [
+      [
+        0,
+        43
+      ],
+      [
+        44,
+        60
+      ],
+      [
+        147,
+        190
+      ],
+      [
+        304,
+        357
+      ],
+      [
+        430,
+        519
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        22,
+        52
+      ],
+      [
+        123,
+        145
+      ],
+      [
+        224,
+        246
+      ],
+      [
+        419,
+        441
+      ],
+      [
+        888,
+        911
+      ],
+      [
+        1111,
+        1210
+      ],
+      [
+        1286,
+        1349
+      ]
+    ],
+    "reference": "음성 인식 개입이 발음 장애 아동의 음운 인식 결핍 예방에 기여하는 연구 | 최근 연구는 발음 장애가 있는 아동(즉, 연령에 비해 더 많은 소리를 잘못 발음하는 아동)과 난독증 아동(즉, 읽기를 배우는 데 어려움을 겪는 아동) 간의 유전적 및 증상적 중복성을 밝히고 있습니다. 유아기 발음 장애가 있는 아동은 나중에 난독증이 나타날 위험이 있으며, 이는 종종 유아기 동안 낮은 음운 인식 능력의 형태로 드러납니다. 기존의 언어 치료 방법은 발음 정확성에 중점을 두고 있으며, 아동의 언어의 음운 체계에 대한 보다 추상적인 지식에는 중점을 두지 않습니다. 이 연구 프로그램의 궁극적인 목표는 발음 장애가 있는 아동에서 읽기 장애를 예방하는 것입니다. 이러한 아동이 학교에 들어가기 전에 연령에 맞는 음운 처리 기술을 달성하도록 돕는 다양한 개입의 상대적 효과가 조사될 것입니다. 음성 인식 기술 및 어휘 지식에 초점을 맞춘 치료 접근 방식의 조합이 발음 정확성에만 초점을 맞춘 치료 접근 방식에 비해 음운 인식에 더 우수한 영향을 미칠 것으로 예상됩니다."
+  },
+  {
+    "source": "The Contribution of a Speech Perception Intervention to the Prevention of Phonological Awareness Deficits in Children With Speech Sound Disorders | Recent research reveals genetic and symptomatic overlap among children with speech sound disorders (i.e., those who (misarticulate more sounds than would be expected for their age) and children with dyslexia (i.e., those who struggle to learn to read). Children who have speech sound disorders as preschoolers are at risk for the later emergence of dyslexia, a risk that often reveals itself in the form of poor phonological awareness skills during the preschool period. Traditional speech therapy methods focus on articulation accuracy and do not focus on the child's more abstract knowledge of the sound system of the language. The ultimate objective of this research program is to prevent reading disability in children who present with speech sounds disorders. The relative effectiveness of different interventions to help these children achieve age-appropriate phonological processing skills prior to school entry will be investigated. It is expected that a combination of treatment approaches that focus on speech perception skills and vocabulary knowledge will have a superior impact on phonological awareness in comparison with a treatment approach that focuses solely on articulation accuracy.",
+    "target": "음성 지각 개입이 언어음운 인식 결핍 예방에 기여하는 바: 최근 연구는 언어음운 장애 아동(즉, 또래에 비해 더 많은 음을 부정확하게 발음하는 아동)과 난독증 아동(즉, 읽기 학습에 어려움을 겪는 아동) 사이에 유전적 및 증상적 중복이 있음을 밝히고 있다. 유아기 언어음운 장애를 가진 아동은 이후 난독증이 나타날 위험이 있으며, 이 위험은 주로 유아기 동안 음운 인식 능력의 저하 형태로 드러난다. 전통적인 언어 치료 방법은 조음 정확성에 초점을 맞추나, 아동의 언어 음운 체계에 대한 더 추상적인 지식에는 집중하지 않는다. 이 연구 프로그램의 궁극적 목표는 언어음운 장애를 가진 아동의 읽기 장애를 예방하는 것이다. 학교 입학 이전에 이 아동들이 또래 수준의 음운 처리 능력을 달성하도록 돕기 위해 다양한 개입 방법의 상대적 효과가 조사될 것이다. 음성 지각 기술과 어휘 지식에 중점을 둔 치료법의 병행이 조음 정확성만을 중점으로 하는 치료법보다 음운 인식에 더 우수한 영향을 미칠 것으로 예상된다.",
+    "id": "neuraltrial_0_gpt4_clap",
+    "target_focus_areas": [
+      [
+        0,
+        31
+      ],
+      [
+        32,
+        50
+      ],
+      [
+        143,
+        183
+      ],
+      [
+        294,
+        345
+      ],
+      [
+        420,
+        504
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        22,
+        52
+      ],
+      [
+        123,
+        145
+      ],
+      [
+        224,
+        246
+      ],
+      [
+        419,
+        441
+      ],
+      [
+        888,
+        911
+      ],
+      [
+        1111,
+        1210
+      ],
+      [
+        1286,
+        1349
+      ]
+    ],
+    "reference": "음성 인식 개입이 발음 장애 아동의 음운 인식 결핍 예방에 기여하는 연구 | 최근 연구는 발음 장애가 있는 아동(즉, 연령에 비해 더 많은 소리를 잘못 발음하는 아동)과 난독증 아동(즉, 읽기를 배우는 데 어려움을 겪는 아동) 간의 유전적 및 증상적 중복성을 밝히고 있습니다. 유아기 발음 장애가 있는 아동은 나중에 난독증이 나타날 위험이 있으며, 이는 종종 유아기 동안 낮은 음운 인식 능력의 형태로 드러납니다. 기존의 언어 치료 방법은 발음 정확성에 중점을 두고 있으며, 아동의 언어의 음운 체계에 대한 보다 추상적인 지식에는 중점을 두지 않습니다. 이 연구 프로그램의 궁극적인 목표는 발음 장애가 있는 아동에서 읽기 장애를 예방하는 것입니다. 이러한 아동이 학교에 들어가기 전에 연령에 맞는 음운 처리 기술을 달성하도록 돕는 다양한 개입의 상대적 효과가 조사될 것입니다. 음성 인식 기술 및 어휘 지식에 초점을 맞춘 치료 접근 방식의 조합이 발음 정확성에만 초점을 맞춘 치료 접근 방식에 비해 음운 인식에 더 우수한 영향을 미칠 것으로 예상됩니다."
+  },
+  {
+    "source": "Intravenous sodium valproate versus diazepam infusion for the control of refractory status epilepticus in children : a randomized controlled trial . An open-label , randomized controlled study was conducted at a tertiary care teaching hospital to compare efficacy and safety of intravenous sodium valproate versus diazepam infusion for control of refractory status epilepticus . Forty children with refractory status epilepticus were randomized to receive either intravenous sodium valproate or diazepam infusion . Refractory status epilepticus was controlled in 80 % of the valproate and 85 % of the diazepam patients . The median time to control refractory status epilepticus was less in the valproate group ( 5 minutes ) than the diazepam group ( 17 minutes ; P $lt; .001 ) . None of the patients in the valproate group required ventilation or developed hypotension , whereas in the diazepam group 60 % required ventilation and 50 % developed hypotension after starting diazepam infusion . No adverse effects on liver functions were seen with valproate . It is concluded that intravenous sodium valproate is an effective alternative to diazepam infusion in controlling refractory status epilepticus in children and is free of respiratory depression and hypotension .",
+    "target": "정맥 주사 발프로산 나트륨과 디아제팜 주입을 이용한 소아의 난치성 지속성 간질 조절 비교 : 무작위 대조 시험. 개방 라벨, 무작위 대조 연구는 3차 의료 교육 병원에서 난치성 지속성 간질 조절을 위한 정맥 주사 발프로산 나트륨과 디아제팜 주입의 효능 및 안전성을 비교하기 위해 수행되었습니다. 난치성 지속성 간질을 앓고 있는 40명의 소아가 정맥 주사 발프로산 나트륨 또는 디아제팜 주입을 받도록 무작위 배정되었습니다. 발프로산 치료군은 80%, 디아제팜 치료군은 85%에서 난치성 지속성 간질이 조절되었습니다. 난치성 지속성 간질을 조절하는 데 걸리는 중앙값은 발프로산군(5분)이 디아제팜군(17분; P $lt; .001)보다 짧았습니다. 발프로산군 환자 중 누구도 인공호흡기 치료를 받거나 저혈압을 겪지 않았지만, 디아제팜군에서는 60%가 인공호흡기 치료를 받았고 디아제팜 주입 시작 후 50%가 저혈압을 겪었습니다. 발프로산 투여 시 간 기능에 대한 부작용은 관찰되지 않았습니다. 결론적으로, 정맥 주사 발프로산 나트륨은 소아의 난치성 지속성 간질 조절에 있어 디아제팜 주입의 효과적인 대안이며 호흡 억제 및 저혈압으로부터 자유롭습니다.",
+    "id": "ebmpico_0_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        50
+      ],
+      [
+        69,
+        163
+      ],
+      [
+        164,
+        234
+      ],
+      [
+        503,
+        555
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        28
+      ],
+      [
+        36,
+        53
+      ],
+      [
+        73,
+        102
+      ],
+      [
+        106,
+        114
+      ],
+      [
+        278,
+        306
+      ],
+      [
+        314,
+        331
+      ],
+      [
+        379,
+        384
+      ],
+      [
+        399,
+        428
+      ],
+      [
+        463,
+        512
+      ],
+      [
+        1205,
+        1213
+      ]
+    ],
+    "reference": "소아의 내약성 상태 간질 조절을 위한 정맥내 나트륨 발프로산 대 디아제팜 주입: 무작위 대조 시험. 내약성 상태 간질 조절을 위한 정맥내 나트륨 발프로산과 디아제팜 주입의 효능과 안전성을 비교하기 위해 3차 치료 대학 병원에서 무작위 대조 연구가 진행되었습니다. 내약성 상태 간질이 있는 40명의 아동이 정맥내 나트륨 발프로산 또는 디아제팜 주입을 받도록 무작위로 배정되었습니다. 내약성 상태 간질은 발프로산 그룹에서 80%, 디아제팜 그룹에서 85%가 조절되었습니다. 내약성 상태 간질을 조절하기 위한 중간 시간은 발프로산 그룹(5분)이 디아제팜 그룹(17분)보다 짧았습니다(P < 0.001). 발프로산 그룹의 환자 중 아무도 인공호흡이 필요하지 않았고 저혈압이 발생하지 않았으나 디아제팜 그룹에서는 60%가 인공호흡이 필요했고 50%가 디아제팜 주입 후 저혈압이 발생했습니다. 발프로산으로 인한 간 기능에 대한 부작용은 나타나지 않았습니다. 따라서 정맥내 나트륨 발프로산은 소아에서 내약성 상태 간질 조절에 있어 디아제팜 주입에 대한 효과적인 대안이며 호흡 억제와 저혈압이 없습니다."
+  },
+  {
+    "source": "Intravenous sodium valproate versus diazepam infusion for the control of refractory status epilepticus in children : a randomized controlled trial . An open-label , randomized controlled study was conducted at a tertiary care teaching hospital to compare efficacy and safety of intravenous sodium valproate versus diazepam infusion for control of refractory status epilepticus . Forty children with refractory status epilepticus were randomized to receive either intravenous sodium valproate or diazepam infusion . Refractory status epilepticus was controlled in 80 % of the valproate and 85 % of the diazepam patients . The median time to control refractory status epilepticus was less in the valproate group ( 5 minutes ) than the diazepam group ( 17 minutes ; P $lt; .001 ) . None of the patients in the valproate group required ventilation or developed hypotension , whereas in the diazepam group 60 % required ventilation and 50 % developed hypotension after starting diazepam infusion . No adverse effects on liver functions were seen with valproate . It is concluded that intravenous sodium valproate is an effective alternative to diazepam infusion in controlling refractory status epilepticus in children and is free of respiratory depression and hypotension .",
+    "target": "소아 난치성 간질 지속 상태 조절을 위한 정맥 주사 발프로산나트륨 대 디아제팜 주입 : 무작위 대조 시험. 개방 라벨, 무작위 대조 연구는 3차 의료 교육 병원에서 난치성 간질 지속 상태 조절을 위한 정맥 주사 발프로산나트륨 대 디아제팜 주입의 효능과 안전성을 비교하기 위해 수행되었다. 40명의 난치성 간질 지속 상태를 가진 어린이가 정맥 주사 발프로산나트륨 또는 디아제팜 주입을 받도록 무작위 배정되었다. 발프로산나트륨 그룹의 80%와 디아제팜 그룹의 85%에서 난치성 간질 지속 상태가 조절되었다. 난치성 간질 지속 상태를 조절하는 데 걸리는 중앙값은 발프로산나트륨 그룹(5분)이 디아제팜 그룹(17분; P $lt; .001)보다 짧았다. 발프로산나트륨 그룹의 환자 중 누구도 인공호흡기 치료를 받거나 저혈압이 발생하지 않았지만, 디아제팜 그룹에서는 60%가 인공호흡기 치료가 필요했고 디아제팜 주입 시작 후 50%에서 저혈압이 발생했다. 발프로산나트륨으로 간 기능에 대한 부작용은 관찰되지 않았다. 결론적으로 정맥 주사 발프로산나트륨은 소아의 난치성 간질 지속 상태 조절에 디아제팜 주입의 효과적인 대안이며 호흡 억제 및 저혈압이 없다.",
+    "id": "ebmpico_0_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        47
+      ],
+      [
+        66,
+        159
+      ],
+      [
+        160,
+        227
+      ],
+      [
+        506,
+        562
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        28
+      ],
+      [
+        36,
+        53
+      ],
+      [
+        73,
+        102
+      ],
+      [
+        106,
+        114
+      ],
+      [
+        278,
+        306
+      ],
+      [
+        314,
+        331
+      ],
+      [
+        379,
+        384
+      ],
+      [
+        399,
+        428
+      ],
+      [
+        463,
+        512
+      ],
+      [
+        1205,
+        1213
+      ]
+    ],
+    "reference": "소아의 내약성 상태 간질 조절을 위한 정맥내 나트륨 발프로산 대 디아제팜 주입: 무작위 대조 시험. 내약성 상태 간질 조절을 위한 정맥내 나트륨 발프로산과 디아제팜 주입의 효능과 안전성을 비교하기 위해 3차 치료 대학 병원에서 무작위 대조 연구가 진행되었습니다. 내약성 상태 간질이 있는 40명의 아동이 정맥내 나트륨 발프로산 또는 디아제팜 주입을 받도록 무작위로 배정되었습니다. 내약성 상태 간질은 발프로산 그룹에서 80%, 디아제팜 그룹에서 85%가 조절되었습니다. 내약성 상태 간질을 조절하기 위한 중간 시간은 발프로산 그룹(5분)이 디아제팜 그룹(17분)보다 짧았습니다(P < 0.001). 발프로산 그룹의 환자 중 아무도 인공호흡이 필요하지 않았고 저혈압이 발생하지 않았으나 디아제팜 그룹에서는 60%가 인공호흡이 필요했고 50%가 디아제팜 주입 후 저혈압이 발생했습니다. 발프로산으로 인한 간 기능에 대한 부작용은 나타나지 않았습니다. 따라서 정맥내 나트륨 발프로산은 소아에서 내약성 상태 간질 조절에 있어 디아제팜 주입에 대한 효과적인 대안이며 호흡 억제와 저혈압이 없습니다."
+  },
+  {
+    "source": "IMPRESSION: 1. Eight-month-old with initially diagnosed bronchiolitis which developed into a right middle lobe pneumonia. She will be discharged on Augmentin ES 600 mg per 5 ml, 300 mg p.o. b.i.d. x10 days. Of note, this is a change since she had been treated with Unasyn IV in the hospital.",
+    "target": "인상: 1. 초기에 세기관지염으로 진단된 8개월 된 아기로, 우측 중엽 폐렴으로 발전했습니다. 그녀는 Augmentin ES 600 mg per 5 ml, 300 mg p.o. b.i.d. x10 days로 퇴원할 예정입니다. 주목할 점은 그녀가 병원에서 Unasyn IV로 치료받았기 때문에 이는 변경 사항입니다.",
+    "id": "clinicalie_attr_0_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        33,
+        51
+      ],
+      [
+        52,
+        125
+      ],
+      [
+        126,
+        175
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        91,
+        120
+      ],
+      [
+        148,
+        160
+      ],
+      [
+        161,
+        184
+      ],
+      [
+        185,
+        189
+      ],
+      [
+        190,
+        196
+      ],
+      [
+        197,
+        205
+      ],
+      [
+        265,
+        271
+      ],
+      [
+        272,
+        274
+      ]
+    ],
+    "reference": "인상: 1. 처음 진단된 기관지염으로 시작된 8개월 된 아기로, 이후 우측 중엽 폐렴으로 발전했습니다. 그녀는 Augmentin ES 600 mg (5 ml 당 300 mg) 하루 두 번 10일 동안 복용하며 퇴원할 예정입니다. 주목할 점은 그녀가 병원에서 Unasyn IV로 치료받았던 것과 차이가 있다는 것입니다."
+  },
+  {
+    "source": "IMPRESSION: 1. Eight-month-old with initially diagnosed bronchiolitis which developed into a right middle lobe pneumonia. She will be discharged on Augmentin ES 600 mg per 5 ml, 300 mg p.o. b.i.d. x10 days. Of note, this is a change since she had been treated with Unasyn IV in the hospital.",
+    "target": "인상: 1. 초기에 세기관지염으로 진단된 8개월 된 아기가 오른쪽 중엽 폐렴으로 발전했습니다. 그녀는 8월에 Augmentin ES 600 mg per 5 ml, 300 mg p.o. b.i.d. x10 days로 퇴원할 예정입니다. 주목할 점은 그녀가 병원에서 Unasyn IV로 치료받았기 때문에 이는 변경된 것입니다.",
+    "id": "clinicalie_attr_0_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        6,
+        51
+      ],
+      [
+        52,
+        129
+      ],
+      [
+        130,
+        179
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        91,
+        120
+      ],
+      [
+        148,
+        160
+      ],
+      [
+        161,
+        184
+      ],
+      [
+        185,
+        189
+      ],
+      [
+        190,
+        196
+      ],
+      [
+        197,
+        205
+      ],
+      [
+        265,
+        271
+      ],
+      [
+        272,
+        274
+      ]
+    ],
+    "reference": "인상: 1. 처음 진단된 기관지염으로 시작된 8개월 된 아기로, 이후 우측 중엽 폐렴으로 발전했습니다. 그녀는 Augmentin ES 600 mg (5 ml 당 300 mg) 하루 두 번 10일 동안 복용하며 퇴원할 예정입니다. 주목할 점은 그녀가 병원에서 Unasyn IV로 치료받았던 것과 차이가 있다는 것입니다."
+  },
+  {
+    "source": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Cod liver oil one capsule GT q. day. 9. Multivitamin 1 tablet GT q. day. 10. Bicitra 10 mL GT b.i.d. DISCHARGE DIET: The patient is to resume his Pediasure home regimen.",
+    "target": "6. 프릴로섹 10mg GT 하루 두 번 7. 카르니틴 500mg GT 하루 두 번 8. 대구 간유 1캡슐 GT 하루 한 번 9. 멀티비타민 1정 GT 하루 한 번 10. 비시트라 10mL GT 하루 두 번 퇴원 시 식이: 환자는 Pediasure 가정 요법을 재개할 예정입니다.",
+    "id": "clinicalie_attr_1_gpt4_ez",
+    "target_focus_areas": [
+      [
+        2,
+        24
+      ],
+      [
+        25,
+        48
+      ],
+      [
+        49,
+        71
+      ],
+      [
+        72,
+        94
+      ],
+      [
+        95,
+        123
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        3,
+        11
+      ],
+      [
+        12,
+        17
+      ],
+      [
+        18,
+        20
+      ],
+      [
+        21,
+        27
+      ],
+      [
+        31,
+        40
+      ],
+      [
+        41,
+        47
+      ],
+      [
+        48,
+        50
+      ],
+      [
+        51,
+        57
+      ],
+      [
+        61,
+        74
+      ],
+      [
+        75,
+        86
+      ],
+      [
+        87,
+        89
+      ],
+      [
+        90,
+        96
+      ],
+      [
+        101,
+        113
+      ],
+      [
+        114,
+        122
+      ],
+      [
+        123,
+        125
+      ],
+      [
+        126,
+        132
+      ],
+      [
+        138,
+        145
+      ],
+      [
+        146,
+        151
+      ],
+      [
+        152,
+        154
+      ],
+      [
+        155,
+        161
+      ]
+    ],
+    "reference": "6. 프릴로섹 10mg 하루 두 번 복용. 7. 카르니틴 500mg 하루 두 번 복용. 8. 생선 간유 1캡슐 하루 한 번 복용. 9. 종합비타민 1정 하루 한 번 복용. 10. 비시트라 10mL 하루 두 번 복용. 퇴원 식단: 환자는 페디아슈어 자택 요법을 재개해야 합니다."
+  },
+  {
+    "source": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Cod liver oil one capsule GT q. day. 9. Multivitamin 1 tablet GT q. day. 10. Bicitra 10 mL GT b.i.d. DISCHARGE DIET: The patient is to resume his Pediasure home regimen.",
+    "target": "6. 프릴로섹 10mg 경구투여 하루 2회  \n7. 카르니틴 500mg 경구투여 하루 2회  \n8. 대구간유 캡슐 1개 경구투여 매일  \n9. 종합비타민 1정 경구투여 매일  \n10. 비시트라 10mL 경구투여 하루 2회  \n퇴원 식이: 환자는 집에서 페디어슈어 복용을 재개할 것입니다.",
+    "id": "clinicalie_attr_1_gpt4_clap",
+    "target_focus_areas": [
+      [
+        2,
+        27
+      ],
+      [
+        28,
+        54
+      ],
+      [
+        55,
+        78
+      ],
+      [
+        79,
+        101
+      ],
+      [
+        102,
+        131
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        3,
+        11
+      ],
+      [
+        12,
+        17
+      ],
+      [
+        18,
+        20
+      ],
+      [
+        21,
+        27
+      ],
+      [
+        31,
+        40
+      ],
+      [
+        41,
+        47
+      ],
+      [
+        48,
+        50
+      ],
+      [
+        51,
+        57
+      ],
+      [
+        61,
+        74
+      ],
+      [
+        75,
+        86
+      ],
+      [
+        87,
+        89
+      ],
+      [
+        90,
+        96
+      ],
+      [
+        101,
+        113
+      ],
+      [
+        114,
+        122
+      ],
+      [
+        123,
+        125
+      ],
+      [
+        126,
+        132
+      ],
+      [
+        138,
+        145
+      ],
+      [
+        146,
+        151
+      ],
+      [
+        152,
+        154
+      ],
+      [
+        155,
+        161
+      ]
+    ],
+    "reference": "6. 프릴로섹 10mg 하루 두 번 복용. 7. 카르니틴 500mg 하루 두 번 복용. 8. 생선 간유 1캡슐 하루 한 번 복용. 9. 종합비타민 1정 하루 한 번 복용. 10. 비시트라 10mL 하루 두 번 복용. 퇴원 식단: 환자는 페디아슈어 자택 요법을 재개해야 합니다."
+  },
+  {
+    "source": "Her mother suffers from hypertension. Other female relatives suffer from endometriosis. SOCIAL HISTORY: The patient is married. She works as an account coordinator at US Bank. She denies use of tobacco, alcohol, or drugs. ADMISSION PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 136/80 to 147/106.",
+    "target": "어머니는 고혈압으로 고생하십니다. 다른 여성 친척들은 자궁내막증으로 고생합니다. 사회력: 환자는 결혼했습니다. 그녀는 US Bank에서 계정 코디네이터로 일합니다. 담배, 술, 약물 사용을 부인합니다. 입원 신체 검사: 활력 징후: 혈압 136/80 ~ 147/106.",
+    "id": "clinicalie_coref_0_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        49,
+        60
+      ],
+      [
+        61,
+        90
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        104,
+        115
+      ],
+      [
+        128,
+        131
+      ]
+    ],
+    "reference": "그녀의 어머니는 고혈압으로 고통받고 있습니다. 다른 여성 친척들은 자궁내막증으로 고통받고 있습니다. 사회력: 환자는 기혼입니다. 그녀는 US 뱅크에서 회계 조정자로 일하고 있습니다. 그녀는 담배, 알코올 또는 약물 사용을 부인합니다. 입원 신체 검사: 생체 징후: 혈압 136/80에서 147/106."
+  },
+  {
+    "source": "Her mother suffers from hypertension. Other female relatives suffer from endometriosis. SOCIAL HISTORY: The patient is married. She works as an account coordinator at US Bank. She denies use of tobacco, alcohol, or drugs. ADMISSION PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 136/80 to 147/106.",
+    "target": "그녀의 어머니는 고혈압으로 고통받고 있습니다. 다른 여성 친척들은 자궁내막증으로 고통받고 있습니다. 사회력: 환자는 결혼했습니다. US Bank에서 계정 코디네이터로 일합니다. 담배, 술, 약물 사용을 부인합니다. 입원 신체 검사: 활력 징후: 혈압 136/80에서 147/106까지.",
+    "id": "clinicalie_coref_0_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        24
+      ],
+      [
+        60,
+        71
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        104,
+        115
+      ],
+      [
+        128,
+        131
+      ]
+    ],
+    "reference": "그녀의 어머니는 고혈압으로 고통받고 있습니다. 다른 여성 친척들은 자궁내막증으로 고통받고 있습니다. 사회력: 환자는 기혼입니다. 그녀는 US 뱅크에서 회계 조정자로 일하고 있습니다. 그녀는 담배, 알코올 또는 약물 사용을 부인합니다. 입원 신체 검사: 생체 징후: 혈압 136/80에서 147/106."
+  },
+  {
+    "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
+    "target": "지난주 이후로 4파운드를 더 감량했습니다. 그녀는 지속적인 설사를 겪고 있습니다. 하지만 CDI의 방사선 전문의가 나에게 전화를 해서 CT 스캔에서 위의 소견 외에 좌측 폐 색전증이 보였다고 보고하기 전까지는 외래 환자로 그것을 관리할 준비가 되어 있었습니다.",
+    "id": "clinicalie_coref_1_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        23,
+        44
+      ],
+      [
+        64,
+        144
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        59,
+        78
+      ],
+      [
+        117,
+        121
+      ]
+    ],
+    "reference": "그녀는 지난 주 이후로 4파운드를 더 감량했습니다. 그녀는 지속적인 설사를 하고 있습니다. 그러나 우리는 방사선사가 이러한 소견 외에 CT 스캔에서 좌측 폐색전증을 발견했다고 전화하기 전까지는 외래환자로 관리할 준비가 되어 있었습니다."
+  },
+  {
+    "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
+    "target": "지난주 이후로 그녀는 4파운드를 더 감량했습니다. 그녀는 지속적인 설사를 겪고 있습니다. 하지만 CDI의 방사선 전문의가 위의 소견 외에 CT 스캔에서 좌측 폐색전증을 발견했다고 보고해 주기 전까지는 외래 환자로 치료할 준비가 되어 있었습니다.",
+    "id": "clinicalie_coref_1_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        27,
+        48
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        59,
+        78
+      ],
+      [
+        117,
+        121
+      ]
+    ],
+    "reference": "그녀는 지난 주 이후로 4파운드를 더 감량했습니다. 그녀는 지속적인 설사를 하고 있습니다. 그러나 우리는 방사선사가 이러한 소견 외에 CT 스캔에서 좌측 폐색전증을 발견했다고 전화하기 전까지는 외래환자로 관리할 준비가 되어 있었습니다."
+  },
+  {
+    "source": "I will hold the Amaryl for now to make sure this may not be contributing to his nausea. I will perform Accu-Cheks and sliding scale. 5. Nausea. I will DC all narcotics and pain pills and will treat him only with Tylenol. Continue his Protonex. I will DC his Isordil. As stated above, we will hold his Amaryl for now.",
+    "target": "우선 Amaryl은 그의 메스꺼움에 원인이 아닐지 확인하기 위해 잠시 중단하겠습니다. Accu-Cheks와 슬라이딩 스케일을 시행하겠습니다. 5. 메스꺼움. 모든 마약성 진통제와 진통제는 중단하고, Tylenol만으로 치료하겠습니다. 그의 Protonex는 계속 투여합니다. Isordil은 중단하겠습니다. 위에서 언급한 대로, Amaryl은 당분간 중단합니다.",
+    "id": "clinicalie_mse_0_gpt4_ez",
+    "target_focus_areas": [
+      [
+        0,
+        46
+      ],
+      [
+        110,
+        129
+      ],
+      [
+        130,
+        152
+      ],
+      [
+        153,
+        170
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        16,
+        22
+      ],
+      [
+        212,
+        219
+      ],
+      [
+        234,
+        242
+      ],
+      [
+        258,
+        265
+      ]
+    ],
+    "reference": "이것이 그의 메스꺼움에 기여하지 않도록 지금은 아마릴을 붙잡을 것입니다. Accu-Cheks와 슬라이딩 스케일을 수행합니다. 5. 메스꺼움. 나는 모든 마약과 진통제를 DC하고 타이레놀로만 치료할 것입니다. 그의 Protonex를 계속하십시오. 나는 그의 Isordil을 DC할 것입니다. 위에서 언급했듯이 우리는 지금은 그의 아마릴을 보유할 것입니다."
+  },
+  {
+    "source": "I will hold the Amaryl for now to make sure this may not be contributing to his nausea. I will perform Accu-Cheks and sliding scale. 5. Nausea. I will DC all narcotics and pain pills and will treat him only with Tylenol. Continue his Protonex. I will DC his Isordil. As stated above, we will hold his Amaryl for now.",
+    "target": "일단은 이 약물이 그의 메스꺼움에 영향을 주는지 확인하기 위해 아마릴 복용을 중단하겠습니다. 혈당 체크와 슬라이딩 스케일을 시행할 예정입니다. 5. 메스꺼움. 모든 마약성 진통제와 진통제를 중단하고 타이레놀만 투여하겠습니다. 프로토넥스는 계속 유지하겠습니다. 이소르딜은 중단하겠습니다. 위에 언급한 대로 아마릴은 일단 중단하겠습니다.",
+    "id": "clinicalie_mse_0_gpt4_clap",
+    "target_focus_areas": [
+      [
+        0,
+        50
+      ],
+      [
+        88,
+        124
+      ],
+      [
+        125,
+        143
+      ],
+      [
+        144,
+        158
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        16,
+        22
+      ],
+      [
+        212,
+        219
+      ],
+      [
+        234,
+        242
+      ],
+      [
+        258,
+        265
+      ]
+    ],
+    "reference": "이것이 그의 메스꺼움에 기여하지 않도록 지금은 아마릴을 붙잡을 것입니다. Accu-Cheks와 슬라이딩 스케일을 수행합니다. 5. 메스꺼움. 나는 모든 마약과 진통제를 DC하고 타이레놀로만 치료할 것입니다. 그의 Protonex를 계속하십시오. 나는 그의 Isordil을 DC할 것입니다. 위에서 언급했듯이 우리는 지금은 그의 아마릴을 보유할 것입니다."
+  },
+  {
+    "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
+    "target": "그녀는 크론병에 대한 명확한 절제술도 받지 않았습니다. 4. 고혈압. 5. 1998년 유방 축소술. 약물: 입원 당시 포함된 약물은 다음과 같습니다. 1. 6 MP. 2. 리시노프릴. 3. 피임약. 4. 히드로클로로티아지드. 5. B-12. 6. 퍼코셋. 7. 딜라우디드. 알레르기: 그녀는 모르핀, 설폰아미드 및 레미케이드에 알레르기가 있으며 부작용이 있습니다.",
+    "id": "clinicalie_mse_1_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        86,
+        91
+      ],
+      [
+        95,
+        101
+      ],
+      [
+        113,
+        124
+      ],
+      [
+        128,
+        133
+      ],
+      [
+        137,
+        141
+      ],
+      [
+        145,
+        151
+      ],
+      [
+        158,
+        166
+      ],
+      [
+        167,
+        202
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        152,
+        156
+      ],
+      [
+        161,
+        171
+      ],
+      [
+        199,
+        218
+      ],
+      [
+        223,
+        227
+      ],
+      [
+        232,
+        240
+      ],
+      [
+        245,
+        253
+      ],
+      [
+        288,
+        296
+      ],
+      [
+        298,
+        303
+      ],
+      [
+        331,
+        339
+      ]
+    ],
+    "reference": "그녀는 크론병의 명확한 절제 수술을 받지 않았습니다. 4. 고혈압. 5. 1998년에 유방 축소 수술. 약물: 입원 시 포함된 약물은 다음과 같습니다: 1. 6 MP. 2. 리시노프릴. 3. 경구 피임약. 4. 하이드로클로로티아지드. 5. 비타민 B-12. 6. 펀코셋. 7. 딜라우디드. 알레르기: 그녀는 모르핀, 설파에 대한 알레르기가 있으며, 레미케이드에 대한 부작용이 있습니다."
+  },
+  {
+    "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
+    "target": "그녀는 크론병에 대한 명확한 절제술을 받지 못했습니다. 4. 고혈압. 5. 1998년 가슴 축소술. 약물: 입원 당시 포함된 약물은 다음과 같습니다: 1. 6 MP. 2. 리시노프릴. 3. 피임약. 4. 히드로클로로티아지드. 5. B-12. 6. 퍼코셋. 7. 딜라우디드. 알레르기: 그녀는 모르핀, 설폰아미드에 알레르기가 있으며 레미케이드에 대한 부작용이 있습니다.",
+    "id": "clinicalie_mse_1_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        86,
+        91
+      ],
+      [
+        95,
+        101
+      ],
+      [
+        113,
+        124
+      ],
+      [
+        128,
+        133
+      ],
+      [
+        137,
+        141
+      ],
+      [
+        145,
+        151
+      ],
+      [
+        158,
+        166
+      ],
+      [
+        167,
+        204
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        152,
+        156
+      ],
+      [
+        161,
+        171
+      ],
+      [
+        199,
+        218
+      ],
+      [
+        223,
+        227
+      ],
+      [
+        232,
+        240
+      ],
+      [
+        245,
+        253
+      ],
+      [
+        288,
+        296
+      ],
+      [
+        298,
+        303
+      ],
+      [
+        331,
+        339
+      ]
+    ],
+    "reference": "그녀는 크론병의 명확한 절제 수술을 받지 않았습니다. 4. 고혈압. 5. 1998년에 유방 축소 수술. 약물: 입원 시 포함된 약물은 다음과 같습니다: 1. 6 MP. 2. 리시노프릴. 3. 경구 피임약. 4. 하이드로클로로티아지드. 5. 비타민 B-12. 6. 펀코셋. 7. 딜라우디드. 알레르기: 그녀는 모르핀, 설파에 대한 알레르기가 있으며, 레미케이드에 대한 부작용이 있습니다."
+  },
+  {
+    "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
+    "target": "이러한 모든 경우에 우리의 정책은 법률이 요구하는 대로 협력하는 것이지만, 법률이 요구하는 것과 같은 정보만을 제공하는 것입니다.",
+    "id": "policyie_12_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        40
+      ],
+      [
+        41,
+        71
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        20,
+        23
+      ],
+      [
+        75,
+        82
+      ],
+      [
+        93,
+        104
+      ],
+      [
+        108,
+        124
+      ]
+    ],
+    "reference": "모든 경우에 있어서, 우리의 정책은 법이 요구하는 대로 협력하는 것이지만, 법이 요구하는 정보만 제공하는 것입니다."
+  },
+  {
+    "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
+    "target": "이러한 모든 경우에 있어, 우리의 정책은 법률이 요구하는 바에 따라 협조하되, 법률이 요구하는 정보만을 제공하는 것입니다.",
+    "id": "policyie_12_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        14,
+        42
+      ],
+      [
+        43,
+        67
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        20,
+        23
+      ],
+      [
+        75,
+        82
+      ],
+      [
+        93,
+        104
+      ],
+      [
+        108,
+        124
+      ]
+    ],
+    "reference": "모든 경우에 있어서, 우리의 정책은 법이 요구하는 대로 협력하는 것이지만, 법이 요구하는 정보만 제공하는 것입니다."
+  },
+  {
+    "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
+    "target": "법률은 우리가 사전 통지 없이 자발적으로 법 집행 기관에 고객 정보를, 통신 내용을 포함하여 공개하는 것을 허용합니다. 다만, 즉각적인 사망 위험이나 심각한 신체 상해와 관련된 비상 상황이 지체 없이 그러한 공개를 요구한다고 합리적으로 믿는 경우에 한합니다.",
+    "id": "policyie_13_gpt4_ez",
+    "target_focus_areas": [
+      [
+        0,
+        38
+      ],
+      [
+        39,
+        65
+      ],
+      [
+        70,
+        143
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        20,
+        22
+      ],
+      [
+        26,
+        34
+      ],
+      [
+        38,
+        53
+      ],
+      [
+        56,
+        92
+      ],
+      [
+        95,
+        103
+      ],
+      [
+        104,
+        115
+      ],
+      [
+        132,
+        158
+      ],
+      [
+        164,
+        305
+      ]
+    ],
+    "reference": "법은 고객 정보, 통신 내용 포함하여, 즉각적인 위협이 있는 긴급 상황이 발생한다고 합리적으로 믿을 경우 사전 통지 없이 자발적으로 법 집행 기관에 공개할 수 있도록 허용합니다."
+  },
+  {
+    "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
+    "target": "법은 긴급 상황으로 즉각적인 사망 또는 심각한 신체 상해의 위험이 있는 경우, 지연 없이 그러한 공개가 필요하다고 합리적으로 믿을 때, 고객 정보(통신 내용 포함)를 사전 통지 없이 자발적으로 법 집행 기관에 공개할 수 있도록 허용하고 있습니다.",
+    "id": "policyie_13_gpt4_clap",
+    "target_focus_areas": [
+      [
+        0,
+        74
+      ],
+      [
+        75,
+        81
+      ],
+      [
+        82,
+        90
+      ],
+      [
+        91,
+        136
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        20,
+        22
+      ],
+      [
+        26,
+        34
+      ],
+      [
+        38,
+        53
+      ],
+      [
+        56,
+        92
+      ],
+      [
+        95,
+        103
+      ],
+      [
+        104,
+        115
+      ],
+      [
+        132,
+        158
+      ],
+      [
+        164,
+        305
+      ]
+    ],
+    "reference": "법은 고객 정보, 통신 내용 포함하여, 즉각적인 위협이 있는 긴급 상황이 발생한다고 합리적으로 믿을 경우 사전 통지 없이 자발적으로 법 집행 기관에 공개할 수 있도록 허용합니다."
+  },
+  {
+    "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
+    "target": "Equinor는 기록적인 세전 이익을 발표하고 배당금 및 자사주 매입을 늘릴 것이라고 밝혔으며, 금융 분야에서는 Amundi가 전략 목표를 초과 달성했고 ABN Amro가 순이익 증가에 따라 5억 유로 규모의 자사주 매입을 발표했습니다.",
+    "id": "finentity_0_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        39
+      ],
+      [
+        53,
+        124
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        10,
+        17
+      ],
+      [
+        122,
+        128
+      ],
+      [
+        161,
+        169
+      ]
+    ],
+    "reference": "석유 그룹 에퀴노르가 기록적인 세전 이익을 발표했으며 배당금과 자사주 매입을 늘릴 것이라고 밝혔고, 금융 부문에서는 아뮤니가 전략적 목표를 초과 달성했으며 ABN 암로가 순이익 증가에 따라 5억 유로 규모의 자사주 매입을 발표했습니다."
+  },
+  {
+    "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
+    "target": "석유 그룹 Equinor는 기록적인 세전 이익을 발표하고 배당금 및 자사주 매입을 늘릴 것이라고 밝혔으며, 금융 분야에서는 Amundi가 전략 목표를 초과 달성했고 ABN Amro는 순이익 급증에 따라 5억 유로 규모의 자사주 매입을 발표했습니다.",
+    "id": "finentity_0_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        45
+      ],
+      [
+        59,
+        130
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        10,
+        17
+      ],
+      [
+        122,
+        128
+      ],
+      [
+        161,
+        169
+      ]
+    ],
+    "reference": "석유 그룹 에퀴노르가 기록적인 세전 이익을 발표했으며 배당금과 자사주 매입을 늘릴 것이라고 밝혔고, 금융 부문에서는 아뮤니가 전략적 목표를 초과 달성했으며 ABN 암로가 순이익 증가에 따라 5억 유로 규모의 자사주 매입을 발표했습니다."
+  },
+  {
+    "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
+    "target": "\"석유 수요는... 최신 데이터를 보면 아직 괜찮은 수준입니다. 수요 감소가 있을 것으로 예상했지만, 실제로는 그렇지 않았습니다.\"라고 Gunvor Group의 글로벌 시장 조사 및 분석 책임자인 프레데릭 라세르(Frederic Lasserre)가 말했습니다.",
+    "id": "finentity_9_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        73,
+        118
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        210,
+        222
+      ]
+    ],
+    "reference": "\"석유 수요 ... 최신 데이터를 보면 여전히 괜찮습니다. 우리는 수요 파괴가 있을 것으로 예상했지만 실제로는 일어나지 않았습니다.\"라고 Gunvor Group의 글로벌 시장 조사 및 분석 책임자인 프레드릭 라세르가 말했습니다."
+  },
+  {
+    "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
+    "target": "\"최신 데이터를 보면 석유 수요는 여전히 괜찮은 수준입니다. 수요 감소가 있을 것으로 예상했지만, 실제로는 그렇지 않았습니다\"라고 건보르 그룹의 시장 조사 및 분석 글로벌 팀장인 프레드릭 라세르가 말했습니다.",
+    "id": "finentity_9_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        70,
+        109
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        210,
+        222
+      ]
+    ],
+    "reference": "\"석유 수요 ... 최신 데이터를 보면 여전히 괜찮습니다. 우리는 수요 파괴가 있을 것으로 예상했지만 실제로는 일어나지 않았습니다.\"라고 Gunvor Group의 글로벌 시장 조사 및 분석 책임자인 프레드릭 라세르가 말했습니다."
+  },
+  {
+    "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
+    "target": "사업 인수 2012년 4월 2일, 우리는 Green River Collieries, LLC(\"Green River\")의 석탄 채굴 사업 및 운영과 관련된 자산 대부분을 인수했으며, 해당 자산은 웹스터와 홉킨스 카운티, 켄터키에 위치해 있습니다.",
+    "id": "fire_0_gpt4_ez",
+    "target_focus_areas": [
+      [
+        0,
+        17
+      ],
+      [
+        18,
+        99
+      ],
+      [
+        100,
+        120
+      ],
+      [
+        121,
+        135
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        11
+      ],
+      [
+        27,
+        41
+      ],
+      [
+        47,
+        55
+      ],
+      [
+        77,
+        128
+      ],
+      [
+        151,
+        186
+      ],
+      [
+        198,
+        205
+      ],
+      [
+        210,
+        217
+      ],
+      [
+        229,
+        237
+      ]
+    ],
+    "reference": "사업 인수 2012년 4월 2일, 우리는 켄터키 주 웹스터 및 홉킨스 카운티에 위치한 Green River Collieries, LLC(이하 '그린 리버')의 석탄 채굴 사업 및 운영과 관련된 거의 모든 자산을 인수했습니다."
+  },
+  {
+    "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
+    "target": "사업 인수 2012년 4월 2일, 당사는 켄터키 주 웹스터 및 홉킨스 카운티에 위치한 Green River Collieries, LLC(\"Green River\")의 석탄 채굴 사업 및 운영과 관련된 자산 대부분을 인수하였습니다.",
+    "id": "fire_0_gpt4_clap",
+    "target_focus_areas": [
+      [
+        0,
+        17
+      ],
+      [
+        18,
+        126
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        11
+      ],
+      [
+        27,
+        41
+      ],
+      [
+        47,
+        55
+      ],
+      [
+        77,
+        128
+      ],
+      [
+        151,
+        186
+      ],
+      [
+        198,
+        205
+      ],
+      [
+        210,
+        217
+      ],
+      [
+        229,
+        237
+      ]
+    ],
+    "reference": "사업 인수 2012년 4월 2일, 우리는 켄터키 주 웹스터 및 홉킨스 카운티에 위치한 Green River Collieries, LLC(이하 '그린 리버')의 석탄 채굴 사업 및 운영과 관련된 거의 모든 자산을 인수했습니다."
+  },
+  {
+    "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
+    "target": "프루덴셜의 주식을 이용한 인수 제안 265억 달러는 발표 직후 주가가 폭락하면서 200억 달러가 조금 넘는 수준으로 줄어들었다. 이후 AIG가 230억 달러를 제시했고, 아메리칸 제너럴은 이를 수락했다.",
+    "id": "fire_22_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        70
+      ],
+      [
+        71,
+        93
+      ],
+      [
+        94,
+        112
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        12
+      ],
+      [
+        13,
+        16
+      ],
+      [
+        37,
+        42
+      ],
+      [
+        68,
+        79
+      ],
+      [
+        85,
+        97
+      ],
+      [
+        98,
+        104
+      ],
+      [
+        139,
+        142
+      ],
+      [
+        171,
+        182
+      ],
+      [
+        205,
+        221
+      ]
+    ],
+    "reference": "프루덴셜의 265억 달러 규모 주식 입찰은 발표 후 프루덴셜의 주가가 급락하면서 200억 달러를 조금 넘는 수준으로 줄어들었습니다. 그때 AIG가 나서서 230억 달러를 제안했고, 이는 아메리칸 제너럴에 의해 수락되었습니다."
+  },
+  {
+    "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
+    "target": "프루덴셜의 265억 달러 규모의 주식 인수를 제안했지만, 발표 직후 프루덴셜 주가가 폭락하면서 200억 달러가 조금 넘는 수준으로 줄었습니다. 이후 AIG가 230억 달러를 제시했고, 아메리칸 제너럴은 이를 수락했습니다.",
+    "id": "fire_22_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        30
+      ],
+      [
+        31,
+        78
+      ],
+      [
+        79,
+        101
+      ],
+      [
+        102,
+        122
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        12
+      ],
+      [
+        13,
+        16
+      ],
+      [
+        37,
+        42
+      ],
+      [
+        68,
+        79
+      ],
+      [
+        85,
+        97
+      ],
+      [
+        98,
+        104
+      ],
+      [
+        139,
+        142
+      ],
+      [
+        171,
+        182
+      ],
+      [
+        205,
+        221
+      ]
+    ],
+    "reference": "프루덴셜의 265억 달러 규모 주식 입찰은 발표 후 프루덴셜의 주가가 급락하면서 200억 달러를 조금 넘는 수준으로 줄어들었습니다. 그때 AIG가 나서서 230억 달러를 제안했고, 이는 아메리칸 제너럴에 의해 수락되었습니다."
+  },
+  {
+    "source": "The primary backdoor used in the Epic attacks is also known as '' WorldCupSec '' , '' TadjMakhal '' , '' Wipbot '' or '' Tavdig '' .",
+    "target": "Epic 공격에서 사용된 주요 백도어는 'WorldCupSec', 'TadjMakhal', 'Wipbot' 또는 'Tavdig'로도 알려져 있습니다.",
+    "id": "malwaretextdb_0_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        22
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        20
+      ],
+      [
+        21,
+        25
+      ],
+      [
+        26,
+        28
+      ],
+      [
+        29,
+        45
+      ]
+    ],
+    "reference": "Epic 공격에 사용된 주요 백도어는 '' WorldCupSec '', '' TadjMakhal '', '' Wipbot '' 또는 '' Tavdig '' 로도 알려져 있습니다."
+  },
+  {
+    "source": "The primary backdoor used in the Epic attacks is also known as '' WorldCupSec '' , '' TadjMakhal '' , '' Wipbot '' or '' Tavdig '' .",
+    "target": "Epic 공격에서 사용된 주요 백도어는 'WorldCupSec', 'TadjMakhal', 'Wipbot', 'Tavdig'로도 알려져 있습니다.",
+    "id": "malwaretextdb_0_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        22
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        20
+      ],
+      [
+        21,
+        25
+      ],
+      [
+        26,
+        28
+      ],
+      [
+        29,
+        45
+      ]
+    ],
+    "reference": "Epic 공격에 사용된 주요 백도어는 '' WorldCupSec '', '' TadjMakhal '', '' Wipbot '' 또는 '' Tavdig '' 로도 알려져 있습니다."
+  },
+  {
+    "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
+    "target": "에픽 백도어는 거대한 해킹된 서버 네트워크에 의해 명령되며, 이들은 명령 및 제어 기능을 제공합니다.",
+    "id": "malwaretextdb_21_gpt4_ez",
+    "target_focus_areas": [
+      [
+        0,
+        32
+      ],
+      [
+        33,
+        55
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        18
+      ],
+      [
+        19,
+        32
+      ],
+      [
+        36,
+        68
+      ],
+      [
+        74,
+        81
+      ],
+      [
+        82,
+        115
+      ]
+    ],
+    "reference": "에픽 백도어는 명령 및 제어 기능을 제공하는 해킹된 서버의 거대한 네트워크에 의해 조종됩니다."
+  },
+  {
+    "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
+    "target": "에픽 백도어는 명령 및 제어 기능을 제공하는 거대한 해킹 서버 네트워크에 의해 조종됩니다.",
+    "id": "malwaretextdb_21_gpt4_clap",
+    "target_focus_areas": [
+      [
+        0,
+        49
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        18
+      ],
+      [
+        19,
+        32
+      ],
+      [
+        36,
+        68
+      ],
+      [
+        74,
+        81
+      ],
+      [
+        82,
+        115
+      ]
+    ],
+    "reference": "에픽 백도어는 명령 및 제어 기능을 제공하는 해킹된 서버의 거대한 네트워크에 의해 조종됩니다."
+  },
+  {
+    "source": "But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.",
+    "target": "하지만 또 다른 업데이트가 오늘 배포되었기 때문에, 문제가 드디어, 확실히 해결된 것일 수도 있습니다.",
+    "id": "casie_0_0_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        27
+      ],
+      [
+        28,
+        36
+      ],
+      [
+        37,
+        56
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        4,
+        15
+      ],
+      [
+        16,
+        30
+      ],
+      [
+        31,
+        36
+      ],
+      [
+        60,
+        69
+      ],
+      [
+        83,
+        99
+      ]
+    ],
+    "reference": "하지만 오늘 또 하나가 릴리스되었으므로, 그 문제는 마침내 완전히 해결되었을 가능성이 있습니다."
+  },
+  {
+    "source": "But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.",
+    "target": "하지만 오늘 또 다른 업데이트가 나왔으니, 문제가 드디어 확실히 해결되었을 가능성이 있다.",
+    "id": "casie_0_0_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        22
+      ],
+      [
+        23,
+        49
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        4,
+        15
+      ],
+      [
+        16,
+        30
+      ],
+      [
+        31,
+        36
+      ],
+      [
+        60,
+        69
+      ],
+      [
+        83,
+        99
+      ]
+    ],
+    "reference": "하지만 오늘 또 하나가 릴리스되었으므로, 그 문제는 마침내 완전히 해결되었을 가능성이 있습니다."
+  },
+  {
+    "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
+    "target": "Microsoft가 패치했을 때, FireEye 연구원인 Hanson과 자사 직원들에게 감사를 표했습니다.",
+    "id": "casie_9_6_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        17
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        5,
+        14
+      ],
+      [
+        15,
+        22
+      ]
+    ],
+    "reference": "마이크로소프트가 패치를 진행했을 때, Hanson이라는 FireEye 연구원과 자신의 직원들에게 감사를 전했습니다."
+  },
+  {
+    "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
+    "target": "마이크로소프트가 패치를 적용했을 때, 마이크로소프트는 파이어아이 연구원인 한슨과 자사 직원들에게 감사를 표했습니다.",
+    "id": "casie_9_6_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        19
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        5,
+        14
+      ],
+      [
+        15,
+        22
+      ]
+    ],
+    "reference": "마이크로소프트가 패치를 진행했을 때, Hanson이라는 FireEye 연구원과 자신의 직원들에게 감사를 전했습니다."
+  },
+  {
+    "source": "The final stage in the development of the Skyfox was the production of a model with tricycle landing gear to better cater for the pilot training market .",
+    "target": "스카이폭스 개발의 최종 단계는 조종사 훈련 시장에 더 적합하도록 삼륜 착륙 장치를 갖춘 모델을 생산하는 것이었습니다.",
+    "id": "fewnerd_0_gpt4_ez",
+    "target_focus_areas": [
+      [
+        0,
+        35
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        42,
+        48
+      ]
+    ],
+    "reference": "Skyfox 개발의 마지막 단계는 조종사 훈련 시장에 더 잘 맞추기 위해 삼륜 착륙 장치를 장착한 모델의 생산이었습니다."
+  },
+  {
+    "source": "The final stage in the development of the Skyfox was the production of a model with tricycle landing gear to better cater for the pilot training market .",
+    "target": "스카이폭스 개발의 최종 단계는 조종사 훈련 시장에 더 잘 대응하기 위해 삼륜 착륙장치를 장착한 모델의 생산이었습니다.",
+    "id": "fewnerd_0_gpt4_clap",
+    "target_focus_areas": [
+      [
+        0,
+        31
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        42,
+        48
+      ]
+    ],
+    "reference": "Skyfox 개발의 마지막 단계는 조종사 훈련 시장에 더 잘 맞추기 위해 삼륜 착륙 장치를 장착한 모델의 생산이었습니다."
+  },
+  {
+    "source": "The play is set to return to the United States , originally to open on Broadway at the Nederlander Theatre on 7 March 2020 in previews , officially on 26 March .",
+    "target": "미국에서 다시 공연될 예정인 이 연극은 원래 2020년 3월 7일부터 브로드웨이의 네덜란더 극장에서 프리뷰 공연을 시작하고, 3월 26일에 공식적으로 막을 올릴 예정이었다.",
+    "id": "fewnerd_938_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        68
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        33,
+        46
+      ],
+      [
+        71,
+        79
+      ],
+      [
+        87,
+        106
+      ]
+    ],
+    "reference": "이 연극은 미국으로 돌아올 예정이며, 원래 2020년 3월 7일 네덜란더 극장에서 브로드웨이에서 프리뷰를 시작하고 3월 26일에 공식적으로 개막할 예정입니다."
+  },
+  {
+    "source": "The play is set to return to the United States , originally to open on Broadway at the Nederlander Theatre on 7 March 2020 in previews , officially on 26 March .",
+    "target": "이 연극은 미국으로 돌아올 예정이며, 원래 2020년 3월 7일에 네덜랜더 극장에서 프리뷰 공연을 시작하고, 3월 26일에 공식적으로 막을 올릴 예정이었다.",
+    "id": "fewnerd_938_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        19
+      ],
+      [
+        20,
+        59
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        33,
+        46
+      ],
+      [
+        71,
+        79
+      ],
+      [
+        87,
+        106
+      ]
+    ],
+    "reference": "이 연극은 미국으로 돌아올 예정이며, 원래 2020년 3월 7일 네덜란더 극장에서 브로드웨이에서 프리뷰를 시작하고 3월 26일에 공식적으로 개막할 예정입니다."
+  },
+  {
+    "source": "The Letter from Birmingham Jail , also known as the Letter from Birmingham City Jail and The Negro Is Your Brother , is an open letter written on April 16 , 1963 , by Martin Luther King Jr . The letter defends the strategy of nonviolent resistance to racism . It says that people have a moral responsibility to break unjust laws and to take direct action rather than waiting potentially forever for justice to come through the courts . Responding to being referred to as an `` outsider , '' King writes , `` Injustice anywhere is a threat to justice everywhere '' . The letter , written during the 1963 Birmingham campaign , was widely published , and became an important text for the American Civil Rights Movement .",
+    "target": "$lt;사진: 버밍엄 감옥 편지$gt;는 $lt;버밍엄 시 감옥 편지$gt;와 $lt;흑인은 당신의 형제이다$gt;로도 알려져 있으며, 1963년 4월 16일 마틴 루터 킹 주니어가 쓴 공개 서한입니다. 이 편지는 인종 차별에 대한 비폭력 저항 전략을 옹호합니다. 이 편지는 사람들이 불의한 법률을 깨고, 법원을 통해 정의가 실현될 가능성이 있는 영원히 기다리는 대신 직접 행동을 취할 도덕적 책임이 있음을 말합니다. \"외부인\"으로 불리는 것에 대한 반응으로, 킹은 \"어디에서든 불의는 모든 곳의 정의에 대한 위협이다\"라고 씁니다. 1963년 버밍엄 캠페인 동안 쓰인 이 편지는 널리 발표되었고, 미국 민권 운동에 중요한 텍스트가 되었습니다.",
+    "id": "multispanqa_0_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        113,
+        146
+      ],
+      [
+        147,
+        232
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        210,
+        257
+      ],
+      [
+        287,
+        433
+      ]
+    ],
+    "reference": "버밍햄 교도소에서의 편지, 또한 버밍햄 시 교도소에서의 편지와 흑인은 당신의 형제라는 이름으로 알려져 있는 이 편지는 마틴 루터 킹 주니어가 1963년 4월 16일에 쓴 공개 편지입니다. 이 편지는 인종차별에 대한 비폭력 저항 전략을 옹호합니다. 이 편지는 사람들이 불공정한 법을 깨고, 법원에서 정의가 오기를 영원히 기다리기보다는 직접 행동을 취할 도덕적 책임이 있다고 말합니다. '외부인'으로 언급된 것에 대한 답변으로 킹은 '어디서든 불의는 어디에서든 정의에 대한 위협이다'라고 씁니다. 1963년 버밍햄 운동 중에 쓰여진 이 편지는 널리 출판되었고, 미국 시민권 운동에 중요한 문서가 되었습니다."
+  },
+  {
+    "source": "The Letter from Birmingham Jail , also known as the Letter from Birmingham City Jail and The Negro Is Your Brother , is an open letter written on April 16 , 1963 , by Martin Luther King Jr . The letter defends the strategy of nonviolent resistance to racism . It says that people have a moral responsibility to break unjust laws and to take direct action rather than waiting potentially forever for justice to come through the courts . Responding to being referred to as an `` outsider , '' King writes , `` Injustice anywhere is a threat to justice everywhere '' . The letter , written during the 1963 Birmingham campaign , was widely published , and became an important text for the American Civil Rights Movement .",
+    "target": "버밍엄 교도소에서 온 편지, 버밍엄 시 교도소에서 온 편지, 흑인은 당신의 형제이다로도 알려진 이 편지는 1963년 4월 16일 마틴 루터 킹 주니어가 쓴 공개 편지이다. 이 편지는 인종 차별에 대한 비폭력 저항 전략을 옹호한다. 이 편지는 사람들이 불의한 법을 깨뜨리고, 법정에서 정의가 실현되기 위해 잠재적으로 영원히 기다리는 대신 직접 행동을 취할 도덕적 책임이 있다고 말한다. \"외부인\"으로 언급되는 것에 대한 반응으로, 킹은 \"어디에서든 불의는 모든 곳의 정의에 대한 위협이다\"라고 쓴다. 1963년 버밍엄 캠페인 기간 동안 쓰여진 이 편지는 널리 출판되었으며, 미국 시민권 운동에 중요한 텍스트가 되었다.",
+    "id": "multispanqa_0_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        95,
+        127
+      ],
+      [
+        128,
+        213
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        210,
+        257
+      ],
+      [
+        287,
+        433
+      ]
+    ],
+    "reference": "버밍햄 교도소에서의 편지, 또한 버밍햄 시 교도소에서의 편지와 흑인은 당신의 형제라는 이름으로 알려져 있는 이 편지는 마틴 루터 킹 주니어가 1963년 4월 16일에 쓴 공개 편지입니다. 이 편지는 인종차별에 대한 비폭력 저항 전략을 옹호합니다. 이 편지는 사람들이 불공정한 법을 깨고, 법원에서 정의가 오기를 영원히 기다리기보다는 직접 행동을 취할 도덕적 책임이 있다고 말합니다. '외부인'으로 언급된 것에 대한 답변으로 킹은 '어디서든 불의는 어디에서든 정의에 대한 위협이다'라고 씁니다. 1963년 버밍햄 운동 중에 쓰여진 이 편지는 널리 출판되었고, 미국 시민권 운동에 중요한 문서가 되었습니다."
+  },
+  {
+    "source": "Mohenjo - daro was built in the 26th century BCE . It was one of the largest cities of the ancient Indus Valley Civilization , also known as the Harappan Civilization , which developed around 3,000 BCE from the prehistoric Indus culture . At its height , the Indus Civilization spanned much of what is now Pakistan and North India , extending westwards to the Iranian border , south to Gujarat in India and northwards to an outpost in Bactria , with major urban centers at Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira and Rakhigarhi . Mohenjo - daro was the most advanced city of its time , with remarkably sophisticated civil engineering and urban planning . When the Indus civilization went into sudden decline around 1900 BCE , Mohenjo - daro was abandoned . The ruins of the city remained undocumented for around 3,700 years until R.D. Banerji , an officer of the Archaeological Survey of India , visited the site in 1919 -- 20 , identifying the Buddhist stupa ( 150 -- 500 CE ) known to be there and finding a flint scraper which convinced him of the site 's antiquity . This led to large - scale excavations of Mohenjo - daro led by Kashinath Narayan Dikshit in 1924 -- 25 , and John Marshall in 1925 -- 26 . In the 1930s , major excavations were conducted at the site under the leadership of Marshall , D.K. Dikshitar and Ernest Mackay . Further excavations were carried out in 1945 by Ahmad Hasan Dani and Mortimer Wheeler . The last major series of excavations were conducted in 1964 and 1965 by Dr. George F. Dales .",
+    "target": "모헨조다로는 기원전 26세기에 건설되었습니다. 이는 고대 인더스 계곡 문명, 하라파 문명으로도 알려진 문명 중 가장 큰 도시 중 하나였으며, 기원전 3,000년경 선사시대 인더스 문화에서 발전했습니다. 전성기에는 인더스 문명이 현재의 파키스탄과 북인도를 대부분 포함하여, 서쪽으로는 이란 국경, 남쪽으로는 인도의 구자라트, 북쪽으로는 박트리아의 전초기지까지 확장되었으며, 하라파, 모헨조다로, 로탈, 칼리방간, 돌라비라, 라키가르히와 같은 주요 도시 중심지가 있었습니다. 모헨조다로는 당시 가장 발전된 도시였으며, 매우 정교한 토목 공학과 도시 계획을 자랑했습니다. 인더스 문명이 기원전 1900년경 갑작스런 쇠퇴기에 접어들면서 모헨조다로는 버려졌습니다. 도시의 유적은 약 3,700년 동안 기록되지 않은 채 남아 있었고, 1919-20년 인도 고고학 조사국 소속의 R.D. 바네르지가 이곳을 방문하여 그곳에 알려진 불교 스투파(150-500 CE)를 확인하고 부싯돌 스크레이퍼를 발견하여 이 유적지의 고대성을 확신하게 되었습니다. 이후 1924-25년 카시나스 나라얀 디크쉬트와 1925-26년 존 마샬이 이끄는 모헨조다로 대규모 발굴이 진행되었습니다. 1930년대에는 마샬, D.K. 딕쉬타르, 어니스트 맥케이의 지도 아래 주요 발굴이 이루어졌고, 1945년에는 아흐마드 하산 다니와 모티머 휠러가 추가 발굴을 진행했습니다. 마지막 주요 발굴 시리즈는 1964년과 1965년에 조지 F. 데일스 박사에 의해 수행되었습니다.",
+    "id": "multispanqa_52_gpt4_ez",
+    "target_focus_areas": [
+      [
+        530,
+        553
+      ],
+      [
+        554,
+        589
+      ],
+      [
+        603,
+        613
+      ],
+      [
+        614,
+        643
+      ],
+      [
+        644,
+        686
+      ],
+      [
+        687,
+        741
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        1153,
+        1178
+      ],
+      [
+        1199,
+        1212
+      ],
+      [
+        1324,
+        1338
+      ],
+      [
+        1343,
+        1356
+      ],
+      [
+        1407,
+        1423
+      ],
+      [
+        1428,
+        1444
+      ],
+      [
+        1523,
+        1538
+      ]
+    ],
+    "reference": "모헨조-다로는 기원전 26세기에 건설되었습니다. 그것은 고대 인더스 계곡 문명의 가장 큰 도시 중 하나로, 또한 하라파 문명으로 알려져 있으며, 기원전 3000년경 선사 시대 인더스 문화에서 발전했습니다. 인더스 문명이 절정에 달했을 때, 그 범위는 현재의 파키스탄과 북인도를 포함했으며, 서쪽으로는 이란 국경, 남쪽으로는 인도의 구자라트, 북쪽으로는 복트리아의 최전선까지 확장되었습니다. 주요 도시 중심지는 하라파, 모헨조-다로, 로탈, 칼리방간, 돌라비라, 라키가르히가 있었습니다. 모헨조-다로는 당시 가장 발전된 도시로, 놀라울 만큼 정교한 토목 공학과 도시 계획을 가지고 있었습니다. 인더스 문명이 기원전 1900년경 갑작스럽게 쇠퇴하기 시작했을 때, 모헨조-다로는 버려졌습니다. 이 도시의 유적은 약 3,700년 동안 문서화되지 않았으며, 1919-20년 인도 고고학 조사국 소속의 R.D. 바네르지가 이곳을 방문하여 그곳에 있는 불교 스투파(150-500 CE)를 확인하고, 그 유적의 고대성을 확신하게 만든 부싯돌 스크래퍼를 발견하기 전에 누구에게도 알려지지 않았습니다. 이로 인해 1924-25년 카시나트 나라얀 디크싯과 1925-26년 존 마샬에 의해 모헨조-다로의 대규모 발굴이 시작되었습니다. 1930년대에는 마샬, D.K. 디크시타르, 어니스트 맥케이의 지도 아래에서 이곳에서 주요 발굴이 진행되었습니다. 1945년에는 아흐마드 하산 다니와 모티머 휠러에 의해 추가 발굴이 수행되었습니다. 마지막 주요 발굴 시리즈는 1964년과 1965년에 조지 F. 데일스 박사에 의해 수행되었습니다."
+  },
+  {
+    "source": "Mohenjo - daro was built in the 26th century BCE . It was one of the largest cities of the ancient Indus Valley Civilization , also known as the Harappan Civilization , which developed around 3,000 BCE from the prehistoric Indus culture . At its height , the Indus Civilization spanned much of what is now Pakistan and North India , extending westwards to the Iranian border , south to Gujarat in India and northwards to an outpost in Bactria , with major urban centers at Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira and Rakhigarhi . Mohenjo - daro was the most advanced city of its time , with remarkably sophisticated civil engineering and urban planning . When the Indus civilization went into sudden decline around 1900 BCE , Mohenjo - daro was abandoned . The ruins of the city remained undocumented for around 3,700 years until R.D. Banerji , an officer of the Archaeological Survey of India , visited the site in 1919 -- 20 , identifying the Buddhist stupa ( 150 -- 500 CE ) known to be there and finding a flint scraper which convinced him of the site 's antiquity . This led to large - scale excavations of Mohenjo - daro led by Kashinath Narayan Dikshit in 1924 -- 25 , and John Marshall in 1925 -- 26 . In the 1930s , major excavations were conducted at the site under the leadership of Marshall , D.K. Dikshitar and Ernest Mackay . Further excavations were carried out in 1945 by Ahmad Hasan Dani and Mortimer Wheeler . The last major series of excavations were conducted in 1964 and 1965 by Dr. George F. Dales .",
+    "target": "모헨조다로는 기원전 26세기에 건설되었습니다. 이는 고대 인더스 계곡 문명, 즉 하라파 문명으로도 알려진 문명 중 가장 큰 도시 중 하나였으며, 기원전 3000년경 선사시대 인더스 문화에서 발전하였습니다. 인더스 문명이 절정에 달했을 때, 이 문명은 현재 파키스탄과 북인도 대부분을 아우르며 서쪽으로는 이란 국경, 남쪽으로는 인도의 구자라트, 북쪽으로는 박트리아의 전초기지에 이르렀고, 주요 도시로는 하라파, 모헨조다로, 로탈, 칼리방간, 돌라비라, 라키가르히가 있었습니다. 모헨조다로는 그 당시 가장 진보된 도시였으며, 놀라울 정도로 정교한 토목 공학과 도시 계획을 갖추고 있었습니다. 인더스 문명이 기원전 1900년경 갑작스러운 쇠퇴를 겪으면서 모헨조다로는 버려졌습니다. 도시의 유적은 약 3700년간 기록되지 않은 채 남아 있었으나, 인도 고고학 조사국의 직원인 R.D. 바네르지는 1919-20년에 이곳을 방문해 그곳에 알려진 불교의 스투파(150-500년경)를 확인하고, 석기 스크래퍼를 발견하여 이 유적의 고대성을 확신하게 되었습니다. 이로 인해 1924-25년 카시나스 나라얀 딕시트, 1925-26년 존 마샬이 주도하는 대규모 발굴이 시작되었습니다. 1930년대에는 마샬, D.K. 딕시타르, 어니스트 매케이의 지도 아래 주요 발굴이 이루어졌습니다. 이후 1945년에는 아흐마드 하산 다니와 모르티머 휠러가 추가 발굴을 진행했고, 마지막 주요 발굴은 1964년과 1965년에 조지 F. 데일스 박사에 의해 수행되었습니다.",
+    "id": "multispanqa_52_gpt4_clap",
+    "target_focus_areas": [
+      [
+        541,
+        557
+      ],
+      [
+        564,
+        594
+      ],
+      [
+        608,
+        618
+      ],
+      [
+        619,
+        650
+      ],
+      [
+        651,
+        695
+      ],
+      [
+        696,
+        746
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        1153,
+        1178
+      ],
+      [
+        1199,
+        1212
+      ],
+      [
+        1324,
+        1338
+      ],
+      [
+        1343,
+        1356
+      ],
+      [
+        1407,
+        1423
+      ],
+      [
+        1428,
+        1444
+      ],
+      [
+        1523,
+        1538
+      ]
+    ],
+    "reference": "모헨조-다로는 기원전 26세기에 건설되었습니다. 그것은 고대 인더스 계곡 문명의 가장 큰 도시 중 하나로, 또한 하라파 문명으로 알려져 있으며, 기원전 3000년경 선사 시대 인더스 문화에서 발전했습니다. 인더스 문명이 절정에 달했을 때, 그 범위는 현재의 파키스탄과 북인도를 포함했으며, 서쪽으로는 이란 국경, 남쪽으로는 인도의 구자라트, 북쪽으로는 복트리아의 최전선까지 확장되었습니다. 주요 도시 중심지는 하라파, 모헨조-다로, 로탈, 칼리방간, 돌라비라, 라키가르히가 있었습니다. 모헨조-다로는 당시 가장 발전된 도시로, 놀라울 만큼 정교한 토목 공학과 도시 계획을 가지고 있었습니다. 인더스 문명이 기원전 1900년경 갑작스럽게 쇠퇴하기 시작했을 때, 모헨조-다로는 버려졌습니다. 이 도시의 유적은 약 3,700년 동안 문서화되지 않았으며, 1919-20년 인도 고고학 조사국 소속의 R.D. 바네르지가 이곳을 방문하여 그곳에 있는 불교 스투파(150-500 CE)를 확인하고, 그 유적의 고대성을 확신하게 만든 부싯돌 스크래퍼를 발견하기 전에 누구에게도 알려지지 않았습니다. 이로 인해 1924-25년 카시나트 나라얀 디크싯과 1925-26년 존 마샬에 의해 모헨조-다로의 대규모 발굴이 시작되었습니다. 1930년대에는 마샬, D.K. 디크시타르, 어니스트 맥케이의 지도 아래에서 이곳에서 주요 발굴이 진행되었습니다. 1945년에는 아흐마드 하산 다니와 모티머 휠러에 의해 추가 발굴이 수행되었습니다. 마지막 주요 발굴 시리즈는 1964년과 1965년에 조지 F. 데일스 박사에 의해 수행되었습니다."
+  },
+  {
+    "source": "Comets may possibly have been a source of water delivery to the earth along with organic matter that can form proteins and support life. Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago.",
+    "target": "혜성은 단백질을 형성하고 생명을 유지할 수 있는 유기 물질과 함께 지구에 물을 전달하는 원천이었을 가능성이 있습니다. 과학자들은 혜성이 오래전에 지구와 충돌했기 때문에 행성이 어떻게 형성되는지, 특히 지구는 어떻게 형성되었는지 이해하기를 희망합니다.",
+    "id": "belebeleqa_0_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        65,
+        138
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        167,
+        216
+      ]
+    ],
+    "reference": "혜성은 단백질을 형성하고 생명을 지원할 수 있는 유기 물질과 함께 지구에 물을 공급하는 원천이었을 가능성이 있습니다. 과학자들은 행성이 어떻게 형성되는지, 특히 지구가 어떻게 형성되었는지를 이해하기를 희망하고 있습니다. 이는 혜성이 오래전 지구와 충돌했기 때문입니다."
+  },
+  {
+    "source": "Comets may possibly have been a source of water delivery to the earth along with organic matter that can form proteins and support life. Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago.",
+    "target": "혜성들은 단백질을 형성하고 생명을 지탱할 수 있는 유기 물질과 함께 지구에 물을 전달하는 원천이었을 가능성이 있다. 과학자들은 행성이 형성되는 방식, 특히 오래전에 혜성이 지구와 충돌했던 만큼 지구는 어떻게 형성되었는지를 이해하기를 희망한다.",
+    "id": "belebeleqa_0_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        64,
+        134
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        167,
+        216
+      ]
+    ],
+    "reference": "혜성은 단백질을 형성하고 생명을 지원할 수 있는 유기 물질과 함께 지구에 물을 공급하는 원천이었을 가능성이 있습니다. 과학자들은 행성이 어떻게 형성되는지, 특히 지구가 어떻게 형성되었는지를 이해하기를 희망하고 있습니다. 이는 혜성이 오래전 지구와 충돌했기 때문입니다."
+  },
+  {
+    "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
+    "target": "몰디브 언어로 야자수 잎의 가방을 뜻하는 말에서 이름을 딴 열대성 저기압 고누는 최고조에 달했을 때 지속적인 풍속이 시속 240킬로미터(시속 149마일)에 달했습니다. 오늘 아침까지 풍속은 시속 83킬로미터 정도였으며, 계속 약해질 것으로 예상되었습니다.",
+    "id": "belebeleqa_4_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        4,
+        92
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        127,
+        170
+      ]
+    ],
+    "reference": "정점에서, 몰디브어로 야자수 잎으로 만든 가방의 이름을 딴 열대성 사이클론 곤우는 시속 240킬로미터(149마일)의 지속적인 바람에 도달했습니다. 오늘 초반에는 바람이 약 83km/h였고, 계속 약해질 것으로 예상되었습니다."
+  },
+  {
+    "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
+    "target": "몰디브 언어로 야자수 잎으로 만든 가방을 뜻하는 이름을 가진 열대성 저기압 고누는 최고조에 이르러 시간당 240킬로미터(시간당 149마일)의 지속적인 풍속에 도달했습니다. 오늘 오전에는 풍속이 시간당 83km로 줄었고, 계속 약해질 것으로 예상됩니다.",
+    "id": "belebeleqa_4_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        94
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        127,
+        170
+      ]
+    ],
+    "reference": "정점에서, 몰디브어로 야자수 잎으로 만든 가방의 이름을 딴 열대성 사이클론 곤우는 시속 240킬로미터(149마일)의 지속적인 바람에 도달했습니다. 오늘 초반에는 바람이 약 83km/h였고, 계속 약해질 것으로 예상되었습니다."
+  },
+  {
+    "source": "Jens Oliver Lisberg ( 24 December 1896 – 31 August 1920 ) ( Jens Olivur Lisberg in modern Faroese ) is one of the designers of the Merkið , the flag of the Faroe Islands . While a law student in Copenhagen , he devised the flag in 1919 with two other Faroese students , Janus Øssursson from Tórshavn and Paul Dahl from Vágur . Lisberg raised the flag for the first time on Faroese soil on 22 June 1919 on returning to his home town of Fámjin . It would not however receive official status until 25 April 1940 when the British occupation government approved its use as the civil ensign of the islands . Lisberg died of pneumonia on 31 August 1920 . He is buried in Fámjin , where the church now holds the original copy of the Merkið .",
+    "target": "옌스 올리버 리스베르그 ( 1896년 12월 24일 – 1920년 8월 31일 ) ( 현대 페로어로는 옌스 올리부르 리스베르그 )는 페로 제도의 메르키트 깃발 디자이너 중 한 명입니다. 코펜하겐에서 법학을 공부하던 중, 그는 1919년에 다른 페로어 학생 두 명인 토르스하운 출신 야누스 외서르손과 바우구르 출신 폴 달과 함께 이 깃발을 고안했습니다. 리스베르그는 1919년 6월 22일 고향인 파므인으로 돌아와 처음으로 페로어 땅 위에서 깃발을 게양했습니다. 그러나 이 깃발이 공식 지위를 획득한 것은 영국 점령 정부가 섬의 민간 선박 깃발로 사용을 승인한 1940년 4월 25일이 되어서입니다. 리스베르그는 1920년 8월 31일 폐렴으로 사망했고, 파므인에 묻혔으며 현재 교회에는 메르키트의 원본이 보관되어 있습니다.",
+    "id": "docred_0_gpt4_ez",
+    "target_focus_areas": [
+      [
+        0,
+        13
+      ],
+      [
+        14,
+        44
+      ],
+      [
+        47,
+        71
+      ],
+      [
+        72,
+        102
+      ],
+      [
+        103,
+        121
+      ],
+      [
+        122,
+        195
+      ],
+      [
+        196,
+        256
+      ],
+      [
+        257,
+        333
+      ],
+      [
+        334,
+        364
+      ],
+      [
+        365,
+        403
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        19
+      ],
+      [
+        22,
+        38
+      ],
+      [
+        41,
+        55
+      ],
+      [
+        60,
+        79
+      ],
+      [
+        90,
+        97
+      ],
+      [
+        131,
+        137
+      ],
+      [
+        156,
+        169
+      ],
+      [
+        195,
+        205
+      ],
+      [
+        231,
+        235
+      ],
+      [
+        241,
+        244
+      ],
+      [
+        251,
+        258
+      ],
+      [
+        270,
+        285
+      ],
+      [
+        291,
+        299
+      ],
+      [
+        304,
+        313
+      ],
+      [
+        319,
+        324
+      ],
+      [
+        327,
+        334
+      ],
+      [
+        373,
+        380
+      ],
+      [
+        389,
+        401
+      ],
+      [
+        435,
+        441
+      ],
+      [
+        495,
+        508
+      ],
+      [
+        518,
+        525
+      ],
+      [
+        602,
+        609
+      ],
+      [
+        631,
+        645
+      ],
+      [
+        664,
+        670
+      ],
+      [
+        725,
+        731
+      ]
+    ],
+    "reference": "옌스 올리버 리스베르그(1896년 12월 24일 ~ 1920년 8월 31일, 현대 페로어로는 옌스 올리부르 리스베르그)는 페로 제도의 국기인 메르키드의 디자이너 중 한 명입니다. 코펜하겐에서 법학을 공부하던 그는 1919년에 다른 두 명의 페로 학생인 토르스하운의 야누스 외수르손과 바구르의 파울 달과 함께 국기를 고안했습니다. 리스베르크는 1919년 6월 22일, 고향인 팜진으로 돌아왔을 때 페로 땅에서 처음으로 국기를 게양했습니다. 그러나 이 국기는 1940년 4월 25일, 영국 점령 정부가 섬의 민간 기로 사용을 승인할 때까지 공식 지위를 받지 못했습니다. 리스베르크는 1920년 8월 31일 폐렴으로 사망했습니다. 그는 팜진에 묻혀 있으며, 그곳의 교회에는 현재 메르키드의 원본이 보관되어 있습니다."
+  },
+  {
+    "source": "Jens Oliver Lisberg ( 24 December 1896 – 31 August 1920 ) ( Jens Olivur Lisberg in modern Faroese ) is one of the designers of the Merkið , the flag of the Faroe Islands . While a law student in Copenhagen , he devised the flag in 1919 with two other Faroese students , Janus Øssursson from Tórshavn and Paul Dahl from Vágur . Lisberg raised the flag for the first time on Faroese soil on 22 June 1919 on returning to his home town of Fámjin . It would not however receive official status until 25 April 1940 when the British occupation government approved its use as the civil ensign of the islands . Lisberg died of pneumonia on 31 August 1920 . He is buried in Fámjin , where the church now holds the original copy of the Merkið .",
+    "target": "옌스 올리버 리스베르그(1896년 12월 24일 – 1920년 8월 31일)(현대 페로어로는 옌스 올리부르 리스베르그)는 페로 제도의 국기인 메르키트(Merkið)의 디자이너 중 한 명이다. 그는 코펜하겐에서 법학을 공부하던 중 1919년에 토르스항 출신 야누스 외슈르손(Janus Øssursson)과 바우르 출신 폴 달(Paul Dahl)과 함께 이 깃발을 고안하였다. 리스베르그는 1919년 6월 22일 고향인 팜여(Fámjin)로 돌아오면서 처음으로 페로 제도 영토에서 이 깃발을 게양하였다. 그러나 이 깃발이 공식적으로 인정받은 것은 영국 점령 정부가 1940년 4월 25일 페로 제도의 민간기(民間旗)로 사용을 승인했을 때였다. 리스베르그는 1920년 8월 31일 폐렴으로 사망하였으며, 팜여에 묻혀 있다. 현재 그가 묻힌 교회에는 메르키트의 원본이 보관되어 있다.",
+    "id": "docred_0_gpt4_clap",
+    "target_focus_areas": [
+      [
+        0,
+        12
+      ],
+      [
+        13,
+        41
+      ],
+      [
+        43,
+        65
+      ],
+      [
+        66,
+        83
+      ],
+      [
+        106,
+        151
+      ],
+      [
+        168,
+        180
+      ],
+      [
+        208,
+        235
+      ],
+      [
+        243,
+        278
+      ],
+      [
+        279,
+        337
+      ],
+      [
+        357,
+        389
+      ],
+      [
+        390,
+        400
+      ],
+      [
+        401,
+        433
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        19
+      ],
+      [
+        22,
+        38
+      ],
+      [
+        41,
+        55
+      ],
+      [
+        60,
+        79
+      ],
+      [
+        90,
+        97
+      ],
+      [
+        131,
+        137
+      ],
+      [
+        156,
+        169
+      ],
+      [
+        195,
+        205
+      ],
+      [
+        231,
+        235
+      ],
+      [
+        241,
+        244
+      ],
+      [
+        251,
+        258
+      ],
+      [
+        270,
+        285
+      ],
+      [
+        291,
+        299
+      ],
+      [
+        304,
+        313
+      ],
+      [
+        319,
+        324
+      ],
+      [
+        327,
+        334
+      ],
+      [
+        373,
+        380
+      ],
+      [
+        389,
+        401
+      ],
+      [
+        435,
+        441
+      ],
+      [
+        495,
+        508
+      ],
+      [
+        518,
+        525
+      ],
+      [
+        602,
+        609
+      ],
+      [
+        631,
+        645
+      ],
+      [
+        664,
+        670
+      ],
+      [
+        725,
+        731
+      ]
+    ],
+    "reference": "옌스 올리버 리스베르그(1896년 12월 24일 ~ 1920년 8월 31일, 현대 페로어로는 옌스 올리부르 리스베르그)는 페로 제도의 국기인 메르키드의 디자이너 중 한 명입니다. 코펜하겐에서 법학을 공부하던 그는 1919년에 다른 두 명의 페로 학생인 토르스하운의 야누스 외수르손과 바구르의 파울 달과 함께 국기를 고안했습니다. 리스베르크는 1919년 6월 22일, 고향인 팜진으로 돌아왔을 때 페로 땅에서 처음으로 국기를 게양했습니다. 그러나 이 국기는 1940년 4월 25일, 영국 점령 정부가 섬의 민간 기로 사용을 승인할 때까지 공식 지위를 받지 못했습니다. 리스베르크는 1920년 8월 31일 폐렴으로 사망했습니다. 그는 팜진에 묻혀 있으며, 그곳의 교회에는 현재 메르키드의 원본이 보관되어 있습니다."
+  },
+  {
+    "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
+    "target": "댄 패트릭이 이 리그의 아이들이 자신들은 면역이지만 부모/조부모를 죽이기 위해 바이러스를 퍼뜨리는 내용으로 제가 구상했던 SF 시나리오/조부모를 죽이기 위해 바이러스를 퍼뜨리는 내용으로 제가 구상했던 SF 시나리오$lt;/span$gt;를 현실로 만들고 있네.",
+    "id": "curt_0_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        31
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        152
+      ]
+    ],
+    "reference": "댄 패트릭이 내가 생각한 그 어린아이들로 구성된 리그가 부모님과 조부모님을 죽이기 위해 자신들이 면역이 있는 바이러스를 퍼뜨리는 과학소설 스크립트 아이디어를 현실로 만들어주고 있어요."
+  },
+  {
+    "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
+    "target": "댄 패트릭이 이 리그의 아이들이 자신들은 면역이지만 부모/조부모를 죽이기 위해 바이러스를 퍼뜨리는 내용으로 제가 가졌던 SF 시나리오 아이디어를 현실로 만들고 있어.",
+    "id": "curt_0_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        92
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        0,
+        152
+      ]
+    ],
+    "reference": "댄 패트릭이 내가 생각한 그 어린아이들로 구성된 리그가 부모님과 조부모님을 죽이기 위해 자신들이 면역이 있는 바이러스를 퍼뜨리는 과학소설 스크립트 아이디어를 현실로 만들어주고 있어요."
+  },
+  {
+    "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
+    "target": "@CindyKendrick11 박쥐국물 이야기는 핑계일 뿐입니다. 그게 뭐든 간에 우한의 중국 생물 무기 실험실에서 유출된 겁니다. 중국 정부가 이에 대한 책임이 있습니다",
+    "id": "curt_61_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        1,
+        35
+      ],
+      [
+        73,
+        95
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        17,
+        48
+      ],
+      [
+        122,
+        168
+      ]
+    ],
+    "reference": "@CindyKendrick11 박쥐 수프 문제는 변명입니다. 그것이 우한에 있는 중국 생물무기 실험실에서 유출되는 것이 무엇이든. 이에 대한 책임은 중국 정부에 있습니다"
+  },
+  {
+    "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
+    "target": "@CindyKendrick11 박쥐국물 이야기는 핑계야. 그게 뭐든 우한에 있는 중국 생물 무기 연구소에서 유출된 거야. 중국 정부가 이 일에 책임이 있어",
+    "id": "curt_61_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        1,
+        30
+      ],
+      [
+        67,
+        86
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        17,
+        48
+      ],
+      [
+        122,
+        168
+      ]
+    ],
+    "reference": "@CindyKendrick11 박쥐 수프 문제는 변명입니다. 그것이 우한에 있는 중국 생물무기 실험실에서 유출되는 것이 무엇이든. 이에 대한 책임은 중국 정부에 있습니다"
+  },
+  {
+    "source": "Well, Mr. Ford is - is uh changing uh considerably his previous philosophy. The present tax structure is a disgrace to this country; it's just a welfare program for the rich. As a matter of fact, uh - 25 percent of the total tax deductions, go for only 1 percent of the richest people in this country, and over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country.",
+    "target": "글쎄요, 포드 씨는 - 그의 이전 철학을 상당히 바꾸고 있습니다. 현재의 세금 구조는 이 나라에 대한 수치입니다; 그냥 부자들을 위한 복지 프로그램일 뿐입니다. 사실, 전체 세금 공제의 25퍼센트가 이 나라에서 가장 부유한 상위 1퍼센트에만 돌아가고, 세금 우대 혜택의 50퍼센트 이상이 이 나라에서 가장 부유한 상위 14퍼센트에 돌아갑니다.",
+    "id": "elecdeb_161_gpt4_ez",
+    "target_focus_areas": [
+      [
+        36,
+        88
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        105,
+        132
+      ]
+    ],
+    "reference": "음, 포드 씨는 그의 이전 철학을 상당히 변화시키고 있습니다. 현재의 세금 구조는 이 나라에 대한 불명예입니다; 이는 단지 부자를 위한 복지 프로그램일 뿐입니다. 사실, 전체 세금 공제의 25%가 이 나라에서 가장 부유한 1%만을 위해 사용되며, 50% 이상의 세금 크레딧은 이 나라에서 가장 부유한 14%를 위해 사용됩니다."
+  },
+  {
+    "source": "Well, Mr. Ford is - is uh changing uh considerably his previous philosophy. The present tax structure is a disgrace to this country; it's just a welfare program for the rich. As a matter of fact, uh - 25 percent of the total tax deductions, go for only 1 percent of the richest people in this country, and over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country.",
+    "target": "글쎄요, 포드 씨는 이전의 철학을 상당히 바꾸고 있습니다. 현재의 세금 구조는 이 나라에 수치스러운 일이며, 단지 부자들을 위한 복지 프로그램일 뿐입니다. 실제로, 전체 세금 공제의 25%가 이 나라에서 가장 부유한 1%의 사람들에게 돌아가며, 세금 공제의 50% 이상이 이 나라에서 가장 부유한 14%의 사람들에게 돌아갑니다.",
+    "id": "elecdeb_161_gpt4_clap",
+    "target_focus_areas": [
+      [
+        32,
+        59
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        105,
+        132
+      ]
+    ],
+    "reference": "음, 포드 씨는 그의 이전 철학을 상당히 변화시키고 있습니다. 현재의 세금 구조는 이 나라에 대한 불명예입니다; 이는 단지 부자를 위한 복지 프로그램일 뿐입니다. 사실, 전체 세금 공제의 25%가 이 나라에서 가장 부유한 1%만을 위해 사용되며, 50% 이상의 세금 크레딧은 이 나라에서 가장 부유한 14%를 위해 사용됩니다."
+  },
+  {
+    "source": "I’ve given big incentives for electric cars but what they’ve done in California is just crazy. He’s absolutely wrong, number one. Number two, if in fact, when, during our Administration in the Recovery Act, I was able, was in charge, able to bring down the cost of renewable energy to cheaper than or as cheap as coal and gas and oil.",
+    "target": "저는 전기차에 대한 큰 인센티브를 제공했지만, 캘리포니아에서 한 일은 정말 미친 짓입니다. 그는 완전히 틀렸습니다, 우선 첫 번째로. 두 번째로, 실제로, 만약, 우리 행정부 시절 회복법을 통해 재생 에너지 비용을 석탄, 가스, 석유보다 저렴하거나 같은 수준으로 낮출 수 있었습니다.",
+    "id": "elecdeb_232_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        50,
+        73
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        100,
+        117
+      ]
+    ],
+    "reference": "전기차에 대한 큰 인센티브를 제공했지만, 캘리포니아에서 그들이 한 일은 정말 미친 짓입니다. 그는 절대 잘못했습니다. 첫째, 둘째, 사실, 우리 행정부의 회복법안 동안 제가 Renewable 에너지 비용을 석탄과 가스, 석유보다 저렴하게 낮출 수 있었던 것을 담당하고 있었습니다."
+  },
+  {
+    "source": "I’ve given big incentives for electric cars but what they’ve done in California is just crazy. He’s absolutely wrong, number one. Number two, if in fact, when, during our Administration in the Recovery Act, I was able, was in charge, able to bring down the cost of renewable energy to cheaper than or as cheap as coal and gas and oil.",
+    "target": "전기차에 대한 큰 인센티브를 제공했지만, 캘리포니아에서 한 일은 정말 미친 짓입니다. 그는 완전히 틀렸고, 우선 첫째입니다. 둘째, 만약, 실제로, 우리 행정부의 경기부양법 동안, 제가 할 수 있었고, 책임을 맡았을 때, 재생 에너지 비용을 석탄, 가스, 석유보다 저렴하거나 같은 수준으로 낮출 수 있었습니다.",
+    "id": "elecdeb_232_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        47,
+        58
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        100,
+        117
+      ]
+    ],
+    "reference": "전기차에 대한 큰 인센티브를 제공했지만, 캘리포니아에서 그들이 한 일은 정말 미친 짓입니다. 그는 절대 잘못했습니다. 첫째, 둘째, 사실, 우리 행정부의 회복법안 동안 제가 Renewable 에너지 비용을 석탄과 가스, 석유보다 저렴하게 낮출 수 있었던 것을 담당하고 있었습니다."
+  },
+  {
+    "source": "True, our Constitution has no 'due process' clause or the VIII Amendment; but, in this branch of law, after R.C. Cooper v. Union of India, (1970) 1 SCC 248 and Maneka Gandhi v. Union of India, (1978) 1 SCC 248, the consequence is the same.",
+    "target": "맞습니다. 우리 헌법에는 '적법 절차' 조항이나 제8차 수정헌법이 없습니다. 하지만, 이 법 분야에서 R.C. 쿠퍼 대 인도 연합, (1970) 1 SCC 248과 마네카 간디 대 인도 연합, (1978) 1 SCC 248 이후 결과는 동일합니다.",
+    "id": "legalner_0_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        5,
+        14
+      ],
+      [
+        47,
+        137
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        10,
+        22
+      ],
+      [
+        108,
+        155
+      ],
+      [
+        160,
+        209
+      ]
+    ],
+    "reference": "맞습니다, 우리 헌법에는 '적법 절차' 조항이나 VIII 수정 조항이 없습니다; 그러나 이 법의 분야에서는 R.C. 쿠퍼 대 인도 연합 사건(1970) 1 SCC 248과 마네카 간디 대 인도 연합 사건(1978) 1 SCC 248 이후, 그 결과는 동일합니다."
+  },
+  {
+    "source": "True, our Constitution has no 'due process' clause or the VIII Amendment; but, in this branch of law, after R.C. Cooper v. Union of India, (1970) 1 SCC 248 and Maneka Gandhi v. Union of India, (1978) 1 SCC 248, the consequence is the same.",
+    "target": "맞습니다. 우리 헌법에는 '적법절차' 조항이나 제8차 수정헌법이 없지만, R.C. 쿠퍼 대 인도연방(1970) 1 SCC 248 사건과 마네카 간디 대 인도연방(1978) 1 SCC 248 사건 이후 이 법 분야에서는 결과가 동일합니다.",
+    "id": "legalner_0_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        5,
+        14
+      ],
+      [
+        40,
+        131
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        10,
+        22
+      ],
+      [
+        108,
+        155
+      ],
+      [
+        160,
+        209
+      ]
+    ],
+    "reference": "맞습니다, 우리 헌법에는 '적법 절차' 조항이나 VIII 수정 조항이 없습니다; 그러나 이 법의 분야에서는 R.C. 쿠퍼 대 인도 연합 사건(1970) 1 SCC 248과 마네카 간디 대 인도 연합 사건(1978) 1 SCC 248 이후, 그 결과는 동일합니다."
+  },
+  {
+    "source": "During that time he was part of an ABC News team that came under sniper fire in Sarajevo, Bosnia in August 1992. David Kaplan, a veteran ABC News Washington producer, was killed in the incident. In 1997, Sherwood joined NBC 's Nightly News with Tom Brokaw as a producer, then senior producer, and ultimately senior broadcast producer, where hewas present during coverage of the September 11th attacks.",
+    "target": "그 기간 동안 그는 1992년 8월 보스니아 사라예보에서 저격수의 총격을 받은 ABC 뉴스 팀의 일원이었습니다. 베테랑 ABC 뉴스 워싱턴 프로듀서인 데이비드 카플란은 그 사건으로 사망했습니다. 1997년 셔우드는 NBC의 톰 브로코와 함께하는 Nightly News에 프로듀서로 합류했으며, 이후 수석 프로듀서 그리고 궁극적으로 수석 방송 프로듀서가 되었고, 그는 9·11 테러 보도 당시 현장에 있었습니다.",
+    "id": "natural_instruct_task329_0_gpt4_ez",
+    "target_focus_areas": [
+      [
+        108,
+        162
+      ],
+      [
+        201,
+        206
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        204,
+        212
+      ],
+      [
+        245,
+        255
+      ],
+      [
+        341,
+        343
+      ]
+    ],
+    "reference": "그 당시 그는 1992년 8월 보스니아 사라예보에서 저격수의 총에 맞는 ABC 뉴스 팀의 일원이었습니다. ABC 뉴스 워싱턴 프로듀서인 데이비드 카플란이 이 사건에서 사망했습니다. 1997년, 셔우드는 NBC의 톰 브로코와 함께하는 '나이틀리 뉴스'에 프로듀서로 합류하여, 이후 수석 프로듀서, 궁극적으로 수석 방송 프로듀서로 활동하며 9.11 테러 사건의 보도에 참석했습니다."
+  },
+  {
+    "source": "During that time he was part of an ABC News team that came under sniper fire in Sarajevo, Bosnia in August 1992. David Kaplan, a veteran ABC News Washington producer, was killed in the incident. In 1997, Sherwood joined NBC 's Nightly News with Tom Brokaw as a producer, then senior producer, and ultimately senior broadcast producer, where hewas present during coverage of the September 11th attacks.",
+    "target": "그 당시 그는 1992년 8월 보스니아 사라예보에서 저격수의 사격을 받은 ABC 뉴스 팀의 일원이었습니다. 베테랑 ABC 뉴스 워싱턴 프로듀서인 데이비드 카플란은 그 사건에서 목숨을 잃었습니다. 1997년에 셔우드는 톰 브로코와 함께 하는 NBC의 나이트리 뉴스에 프로듀서로 합류했고, 이후 선임 프로듀서, 궁극적으로는 수석 방송 프로듀서가 되었으며, 9/11 테러 보도 당시 현장에 있었습니다.",
+    "id": "natural_instruct_task329_0_gpt4_clap",
+    "target_focus_areas": [
+      [
+        59,
+        107
+      ],
+      [
+        108,
+        158
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        204,
+        212
+      ],
+      [
+        245,
+        255
+      ],
+      [
+        341,
+        343
+      ]
+    ],
+    "reference": "그 당시 그는 1992년 8월 보스니아 사라예보에서 저격수의 총에 맞는 ABC 뉴스 팀의 일원이었습니다. ABC 뉴스 워싱턴 프로듀서인 데이비드 카플란이 이 사건에서 사망했습니다. 1997년, 셔우드는 NBC의 톰 브로코와 함께하는 '나이틀리 뉴스'에 프로듀서로 합류하여, 이후 수석 프로듀서, 궁극적으로 수석 방송 프로듀서로 활동하며 9.11 테러 사건의 보도에 참석했습니다."
+  },
+  {
+    "source": "On 27 September 2014, Toshney signed for Ross County and made his debut the same day as they beat Dundee 2--1. Having been released by Ross County, Toshney signed for Cowdenbeath on 3 February 2015, signing a contract until the end of the 2014--15 season. On 11 June 2015, Toshney signed for Raith Rovers. Following his move to Scottish Championship rivals Dundee United, former Raith Rovers manager Ray McKinnon expressed an interest in bringing Toshney to Tannadice.",
+    "target": "2014년 9월 27일, 토시니는 로스 카운티와 계약을 맺고 같은 날 던디를 2-1로 꺾은 경기에서 데뷔했습니다. 로스 카운티에서 방출된 후 토시니는 2015년 2월 3일 코든비스와 계약하여 2014-15 시즌 종료까지 계약을 체결했습니다. 2015년 6월 11일, 토시니는 레이스 로버스에 입단했습니다. 스코티시 챔피언십 경쟁팀 던디 유나이티드로 이적한 후, 전 레이스 로버스 감독 레이 맥키논은 토시니를 타나디스(Tannadice)로 데려오는 데 관심을 표명했습니다. 그의 이적에 따른 것입니다.",
+    "id": "natural_instruct_task329_44_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        13,
+        44
+      ],
+      [
+        201,
+        232
+      ],
+      [
+        263,
+        278
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        22,
+        29
+      ],
+      [
+        316,
+        319
+      ],
+      [
+        400,
+        412
+      ]
+    ],
+    "reference": "2014년 9월 27일, 토시니는 로스 카운티와 계약을 맺고 그날 던디를 2-1로 이기며 데뷔를 했다. 로스 카운티와 계약이 종료된 후, 토시니는 2015년 2월 3일 코우든비스와 계약을 맺고 2014-15 시즌 종료까지 계약을 체결하였다. 2015년 6월 11일, 토시니는 레이트 로버스와 계약을 맺었다. 스코티시 챔피언십 라이벌 던디 유나이티드로 이적한 후, 전 레이트 로버스 감독 레이 맥키넌은 토시니를 탄나디스에 데려오는 것에 관심을 표명했다."
+  },
+  {
+    "source": "On 27 September 2014, Toshney signed for Ross County and made his debut the same day as they beat Dundee 2--1. Having been released by Ross County, Toshney signed for Cowdenbeath on 3 February 2015, signing a contract until the end of the 2014--15 season. On 11 June 2015, Toshney signed for Raith Rovers. Following his move to Scottish Championship rivals Dundee United, former Raith Rovers manager Ray McKinnon expressed an interest in bringing Toshney to Tannadice.",
+    "target": "2014년 9월 27일, 토시니는 로스 카운티에 입단하여 같은 날 던디를 2-1로 꺾은 경기에서 데뷔했다. 로스 카운티에서 방출된 후, 토시니는 2015년 2월 3일 코든비스를 계약하여 2014-15 시즌 종료까지 계약을 맺었다. 2015년 6월 11일, 토시니는 레이스 로버스에 입단했다. 스코티시 챔피언십 경쟁팀 던디 유나이티드로 이적 후, 전 레이스 로버스 감독 레이 맥키넌은 토시니를 타나다이스로 데려오는 데 관심을 표명했다.",
+    "id": "natural_instruct_task329_44_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        13,
+        42
+      ],
+      [
+        192,
+        241
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        22,
+        29
+      ],
+      [
+        316,
+        319
+      ],
+      [
+        400,
+        412
+      ]
+    ],
+    "reference": "2014년 9월 27일, 토시니는 로스 카운티와 계약을 맺고 그날 던디를 2-1로 이기며 데뷔를 했다. 로스 카운티와 계약이 종료된 후, 토시니는 2015년 2월 3일 코우든비스와 계약을 맺고 2014-15 시즌 종료까지 계약을 체결하였다. 2015년 6월 11일, 토시니는 레이트 로버스와 계약을 맺었다. 스코티시 챔피언십 라이벌 던디 유나이티드로 이적한 후, 전 레이트 로버스 감독 레이 맥키넌은 토시니를 탄나디스에 데려오는 것에 관심을 표명했다."
+  },
+  {
+    "source": "Jim went to the bank to get a statement to see how much money he had for the weekend, but the statement said the was broke.",
+    "target": "짐은 주말에 얼마나 돈이 있는지 보기 위해 잔고증명서를 받으러 은행에 갔지만, 잔고증명서에는 돈이 없다고 나와 있었다.",
+    "id": "natural_instruct_task033_0_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        0,
+        42
+      ],
+      [
+        43,
+        65
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        30,
+        39
+      ],
+      [
+        94,
+        103
+      ]
+    ],
+    "reference": "Jim은 주말에 얼마의 돈이 있는지 보기 위해 은행에 가서 명세서를 받았지만, 명세서에는 그가 파산했다고 나와 있었다."
+  },
+  {
+    "source": "Jim went to the bank to get a statement to see how much money he had for the weekend, but the statement said the was broke.",
+    "target": "짐은 주말에 얼마나 돈이 있는지 확인하기 위해 계좌 내역서를 받으러 은행에 갔지만, 내역서에는 돈이 없다고 나와 있었다.",
+    "id": "natural_instruct_task033_0_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        0,
+        45
+      ],
+      [
+        46,
+        66
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        30,
+        39
+      ],
+      [
+        94,
+        103
+      ]
+    ],
+    "reference": "Jim은 주말에 얼마의 돈이 있는지 보기 위해 은행에 가서 명세서를 받았지만, 명세서에는 그가 파산했다고 나와 있었다."
+  },
+  {
+    "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
+    "target": "남부 프랑스의 날씨는 러시아의 기온보다 훨씬 좋으며, 그 이유는 날씨가 항상 따뜻하기 때문입니다.",
+    "id": "natural_instruct_task033_64_gpt4_ez",
+    "target_focus_areas": [
+      [
+        0,
+        28
+      ],
+      [
+        29,
+        53
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        4,
+        11
+      ],
+      [
+        91,
+        98
+      ]
+    ],
+    "reference": "프랑스 남부의 날씨는 러시아의 기온보다 훨씬 좋습니다. 왜냐하면 그곳의 날씨는 항상 따뜻하기 때문입니다."
+  },
+  {
+    "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
+    "target": "남부 프랑스의 날씨는 늘 따뜻하기 때문에 러시아의 기온보다 훨씬 좋다.",
+    "id": "natural_instruct_task033_64_gpt4_clap",
+    "target_focus_areas": [
+      [
+        0,
+        38
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        4,
+        11
+      ],
+      [
+        91,
+        98
+      ]
+    ],
+    "reference": "프랑스 남부의 날씨는 러시아의 기온보다 훨씬 좋습니다. 왜냐하면 그곳의 날씨는 항상 따뜻하기 때문입니다."
+  },
+  {
+    "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
+    "target": "문장: 모두들 브라운 버터 버번 향신료 쿠키를 정말 좋아했어요. 반면에 카라멜 피칸 쿠키는 몇몇 사람들만 좋아했습니다. 다음에는 그것을 더 적게 만들어야 할 것 같아요.",
+    "id": "natural_instruct_task249_3_gemma3_27b_ez",
+    "target_focus_areas": [
+      [
+        3,
+        34
+      ],
+      [
+        35,
+        65
+      ],
+      [
+        66,
+        93
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        32,
+        70
+      ],
+      [
+        97,
+        122
+      ],
+      [
+        161,
+        165
+      ]
+    ],
+    "reference": "모두가 갈색 버터 버ourbon 향신료 쿠키를 정말 좋아했어요; 몇몇 사람만 카라멜 피칸 쿠키를 좋아했죠. 다음에는 덜 만들어야 할 것 같아요."
+  },
+  {
+    "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
+    "target": "문장: 모두들 브라운 버터 버번 스파이스 쿠키를 정말 좋아했어요; 캐러멜 피칸 쿠키는 몇몇 사람만 좋아했어요. 다음에는 그것들을 더 적게 만들어야 할 것 같아요.",
+    "id": "natural_instruct_task249_3_gemma3_27b_clap",
+    "target_focus_areas": [
+      [
+        3,
+        35
+      ],
+      [
+        36,
+        60
+      ],
+      [
+        61,
+        89
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        32,
+        70
+      ],
+      [
+        97,
+        122
+      ],
+      [
+        161,
+        165
+      ]
+    ],
+    "reference": "모두가 갈색 버터 버ourbon 향신료 쿠키를 정말 좋아했어요; 몇몇 사람만 카라멜 피칸 쿠키를 좋아했죠. 다음에는 덜 만들어야 할 것 같아요."
+  },
+  {
+    "source": "sentence: Lucy comforted Emma because she was so upset .",
+    "target": "sentence: 루시가 엠마를 위로했어요, 그녀가 너무 속상해했거든요.",
+    "id": "natural_instruct_task249_12_towerp_72b_ez",
+    "target_focus_areas": [
+      [
+        9,
+        23
+      ],
+      [
+        24,
+        39
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        10,
+        14
+      ],
+      [
+        25,
+        29
+      ],
+      [
+        38,
+        41
+      ]
+    ],
+    "reference": "루시는 에마가 너무 속상해 했기 때문에 위로해 주었다."
+  },
+  {
+    "source": "sentence: Lucy comforted Emma because she was so upset .",
+    "target": "문장: 루시는 엠마가 너무 화가 났기 때문에 엠마를 위로했다.",
+    "id": "natural_instruct_task249_12_towerp_72b_clap",
+    "target_focus_areas": [
+      [
+        3,
+        33
+      ]
+    ],
+    "source_focus_areas": [
+      [
+        10,
+        14
+      ],
+      [
+        25,
+        29
+      ],
+      [
+        38,
+        41
+      ]
+    ],
+    "reference": "루시는 에마가 너무 속상해 했기 때문에 위로해 주었다."
+  }
+]
