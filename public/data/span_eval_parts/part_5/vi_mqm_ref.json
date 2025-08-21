@@ -1,0 +1,262 @@
+[
+    {
+        "source": "Veterans Slam Government for Shifting Goalpost",
+        "target": "Cựu chiến binh chỉ trích chính phủ vì thay đổi mục tiêu",
+        "id": "recess_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                0,
+                55
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                24
+            ],
+            [
+                25,
+                28
+            ],
+            [
+                29,
+                46
+            ]
+        ],
+        "reference": "Cựu chiến binh chỉ trích chính phủ vì đã thay đổi mục tiêu."
+    },
+    {
+        "source": "Veterans Slam Government for Shifting Goalpost",
+        "target": "Cựu chiến binh chỉ trích chính phủ vì thay đổi tiêu chí",
+        "id": "recess_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                0,
+                55
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                24
+            ],
+            [
+                25,
+                28
+            ],
+            [
+                29,
+                46
+            ]
+        ],
+        "reference": "Cựu chiến binh chỉ trích chính phủ vì đã thay đổi mục tiêu."
+    },
+    {
+        "source": "04th September 2015 04:21 AM NEW DELHI : Deadlock over the ‘ One rank One Pension ’ ( OROP ) scheme persisted on Thursday with agitating ex-servicemen accusing the government of “ constantly shifting the goalpost ” and not coming out with any “ concrete proposal ” to resolve the issue .",
+        "target": "04 tháng 9 năm 2015 04:21 SA NEW DELHI : Bế tắc về chính sách ‘ Một cấp lương Một hưu bổng ’ (OROP) tiếp tục kéo dài vào thứ Năm khi các cựu binh căng thẳng cáo buộc chính phủ “ liên tục thay đổi mục tiêu ” và không đưa ra bất kỳ “ đề xuất cụ thể ” nào để giải quyết vấn đề.",
+        "id": "recess_2_gpt4_ez",
+        "target_focus_areas": [
+            [
+                40,
+                132
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                41,
+                49
+            ],
+            [
+                50,
+                54
+            ],
+            [
+                55,
+                99
+            ]
+        ],
+        "reference": "Ngày 04 tháng 9 năm 2015 04:21 AM NEW DELHI: Tình trạng bế tắc về chương trình 'Một cấp bậc Một lương hưu' (OROP) vẫn tiếp diễn vào thứ Năm với các cựu chiến binh đang biểu tình cáo buộc chính phủ 'liên tục thay đổi tiêu chí' và không đưa ra bất kỳ 'đề xuất cụ thể' nào để giải quyết vấn đề."
+    },
+    {
+        "source": "04th September 2015 04:21 AM NEW DELHI : Deadlock over the ‘ One rank One Pension ’ ( OROP ) scheme persisted on Thursday with agitating ex-servicemen accusing the government of “ constantly shifting the goalpost ” and not coming out with any “ concrete proposal ” to resolve the issue .",
+        "target": "Ngày 04 tháng 9 năm 2015, 04:21 sáng, NEW DELHI: Bế tắc về kế hoạch ‘Một cấp lương hưu cho một cấp bậc’ (OROP) vẫn tiếp tục vào thứ Năm khi các cựu chiến binh đang biểu tình cáo buộc chính phủ “liên tục thay đổi mục tiêu” và không đưa ra bất kỳ “đề xuất cụ thể” nào để giải quyết vấn đề.",
+        "id": "recess_2_gpt4_clap",
+        "target_focus_areas": [
+            [
+                48,
+                143
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                41,
+                49
+            ],
+            [
+                50,
+                54
+            ],
+            [
+                55,
+                99
+            ]
+        ],
+        "reference": "Ngày 04 tháng 9 năm 2015 04:21 AM NEW DELHI: Tình trạng bế tắc về chương trình 'Một cấp bậc Một lương hưu' (OROP) vẫn tiếp diễn vào thứ Năm với các cựu chiến binh đang biểu tình cáo buộc chính phủ 'liên tục thay đổi tiêu chí' và không đưa ra bất kỳ 'đề xuất cụ thể' nào để giải quyết vấn đề."
+    },
+    {
+        "source": "Warren should not have taken the test; having taken it, she should not have publicized it; having publicized it, she should quietly fire anyone who urged this gambit and move on.",
+        "target": "Warren không nên làm bài kiểm tra đó; đã làm bài kiểm tra, cô ấy không nên công khai nó; đã công khai nó, cô ấy nên lặng lẽ sa thải bất kỳ ai đã thúc giục mưu đồ này và tiếp tục bước đi.",
+        "id": "semeval20task5_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                0,
+                36
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                37
+            ]
+        ],
+        "reference": "Warren không nên tham gia bài thi; đã tham gia rồi, cô ấy không nên công khai nó; đã công khai rồi, cô ấy nên âm thầm sa thải bất kỳ ai thúc giục kế hoạch này và tiến lên."
+    },
+    {
+        "source": "Warren should not have taken the test; having taken it, she should not have publicized it; having publicized it, she should quietly fire anyone who urged this gambit and move on.",
+        "target": "Warren không nên làm bài kiểm tra đó; đã làm bài kiểm tra rồi thì không nên công bố nó; đã công bố nó rồi thì nên âm thầm sa thải bất cứ ai đã thúc đẩy mưu mẹo này và tiếp tục.",
+        "id": "semeval20task5_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                0,
+                36
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                37
+            ]
+        ],
+        "reference": "Warren không nên tham gia bài thi; đã tham gia rồi, cô ấy không nên công khai nó; đã công khai rồi, cô ấy nên âm thầm sa thải bất kỳ ai thúc giục kế hoạch này và tiến lên."
+    },
+    {
+        "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
+        "target": "\"Ý tưởng cho rằng hậu quả từ Bear Stearns chỉ giới hạn ở một vài công ty trên Phố Wall thì chẳng đúng như vậy.\" Dimon nói rằng công ty của ông sẽ không đồng ý tiếp quản Bear nếu không có sự hậu thuẫn tài chính từ Cục Dự trữ Liên bang, và cho biết JPMorgan cũng đã đồng ý bảo lãnh số tiền 25 tỷ đô la mà Bear đã vay từ ngân hàng trung ương.",
+        "id": "semeval20task5_35_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                1,
+                109
+            ],
+            [
+                111,
+                209
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                1,
+                90
+            ],
+            [
+                118,
+                166
+            ]
+        ],
+        "reference": "\"Ý tưởng rằng hậu quả của Bear Stearns chỉ giới hạn ở một vài công ty Phố Wall là không đúng.\" Dimon nói rằng công ty ông sẽ không đồng ý tiếp quản Bear nếu không có sự hỗ trợ tài chính từ Cục Dự trữ Liên bang, và cho biết JPMorgan cũng đã đồng ý bảo đảm 25 tỷ đô la mà Bear đã vay từ ngân hàng trung ương."
+    },
+    {
+        "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
+        "target": "\"Ý tưởng cho rằng hậu quả từ Bear Stearns chỉ giới hạn ở một vài công ty trên phố Wall thì chẳng đúng vậy.\" Dimon nói rằng công ty của ông sẽ không đồng ý tiếp quản Bear nếu không có sự hậu thuẫn tài chính từ Cục Dự trữ Liên bang, và cho biết JPMorgan cũng đã đồng ý bảo lãnh 25 tỷ đô la mà Bear đã vay từ ngân hàng trung ương.",
+        "id": "semeval20task5_35_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                1,
+                105
+            ],
+            [
+                107,
+                229
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                1,
+                90
+            ],
+            [
+                118,
+                166
+            ]
+        ],
+        "reference": "\"Ý tưởng rằng hậu quả của Bear Stearns chỉ giới hạn ở một vài công ty Phố Wall là không đúng.\" Dimon nói rằng công ty ông sẽ không đồng ý tiếp quản Bear nếu không có sự hỗ trợ tài chính từ Cục Dự trữ Liên bang, và cho biết JPMorgan cũng đã đồng ý bảo đảm 25 tỷ đô la mà Bear đã vay từ ngân hàng trung ương."
+    },
+    {
+        "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
+        "target": "Gần đây, mạng thần kinh tích chập ba chiều (3D) convolutional neural networks ( CNNs ) đã trở thành phương pháp chủ đạo để nắm bắt các biểu diễn không gian - thời gian trong video, bằng cách thêm vào 2D CNNs tồn tại trước đó một chiều thứ ba, chiều thời gian.",
+        "id": "scier_0_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                47,
+                78
+            ],
+            [
+                79,
+                85
+            ],
+            [
+                180,
+                241
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                36,
+                65
+            ],
+            [
+                68,
+                72
+            ],
+            [
+                190,
+                197
+            ]
+        ],
+        "reference": "Gần đây, mạng nơ-ron tích chập ba chiều (3D CNN) đã nổi lên như những phương pháp chiếm ưu thế để nắm bắt các đại diện không-thời gian trong video, bằng cách thêm vào các mạng CNN 2D đã tồn tại một chiều thứ ba, chiều thời gian."
+    },
+    {
+        "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
+        "target": "Gần đây, mạng nơ-ron tích chập ba chiều (3D CNN) đã trở thành phương pháp chủ đạo để nắm bắt các biểu diễn không gian-thời gian trong video, bằng cách thêm một chiều thứ ba là chiều thời gian vào các mạng CNN hai chiều (2D CNN) đã có trước đó.",
+        "id": "scier_0_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                8,
+                40
+            ],
+            [
+                41,
+                47
+            ],
+            [
+                140,
+                242
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                36,
+                65
+            ],
+            [
+                68,
+                72
+            ],
+            [
+                190,
+                197
+            ]
+        ],
+        "reference": "Gần đây, mạng nơ-ron tích chập ba chiều (3D CNN) đã nổi lên như những phương pháp chiếm ưu thế để nắm bắt các đại diện không-thời gian trong video, bằng cách thêm vào các mạng CNN 2D đã tồn tại một chiều thứ ba, chiều thời gian."
+    }
+]

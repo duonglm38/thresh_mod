@@ -1,0 +1,390 @@
+[
+    {
+        "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
+        "target": "在所有此类情况下，我们的政策是依法配合，但仅提供法律所要求的信息。提供",
+        "id": "policyie_12_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                9,
+                19
+            ],
+            [
+                20,
+                32
+            ],
+            [
+                33,
+                35
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                20,
+                23
+            ],
+            [
+                75,
+                82
+            ],
+            [
+                93,
+                104
+            ],
+            [
+                108,
+                124
+            ]
+        ],
+        "reference": "在所有此类情况下，我们的政策是依法合作，但仅提供法律要求的信息。"
+    },
+    {
+        "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
+        "target": "在所有此类情况下，我们的政策是根据法律要求进行合作，但仅提供法律所要求的信息。",
+        "id": "policyie_12_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                9,
+                19
+            ],
+            [
+                26,
+                38
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                20,
+                23
+            ],
+            [
+                75,
+                82
+            ],
+            [
+                93,
+                104
+            ],
+            [
+                108,
+                124
+            ]
+        ],
+        "reference": "在所有此类情况下，我们的政策是依法合作，但仅提供法律要求的信息。"
+    },
+    {
+        "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
+        "target": "法律确实允许我们向执法部门 自愿且无需事先通知地披露 客户信息，包括通信内容，如果我们合理认为涉及立即死亡或严重身体伤害的紧急情况需要立即披露。",
+        "id": "policyie_13_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                31
+            ],
+            [
+                32,
+                38
+            ],
+            [
+                39,
+                71
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                20,
+                22
+            ],
+            [
+                26,
+                34
+            ],
+            [
+                38,
+                53
+            ],
+            [
+                56,
+                92
+            ],
+            [
+                95,
+                103
+            ],
+            [
+                104,
+                115
+            ],
+            [
+                132,
+                158
+            ],
+            [
+                164,
+                305
+            ]
+        ],
+        "reference": "法律允许我们在没有事先通知的情况下，自愿向执法部门披露客户信息，包括通信内容，如果我们合理地相信涉及到直接死亡或严重身体伤害的紧急情况需要立即披露。"
+    },
+    {
+        "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
+        "target": "法律允许我们在合理相信涉及即刻死亡或严重人身伤害危险的紧急情况需要立即披露的情况下，自愿且无需事先通知地向执法部门披露客户信息，包括通信内容。",
+        "id": "policyie_13_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                41
+            ],
+            [
+                42,
+                63
+            ],
+            [
+                64,
+                70
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                20,
+                22
+            ],
+            [
+                26,
+                34
+            ],
+            [
+                38,
+                53
+            ],
+            [
+                56,
+                92
+            ],
+            [
+                95,
+                103
+            ],
+            [
+                104,
+                115
+            ],
+            [
+                132,
+                158
+            ],
+            [
+                164,
+                305
+            ]
+        ],
+        "reference": "法律允许我们在没有事先通知的情况下，自愿向执法部门披露客户信息，包括通信内容，如果我们合理地相信涉及到直接死亡或严重身体伤害的紧急情况需要立即披露。"
+    },
+    {
+        "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
+        "target": "石油集团Equinor发布了创纪录的税前利润，并表示将提高股息和股票回购，而在金融领域，Amundi超额完成了其战略目标，ABN Amro宣布在净利润大幅增长后将进行 5 亿欧元的股票回购。",
+        "id": "finentity_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                0,
+                19
+            ],
+            [
+                44,
+                58
+            ],
+            [
+                61,
+                77
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                17
+            ],
+            [
+                122,
+                128
+            ],
+            [
+                161,
+                169
+            ]
+        ],
+        "reference": "石油集团Equinor公布了创纪录的税前利润，并表示将提高股息和股票回购；在金融方面，Amundi超越了其战略目标，而ABN Amro在净利润激增后宣布进行5亿欧元的股票回购。"
+    },
+    {
+        "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
+        "target": "石油集团 Equinor 发布了创纪录的税前利润，并表示将提高股息和股票回购，而在金融领域，Amundi 超越了其战略目标，而 ABN Amro 在净利润大幅增长后宣布了 5 亿欧元的股票回购。",
+        "id": "finentity_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                0,
+                20
+            ],
+            [
+                46,
+                60
+            ],
+            [
+                62,
+                80
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                17
+            ],
+            [
+                122,
+                128
+            ],
+            [
+                161,
+                169
+            ]
+        ],
+        "reference": "石油集团Equinor公布了创纪录的税前利润，并表示将提高股息和股票回购；在金融方面，Amundi超越了其战略目标，而ABN Amro在净利润激增后宣布进行5亿欧元的股票回购。"
+    },
+    {
+        "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
+        "target": "“石油需求……如果你看一下最新的数据，情况仍然不错。我们原本预期会出现需求下降，但这种情况并未真正发生，”全球市场研究与分析主管弗雷德里克·拉塞爾在贡沃集团（GGL.UL）表示。",
+        "id": "finentity_9_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                70,
+                78
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                210,
+                222
+            ]
+        ],
+        "reference": "“石油需求……如果你查看最新的数据，情况仍然不错。我们原本预计会出现一些需求萎缩，但实际上并没有发生，”Gunvor Group的全球市场研究与分析负责人弗雷德里克·拉塞尔（Frederic Lasserre）说。"
+    },
+    {
+        "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
+        "target": "“石油需求……如果你看看最新的数据，情况仍然不错。我们原本预期会出现需求下降，但实际上并未发生，”Gunvor集团全球市场研究与分析主管弗雷德里克·拉塞爾表示。",
+        "id": "finentity_9_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                48,
+                65
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                210,
+                222
+            ]
+        ],
+        "reference": "“石油需求……如果你查看最新的数据，情况仍然不错。我们原本预计会出现一些需求萎缩，但实际上并没有发生，”Gunvor Group的全球市场研究与分析负责人弗雷德里克·拉塞尔（Frederic Lasserre）说。"
+    },
+    {
+        "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
+        "target": "业务收购 于2012年4月2日，我们收购了几乎所有Green River Collieries, LLC（“Green River”）与其位于韦伯斯特和霍普金斯县，肯塔基州相关的煤矿业务和运营资产。",
+        "id": "fire_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                15
+            ],
+            [
+                16,
+                81
+            ],
+            [
+                82,
+                98
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                11
+            ],
+            [
+                27,
+                41
+            ],
+            [
+                47,
+                55
+            ],
+            [
+                77,
+                128
+            ],
+            [
+                151,
+                186
+            ],
+            [
+                198,
+                205
+            ],
+            [
+                210,
+                217
+            ],
+            [
+                229,
+                237
+            ]
+        ],
+        "reference": "业务收购 在2012年4月2日，我们收购了与位于肯塔基州韦伯斯特县和霍普金斯县的煤矿业务及运营相关的Green River Collieries, LLC（“Green River”）的几乎所有资产。"
+    },
+    {
+        "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
+        "target": "业务收购 2012年4月2日，本公司收购了Green River Collieries, LLC（“Green River”）在肯塔基州韦伯斯特县和霍普金斯县与其煤炭采矿业务及运营相关的实质性全部资产。",
+        "id": "fire_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                14
+            ],
+            [
+                15,
+                98
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                11
+            ],
+            [
+                27,
+                41
+            ],
+            [
+                47,
+                55
+            ],
+            [
+                77,
+                128
+            ],
+            [
+                151,
+                186
+            ],
+            [
+                198,
+                205
+            ],
+            [
+                210,
+                217
+            ],
+            [
+                229,
+                237
+            ]
+        ],
+        "reference": "业务收购 在2012年4月2日，我们收购了与位于肯塔基州韦伯斯特县和霍普金斯县的煤矿业务及运营相关的Green River Collieries, LLC（“Green River”）的几乎所有资产。"
+    }
+]

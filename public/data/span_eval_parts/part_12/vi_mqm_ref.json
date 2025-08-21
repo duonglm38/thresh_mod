@@ -1,0 +1,270 @@
+[
+    {
+        "source": "I’ve given big incentives for electric cars but what they’ve done in California is just crazy. He’s absolutely wrong, number one. Number two, if in fact, when, during our Administration in the Recovery Act, I was able, was in charge, able to bring down the cost of renewable energy to cheaper than or as cheap as coal and gas and oil.",
+        "target": "Tôi đã đưa ra những ưu đãi lớn cho xe điện, nhưng những gì họ đã làm ở California thật điên rồ. Anh ta hoàn toàn sai lầm, thứ nhất. Thứ hai, nếu thực tế, khi, trong thời gian chính quyền của tôi trong Đạo luật Phục hồi, tôi đã có thể, chịu trách nhiệm, giảm chi phí năng lượng tái tạo xuống rẻ hơn hoặc tương đương than, khí đốt và dầu mỏ.",
+        "id": "elecdeb_232_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                95,
+                130
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                100,
+                117
+            ]
+        ],
+        "reference": "Tôi đã đưa ra những ưu đãi lớn cho ô tô điện nhưng những gì họ đã làm ở California thật điên rồ. Ông ấy hoàn toàn sai, thứ nhất. Thứ hai, nếu thực sự, khi, trong chính quyền của chúng tôi trong Đạo luật Khôi phục, tôi đã có khả năng, đã phụ trách, có thể làm giảm chi phí năng lượng tái tạo xuống thấp hơn hoặc ngang bằng với than, khí và dầu."
+    },
+    {
+        "source": "I’ve given big incentives for electric cars but what they’ve done in California is just crazy. He’s absolutely wrong, number one. Number two, if in fact, when, during our Administration in the Recovery Act, I was able, was in charge, able to bring down the cost of renewable energy to cheaper than or as cheap as coal and gas and oil.",
+        "target": "Tôi đã đưa ra những ưu đãi lớn cho xe điện, nhưng những gì họ đã làm ở California thật điên rồ. Anh ta hoàn toàn sai, thứ nhất. Thứ hai, nếu thực tế, khi, trong thời gian chính quyền của tôi trong Đạo luật Phục hồi, tôi có thể, chịu trách nhiệm, làm giảm chi phí năng lượng tái tạo xuống rẻ hơn hoặc tương đương than, khí đốt và dầu mỏ.",
+        "id": "elecdeb_232_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                95,
+                116
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                100,
+                117
+            ]
+        ],
+        "reference": "Tôi đã đưa ra những ưu đãi lớn cho ô tô điện nhưng những gì họ đã làm ở California thật điên rồ. Ông ấy hoàn toàn sai, thứ nhất. Thứ hai, nếu thực sự, khi, trong chính quyền của chúng tôi trong Đạo luật Khôi phục, tôi đã có khả năng, đã phụ trách, có thể làm giảm chi phí năng lượng tái tạo xuống thấp hơn hoặc ngang bằng với than, khí và dầu."
+    },
+    {
+        "source": "True, our Constitution has no 'due process' clause or the VIII Amendment; but, in this branch of law, after R.C. Cooper v. Union of India, (1970) 1 SCC 248 and Maneka Gandhi v. Union of India, (1978) 1 SCC 248, the consequence is the same.",
+        "target": "Đúng là Hiến pháp của chúng ta không có điều khoản 'quy trình tố tụng đúng đắn' hay Sửa đổi thứ Tám; nhưng, trong lĩnh vực luật pháp này, sau R.C. Cooper chống lại Liên bang Ấn Độ, (1970) 1 SCC 248 và Maneka Gandhi chống lại Liên bang Ấn Độ, (1978) 1 SCC 248, kết quả là như nhau.",
+        "id": "legalner_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                137,
+                258
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                22
+            ],
+            [
+                108,
+                155
+            ],
+            [
+                160,
+                209
+            ]
+        ],
+        "reference": "Đúng là Hiến pháp của chúng ta không có điều khoản 'quy trình hợp lý' hay Tu chính án VIII; nhưng, trong lĩnh vực pháp luật này, sau vụ R.C. Cooper kiện Liên bang Ấn Độ, (1970) 1 SCC 248 và vụ Maneka Gandhi kiện Liên bang Ấn Độ, (1978) 1 SCC 248, kết quả vẫn giống nhau."
+    },
+    {
+        "source": "True, our Constitution has no 'due process' clause or the VIII Amendment; but, in this branch of law, after R.C. Cooper v. Union of India, (1970) 1 SCC 248 and Maneka Gandhi v. Union of India, (1978) 1 SCC 248, the consequence is the same.",
+        "target": "Đúng là Hiến pháp của chúng ta không có điều khoản về \"quy trình tố tụng hợp lý\" hay Sửa đổi thứ Tám; nhưng trong lĩnh vực luật này, sau vụ án R.C. Cooper chống lại Liên bang Ấn Độ, (1970) 1 SCC 248 và vụ án Maneka Gandhi chống lại Liên bang Ấn Độ, (1978) 1 SCC 248, hệ quả là như nhau.",
+        "id": "legalner_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                0,
+                54
+            ],
+            [
+                132,
+                265
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                22
+            ],
+            [
+                108,
+                155
+            ],
+            [
+                160,
+                209
+            ]
+        ],
+        "reference": "Đúng là Hiến pháp của chúng ta không có điều khoản 'quy trình hợp lý' hay Tu chính án VIII; nhưng, trong lĩnh vực pháp luật này, sau vụ R.C. Cooper kiện Liên bang Ấn Độ, (1970) 1 SCC 248 và vụ Maneka Gandhi kiện Liên bang Ấn Độ, (1978) 1 SCC 248, kết quả vẫn giống nhau."
+    },
+    {
+        "source": "During that time he was part of an ABC News team that came under sniper fire in Sarajevo, Bosnia in August 1992. David Kaplan, a veteran ABC News Washington producer, was killed in the incident. In 1997, Sherwood joined NBC 's Nightly News with Tom Brokaw as a producer, then senior producer, and ultimately senior broadcast producer, where hewas present during coverage of the September 11th attacks.",
+        "target": "Trong khoảng thời gian đó, ông là một phần của nhóm ABC News bị bắn tỉa ở Sarajevo, Bosnia vào tháng Tám năm 1992. David Kaplan, một nhà sản xuất kỳ cựu của ABC News tại Washington, đã thiệt mạng trong sự kiện này. Năm 1997, Sherwood đã gia nhập chương trình Nightly News của NBC với Tom Brokaw trong vai trò nhà sản xuất, sau đó là nhà sản xuất cao cấp, và cuối cùng là nhà sản xuất phát sóng cao cấp, nơi ông có mặt trong suốt quá trình đưa tin về các vụ tấn công ngày 11 tháng 9.",
+        "id": "natural_instruct_task329_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                224,
+                321
+            ],
+            [
+                402,
+                446
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                204,
+                212
+            ],
+            [
+                245,
+                255
+            ],
+            [
+                341,
+                343
+            ]
+        ],
+        "reference": "Trong thời gian đó, ông là một phần của đội ngũ ABC News đã bị bắn tỉa ở Sarajevo, Bosnia vào tháng 8 năm 1992. David Kaplan, một nhà sản xuất kỳ cựu của ABC News tại Washington, đã bị giết trong vụ việc này. Năm 1997, Sherwood gia nhập chương trình Tin tức Đêm NBC với Tom Brokaw với vai trò nhà sản xuất, sau đó là nhà sản xuất cao cấp, và cuối cùng là nhà sản xuất phát sóng cao cấp, nơi ông có mặt trong quá trình đưa tin về các cuộc tấn công vào ngày 11 tháng 9."
+    },
+    {
+        "source": "During that time he was part of an ABC News team that came under sniper fire in Sarajevo, Bosnia in August 1992. David Kaplan, a veteran ABC News Washington producer, was killed in the incident. In 1997, Sherwood joined NBC 's Nightly News with Tom Brokaw as a producer, then senior producer, and ultimately senior broadcast producer, where hewas present during coverage of the September 11th attacks.",
+        "target": "Trong thời gian đó, ông là thành viên của nhóm ABC News đã bị bắn tỉa tại Sarajevo, Bosnia vào tháng 8 năm 1992. David Kaplan, một nhà sản xuất kỳ cựu của ABC News tại Washington, đã bị giết trong vụ việc này. Năm 1997, Sherwood gia nhập chương trình Nightly News của NBC với Tom Brokaw với vai trò nhà sản xuất, sau đó là nhà sản xuất cấp cao và cuối cùng là nhà sản xuất cao cấp phát sóng, nơi ông có mặt trong suốt thời gian đưa tin về các cuộc tấn công ngày 11 tháng 9.",
+        "id": "natural_instruct_task329_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                219,
+                311
+            ],
+            [
+                391,
+                435
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                204,
+                212
+            ],
+            [
+                245,
+                255
+            ],
+            [
+                341,
+                343
+            ]
+        ],
+        "reference": "Trong thời gian đó, ông là một phần của đội ngũ ABC News đã bị bắn tỉa ở Sarajevo, Bosnia vào tháng 8 năm 1992. David Kaplan, một nhà sản xuất kỳ cựu của ABC News tại Washington, đã bị giết trong vụ việc này. Năm 1997, Sherwood gia nhập chương trình Tin tức Đêm NBC với Tom Brokaw với vai trò nhà sản xuất, sau đó là nhà sản xuất cao cấp, và cuối cùng là nhà sản xuất phát sóng cao cấp, nơi ông có mặt trong quá trình đưa tin về các cuộc tấn công vào ngày 11 tháng 9."
+    },
+    {
+        "source": "On 27 September 2014, Toshney signed for Ross County and made his debut the same day as they beat Dundee 2--1. Having been released by Ross County, Toshney signed for Cowdenbeath on 3 February 2015, signing a contract until the end of the 2014--15 season. On 11 June 2015, Toshney signed for Raith Rovers. Following his move to Scottish Championship rivals Dundee United, former Raith Rovers manager Ray McKinnon expressed an interest in bringing Toshney to Tannadice.",
+        "target": "Vào ngày 27 tháng 9 năm 2014, Toshney đã ký hợp đồng với Ross County và có trận ra mắt ngay trong ngày hôm đó khi họ đánh bại Dundee 2--1. Sau khi được Ross County giải phóng hợp đồng, Toshney đã ký hợp đồng với Cowdenbeath vào ngày 3 tháng 2 năm 2015, với hợp đồng có hiệu lực đến hết mùa giải 2014--15. Vào ngày 11 tháng 6 năm 2015, Toshney ký hợp đồng với Raith Rovers. Sau lời chuyển đến đối thủ cạnh tranh Scottish Championship Dundee United, cựu huấn luyện viên Raith Rovers Ray McKinnon đã bày tỏ sự quan tâm đến việc đưa Toshney đến Tannadice.",
+        "id": "natural_instruct_task329_44_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                29,
+                71
+            ],
+            [
+                372,
+                432
+            ],
+            [
+                447,
+                524
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                22,
+                29
+            ],
+            [
+                316,
+                319
+            ],
+            [
+                400,
+                412
+            ]
+        ],
+        "reference": "Vào ngày 27 tháng 9 năm 2014, Toshney ký hợp đồng với Ross County và ra mắt vào cùng ngày khi họ đánh bại Dundee 2-1. Sau khi bị Ross County sa thải, Toshney ký hợp đồng với Cowdenbeath vào ngày 3 tháng 2 năm 2015, ký hợp đồng đến hết mùa giải 2014-15. Vào ngày 11 tháng 6 năm 2015, Toshney ký hợp đồng với Raith Rovers. Sau khi chuyển đến đối thủ của Giải Vô địch Scotland Dundee United, cựu huấn luyện viên của Raith Rovers, Ray McKinnon một lần nữa bày tỏ sự quan tâm đến việc mang Toshney đến Tannadice."
+    },
+    {
+        "source": "On 27 September 2014, Toshney signed for Ross County and made his debut the same day as they beat Dundee 2--1. Having been released by Ross County, Toshney signed for Cowdenbeath on 3 February 2015, signing a contract until the end of the 2014--15 season. On 11 June 2015, Toshney signed for Raith Rovers. Following his move to Scottish Championship rivals Dundee United, former Raith Rovers manager Ray McKinnon expressed an interest in bringing Toshney to Tannadice.",
+        "target": "Vào ngày 27 tháng 9 năm 2014, Toshney ký hợp đồng với Ross County và ra mắt trong trận đấu họ đánh bại Dundee 2-1 cùng ngày. Sau khi được Ross County giải phóng hợp đồng, Toshney ký hợp đồng với Cowdenbeath vào ngày 3 tháng 2 năm 2015, với hợp đồng có hiệu lực đến hết mùa giải 2014-15. Vào ngày 11 tháng 6 năm 2015, Toshney ký hợp đồng với Raith Rovers. Sau khi chuyển đến đối thủ cạnh tranh Scottish Championship là Dundee United, cựu huấn luyện viên Raith Rovers Ray McKinnon đã bày tỏ sự quan tâm đến việc đưa Toshney đến Tannadice.",
+        "id": "natural_instruct_task329_44_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                29,
+                71
+            ],
+            [
+                432,
+                509
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                22,
+                29
+            ],
+            [
+                316,
+                319
+            ],
+            [
+                400,
+                412
+            ]
+        ],
+        "reference": "Vào ngày 27 tháng 9 năm 2014, Toshney ký hợp đồng với Ross County và ra mắt vào cùng ngày khi họ đánh bại Dundee 2-1. Sau khi bị Ross County sa thải, Toshney ký hợp đồng với Cowdenbeath vào ngày 3 tháng 2 năm 2015, ký hợp đồng đến hết mùa giải 2014-15. Vào ngày 11 tháng 6 năm 2015, Toshney ký hợp đồng với Raith Rovers. Sau khi chuyển đến đối thủ của Giải Vô địch Scotland Dundee United, cựu huấn luyện viên của Raith Rovers, Ray McKinnon một lần nữa bày tỏ sự quan tâm đến việc mang Toshney đến Tannadice."
+    },
+    {
+        "source": "Jim went to the bank to get a statement to see how much money he had for the weekend, but the statement said the was broke.",
+        "target": "Jim đi đến ngân hàng để lấy một sao kê xem mình có bao nhiêu tiền cho cuối tuần, nhưng sao kê lại cho biết anh ta đã hết tiền.",
+        "id": "natural_instruct_task033_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                0,
+                74
+            ],
+            [
+                80,
+                125
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                30,
+                39
+            ],
+            [
+                94,
+                103
+            ]
+        ],
+        "reference": "Jim đã đến ngân hàng để lấy sao kê xem có bao nhiêu tiền cho cuối tuần, nhưng sao kê cho biết anh ta đang phá sản."
+    },
+    {
+        "source": "Jim went to the bank to get a statement to see how much money he had for the weekend, but the statement said the was broke.",
+        "target": "Jim đi đến ngân hàng để lấy sao kê xem mình có bao nhiêu tiền cho cuối tuần, nhưng sao kê lại ghi rằng anh ta hết tiền.",
+        "id": "natural_instruct_task033_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                0,
+                70
+            ],
+            [
+                76,
+                118
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                30,
+                39
+            ],
+            [
+                94,
+                103
+            ]
+        ],
+        "reference": "Jim đã đến ngân hàng để lấy sao kê xem có bao nhiêu tiền cho cuối tuần, nhưng sao kê cho biết anh ta đang phá sản."
+    }
+]

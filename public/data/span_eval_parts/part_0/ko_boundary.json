@@ -1,0 +1,190 @@
+[
+    {
+        "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+        "target": "이것은 판매세처럼 구조화될 수 있지만, 현실적인 소비세 제안들은 순수 판매세의 역진성 문제가 있음을 인식합니다.",
+        "metadata": {
+            "id": "wikibias_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        48,
+                        57
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        22,
+                        26
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        90,
+                        152
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        36,
+                        61
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+        "target": "판매세처럼 구조화될 수 있지만, 소비세에 대한 현실적인 제안들은 순수 판매세에는 역진성이 문제라는 점을 인식하고 있습니다.",
+        "metadata": {
+            "id": "wikibias_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        48,
+                        57
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        26,
+                        30
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        90,
+                        152
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        36,
+                        67
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target": "그리고 대리적으로 Coors Brewing Company 자체도 미국 정치와 공공 정책에서 중요한 역할을 해왔으며, 많은 보수적인 대의명분을 지지해 왔습니다. Coors 가문 구성원들은",
+        "metadata": {
+            "id": "wikibias_22_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        27,
+                        72
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        34
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target": "쿠어스 가문 구성원들은, 그리고 대리적으로 쿠어스 양조 회사 자체도, 미국의 정치와 공공 정책에서 두드러진 역할을 해왔으며, 많은 보수적 대의명분에 지지를 보내왔습니다.",
+        "metadata": {
+            "id": "wikibias_22_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        27,
+                        72
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        14,
+                        37
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "yep, this crap sounds like its from a libertarian",
+        "target": "응, 이 쓰레기 같은 말은 마치 자유주의자가 말한 것 같군",
+        "metadata": {
+            "id": "toxicspans_1_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        38,
+                        49
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        23
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "yep, this crap sounds like its from a libertarian",
+        "target": "응, 이 쓰레기 같은 말은 자유주의자에서 나온 것 같아",
+        "metadata": {
+            "id": "toxicspans_1_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        38,
+                        49
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        15,
+                        20
+                    ]
+                ]
+            }
+        ]
+    }
+]

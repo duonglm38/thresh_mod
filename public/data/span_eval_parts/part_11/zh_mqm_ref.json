@@ -1,0 +1,514 @@
+[
+    {
+        "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
+        "target": "在巅峰时期，以马尔代夫语中“棕榈叶袋”命名的热带气旋贡努，持续风速达到每小时240公里（149英里）。到今天早些时候，风速已降至约83公里/小时，预计将继续减弱。",
+        "id": "belebeleqa_4_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                29,
+                50
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                127,
+                170
+            ]
+        ],
+        "reference": "在其顶峰期，热带气旋戈努（在马尔代夫语言中指椰子树叶的袋子）达到持续风速240公里每小时（149英里每小时）。到今天早些时候，风速约为83公里每小时，预计会继续减弱。"
+    },
+    {
+        "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
+        "target": "在巅峰时期，名为“戈努”的热带气旋（该名称源自马尔代夫语言中“一包棕榈叶”的意思）的持续风速达到每小时240公里（149英里）。到今天早些时候，风速已降至约每小时83公里，预计将继续减弱。",
+        "id": "belebeleqa_4_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                41,
+                63
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                127,
+                170
+            ]
+        ],
+        "reference": "在其顶峰期，热带气旋戈努（在马尔代夫语言中指椰子树叶的袋子）达到持续风速240公里每小时（149英里每小时）。到今天早些时候，风速约为83公里每小时，预计会继续减弱。"
+    },
+    {
+        "source": "Jens Oliver Lisberg ( 24 December 1896 – 31 August 1920 ) ( Jens Olivur Lisberg in modern Faroese ) is one of the designers of the Merkið , the flag of the Faroe Islands . While a law student in Copenhagen , he devised the flag in 1919 with two other Faroese students , Janus Øssursson from Tórshavn and Paul Dahl from Vágur . Lisberg raised the flag for the first time on Faroese soil on 22 June 1919 on returning to his home town of Fámjin . It would not however receive official status until 25 April 1940 when the British occupation government approved its use as the civil ensign of the islands . Lisberg died of pneumonia on 31 August 1920 . He is buried in Fámjin , where the church now holds the original copy of the Merkið .",
+        "target": "Jens Oliver Lisberg（1896年12月24日－1920年8月31日）（现代法罗语中称为Jens Olivur Lisberg）是Merkið（法罗群岛的旗帜）的设计者之一。在哥本哈根念法律专业时，他于1919年与另外两名法罗学生Janus Øssursson（来自托尔斯港）和Paul Dahl（来自瓦古尔）共同设计了这面旗帜。Lisberg于1919年6月22日回到家乡Fámjin时，首次在法罗土地上升起了这面旗帜。然而，该旗帜直到1940年4月25日，被英国占领政府批准作为该群岛的民用旗帜时才获得官方地位。Lisberg于1920年8月31日死于肺炎，安葬于Fámjin，当地教堂现藏有这面Merkið的原件。",
+        "id": "docred_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                19
+            ],
+            [
+                20,
+                42
+            ],
+            [
+                44,
+                71
+            ],
+            [
+                72,
+                79
+            ],
+            [
+                80,
+                87
+            ],
+            [
+                95,
+                106
+            ],
+            [
+                107,
+                138
+            ],
+            [
+                139,
+                145
+            ],
+            [
+                146,
+                156
+            ],
+            [
+                157,
+                162
+            ],
+            [
+                173,
+                202
+            ],
+            [
+                203,
+                216
+            ],
+            [
+                222,
+                237
+            ],
+            [
+                238,
+                249
+            ],
+            [
+                266,
+                288
+            ],
+            [
+                289,
+                298
+            ],
+            [
+                300,
+                317
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                19
+            ],
+            [
+                22,
+                38
+            ],
+            [
+                41,
+                55
+            ],
+            [
+                60,
+                79
+            ],
+            [
+                90,
+                97
+            ],
+            [
+                131,
+                137
+            ],
+            [
+                156,
+                169
+            ],
+            [
+                195,
+                205
+            ],
+            [
+                231,
+                235
+            ],
+            [
+                241,
+                244
+            ],
+            [
+                251,
+                258
+            ],
+            [
+                270,
+                285
+            ],
+            [
+                291,
+                299
+            ],
+            [
+                304,
+                313
+            ],
+            [
+                319,
+                324
+            ],
+            [
+                327,
+                334
+            ],
+            [
+                373,
+                380
+            ],
+            [
+                389,
+                401
+            ],
+            [
+                435,
+                441
+            ],
+            [
+                495,
+                508
+            ],
+            [
+                518,
+                525
+            ],
+            [
+                602,
+                609
+            ],
+            [
+                631,
+                645
+            ],
+            [
+                664,
+                670
+            ],
+            [
+                725,
+                731
+            ]
+        ],
+        "reference": "延斯·奥利弗·利斯贝格（1896年12月24日 - 1920年8月31日）（现代法罗语中为延斯·奥利沃·利斯贝格）是法罗群岛国旗Merkið的设计者之一。在哥本哈根学习法律期间，他于1919年与另外两名法罗学生，来自托尔斯港的贾努斯·欧苏尔森和来自瓦古尔的保罗·达尔共同设计了这面旗帜。利斯贝格在1919年6月22日首次在法罗土地上升起这面旗帜，当时他返回故乡法姆金。然而，直到1940年4月25日，英国占领政府才批准其作为该群岛民用军旗的使用，从而使其获得官方地位。利斯贝格于1920年8月31日因肺炎去世。他葬于法姆金，教堂至今保留着Merkið的原始副本。"
+    },
+    {
+        "source": "Jens Oliver Lisberg ( 24 December 1896 – 31 August 1920 ) ( Jens Olivur Lisberg in modern Faroese ) is one of the designers of the Merkið , the flag of the Faroe Islands . While a law student in Copenhagen , he devised the flag in 1919 with two other Faroese students , Janus Øssursson from Tórshavn and Paul Dahl from Vágur . Lisberg raised the flag for the first time on Faroese soil on 22 June 1919 on returning to his home town of Fámjin . It would not however receive official status until 25 April 1940 when the British occupation government approved its use as the civil ensign of the islands . Lisberg died of pneumonia on 31 August 1920 . He is buried in Fámjin , where the church now holds the original copy of the Merkið .",
+        "target": "延斯·奥利弗·利斯贝格（Jens Oliver Lisberg，1896年12月24日－1920年8月31日）（现代法罗语称Jens Olivur Lisberg）是法罗群岛旗帜“Merkið”的设计者之一。1919年，他在哥本哈根作为一名法律系学生，与另外两名法罗群岛学生——来自托尔斯港的贾纳斯·厄苏尔森（Janus Øssursson）和来自瓦乌尔的保罗·达尔（Paul Dahl）——共同设计了这面旗帜。1919年6月22日，利斯贝格首次在法罗群岛本土的法姆因镇升起了这面旗帜。然而，直到1940年4月25日，英国占领政府批准其作为法罗群岛民用旗帜使用时，该旗帜才获得官方认可。利斯贝格于1920年8月31日因肺炎去世，葬于法姆因教堂内，教堂现收藏有“Merkið”的原始版本。",
+        "id": "docred_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                11
+            ],
+            [
+                32,
+                54
+            ],
+            [
+                56,
+                81
+            ],
+            [
+                82,
+                103
+            ],
+            [
+                104,
+                109
+            ],
+            [
+                110,
+                124
+            ],
+            [
+                126,
+                137
+            ],
+            [
+                139,
+                154
+            ],
+            [
+                171,
+                183
+            ],
+            [
+                206,
+                216
+            ],
+            [
+                217,
+                242
+            ],
+            [
+                246,
+                258
+            ],
+            [
+                259,
+                269
+            ],
+            [
+                293,
+                313
+            ],
+            [
+                314,
+                322
+            ],
+            [
+                323,
+                342
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                19
+            ],
+            [
+                22,
+                38
+            ],
+            [
+                41,
+                55
+            ],
+            [
+                60,
+                79
+            ],
+            [
+                90,
+                97
+            ],
+            [
+                131,
+                137
+            ],
+            [
+                156,
+                169
+            ],
+            [
+                195,
+                205
+            ],
+            [
+                231,
+                235
+            ],
+            [
+                241,
+                244
+            ],
+            [
+                251,
+                258
+            ],
+            [
+                270,
+                285
+            ],
+            [
+                291,
+                299
+            ],
+            [
+                304,
+                313
+            ],
+            [
+                319,
+                324
+            ],
+            [
+                327,
+                334
+            ],
+            [
+                373,
+                380
+            ],
+            [
+                389,
+                401
+            ],
+            [
+                435,
+                441
+            ],
+            [
+                495,
+                508
+            ],
+            [
+                518,
+                525
+            ],
+            [
+                602,
+                609
+            ],
+            [
+                631,
+                645
+            ],
+            [
+                664,
+                670
+            ],
+            [
+                725,
+                731
+            ]
+        ],
+        "reference": "延斯·奥利弗·利斯贝格（1896年12月24日 - 1920年8月31日）（现代法罗语中为延斯·奥利沃·利斯贝格）是法罗群岛国旗Merkið的设计者之一。在哥本哈根学习法律期间，他于1919年与另外两名法罗学生，来自托尔斯港的贾努斯·欧苏尔森和来自瓦古尔的保罗·达尔共同设计了这面旗帜。利斯贝格在1919年6月22日首次在法罗土地上升起这面旗帜，当时他返回故乡法姆金。然而，直到1940年4月25日，英国占领政府才批准其作为该群岛民用军旗的使用，从而使其获得官方地位。利斯贝格于1920年8月31日因肺炎去世。他葬于法姆金，教堂至今保留着Merkið的原始副本。"
+    },
+    {
+        "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
+        "target": "丹·帕特里克正在将我之前想到的那个科幻剧本变成现实，剧本讲述的是一群孩子传播一种他们自身免疫的病毒，目的是杀死他们的父母/祖父母。",
+        "id": "curt_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                0,
+                60
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                152
+            ]
+        ],
+        "reference": "丹·帕特里克正在将我为这个儿童联盟而构思的科幻剧本变为现实，他们传播一种他们免疫的病毒以杀死自己的父母/祖父母。"
+    },
+    {
+        "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
+        "target": "丹·帕特里克正在将我之前构思的一个科幻剧本变成现实：一群孩子传播他们自身免疫的病毒，以此来杀死他们的父母/祖父母。",
+        "id": "curt_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                0,
+                57
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                152
+            ]
+        ],
+        "reference": "丹·帕特里克正在将我为这个儿童联盟而构思的科幻剧本变为现实，他们传播一种他们免疫的病毒以杀死自己的父母/祖父母。"
+    },
+    {
+        "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
+        "target": "@CindyKendrick11 蝙蝠汤这件事是个借口。不管那东西是什么，都是从武汉的中国生物武器实验室泄漏出来的。中国政府对此负有责任",
+        "id": "curt_61_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                9,
+                27
+            ],
+            [
+                58,
+                68
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                17,
+                48
+            ],
+            [
+                122,
+                168
+            ]
+        ],
+        "reference": "@CindyKendrick11 蝙蝠汤的事情只是一个借口。无论那是什么，都是从武汉的中国生物武器实验室泄漏出来的。中国政府对此负责。"
+    },
+    {
+        "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
+        "target": "@CindyKendrick11 那个蝙蝠汤的说法只是借口。不管那个东西是从武汉的中国生物武器实验室泄漏出来的。中国政府对此负有责任。",
+        "id": "curt_61_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                9,
+                29
+            ],
+            [
+                56,
+                66
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                17,
+                48
+            ],
+            [
+                122,
+                168
+            ]
+        ],
+        "reference": "@CindyKendrick11 蝙蝠汤的事情只是一个借口。无论那是什么，都是从武汉的中国生物武器实验室泄漏出来的。中国政府对此负责。"
+    },
+    {
+        "source": "Well, Mr. Ford is - is uh changing uh considerably his previous philosophy. The present tax structure is a disgrace to this country; it's just a welfare program for the rich. As a matter of fact, uh - 25 percent of the total tax deductions, go for only 1 percent of the richest people in this country, and over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country.",
+        "target": "那么，福特先生正在——呃——大幅改变他之前的理念。目前的税收结构对于这个国家来说是一种耻辱；它简直就是富人的福利计划。事实上，呃——总税收减免的 25% 仅流向该国最富有的 1% 人群，而超过 50% 的税收抵免则流向该国最富有的 14% 人群。",
+        "id": "elecdeb_161_gpt4_ez",
+        "target_focus_areas": [
+            [
+                25,
+                54
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                105,
+                132
+            ]
+        ],
+        "reference": "好吧，福特先生正在相当程度上改变他以前的理念。目前的税收结构让这个国家感到羞耻；这只是一个富人的福利计划。实际上，25%的总税收抵免只惠及这个国家最富有的1%的人，而超过50%的税收抵免则惠及这个国家14%最富有的人。"
+    },
+    {
+        "source": "Well, Mr. Ford is - is uh changing uh considerably his previous philosophy. The present tax structure is a disgrace to this country; it's just a welfare program for the rich. As a matter of fact, uh - 25 percent of the total tax deductions, go for only 1 percent of the richest people in this country, and over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country.",
+        "target": "好吧，福特先生正在——呃——大幅改变他之前的理念。现行的税收体系是对这个国家的耻辱；它简直就是富人的福利计划。事实上，呃，全国所有税收减免中的25%只流向美国最富有的1%的人群，而超过50%的税收抵免则流向最富有的14%的人群。",
+        "id": "elecdeb_161_gpt4_clap",
+        "target_focus_areas": [
+            [
+                25,
+                41
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                105,
+                132
+            ]
+        ],
+        "reference": "好吧，福特先生正在相当程度上改变他以前的理念。目前的税收结构让这个国家感到羞耻；这只是一个富人的福利计划。实际上，25%的总税收抵免只惠及这个国家最富有的1%的人，而超过50%的税收抵免则惠及这个国家14%最富有的人。"
+    }
+]

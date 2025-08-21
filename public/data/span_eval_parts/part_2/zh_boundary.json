@@ -1,0 +1,518 @@
+[
+    {
+        "source": "if a bitch start scratching amp pulling my hair during a fight omm imma stomp on a hoe head dumb ass bitch",
+        "target": "如果一个贱人开始在打架时抓我、扯我的头发，我他妈就踩爆那个婊子脑袋 蠢货贱人",
+        "metadata": {
+            "id": "hatexplain_751_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        5,
+                        10
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        5,
+                        16
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        8
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        83,
+                        106
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        29,
+                        38
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        92,
+                        106
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        34,
+                        38
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "if a bitch start scratching amp pulling my hair during a fight omm imma stomp on a hoe head dumb ass bitch",
+        "target": "如果一只贱女人在我打架时开始抓我扯我头发，我他妈就踩爆她那蠢货脑袋，傻逼贱女人",
+        "metadata": {
+            "id": "hatexplain_751_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        5,
+                        10
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        7
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        5,
+                        16
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        2,
+                        20
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        83,
+                        106
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        27,
+                        33
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        92,
+                        106
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        34,
+                        39
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "me girl otherwise you just a sad ass bitch 😇",
+        "target": "我女儿，否则你不过是个可怜兮兮的婊子😇",
+        "metadata": {
+            "id": "hatexplain_940_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        29,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        11,
+                        18
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        37,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        16,
+                        18
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "me girl otherwise you just a sad ass bitch 😇",
+        "target": "跟我走女孩，否则你只是个可怜的贱人😇",
+        "metadata": {
+            "id": "hatexplain_940_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        29,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        12,
+                        17
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        37,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        15,
+                        17
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Lion, the Witch and the Wardrobe is the first and only published and chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia. The animated television film that was broadcast on CBS in 1979, The Lion, the Witch and the Wardrobe, is a 1979 adaptation of the novel. The 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a British-American high fantasy film directed by Andrew Adamson and based on The Lion, the Witch and the Wardrobe, the Wardrobe, the first published and second chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia.\n",
+        "target": "《狮子、女巫和魔衣橱》是C.S.刘易斯儿童史诗奇幻系列《纳尼亚传奇》中的第一部，也是唯一已出版且按时间顺序排列的小说。1979年在哥伦比亚广播公司（CBS）播放的动画电视电影《狮子、女巫和魔衣橱》是对该小说的1979年改编版本。2005年的电影《纳尼亚传奇：狮子、女巫和魔衣橱》是一部由安德鲁·亚当森执导的英美合拍的高奇幻电影，改编自《狮子、女巫和魔衣橱》，这是C.S.刘易斯儿童史诗奇幻系列《纳尼亚传奇》中的第一部已出版作品，也是第二部按时间顺序排列的小说。",
+        "metadata": {
+            "id": "qafeedback_61_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        54,
+                        68
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        42,
+                        47
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        232,
+                        269
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        98,
+                        99
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        275,
+                        279
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        104,
+                        109
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        387,
+                        408
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        153,
+                        159
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        449,
+                        640
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        164,
+                        230
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Lion, the Witch and the Wardrobe is the first and only published and chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia. The animated television film that was broadcast on CBS in 1979, The Lion, the Witch and the Wardrobe, is a 1979 adaptation of the novel. The 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a British-American high fantasy film directed by Andrew Adamson and based on The Lion, the Witch and the Wardrobe, the Wardrobe, the first published and second chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia.\n",
+        "target": "《狮子、女巫和魔衣橱》是C.S.刘易斯儿童史诗奇幻系列《纳尼亚传奇》中第一部也是唯一一部已出版的按时间顺序排列的小说。1979年在哥伦比亚广播公司 (CBS) 播放的动画电视电影《狮子、女巫和魔衣橱》是这部小说的1979年改编作品。2005年的电影《纳尼亚传奇：狮子、女巫和魔衣橱》是一部由安德鲁·亚当森执导的英美史诗奇幻电影，改编自《狮子、女巫和魔衣橱》，它是C.S.刘易斯儿童史诗奇幻系列《纳尼亚传奇》中第一部出版的、第二部按时间顺序排列的小说。",
+        "metadata": {
+            "id": "qafeedback_61_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        54,
+                        68
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        40,
+                        48
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        232,
+                        269
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        89,
+                        100
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        275,
+                        279
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        106,
+                        111
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        387,
+                        408
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        155,
+                        159
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        449,
+                        640
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        164,
+                        225
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The player with the most points in a Finals game is Elgin Baylor, who played 14 seasons in the National Basketball Association for the Los Angeles Lakers. Baylor scored a finals record 61 points in the 1962 NBA Finals against the Los Angeles Lakers.",
+        "target": "总决赛单场比赛得分最高的球员是埃尔金·贝勒，他曾效力于洛杉矶湖人队，在国家篮球协会（NBA）征战了14个赛季。贝勒在1962年NBA总决赛对阵洛杉矶湖人队的比赛中，砍下了总决赛历史最高分61分。",
+        "metadata": {
+            "id": "qafeedback_87_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        226,
+                        249
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        71,
+                        77
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The player with the most points in a Finals game is Elgin Baylor, who played 14 seasons in the National Basketball Association for the Los Angeles Lakers. Baylor scored a finals record 61 points in the 1962 NBA Finals against the Los Angeles Lakers.",
+        "target": "总决赛单场得分最多的球员是埃尔金·贝勒，他在国家篮球协会为洛杉矶湖人队效力了14个赛季。贝勒在1962年NBA总决赛对阵洛杉矶湖人队的比赛中，创下了61分的总决赛单场得分纪录。",
+        "metadata": {
+            "id": "qafeedback_87_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        226,
+                        249
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        60,
+                        66
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "the princeton vase is a famous example of late classic maya ceramics in codex style , first published in m . d . thompson ' s ' the great maya and his contemporaries ' ( 1931 ) , and now a major piece of the pre - columbian collection of the national museum of mexico . originally painted as a drinking vessel for wine , it depicts a throne being approached by an owl , with an owl flying above him and by three young women surrounding him . in front of the throne a female dancer is being watched and threatened by two young men , a scene that has long been assumed to refer to an incident in the ahau san maya . as to the vase ' s art - historical importance , it invites comparison to the equally famous jaguar baby vase in the san francisco museum collection .",
+        "target": "普林斯顿花瓶是晚期经典期玛雅陶瓷以典册风格制作的著名范例，首次发表于 M. D. Thompson 的《伟大的玛雅人及其当代人》（1931 年），现为墨西哥国家博物馆前哥伦布时期收藏的重要藏品。该花瓶最初绘制为饮酒用的容器，描绘了一个宝座，有一只猫头鹰正向其靠近，另一只猫头鹰在他上方飞翔，三名年轻女子环绕其旁。宝座前，一名女性舞者正被两名年轻男子注视并威胁，这一场景长期被认为是指向阿豪三玛雅中的一宗事件。至于该花瓶的艺术史重要性，它引发人们将其与旧金山博物馆收藏的同样著名的美洲豹婴儿花瓶进行比较。",
+        "metadata": {
+            "id": "hades_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        666,
+                        673
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        217,
+                        220
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "the princeton vase is a famous example of late classic maya ceramics in codex style , first published in m . d . thompson ' s ' the great maya and his contemporaries ' ( 1931 ) , and now a major piece of the pre - columbian collection of the national museum of mexico . originally painted as a drinking vessel for wine , it depicts a throne being approached by an owl , with an owl flying above him and by three young women surrounding him . in front of the throne a female dancer is being watched and threatened by two young men , a scene that has long been assumed to refer to an incident in the ahau san maya . as to the vase ' s art - historical importance , it invites comparison to the equally famous jaguar baby vase in the san francisco museum collection .",
+        "target": "普林斯顿瓶是晚期经典玛雅陶瓷中著名的编年体风格代表作，最早发表于M.D.汤普森的《伟大的玛雅及其同时代人》(1931年)，现为墨西哥国家博物馆前哥伦布时期收藏的重要展品。该瓶最初作为饮酒器具绘制，描绘了一位君主被一只猫头鹰接近的场景，君主头顶上方有一只飞翔的猫头鹰，身旁围绕着三位年轻女子。在王座前，一位女性舞者正被两位年轻男子注视并威胁，这一场景长期被认为指的是阿哈乌·桑玛雅的一个事件。关于该瓶的艺术史重要性，它常被拿来与旧金山博物馆收藏的同样著名的美洲豹幼崽瓶相提并论。",
+        "metadata": {
+            "id": "hades_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        666,
+                        673
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        208,
+                        212
+                    ]
+                ]
+            }
+        ]
+    }
+]

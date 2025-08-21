@@ -1,0 +1,544 @@
+[
+    {
+        "source": "The final stage in the development of the Skyfox was the production of a model with tricycle landing gear to better cater for the pilot training market .",
+        "target": "스카이폭스 개발의 최종 단계는 조종사 훈련 시장에 더 적합하도록 삼륜 착륙 장치를 갖춘 모델을 생산하는 것이었습니다.",
+        "metadata": {
+            "id": "fewnerd_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        42,
+                        48
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        5
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The final stage in the development of the Skyfox was the production of a model with tricycle landing gear to better cater for the pilot training market .",
+        "target": "스카이폭스 개발의 최종 단계는 조종사 훈련 시장에 더 잘 대응하기 위해 삼륜 착륙장치를 장착한 모델의 생산이었습니다.",
+        "metadata": {
+            "id": "fewnerd_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        42,
+                        48
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        5
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The play is set to return to the United States , originally to open on Broadway at the Nederlander Theatre on 7 March 2020 in previews , officially on 26 March .",
+        "target": "미국에서 다시 공연될 예정인 이 연극은 원래 2020년 3월 7일부터 브로드웨이의 네덜란더 극장에서 프리뷰 공연을 시작하고, 3월 26일에 공식적으로 막을 올릴 예정이었다.",
+        "metadata": {
+            "id": "fewnerd_938_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        33,
+                        46
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        2
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        71,
+                        79
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        39,
+                        44
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        87,
+                        106
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        46,
+                        53
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The play is set to return to the United States , originally to open on Broadway at the Nederlander Theatre on 7 March 2020 in previews , officially on 26 March .",
+        "target": "이 연극은 미국으로 돌아올 예정이며, 원래 2020년 3월 7일에 네덜랜더 극장에서 프리뷰 공연을 시작하고, 3월 26일에 공식적으로 막을 올릴 예정이었다.",
+        "metadata": {
+            "id": "fewnerd_938_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        33,
+                        46
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        6,
+                        8
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        71,
+                        79
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        87,
+                        106
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        37,
+                        44
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Letter from Birmingham Jail , also known as the Letter from Birmingham City Jail and The Negro Is Your Brother , is an open letter written on April 16 , 1963 , by Martin Luther King Jr . The letter defends the strategy of nonviolent resistance to racism . It says that people have a moral responsibility to break unjust laws and to take direct action rather than waiting potentially forever for justice to come through the courts . Responding to being referred to as an `` outsider , '' King writes , `` Injustice anywhere is a threat to justice everywhere '' . The letter , written during the 1963 Birmingham campaign , was widely published , and became an important text for the American Civil Rights Movement .",
+        "target": "버밍엄 감옥에서 온 편지, 또는 버밍엄 시 감옥에서 온 편지, 그리고 흑인이 너의 형제임이라는 제목으로도 알려진 이 편지는 1963년 4월 16일 마틴 루터 킹 주니어가 쓴 공개 편지이다. 이 편지는 인종차별에 대한 비폭력 저항 전략을 변호하고 있다. 그리고 법이 불의할 경우 사람들은 정의가 법원을 통해 올 때까지 무기한 기다리지 않고 불의한 법을 어기고 직접 행동할 도덕적 책임이 있다고 말한다. \"외부인\"이라고 불린 것에 대해 대응하며 킹은 이렇게 쓴다. \"어디서든 불의가 발생하면 그것은 어디서든 정의에 대한 위협이다.\" 이 편지는 1963년 버밍엄 캠페인 중에 작성되었으며, 널리 게재되어 미국 인권 운동의 중요한 텍스트가 되었다.",
+        "metadata": {
+            "id": "multispanqa_0_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        210,
+                        257
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        112,
+                        134
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        287,
+                        433
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        160,
+                        217
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Letter from Birmingham Jail , also known as the Letter from Birmingham City Jail and The Negro Is Your Brother , is an open letter written on April 16 , 1963 , by Martin Luther King Jr . The letter defends the strategy of nonviolent resistance to racism . It says that people have a moral responsibility to break unjust laws and to take direct action rather than waiting potentially forever for justice to come through the courts . Responding to being referred to as an `` outsider , '' King writes , `` Injustice anywhere is a threat to justice everywhere '' . The letter , written during the 1963 Birmingham campaign , was widely published , and became an important text for the American Civil Rights Movement .",
+        "target": "버밍엄 감옥에서 온 편지(또는 버밍엄 시 감옥에서 온 편지, 그리고 흑인은 당신의 형제이다)는 1963년 4월 16일 마틴 루터 킹 주니어가 쓴 공개 편지이다. 이 편지는 인종차별에 대한 비폭력적 저항 전략을 변호한다. 편지에서는 불의한 법을 어길 책임이 있으며, 법원을 통해 정의가 올 때까지 무한정 기다리는 대신 직접 행동을 취해야 한다고 주장한다. 외부인이라고 불린 것에 대해 대응하며 킹은 “어디서든 발생하는 불의는 어디서든 정의에 대한 위협이다”라고 쓴다. 1963년 버밍엄 캠페인 중에 쓰여진 이 편지는 널리 게재되었으며, 미국 인권운동의 중요한 텍스트가 되었다.",
+        "metadata": {
+            "id": "multispanqa_0_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        210,
+                        257
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        96,
+                        115
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        287,
+                        433
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        129,
+                        196
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Mohenjo - daro was built in the 26th century BCE . It was one of the largest cities of the ancient Indus Valley Civilization , also known as the Harappan Civilization , which developed around 3,000 BCE from the prehistoric Indus culture . At its height , the Indus Civilization spanned much of what is now Pakistan and North India , extending westwards to the Iranian border , south to Gujarat in India and northwards to an outpost in Bactria , with major urban centers at Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira and Rakhigarhi . Mohenjo - daro was the most advanced city of its time , with remarkably sophisticated civil engineering and urban planning . When the Indus civilization went into sudden decline around 1900 BCE , Mohenjo - daro was abandoned . The ruins of the city remained undocumented for around 3,700 years until R.D. Banerji , an officer of the Archaeological Survey of India , visited the site in 1919 -- 20 , identifying the Buddhist stupa ( 150 -- 500 CE ) known to be there and finding a flint scraper which convinced him of the site 's antiquity . This led to large - scale excavations of Mohenjo - daro led by Kashinath Narayan Dikshit in 1924 -- 25 , and John Marshall in 1925 -- 26 . In the 1930s , major excavations were conducted at the site under the leadership of Marshall , D.K. Dikshitar and Ernest Mackay . Further excavations were carried out in 1945 by Ahmad Hasan Dani and Mortimer Wheeler . The last major series of excavations were conducted in 1964 and 1965 by Dr. George F. Dales .",
+        "target": "모헨조다로는 기원전 26세기에 건설되었습니다. 이는 고대 인더스 계곡 문명, 하라파 문명으로도 알려진 문명 중 가장 큰 도시 중 하나였으며, 기원전 3,000년경 선사시대 인더스 문화에서 발전했습니다. 전성기에는 인더스 문명이 현재의 파키스탄과 북인도를 대부분 포함하여, 서쪽으로는 이란 국경, 남쪽으로는 인도의 구자라트, 북쪽으로는 박트리아의 전초기지까지 확장되었으며, 하라파, 모헨조다로, 로탈, 칼리방간, 돌라비라, 라키가르히와 같은 주요 도시 중심지가 있었습니다. 모헨조다로는 당시 가장 발전된 도시였으며, 매우 정교한 토목 공학과 도시 계획을 자랑했습니다. 인더스 문명이 기원전 1900년경 갑작스런 쇠퇴기에 접어들면서 모헨조다로는 버려졌습니다. 도시의 유적은 약 3,700년 동안 기록되지 않은 채 남아 있었고, 1919-20년 인도 고고학 조사국 소속의 R.D. 바네르지가 이곳을 방문하여 그곳에 알려진 불교 스투파(150-500 CE)를 확인하고 부싯돌 스크레이퍼를 발견하여 이 유적지의 고대성을 확신하게 되었습니다. 이후 1924-25년 카시나스 나라얀 디크쉬트와 1925-26년 존 마샬이 이끄는 모헨조다로 대규모 발굴이 진행되었습니다. 1930년대에는 마샬, D.K. 딕쉬타르, 어니스트 맥케이의 지도 아래 주요 발굴이 이루어졌고, 1945년에는 아흐마드 하산 다니와 모티머 휠러가 추가 발굴을 진행했습니다. 마지막 주요 발굴 시리즈는 1964년과 1965년에 조지 F. 데일스 박사에 의해 수행되었습니다.",
+        "metadata": {
+            "id": "multispanqa_52_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        1153,
+                        1178
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        534,
+                        547
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        1199,
+                        1212
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        558,
+                        562
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        1324,
+                        1338
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        604,
+                        613
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        1343,
+                        1356
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        615,
+                        623
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        1407,
+                        1423
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        653,
+                        663
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        1428,
+                        1444
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        665,
+                        671
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1523,
+                        1538
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        717,
+                        726
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Mohenjo - daro was built in the 26th century BCE . It was one of the largest cities of the ancient Indus Valley Civilization , also known as the Harappan Civilization , which developed around 3,000 BCE from the prehistoric Indus culture . At its height , the Indus Civilization spanned much of what is now Pakistan and North India , extending westwards to the Iranian border , south to Gujarat in India and northwards to an outpost in Bactria , with major urban centers at Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira and Rakhigarhi . Mohenjo - daro was the most advanced city of its time , with remarkably sophisticated civil engineering and urban planning . When the Indus civilization went into sudden decline around 1900 BCE , Mohenjo - daro was abandoned . The ruins of the city remained undocumented for around 3,700 years until R.D. Banerji , an officer of the Archaeological Survey of India , visited the site in 1919 -- 20 , identifying the Buddhist stupa ( 150 -- 500 CE ) known to be there and finding a flint scraper which convinced him of the site 's antiquity . This led to large - scale excavations of Mohenjo - daro led by Kashinath Narayan Dikshit in 1924 -- 25 , and John Marshall in 1925 -- 26 . In the 1930s , major excavations were conducted at the site under the leadership of Marshall , D.K. Dikshitar and Ernest Mackay . Further excavations were carried out in 1945 by Ahmad Hasan Dani and Mortimer Wheeler . The last major series of excavations were conducted in 1964 and 1965 by Dr. George F. Dales .",
+        "target": "모헨조다로는 기원전 26세기에 건설되었습니다. 이는 고대 인더스 계곡 문명, 즉 하라파 문명으로도 알려진 문명 중 가장 큰 도시 중 하나였으며, 기원전 3000년경 선사시대 인더스 문화에서 발전하였습니다. 인더스 문명이 절정에 달했을 때, 이 문명은 현재 파키스탄과 북인도 대부분을 아우르며 서쪽으로는 이란 국경, 남쪽으로는 인도의 구자라트, 북쪽으로는 박트리아의 전초기지에 이르렀고, 주요 도시로는 하라파, 모헨조다로, 로탈, 칼리방간, 돌라비라, 라키가르히가 있었습니다. 모헨조다로는 그 당시 가장 진보된 도시였으며, 놀라울 정도로 정교한 토목 공학과 도시 계획을 갖추고 있었습니다. 인더스 문명이 기원전 1900년경 갑작스러운 쇠퇴를 겪으면서 모헨조다로는 버려졌습니다. 도시의 유적은 약 3700년간 기록되지 않은 채 남아 있었으나, 인도 고고학 조사국의 직원인 R.D. 바네르지는 1919-20년에 이곳을 방문해 그곳에 알려진 불교의 스투파(150-500년경)를 확인하고, 석기 스크래퍼를 발견하여 이 유적의 고대성을 확신하게 되었습니다. 이로 인해 1924-25년 카시나스 나라얀 딕시트, 1925-26년 존 마샬이 주도하는 대규모 발굴이 시작되었습니다. 1930년대에는 마샬, D.K. 딕시타르, 어니스트 매케이의 지도 아래 주요 발굴이 이루어졌습니다. 이후 1945년에는 아흐마드 하산 다니와 모르티머 휠러가 추가 발굴을 진행했고, 마지막 주요 발굴은 1964년과 1965년에 조지 F. 데일스 박사에 의해 수행되었습니다.",
+        "metadata": {
+            "id": "multispanqa_52_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        1153,
+                        1178
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        545,
+                        557
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        1199,
+                        1212
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        568,
+                        572
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        1324,
+                        1338
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        609,
+                        618
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        1343,
+                        1356
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        620,
+                        628
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        1407,
+                        1423
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        663,
+                        673
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        1428,
+                        1444
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        675,
+                        682
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1523,
+                        1538
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        722,
+                        731
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Comets may possibly have been a source of water delivery to the earth along with organic matter that can form proteins and support life. Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago.",
+        "target": "혜성은 단백질을 형성하고 생명을 유지할 수 있는 유기 물질과 함께 지구에 물을 전달하는 원천이었을 가능성이 있습니다. 과학자들은 혜성이 오래전에 지구와 충돌했기 때문에 행성이 어떻게 형성되는지, 특히 지구는 어떻게 형성되었는지 이해하기를 희망합니다.",
+        "metadata": {
+            "id": "belebeleqa_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        167,
+                        216
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        94,
+                        126
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Comets may possibly have been a source of water delivery to the earth along with organic matter that can form proteins and support life. Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago.",
+        "target": "혜성들은 단백질을 형성하고 생명을 지탱할 수 있는 유기 물질과 함께 지구에 물을 전달하는 원천이었을 가능성이 있다. 과학자들은 행성이 형성되는 방식, 특히 오래전에 혜성이 지구와 충돌했던 만큼 지구는 어떻게 형성되었는지를 이해하기를 희망한다.",
+        "metadata": {
+            "id": "belebeleqa_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        167,
+                        216
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        71,
+                        123
+                    ]
+                ]
+            }
+        ]
+    }
+]

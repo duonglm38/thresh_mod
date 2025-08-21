@@ -1,0 +1,254 @@
+[
+    {
+        "source": "if a bitch start scratching amp pulling my hair during a fight omm imma stomp on a hoe head dumb ass bitch",
+        "target": "만약 내가 싸우는 도중에 새끼 놈이 발버둥치며 내 머리를 긁고 끌어당기면, 내가 바로 그 새끼 머리 멍청한 새끼 놈를 밟아부수겠어",
+        "id": "hatexplain_751_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                0,
+                40
+            ],
+            [
+                41,
+                72
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                5,
+                16
+            ],
+            [
+                83,
+                106
+            ]
+        ],
+        "reference": "암캐가 싸움 중에 내 머리카락을 잡아당기는 앰프를 긁기 시작하면 omm imma 괭이 머리를 밟고 멍청한 엉덩이 암캐"
+    },
+    {
+        "source": "if a bitch start scratching amp pulling my hair during a fight omm imma stomp on a hoe head dumb ass bitch",
+        "target": "싸움 도중 암캐가 내 머리를 긁고 끌어당기기 시작하면, 내가 그 씨발새끼 머리를 밟아 짓밟을 거야, 멍청한 빌어먹을 암캐야",
+        "id": "hatexplain_751_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                0,
+                29
+            ],
+            [
+                30,
+                54
+            ],
+            [
+                55,
+                68
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                5,
+                16
+            ],
+            [
+                83,
+                106
+            ]
+        ],
+        "reference": "암캐가 싸움 중에 내 머리카락을 잡아당기는 앰프를 긁기 시작하면 omm imma 괭이 머리를 밟고 멍청한 엉덩이 암캐"
+    },
+    {
+        "source": "me girl otherwise you just a sad ass bitch 😇",
+        "target": "나 여자야, 그렇지 않으면 넌 그냥 안타까운 년일 뿐이야 😇",
+        "id": "hatexplain_940_gpt4_ez",
+        "target_focus_areas": [
+            [
+                6,
+                33
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                29,
+                42
+            ]
+        ],
+        "reference": "– 내 소녀 그렇지 않으면 당신은 단지 슬픈 엉덩이 암캐😇일 뿐입니다"
+    },
+    {
+        "source": "me girl otherwise you just a sad ass bitch 😇",
+        "target": "나한테 관심 가져, 아니면 너는 그냥 불쌍한 년일 뿐이야 😇",
+        "id": "hatexplain_940_gpt4_clap",
+        "target_focus_areas": [
+            [
+                10,
+                33
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                29,
+                42
+            ]
+        ],
+        "reference": "– 내 소녀 그렇지 않으면 당신은 단지 슬픈 엉덩이 암캐😇일 뿐입니다"
+    },
+    {
+        "source": "The Lion, the Witch and the Wardrobe is the first and only published and chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia. The animated television film that was broadcast on CBS in 1979, The Lion, the Witch and the Wardrobe, is a 1979 adaptation of the novel. The 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a British-American high fantasy film directed by Andrew Adamson and based on The Lion, the Witch and the Wardrobe, the Wardrobe, the first published and second chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia.\n",
+        "target": "출판된 유일한 작품이자 연대기 순서상 첫 번째 소설인 《사자와 마녀와 옷장》은 C. S. 루이스의 어린이 판타지 서사시 시리즈, 《나니아 연대기》에 속합니다. 1979년 CBS에서 방영된 애니메이션 TV 영화 사자와 마녀와 옷장은 해당 소설의 1979년 각색작입니다. 2005년 영화 《나니아 연대기: 사자와 마녀와 옷장》은 앤드루 아담슨 감독의 영국-미국 하이 판타지 영화로, C. S. 루이스의 어린이 판타지 서사시 시리즈 《나니아 연대기》에서 처음 출판되고 연대기 순서상 두 번째인 《사자와 마녀와 옷장》을 원작으로 합니다.",
+        "id": "qafeedback_61_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                0,
+                30
+            ],
+            [
+                88,
+                148
+            ],
+            [
+                180,
+                210
+            ],
+            [
+                248,
+                296
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                54,
+                68
+            ],
+            [
+                232,
+                269
+            ],
+            [
+                275,
+                279
+            ],
+            [
+                387,
+                408
+            ],
+            [
+                449,
+                640
+            ]
+        ],
+        "reference": "《사자, 마녀 그리고 옷장》은 C. S. 루이스의 아동 서사 판타지 시리즈인《나니아 연대기》의 첫 번째이자 유일하게 출판된 연대기 소설입니다. 1979년 CBS에서 방영된 애니메이션 텔레비전 영화 《사자, 마녀 그리고 옷장》은 이 소설의 1979년 각색 작품입니다. 2005년 영화 《나니아 연대기: 사자, 마녀 그리고 옷장》은 앤드류 애담슨 감독이 만든 영국-미국 합작 하이 판타지 영화로, C. S. 루이스의 아동 서사 판타지 시리즈인《나니아 연대기》에서 출판된 첫 번째이자 두 번째 연대기 소설인《사자, 마녀 그리고 옷장》을 기반으로 하고 있습니다."
+    },
+    {
+        "source": "The Lion, the Witch and the Wardrobe is the first and only published and chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia. The animated television film that was broadcast on CBS in 1979, The Lion, the Witch and the Wardrobe, is a 1979 adaptation of the novel. The 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a British-American high fantasy film directed by Andrew Adamson and based on The Lion, the Witch and the Wardrobe, the Wardrobe, the first published and second chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia.\n",
+        "target": "사자, 마녀 그리고 옷장은 C. S. 루이스의 어린이 서사 판타지 시리즈, 나니아 연대기의 첫 번째이자 유일하게 출판되고 시간 순서대로 구성된 소설입니다. 1979년 CBS에서 방영된 애니메이션 TV 영화 사자, 마녀 그리고 옷장은 소설의 1979년 각색작입니다. 2005년 영화 나니아 연대기: 사자, 마녀 그리고 옷장은 앤드루 아담슨이 감독하고 C. S. 루이스의 어린이 서사 판타지 시리즈, 나니아 연대기의 첫 번째 출판물이자 두 번째 시간 순서 소설인 사자, 마녀 그리고 옷장을 기반으로 한 영국-미국 하이 판타지 영화입니다.",
+        "id": "qafeedback_61_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                41,
+                85
+            ],
+            [
+                86,
+                146
+            ],
+            [
+                169,
+                297
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                54,
+                68
+            ],
+            [
+                232,
+                269
+            ],
+            [
+                275,
+                279
+            ],
+            [
+                387,
+                408
+            ],
+            [
+                449,
+                640
+            ]
+        ],
+        "reference": "《사자, 마녀 그리고 옷장》은 C. S. 루이스의 아동 서사 판타지 시리즈인《나니아 연대기》의 첫 번째이자 유일하게 출판된 연대기 소설입니다. 1979년 CBS에서 방영된 애니메이션 텔레비전 영화 《사자, 마녀 그리고 옷장》은 이 소설의 1979년 각색 작품입니다. 2005년 영화 《나니아 연대기: 사자, 마녀 그리고 옷장》은 앤드류 애담슨 감독이 만든 영국-미국 합작 하이 판타지 영화로, C. S. 루이스의 아동 서사 판타지 시리즈인《나니아 연대기》에서 출판된 첫 번째이자 두 번째 연대기 소설인《사자, 마녀 그리고 옷장》을 기반으로 하고 있습니다."
+    },
+    {
+        "source": "The player with the most points in a Finals game is Elgin Baylor, who played 14 seasons in the National Basketball Association for the Los Angeles Lakers. Baylor scored a finals record 61 points in the 1962 NBA Finals against the Los Angeles Lakers.",
+        "target": "결승전에서 가장 많은 득점을 기록한 선수는 로스앤젤레스 레이커스 소속으로 National Basketball Association에서 14시즌을 뛴 엘긴 볼러입니다. 볼러는 1962년 NBA 결승전에서 로스앤젤레스 레이커스를 상대로 결승전 기록이자 61점을 기록했습니다.",
+        "id": "qafeedback_87_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                92,
+                150
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                226,
+                249
+            ]
+        ],
+        "reference": "파이널 경기에서 가장 많은 점수를 기록한 선수는 엘진 베일러로, 그는 로스앤젤레스 레이커스를 위해 NBA에서 14 시즌을 뛰었습니다. 베일러는 1962년 NBA 파이널에서 로스앤젤레스 레이커스를 상대로 파이널 기록인 61점을 기록했습니다."
+    },
+    {
+        "source": "The player with the most points in a Finals game is Elgin Baylor, who played 14 seasons in the National Basketball Association for the Los Angeles Lakers. Baylor scored a finals record 61 points in the 1962 NBA Finals against the Los Angeles Lakers.",
+        "target": "결승전에서 가장 많은 득점을 한 선수는 로스앤젤레스 레이커스에서 14년 동안 뛴 NBA 선수 엘긴 베이얼로, 1962년 NBA 결승전에서 레이커스를 상대로 61점을 기록해 결승전 최다 득점 기록을 세웠다.",
+        "id": "qafeedback_87_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                60,
+                113
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                226,
+                249
+            ]
+        ],
+        "reference": "파이널 경기에서 가장 많은 점수를 기록한 선수는 엘진 베일러로, 그는 로스앤젤레스 레이커스를 위해 NBA에서 14 시즌을 뛰었습니다. 베일러는 1962년 NBA 파이널에서 로스앤젤레스 레이커스를 상대로 파이널 기록인 61점을 기록했습니다."
+    },
+    {
+        "source": "the princeton vase is a famous example of late classic maya ceramics in codex style , first published in m . d . thompson ' s ' the great maya and his contemporaries ' ( 1931 ) , and now a major piece of the pre - columbian collection of the national museum of mexico . originally painted as a drinking vessel for wine , it depicts a throne being approached by an owl , with an owl flying above him and by three young women surrounding him . in front of the throne a female dancer is being watched and threatened by two young men , a scene that has long been assumed to refer to an incident in the ahau san maya . as to the vase ' s art - historical importance , it invites comparison to the equally famous jaguar baby vase in the san francisco museum collection .",
+        "target": "프린스턴 화병은 후기 고전기 마야 도자기의 유명한 코드스타일 예로, m. d. 톰슨의 ‘위대한 마야와 그의 동시대인들’(1931)에 처음 소개되었으며, 현재는 멕시코 국립박물관의 프리콜럼비아 컬렉션 중 주요 소장품입니다. 원래 와인 잔으로 칠해진 이 화병에는 부엉이가 접근하는 왕좌가 묘사되어 있고, 왕좌 위에는 부엉이 한 마리가 날아다니며 세 명의 젊은 여성들이 그를 에워싸고 있습니다. 왕좌 앞에는 여성 무용수가 두 명의 젊은 남성에게 지켜지고 위협받는 장면이 그려져 있는데, 이는 오래전부터 아하우 산 마야에서의 사건을 가리키는 것으로 여겨져 왔습니다. 미술사적 중요성에 있어서 이 화병은 샌프란시스코 박물관 소장의 동일하게 유명한 재규어 아기 화병과 비교를 초대합니다.",
+        "id": "hades_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                43,
+                66
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                666,
+                673
+            ]
+        ],
+        "reference": "프린스턴 꽃병은 코드식 스타일의 고전 마야 도예의 유명한 예로, M.D. 톰슨의 '위대한 마야와 그의 동시대인들'(1931)에서 처음으로 발표되었으며, 현재 멕시코 국립 박물관의 주요 전콜롬비아 컬렉션의 일부입니다. 원래 포도주를 위한 음료 용기로 그려진 이 꽃병은 부엉이가 다가가는 왕좌를 묘사하고 있으며, 그 위에는 부엉이가 날아다니고, 주위를 세 명의 젊은 여성이 에워싸고 있습니다. 왕좌 앞에는 여성 댄서가 두 젊은 남자에 의해 지켜보고 위협받고 있는 장면이 있으며, 이는 오래전 아하우산 마야의 사건을 언급하는 것으로 추정되어 왔습니다. 이 꽃병의 예술적 역사적 중요성에 대해 말하자면, 샌프란시스코 박물관 소장품의 유명한 재규어 아기 꽃병과 비교할 수 있습니다."
+    },
+    {
+        "source": "the princeton vase is a famous example of late classic maya ceramics in codex style , first published in m . d . thompson ' s ' the great maya and his contemporaries ' ( 1931 ) , and now a major piece of the pre - columbian collection of the national museum of mexico . originally painted as a drinking vessel for wine , it depicts a throne being approached by an owl , with an owl flying above him and by three young women surrounding him . in front of the throne a female dancer is being watched and threatened by two young men , a scene that has long been assumed to refer to an incident in the ahau san maya . as to the vase ' s art - historical importance , it invites comparison to the equally famous jaguar baby vase in the san francisco museum collection .",
+        "target": "프린스턴 화병은 후기 고전기 마야 도자기의 코덱스 양식에서 유명한 예로, 1931년 M.D. 톰슨의 『위대한 마야와 그의 동시대인들』에 처음 소개되었으며, 현재는 멕시코 국립박물관의 프리콜럼버스 컬렉션의 주요 소장품 중 하나입니다. 원래 와인을 마시는 그릇으로 그려진 이 화병에는 올빼미가 왕좌를 향해 다가가는 모습이 묘사되어 있으며, 그 위에는 올빼미 한 마리가 날고 있고, 그를 둘러싼 세 명의 젊은 여성이 있습니다. 왕좌 앞에서는 한 여성 무용수가 두 명의 젊은 남성에게 지켜지고 위협받는 장면이 그려져 있는데, 이는 오랫동안 아하우 산 마야에서의 사건을 가리키는 것으로 추정되어 왔습니다. 이 화병의 미술사적 중요성에 관해서는 샌프란시스코 박물관 소장으로 역시 유명한 재규어 아기 화병과 비교해 볼 만합니다.",
+        "id": "hades_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                333,
+                399
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                666,
+                673
+            ]
+        ],
+        "reference": "프린스턴 꽃병은 코드식 스타일의 고전 마야 도예의 유명한 예로, M.D. 톰슨의 '위대한 마야와 그의 동시대인들'(1931)에서 처음으로 발표되었으며, 현재 멕시코 국립 박물관의 주요 전콜롬비아 컬렉션의 일부입니다. 원래 포도주를 위한 음료 용기로 그려진 이 꽃병은 부엉이가 다가가는 왕좌를 묘사하고 있으며, 그 위에는 부엉이가 날아다니고, 주위를 세 명의 젊은 여성이 에워싸고 있습니다. 왕좌 앞에는 여성 댄서가 두 젊은 남자에 의해 지켜보고 위협받고 있는 장면이 있으며, 이는 오래전 아하우산 마야의 사건을 언급하는 것으로 추정되어 왔습니다. 이 꽃병의 예술적 역사적 중요성에 대해 말하자면, 샌프란시스코 박물관 소장품의 유명한 재규어 아기 꽃병과 비교할 수 있습니다."
+    }
+]

@@ -1,0 +1,378 @@
+[
+    {
+        "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
+        "target": "Đề nghị của Prudential trị giá 26,5 tỷ đô la bằng cổ phiếu đã giảm xuống còn hơn 20 tỷ đô la khi cổ phiếu của Prudential giảm mạnh sau thông báo. AIG sau đó đã bước vào và đề nghị 23 tỷ đô la, mức giá đã được American General chấp nhận.",
+        "id": "fire_22_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                0,
+                33
+            ],
+            [
+                34,
+                144
+            ],
+            [
+                145,
+                191
+            ],
+            [
+                192,
+                235
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                12
+            ],
+            [
+                13,
+                16
+            ],
+            [
+                37,
+                42
+            ],
+            [
+                68,
+                79
+            ],
+            [
+                85,
+                97
+            ],
+            [
+                98,
+                104
+            ],
+            [
+                139,
+                142
+            ],
+            [
+                171,
+                182
+            ],
+            [
+                205,
+                221
+            ]
+        ],
+        "reference": "Đề nghị 26,5 tỷ USD bằng cổ phiếu của Prudential đã giảm xuống chỉ còn hơn 20 tỷ USD khi cổ phiếu của Prudential giảm mạnh sau thông báo. AIG sau đó đã can thiệp và đề nghị 23 tỷ USD, đề nghị này đã được American General chấp nhận."
+    },
+    {
+        "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
+        "target": "Đề nghị của Prudential với giá 26,5 tỷ đô la cổ phiếu đã giảm xuống còn hơn 20 tỷ đô la khi cổ phiếu của Prudential giảm mạnh sau thông báo. Sau đó, AIG đã can thiệp và đưa ra mức giá 23 tỷ đô la, đã được American General chấp nhận.",
+        "id": "fire_22_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                0,
+                33
+            ],
+            [
+                34,
+                139
+            ],
+            [
+                148,
+                195
+            ],
+            [
+                196,
+                231
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                12
+            ],
+            [
+                13,
+                16
+            ],
+            [
+                37,
+                42
+            ],
+            [
+                68,
+                79
+            ],
+            [
+                85,
+                97
+            ],
+            [
+                98,
+                104
+            ],
+            [
+                139,
+                142
+            ],
+            [
+                171,
+                182
+            ],
+            [
+                205,
+                221
+            ]
+        ],
+        "reference": "Đề nghị 26,5 tỷ USD bằng cổ phiếu của Prudential đã giảm xuống chỉ còn hơn 20 tỷ USD khi cổ phiếu của Prudential giảm mạnh sau thông báo. AIG sau đó đã can thiệp và đề nghị 23 tỷ USD, đề nghị này đã được American General chấp nhận."
+    },
+    {
+        "source": "The primary backdoor used in the Epic attacks is also known as '' WorldCupSec '' , '' TadjMakhal '' , '' Wipbot '' or '' Tavdig '' .",
+        "target": "Cổng hậu chính được sử dụng trong các cuộc tấn công Epic cũng được biết đến với tên gọi '' WorldCupSec '', '' TadjMakhal '', '' Wipbot '' hoặc '' Tavdig ''.",
+        "id": "malwaretextdb_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                0,
+                88
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                20
+            ],
+            [
+                21,
+                25
+            ],
+            [
+                26,
+                28
+            ],
+            [
+                29,
+                45
+            ]
+        ],
+        "reference": "Cánh cửa sau chính được sử dụng trong các cuộc tấn công Epic cũng được gọi là '' WorldCupSec '', '' TadjMakhal '', '' Wipbot '' hoặc '' Tavdig ''. "
+    },
+    {
+        "source": "The primary backdoor used in the Epic attacks is also known as '' WorldCupSec '' , '' TadjMakhal '' , '' Wipbot '' or '' Tavdig '' .",
+        "target": "Cổng hậu chính được sử dụng trong các cuộc tấn công Epic cũng được biết đến với tên gọi ''WorldCupSec'', ''TadjMakhal'', ''Wipbot'' hoặc ''Tavdig''.",
+        "id": "malwaretextdb_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                0,
+                88
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                20
+            ],
+            [
+                21,
+                25
+            ],
+            [
+                26,
+                28
+            ],
+            [
+                29,
+                45
+            ]
+        ],
+        "reference": "Cánh cửa sau chính được sử dụng trong các cuộc tấn công Epic cũng được gọi là '' WorldCupSec '', '' TadjMakhal '', '' Wipbot '' hoặc '' Tavdig ''. "
+    },
+    {
+        "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
+        "target": "Cửa hậu Epic được điều khiển bởi một mạng lưới rộng lớn các máy chủ bị hack mà cung cấp chức năng chỉ huy và kiểm soát .",
+        "id": "malwaretextdb_21_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                119
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                18
+            ],
+            [
+                19,
+                32
+            ],
+            [
+                36,
+                68
+            ],
+            [
+                74,
+                81
+            ],
+            [
+                82,
+                115
+            ]
+        ],
+        "reference": "Các lỗ hổng Epic được điều khiển bởi một mạng lưới lớn các máy chủ bị hack cung cấp chức năng chỉ huy và điều khiển."
+    },
+    {
+        "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
+        "target": "Các cửa hậu Epic được điều khiển bởi một mạng lưới lớn các máy chủ bị hack cung cấp chức năng chỉ huy và kiểm soát.",
+        "id": "malwaretextdb_21_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                114
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                18
+            ],
+            [
+                19,
+                32
+            ],
+            [
+                36,
+                68
+            ],
+            [
+                74,
+                81
+            ],
+            [
+                82,
+                115
+            ]
+        ],
+        "reference": "Các lỗ hổng Epic được điều khiển bởi một mạng lưới lớn các máy chủ bị hack cung cấp chức năng chỉ huy và điều khiển."
+    },
+    {
+        "source": "But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.",
+        "target": "Nhưng một bản vá lỗi khác đã được phát hành hôm nay, vì vậy có khả năng vấn đề đã được, chắc chắn khắc phục.",
+        "id": "casie_0_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                0,
+                51
+            ],
+            [
+                52,
+                86
+            ],
+            [
+                87,
+                107
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                4,
+                15
+            ],
+            [
+                16,
+                30
+            ],
+            [
+                31,
+                36
+            ],
+            [
+                60,
+                69
+            ],
+            [
+                83,
+                99
+            ]
+        ],
+        "reference": "Nhưng một cái khác đã được phát hành hôm nay, vì vậy có thể vấn đề đã được sửa chữa cuối cùng và chắc chắn."
+    },
+    {
+        "source": "But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.",
+        "target": "Nhưng một bản vá lỗi khác đã được phát hành hôm nay, vì vậy có khả năng vấn đề cuối cùng cũng đã được khắc phục dứt điểm.",
+        "id": "casie_0_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                0,
+                51
+            ],
+            [
+                52,
+                120
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                4,
+                15
+            ],
+            [
+                16,
+                30
+            ],
+            [
+                31,
+                36
+            ],
+            [
+                60,
+                69
+            ],
+            [
+                83,
+                99
+            ]
+        ],
+        "reference": "Nhưng một cái khác đã được phát hành hôm nay, vì vậy có thể vấn đề đã được sửa chữa cuối cùng và chắc chắn."
+    },
+    {
+        "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
+        "target": "Khi Microsoft bổ sung bản vá, họ đã cảm ơn Hanson, một nhà nghiên cứu của FireEye và cả nhân viên của chính họ.",
+        "id": "casie_9_6_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                0,
+                28
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                5,
+                14
+            ],
+            [
+                15,
+                22
+            ]
+        ],
+        "reference": "Khi Microsoft vá lỗi, họ đã cảm ơn Hanson, một nhà nghiên cứu của FireEye và nhân viên của chính mình."
+    },
+    {
+        "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
+        "target": "Khi Microsoft vá lỗi, họ đã cảm ơn Hanson, một nhà nghiên cứu của FireEye và cả nhân viên của chính họ.",
+        "id": "casie_9_6_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                0,
+                20
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                5,
+                14
+            ],
+            [
+                15,
+                22
+            ]
+        ],
+        "reference": "Khi Microsoft vá lỗi, họ đã cảm ơn Hanson, một nhà nghiên cứu của FireEye và nhân viên của chính mình."
+    }
+]

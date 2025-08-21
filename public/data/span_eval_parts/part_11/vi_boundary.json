@@ -1,0 +1,1062 @@
+[
+    {
+        "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
+        "target": "Vào thời điểm đỉnh điểm, cơn bão nhiệt đới Gonu, mang tên lấy từ một chiếc túi lá dừa trong tiếng của Maldives, đã đạt tốc độ gió duy trì lên tới 240 km/giờ (149 dặm/giờ). Đến sáng nay, gió đã giảm xuống khoảng 83 km/h, và dự kiến sẽ tiếp tục suy yếu.",
+        "metadata": {
+            "id": "belebeleqa_4_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        127,
+                        170
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        146,
+                        170
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
+        "target": "Vào thời điểm đỉnh điểm, cơn bão nhiệt đới Gonu, mang tên lấy từ một chiếc túi lá dừa trong tiếng của Maldives, đã đạt gió giật liên tục lên tới 240 km/h (149 dặm/giờ). Đến sáng sớm hôm nay, gió đã giảm xuống khoảng 83 km/h, và dự kiến sẽ tiếp tục suy yếu.",
+        "metadata": {
+            "id": "belebeleqa_4_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        127,
+                        170
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        145,
+                        167
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Jens Oliver Lisberg ( 24 December 1896 – 31 August 1920 ) ( Jens Olivur Lisberg in modern Faroese ) is one of the designers of the Merkið , the flag of the Faroe Islands . While a law student in Copenhagen , he devised the flag in 1919 with two other Faroese students , Janus Øssursson from Tórshavn and Paul Dahl from Vágur . Lisberg raised the flag for the first time on Faroese soil on 22 June 1919 on returning to his home town of Fámjin . It would not however receive official status until 25 April 1940 when the British occupation government approved its use as the civil ensign of the islands . Lisberg died of pneumonia on 31 August 1920 . He is buried in Fámjin , where the church now holds the original copy of the Merkið .",
+        "target": "Jens Oliver Lisberg ( 24 tháng 12 năm 1896 – 31 tháng 8 năm 1920 ) ( Jens Olivur Lisberg trong tiếng Faroese hiện đại ) là một trong những người thiết kế Merkið, lá cờ của Quần đảo Faroe. Khi còn là sinh viên luật tại Copenhagen, ông đã sáng tạo ra lá cờ vào năm 1919 cùng với hai sinh viên Faroese khác, Janus Øssursson từ Tórshavn và Paul Dahl từ Vágur. Lisberg đã treo lá cờ lần đầu tiên trên đất Faroese vào ngày 22 tháng 6 năm 1919 khi trở về quê nhà Fámjin. Tuy nhiên, nó chỉ nhận được tư cách chính thức vào ngày 25 tháng 4 năm 1940 khi chính quyền chiếm đóng Anh chấp thuận sử dụng làm cờ dân sự của quần đảo. Lisberg qua đời vì viêm phổi vào ngày 31 tháng 8 năm 1920. Ông được chôn cất tại Fámjin, nơi nhà thờ hiện đang giữ bản gốc của Merkið.",
+        "metadata": {
+            "id": "docred_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        19
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        19
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        22,
+                        38
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        22,
+                        42
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        41,
+                        55
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        45,
+                        64
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        60,
+                        79
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        69,
+                        88
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        90,
+                        97
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        95,
+                        108
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        131,
+                        137
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        154,
+                        160
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        156,
+                        169
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        172,
+                        186
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        195,
+                        205
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        218,
+                        228
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        231,
+                        235
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        263,
+                        267
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        241,
+                        244
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        277,
+                        280
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        251,
+                        258
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        291,
+                        298
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        270,
+                        285
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        305,
+                        320
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 12,
+                "input_idx": [
+                    [
+                        291,
+                        299
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        324,
+                        332
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 13,
+                "input_idx": [
+                    [
+                        304,
+                        313
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        336,
+                        345
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 14,
+                "input_idx": [
+                    [
+                        319,
+                        324
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        349,
+                        354
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 15,
+                "input_idx": [
+                    [
+                        327,
+                        334
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        356,
+                        363
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 16,
+                "input_idx": [
+                    [
+                        373,
+                        380
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        400,
+                        407
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 17,
+                "input_idx": [
+                    [
+                        389,
+                        401
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        412,
+                        436
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 18,
+                "input_idx": [
+                    [
+                        435,
+                        441
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        456,
+                        462
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 19,
+                "input_idx": [
+                    [
+                        495,
+                        508
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        515,
+                        539
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 20,
+                "input_idx": [
+                    [
+                        518,
+                        525
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        567,
+                        570
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 21,
+                "input_idx": [
+                    [
+                        602,
+                        609
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        618,
+                        625
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 22,
+                "input_idx": [
+                    [
+                        631,
+                        645
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        651,
+                        675
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 23,
+                "input_idx": [
+                    [
+                        664,
+                        670
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        699,
+                        705
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 24,
+                "input_idx": [
+                    [
+                        725,
+                        731
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        745,
+                        751
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Jens Oliver Lisberg ( 24 December 1896 – 31 August 1920 ) ( Jens Olivur Lisberg in modern Faroese ) is one of the designers of the Merkið , the flag of the Faroe Islands . While a law student in Copenhagen , he devised the flag in 1919 with two other Faroese students , Janus Øssursson from Tórshavn and Paul Dahl from Vágur . Lisberg raised the flag for the first time on Faroese soil on 22 June 1919 on returning to his home town of Fámjin . It would not however receive official status until 25 April 1940 when the British occupation government approved its use as the civil ensign of the islands . Lisberg died of pneumonia on 31 August 1920 . He is buried in Fámjin , where the church now holds the original copy of the Merkið .",
+        "target": "Jens Oliver Lisberg (24 tháng 12 năm 1896 – 31 tháng 8 năm 1920) (Jens Olivur Lisberg trong tiếng Faroese hiện đại) là một trong những nhà thiết kế của Merkið, lá cờ của quần đảo Faroe. Khi còn là sinh viên luật ở Copenhagen, ông đã thiết kế lá cờ vào năm 1919 cùng với hai sinh viên Faroese khác, Janus Øssursson từ Tórshavn và Paul Dahl từ Vágur. Lisberg đã lần đầu tiên giương lá cờ trên đất Faroese vào ngày 22 tháng 6 năm 1919 khi trở về quê hương Fámjin. Tuy nhiên, lá cờ chỉ nhận được vị thế chính thức vào ngày 25 tháng 4 năm 1940 khi chính quyền Anh chiếm đóng phê duyệt việc sử dụng nó làm quốc kỳ dân sự của các đảo. Lisberg qua đời vì bệnh viêm phổi vào ngày 31 tháng 8 năm 1920. Ông được chôn cất tại Fámjin, nơi nhà thờ hiện đang giữ bản gốc của Merkið.",
+        "metadata": {
+            "id": "docred_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        19
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        19
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        22,
+                        38
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        21,
+                        41
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        41,
+                        55
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        44,
+                        63
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        60,
+                        79
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        66,
+                        85
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        90,
+                        97
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        92,
+                        114
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        131,
+                        137
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        152,
+                        158
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        156,
+                        169
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        170,
+                        184
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        195,
+                        205
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        214,
+                        224
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        231,
+                        235
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        256,
+                        260
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        241,
+                        244
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        270,
+                        273
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        251,
+                        258
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        284,
+                        291
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        270,
+                        285
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        298,
+                        313
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 12,
+                "input_idx": [
+                    [
+                        291,
+                        299
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        317,
+                        325
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 13,
+                "input_idx": [
+                    [
+                        304,
+                        313
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        329,
+                        338
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 14,
+                "input_idx": [
+                    [
+                        319,
+                        324
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        342,
+                        347
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 15,
+                "input_idx": [
+                    [
+                        327,
+                        334
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        349,
+                        356
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 16,
+                "input_idx": [
+                    [
+                        373,
+                        380
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        395,
+                        402
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 17,
+                "input_idx": [
+                    [
+                        389,
+                        401
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        412,
+                        431
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 18,
+                "input_idx": [
+                    [
+                        435,
+                        441
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        453,
+                        459
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 19,
+                "input_idx": [
+                    [
+                        495,
+                        508
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        519,
+                        538
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 20,
+                "input_idx": [
+                    [
+                        518,
+                        525
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        555,
+                        558
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 21,
+                "input_idx": [
+                    [
+                        602,
+                        609
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        628,
+                        635
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 22,
+                "input_idx": [
+                    [
+                        631,
+                        645
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        671,
+                        690
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 23,
+                "input_idx": [
+                    [
+                        664,
+                        670
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        714,
+                        720
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 24,
+                "input_idx": [
+                    [
+                        725,
+                        731
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        760,
+                        766
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
+        "target": "Dan Patrick đang biến ý tưởng kịch bản khoa học viễn tưởng của tôi về một nhóm trẻ em lây lan một loại virus mà chúng miễn nhiễm để tiêu diệt cha mẹ/ông bà của chúng thành hiện thực.",
+        "metadata": {
+            "id": "curt_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        152
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        148
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
+        "target": "Dan Patrick đang biến ý tưởng kịch bản khoa học viễn tưởng của tôi về một nhóm trẻ em lây lan một loại virus mà chúng miễn nhiễm để tiêu diệt cha mẹ/ông bà của chúng thành HIỆN THỰC.",
+        "metadata": {
+            "id": "curt_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        152
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        165
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
+        "target": "@CindyKendrick11 Chuyện súp dơi chỉ là cái cớ. Dù thứ đó là gì thì cũng đã rò rỉ từ một phòng thí nghiệm vũ khí sinh học của Trung Quốc ở Vũ Hán. Chính phủ Trung Quốc chịu trách nhiệm về điều này",
+        "metadata": {
+            "id": "curt_61_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        17,
+                        48
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        17,
+                        45
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        122,
+                        168
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        146,
+                        195
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
+        "target": "@CindyKendrick11 Việc uống nước hầm dơi chỉ là cái cớ. Dù thứ đó là gì thì cũng đều bị rò rỉ từ một phòng thí nghiệm vũ khí sinh học của Trung Quốc ở Vũ Hán. Chính phủ Trung Quốc phải chịu trách nhiệm về điều này",
+        "metadata": {
+            "id": "curt_61_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        17,
+                        48
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        17,
+                        53
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        122,
+                        168
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        158,
+                        212
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Well, Mr. Ford is - is uh changing uh considerably his previous philosophy. The present tax structure is a disgrace to this country; it's just a welfare program for the rich. As a matter of fact, uh - 25 percent of the total tax deductions, go for only 1 percent of the richest people in this country, and over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country.",
+        "target": "Chà, ông Ford đang - đang uh thay đổi uh đáng kể triết lý trước đây của mình. Cấu trúc thuế hiện tại là một sự xấu hổ đối với đất nước này; nó chỉ là một chương trình phúc lợi dành cho người giàu. Thực tế, uh - 25 phần trăm tổng số khoản khấu trừ thuế, chỉ dành cho 1 phần trăm người giàu nhất trong đất nước này, và hơn 50 phần trăm tín dụng thuế uh dành cho 14 phần trăm người giàu nhất trong đất nước này.",
+        "metadata": {
+            "id": "elecdeb_161_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        105,
+                        132
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        104,
+                        139
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Well, Mr. Ford is - is uh changing uh considerably his previous philosophy. The present tax structure is a disgrace to this country; it's just a welfare program for the rich. As a matter of fact, uh - 25 percent of the total tax deductions, go for only 1 percent of the richest people in this country, and over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country.",
+        "target": "Ông Ford đang - đang ờ đang thay đổi đáng kể triết lý trước đây của mình. Cơ cấu thuế hiện tại là một sự ô nhục đối với đất nước này; nó chỉ là một chương trình an sinh xã hội cho người giàu. Thực tế là, ờ - 25 phần trăm tổng số khấu trừ thuế được dành cho chỉ 1 phần trăm người giàu nhất ở đất nước này, và hơn 50 phần trăm các khoản tín dụng thuế được dành cho 14 phần trăm người giàu nhất ở đất nước này.",
+        "metadata": {
+            "id": "elecdeb_161_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        105,
+                        132
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        98,
+                        133
+                    ]
+                ]
+            }
+        ]
+    }
+]

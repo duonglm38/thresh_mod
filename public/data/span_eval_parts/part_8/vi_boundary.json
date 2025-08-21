@@ -1,0 +1,864 @@
+[
+    {
+        "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
+        "target": "Trong tất cả các trường hợp như vậy, chính sách của chúng tôi là hợp tác theo yêu cầu của luật pháp, nhưng chỉ cung cấp những thông tin mà luật pháp yêu cầu.",
+        "metadata": {
+            "id": "policyie_12_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        20,
+                        23
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        52,
+                        61
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        75,
+                        82
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        111,
+                        119
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        93,
+                        104
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        126,
+                        135
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        108,
+                        124
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        139,
+                        156
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
+        "target": "Trong tất cả các trường hợp như vậy, chính sách của chúng tôi là hợp tác theo yêu cầu của pháp luật, nhưng chỉ cung cấp những thông tin mà pháp luật yêu cầu.",
+        "metadata": {
+            "id": "policyie_12_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        20,
+                        23
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        48,
+                        61
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        75,
+                        82
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        111,
+                        119
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        93,
+                        104
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        126,
+                        135
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        108,
+                        124
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        139,
+                        156
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
+        "target": "Luật pháp cho phép chúng tôi tiết lộ cho cơ quan thực thi pháp luật, tự nguyện và không báo trước, thông tin khách hàng, bao gồm nội dung các cuộc liên lạc, nếu chúng tôi có cơ sở hợp lý để tin rằng một trường hợp khẩn cấp liên quan đến nguy hiểm ngay lập tức về cái chết hoặc thương tích nghiêm trọng đòi hỏi phải tiết lộ mà không chậm trễ.",
+        "metadata": {
+            "id": "policyie_13_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        20,
+                        22
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        19,
+                        28
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        26,
+                        34
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        29,
+                        36
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        38,
+                        53
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        41,
+                        67
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        56,
+                        92
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        69,
+                        97
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        95,
+                        103
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        99,
+                        119
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        104,
+                        115
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        129,
+                        155
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        132,
+                        158
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        161,
+                        340
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        164,
+                        305
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
+        "target": "Pháp luật cho phép chúng tôi tiết lộ cho cơ quan thực thi pháp luật, tự nguyện và không cần thông báo trước, thông tin khách hàng, bao gồm cả nội dung của các cuộc liên lạc, nếu chúng tôi có lý do chính đáng tin rằng một tình trạng khẩn cấp liên quan đến nguy cơ tử vong hoặc thương tích nghiêm trọng ngay lập tức đòi hỏi tiết lộ như vậy mà không được trì hoãn.",
+        "metadata": {
+            "id": "policyie_13_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        20,
+                        22
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        19,
+                        28
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        26,
+                        34
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        29,
+                        36
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        38,
+                        53
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        41,
+                        67
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        56,
+                        92
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        69,
+                        107
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        95,
+                        103
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        119,
+                        129
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        104,
+                        115
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        109,
+                        118
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        132,
+                        158
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        142,
+                        172
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        164,
+                        305
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        178,
+                        360
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
+        "target": "Tập đoàn dầu khí Equinor đã công bố lợi nhuận trước thuế kỷ lục và cho biết sẽ tăng cổ tức và mua lại cổ phiếu, còn trong lĩnh vực tài chính, Amundi đã vượt qua các mục tiêu chiến lược và ABN Amro thông báo về việc mua lại cổ phiếu trị giá 500 triệu euro sau khi lợi nhuận ròng tăng vọt.",
+        "metadata": {
+            "id": "finentity_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        10,
+                        17
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        17,
+                        24
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        122,
+                        128
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        142,
+                        148
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        169
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        188,
+                        196
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
+        "target": "Tập đoàn dầu khí Equinor công bố lợi nhuận trước thuế kỷ lục và cho biết sẽ tăng cổ tức và mua lại cổ phiếu, còn trong lĩnh vực tài chính, Amundi vượt mục tiêu chiến lược và ABN Amro thông báo chương trình mua lại cổ phiếu 500 triệu euro sau khi lợi nhuận ròng tăng vọt.",
+        "metadata": {
+            "id": "finentity_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        10,
+                        17
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        24
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        122,
+                        128
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        139,
+                        145
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        169
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        174,
+                        182
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
+        "target": "\"Nhu cầu dầu mỏ... nếu bạn xem dữ liệu mới nhất, thì vẫn đang ổn. Chúng tôi dự kiến sẽ có sự sụt giảm nhu cầu, nhưng điều đó thực tế không xảy ra,\" Frederic Lasserre, trưởng nhóm nghiên cứu và phân tích thị trường toàn cầu tại Nhóm Gunvor $lt;GGL.UL$gt; cho biết.",
+        "metadata": {
+            "id": "finentity_9_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        210,
+                        222
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        227,
+                        238
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
+        "target": "\"Nhu cầu dầu... nếu bạn xem dữ liệu mới nhất, thì vẫn đang ổn. Chúng tôi dự đoán sẽ có sự sụt giảm nhu cầu, nhưng điều đó thực tế không xảy ra,\" Frederic Lasserre, trưởng bộ phận nghiên cứu và phân tích thị trường toàn cầu tại Tập đoàn Gunvor $lt;GGL.UL$gt;, nói.",
+        "metadata": {
+            "id": "finentity_9_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        210,
+                        222
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        227,
+                        242
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
+        "target": "MUA LẠI DOANH NGHIỆP Vào ngày 2 tháng 4 năm 2012, chúng tôi đã mua lại gần như toàn bộ tài sản của Green River Collieries, LLC (\"Green River\") liên quan đến ngành kinh doanh và hoạt động khai thác than của họ, nằm ở huyện Webster và huyện Hopkins, bang Kentucky.",
+        "metadata": {
+            "id": "fire_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        7
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        27,
+                        41
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        25,
+                        48
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        47,
+                        55
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        63,
+                        70
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        77,
+                        128
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        87,
+                        142
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        151,
+                        186
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        157,
+                        201
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        198,
+                        205
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        216,
+                        229
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        210,
+                        217
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        233,
+                        246
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        229,
+                        237
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        248,
+                        261
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
+        "target": "MUA LẠI DOANH NGHIỆP Vào ngày 2 tháng 4 năm 2012, chúng tôi đã mua lại gần như toàn bộ tài sản liên quan đến hoạt động khai thác than của Green River Collieries, LLC (\"Green River\") tại các quận Webster và Hopkins, bang Kentucky.",
+        "metadata": {
+            "id": "fire_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        7
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        27,
+                        41
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        25,
+                        48
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        47,
+                        55
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        60,
+                        70
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        77,
+                        128
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        138,
+                        181
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        151,
+                        186
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        109,
+                        133
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        198,
+                        205
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        195,
+                        202
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        210,
+                        217
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        206,
+                        213
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        229,
+                        237
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        215,
+                        228
+                    ]
+                ]
+            }
+        ]
+    }
+]

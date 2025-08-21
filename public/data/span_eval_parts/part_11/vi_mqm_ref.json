@@ -1,0 +1,486 @@
+[
+    {
+        "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
+        "target": "Vào thời điểm đỉnh điểm, cơn bão nhiệt đới Gonu, mang tên lấy từ một chiếc túi lá dừa trong tiếng của Maldives, đã đạt tốc độ gió duy trì lên tới 240 km/giờ (149 dặm/giờ). Đến sáng nay, gió đã giảm xuống khoảng 83 km/h, và dự kiến sẽ tiếp tục suy yếu.",
+        "id": "belebeleqa_4_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                111,
+                170
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                127,
+                170
+            ]
+        ],
+        "reference": "Tại đỉnh cao nhất, Bão nhiệt đới Gonu, được đặt tên theo một túi lá cọ trong ngôn ngữ của Maldives, đã đạt được sức gió duy trì lên đến 240 km/h (149 dặm/giờ). Đến sáng nay, gió đã xuống khoảng 83 km/h, và dự kiến sẽ tiếp tục yếu đi."
+    },
+    {
+        "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
+        "target": "Vào thời điểm đỉnh điểm, cơn bão nhiệt đới Gonu, mang tên lấy từ một chiếc túi lá dừa trong tiếng của Maldives, đã đạt gió giật liên tục lên tới 240 km/h (149 dặm/giờ). Đến sáng sớm hôm nay, gió đã giảm xuống khoảng 83 km/h, và dự kiến sẽ tiếp tục suy yếu.",
+        "id": "belebeleqa_4_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                111,
+                167
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                127,
+                170
+            ]
+        ],
+        "reference": "Tại đỉnh cao nhất, Bão nhiệt đới Gonu, được đặt tên theo một túi lá cọ trong ngôn ngữ của Maldives, đã đạt được sức gió duy trì lên đến 240 km/h (149 dặm/giờ). Đến sáng nay, gió đã xuống khoảng 83 km/h, và dự kiến sẽ tiếp tục yếu đi."
+    },
+    {
+        "source": "Jens Oliver Lisberg ( 24 December 1896 – 31 August 1920 ) ( Jens Olivur Lisberg in modern Faroese ) is one of the designers of the Merkið , the flag of the Faroe Islands . While a law student in Copenhagen , he devised the flag in 1919 with two other Faroese students , Janus Øssursson from Tórshavn and Paul Dahl from Vágur . Lisberg raised the flag for the first time on Faroese soil on 22 June 1919 on returning to his home town of Fámjin . It would not however receive official status until 25 April 1940 when the British occupation government approved its use as the civil ensign of the islands . Lisberg died of pneumonia on 31 August 1920 . He is buried in Fámjin , where the church now holds the original copy of the Merkið .",
+        "target": "Jens Oliver Lisberg ( 24 tháng 12 năm 1896 – 31 tháng 8 năm 1920 ) ( Jens Olivur Lisberg trong tiếng Faroese hiện đại ) là một trong những người thiết kế Merkið, lá cờ của Quần đảo Faroe. Khi còn là sinh viên luật tại Copenhagen, ông đã sáng tạo ra lá cờ vào năm 1919 cùng với hai sinh viên Faroese khác, Janus Øssursson từ Tórshavn và Paul Dahl từ Vágur. Lisberg đã treo lá cờ lần đầu tiên trên đất Faroese vào ngày 22 tháng 6 năm 1919 khi trở về quê nhà Fámjin. Tuy nhiên, nó chỉ nhận được tư cách chính thức vào ngày 25 tháng 4 năm 1940 khi chính quyền chiếm đóng Anh chấp thuận sử dụng làm cờ dân sự của quần đảo. Lisberg qua đời vì viêm phổi vào ngày 31 tháng 8 năm 1920. Ông được chôn cất tại Fámjin, nơi nhà thờ hiện đang giữ bản gốc của Merkið.",
+        "id": "docred_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                20
+            ],
+            [
+                21,
+                65
+            ],
+            [
+                68,
+                118
+            ],
+            [
+                119,
+                160
+            ],
+            [
+                161,
+                186
+            ],
+            [
+                187,
+                228
+            ],
+            [
+                229,
+                303
+            ],
+            [
+                304,
+                354
+            ],
+            [
+                355,
+                462
+            ],
+            [
+                474,
+                603
+            ],
+            [
+                617,
+                675
+            ],
+            [
+                676,
+                705
+            ],
+            [
+                706,
+                751
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                19
+            ],
+            [
+                22,
+                38
+            ],
+            [
+                41,
+                55
+            ],
+            [
+                60,
+                79
+            ],
+            [
+                90,
+                97
+            ],
+            [
+                131,
+                137
+            ],
+            [
+                156,
+                169
+            ],
+            [
+                195,
+                205
+            ],
+            [
+                231,
+                235
+            ],
+            [
+                241,
+                244
+            ],
+            [
+                251,
+                258
+            ],
+            [
+                270,
+                285
+            ],
+            [
+                291,
+                299
+            ],
+            [
+                304,
+                313
+            ],
+            [
+                319,
+                324
+            ],
+            [
+                327,
+                334
+            ],
+            [
+                373,
+                380
+            ],
+            [
+                389,
+                401
+            ],
+            [
+                435,
+                441
+            ],
+            [
+                495,
+                508
+            ],
+            [
+                518,
+                525
+            ],
+            [
+                602,
+                609
+            ],
+            [
+                631,
+                645
+            ],
+            [
+                664,
+                670
+            ],
+            [
+                725,
+                731
+            ]
+        ],
+        "reference": "Jens Oliver Lisberg (24 tháng 12 năm 1896 – 31 tháng 8 năm 1920) (Jens Olivur Lisberg theo tiếng Faroese hiện đại) là một trong những nhà thiết kế của Merkið, lá cờ của Quần đảo Faroe. Trong thời gian là sinh viên luật tại Copenhagen, ông đã thiết kế lá cờ vào năm 1919 cùng với hai sinh viên Faroese khác là Janus Øssursson từ Tórshavn và Paul Dahl từ Vágur. Lisberg lần đầu tiên dương cờ trên đất Faroese vào ngày 22 tháng 6 năm 1919 khi trở về quê hương Fámjin. Tuy nhiên, lá cờ này đã không được công nhận chính thức cho đến ngày 25 tháng 4 năm 1940 khi chính quyền chiếm đóng của Anh chấp thuận việc sử dụng lá cờ như một biểu tượng dân sự của quần đảo. Lisberg qua đời vì bệnh viêm phổi vào ngày 31 tháng 8 năm 1920. Ông được chôn cất ở Fámjin, nơi mà nhà thờ hiện nay đang giữ bản sao gốc của Merkið."
+    },
+    {
+        "source": "Jens Oliver Lisberg ( 24 December 1896 – 31 August 1920 ) ( Jens Olivur Lisberg in modern Faroese ) is one of the designers of the Merkið , the flag of the Faroe Islands . While a law student in Copenhagen , he devised the flag in 1919 with two other Faroese students , Janus Øssursson from Tórshavn and Paul Dahl from Vágur . Lisberg raised the flag for the first time on Faroese soil on 22 June 1919 on returning to his home town of Fámjin . It would not however receive official status until 25 April 1940 when the British occupation government approved its use as the civil ensign of the islands . Lisberg died of pneumonia on 31 August 1920 . He is buried in Fámjin , where the church now holds the original copy of the Merkið .",
+        "target": "Jens Oliver Lisberg (24 tháng 12 năm 1896 – 31 tháng 8 năm 1920) (Jens Olivur Lisberg trong tiếng Faroese hiện đại) là một trong những nhà thiết kế của Merkið, lá cờ của quần đảo Faroe. Khi còn là sinh viên luật ở Copenhagen, ông đã thiết kế lá cờ vào năm 1919 cùng với hai sinh viên Faroese khác, Janus Øssursson từ Tórshavn và Paul Dahl từ Vágur. Lisberg đã lần đầu tiên giương lá cờ trên đất Faroese vào ngày 22 tháng 6 năm 1919 khi trở về quê hương Fámjin. Tuy nhiên, lá cờ chỉ nhận được vị thế chính thức vào ngày 25 tháng 4 năm 1940 khi chính quyền Anh chiếm đóng phê duyệt việc sử dụng nó làm quốc kỳ dân sự của các đảo. Lisberg qua đời vì bệnh viêm phổi vào ngày 31 tháng 8 năm 1920. Ông được chôn cất tại Fámjin, nơi nhà thờ hiện đang giữ bản gốc của Merkið.",
+        "id": "docred_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                20
+            ],
+            [
+                21,
+                63
+            ],
+            [
+                66,
+                114
+            ],
+            [
+                115,
+                158
+            ],
+            [
+                159,
+                184
+            ],
+            [
+                185,
+                224
+            ],
+            [
+                225,
+                296
+            ],
+            [
+                297,
+                347
+            ],
+            [
+                348,
+                459
+            ],
+            [
+                471,
+                595
+            ],
+            [
+                627,
+                690
+            ],
+            [
+                691,
+                720
+            ],
+            [
+                721,
+                766
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                19
+            ],
+            [
+                22,
+                38
+            ],
+            [
+                41,
+                55
+            ],
+            [
+                60,
+                79
+            ],
+            [
+                90,
+                97
+            ],
+            [
+                131,
+                137
+            ],
+            [
+                156,
+                169
+            ],
+            [
+                195,
+                205
+            ],
+            [
+                231,
+                235
+            ],
+            [
+                241,
+                244
+            ],
+            [
+                251,
+                258
+            ],
+            [
+                270,
+                285
+            ],
+            [
+                291,
+                299
+            ],
+            [
+                304,
+                313
+            ],
+            [
+                319,
+                324
+            ],
+            [
+                327,
+                334
+            ],
+            [
+                373,
+                380
+            ],
+            [
+                389,
+                401
+            ],
+            [
+                435,
+                441
+            ],
+            [
+                495,
+                508
+            ],
+            [
+                518,
+                525
+            ],
+            [
+                602,
+                609
+            ],
+            [
+                631,
+                645
+            ],
+            [
+                664,
+                670
+            ],
+            [
+                725,
+                731
+            ]
+        ],
+        "reference": "Jens Oliver Lisberg (24 tháng 12 năm 1896 – 31 tháng 8 năm 1920) (Jens Olivur Lisberg theo tiếng Faroese hiện đại) là một trong những nhà thiết kế của Merkið, lá cờ của Quần đảo Faroe. Trong thời gian là sinh viên luật tại Copenhagen, ông đã thiết kế lá cờ vào năm 1919 cùng với hai sinh viên Faroese khác là Janus Øssursson từ Tórshavn và Paul Dahl từ Vágur. Lisberg lần đầu tiên dương cờ trên đất Faroese vào ngày 22 tháng 6 năm 1919 khi trở về quê hương Fámjin. Tuy nhiên, lá cờ này đã không được công nhận chính thức cho đến ngày 25 tháng 4 năm 1940 khi chính quyền chiếm đóng của Anh chấp thuận việc sử dụng lá cờ như một biểu tượng dân sự của quần đảo. Lisberg qua đời vì bệnh viêm phổi vào ngày 31 tháng 8 năm 1920. Ông được chôn cất ở Fámjin, nơi mà nhà thờ hiện nay đang giữ bản sao gốc của Merkið."
+    },
+    {
+        "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
+        "target": "Dan Patrick đang biến ý tưởng kịch bản khoa học viễn tưởng của tôi về một nhóm trẻ em lây lan một loại virus mà chúng miễn nhiễm để tiêu diệt cha mẹ/ông bà của chúng thành hiện thực.",
+        "id": "curt_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                0,
+                148
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                152
+            ]
+        ],
+        "reference": "Dan Patrick đang biến ý tưởng kịch bản khoa học viễn tưởng mà tôi có về một nhóm trẻ em lan truyền một loại virus mà chúng miễn dịch để giết chết cha mẹ/ông bà của chúng thành hiện thực."
+    },
+    {
+        "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
+        "target": "Dan Patrick đang biến ý tưởng kịch bản khoa học viễn tưởng của tôi về một nhóm trẻ em lây lan một loại virus mà chúng miễn nhiễm để tiêu diệt cha mẹ/ông bà của chúng thành HIỆN THỰC.",
+        "id": "curt_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                0,
+                181
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                152
+            ]
+        ],
+        "reference": "Dan Patrick đang biến ý tưởng kịch bản khoa học viễn tưởng mà tôi có về một nhóm trẻ em lan truyền một loại virus mà chúng miễn dịch để giết chết cha mẹ/ông bà của chúng thành hiện thực."
+    },
+    {
+        "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
+        "target": "@CindyKendrick11 Chuyện súp dơi chỉ là cái cớ. Dù thứ đó là gì thì cũng đã rò rỉ từ một phòng thí nghiệm vũ khí sinh học của Trung Quốc ở Vũ Hán. Chính phủ Trung Quốc chịu trách nhiệm về điều này",
+        "id": "curt_61_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                1,
+                45
+            ],
+            [
+                145,
+                195
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                17,
+                48
+            ],
+            [
+                122,
+                168
+            ]
+        ],
+        "reference": "@CindyKendrick11 Món súp dơi chỉ là một cái cớ. Dù là thứ gì đi chăng nữa thì nó đã rò rỉ ra từ một phòng thí nghiệm vũ khí sinh học Trung Quốc ở Vũ Hán. Chính phủ Trung Quốc phải chịu trách nhiệm về điều này."
+    },
+    {
+        "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
+        "target": "@CindyKendrick11 Việc uống nước hầm dơi chỉ là cái cớ. Dù thứ đó là gì thì cũng đều bị rò rỉ từ một phòng thí nghiệm vũ khí sinh học của Trung Quốc ở Vũ Hán. Chính phủ Trung Quốc phải chịu trách nhiệm về điều này",
+        "id": "curt_61_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                1,
+                53
+            ],
+            [
+                157,
+                212
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                17,
+                48
+            ],
+            [
+                122,
+                168
+            ]
+        ],
+        "reference": "@CindyKendrick11 Món súp dơi chỉ là một cái cớ. Dù là thứ gì đi chăng nữa thì nó đã rò rỉ ra từ một phòng thí nghiệm vũ khí sinh học Trung Quốc ở Vũ Hán. Chính phủ Trung Quốc phải chịu trách nhiệm về điều này."
+    },
+    {
+        "source": "Well, Mr. Ford is - is uh changing uh considerably his previous philosophy. The present tax structure is a disgrace to this country; it's just a welfare program for the rich. As a matter of fact, uh - 25 percent of the total tax deductions, go for only 1 percent of the richest people in this country, and over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country.",
+        "target": "Chà, ông Ford đang - đang uh thay đổi uh đáng kể triết lý trước đây của mình. Cấu trúc thuế hiện tại là một sự xấu hổ đối với đất nước này; nó chỉ là một chương trình phúc lợi dành cho người giàu. Thực tế, uh - 25 phần trăm tổng số khoản khấu trừ thuế, chỉ dành cho 1 phần trăm người giàu nhất trong đất nước này, và hơn 50 phần trăm tín dụng thuế uh dành cho 14 phần trăm người giàu nhất trong đất nước này.",
+        "id": "elecdeb_161_gpt4_ez",
+        "target_focus_areas": [
+            [
+                77,
+                175
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                105,
+                132
+            ]
+        ],
+        "reference": "Chà, ông Ford đang - đang thay đổi triết lý trước đây của ông ấy một cách đáng kể. Cấu trúc thuế hiện tại là một sự xấu hổ cho đất nước này; nó chỉ là một chương trình phúc lợi cho người giàu. Thực tế là, - 25% tổng số khoản khấu trừ thuế, chỉ dành cho 1% những người giàu nhất trong đất nước này, và hơn 50% các khoản tín dụng thuế dành cho 14% những người giàu nhất trong đất nước này."
+    },
+    {
+        "source": "Well, Mr. Ford is - is uh changing uh considerably his previous philosophy. The present tax structure is a disgrace to this country; it's just a welfare program for the rich. As a matter of fact, uh - 25 percent of the total tax deductions, go for only 1 percent of the richest people in this country, and over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country.",
+        "target": "Ông Ford đang - đang ờ đang thay đổi đáng kể triết lý trước đây của mình. Cơ cấu thuế hiện tại là một sự ô nhục đối với đất nước này; nó chỉ là một chương trình an sinh xã hội cho người giàu. Thực tế là, ờ - 25 phần trăm tổng số khấu trừ thuế được dành cho chỉ 1 phần trăm người giàu nhất ở đất nước này, và hơn 50 phần trăm các khoản tín dụng thuế được dành cho 14 phần trăm người giàu nhất ở đất nước này.",
+        "id": "elecdeb_161_gpt4_clap",
+        "target_focus_areas": [
+            [
+                73,
+                168
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                105,
+                132
+            ]
+        ],
+        "reference": "Chà, ông Ford đang - đang thay đổi triết lý trước đây của ông ấy một cách đáng kể. Cấu trúc thuế hiện tại là một sự xấu hổ cho đất nước này; nó chỉ là một chương trình phúc lợi cho người giàu. Thực tế là, - 25% tổng số khoản khấu trừ thuế, chỉ dành cho 1% những người giàu nhất trong đất nước này, và hơn 50% các khoản tín dụng thuế dành cho 14% những người giàu nhất trong đất nước này."
+    }
+]

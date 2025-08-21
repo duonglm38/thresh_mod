@@ -1,0 +1,118 @@
+[
+    {
+        "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+        "target": "이것은 판매세처럼 구조화될 수 있지만, 현실적인 소비세 제안들은 순수 판매세의 역진성 문제가 있음을 인식합니다.",
+        "id": "wikibias_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                21,
+                61
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                48,
+                57
+            ],
+            [
+                90,
+                152
+            ]
+        ],
+        "reference": "이것이 판매세처럼 구조화될 수 있지만, 소비세에 대한 현실적인 제안들은 순수 판매세의 문제로서 역진성을 인식합니다."
+    },
+    {
+        "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+        "target": "판매세처럼 구조화될 수 있지만, 소비세에 대한 현실적인 제안들은 순수 판매세에는 역진성이 문제라는 점을 인식하고 있습니다.",
+        "id": "wikibias_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                17,
+                67
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                48,
+                57
+            ],
+            [
+                90,
+                152
+            ]
+        ],
+        "reference": "이것이 판매세처럼 구조화될 수 있지만, 소비세에 대한 현실적인 제안들은 순수 판매세의 문제로서 역진성을 인식합니다."
+    },
+    {
+        "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target": "그리고 대리적으로 Coors Brewing Company 자체도 미국 정치와 공공 정책에서 중요한 역할을 해왔으며, 많은 보수적인 대의명분을 지지해 왔습니다. Coors 가문 구성원들은",
+        "id": "wikibias_22_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                0,
+                63
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                27,
+                72
+            ]
+        ],
+        "reference": "코어스 가족 구성원과 그에 따른 코어스 양조 회사는 미국 정치 및 공공 정책에서 중요한 역할을 해왔으며, 많은 보수적 원인을 지원해왔습니다."
+    },
+    {
+        "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target": "쿠어스 가문 구성원들은, 그리고 대리적으로 쿠어스 양조 회사 자체도, 미국의 정치와 공공 정책에서 두드러진 역할을 해왔으며, 많은 보수적 대의명분에 지지를 보내왔습니다.",
+        "id": "wikibias_22_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                13,
+                37
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                27,
+                72
+            ]
+        ],
+        "reference": "코어스 가족 구성원과 그에 따른 코어스 양조 회사는 미국 정치 및 공공 정책에서 중요한 역할을 해왔으며, 많은 보수적 원인을 지원해왔습니다."
+    },
+    {
+        "source": "yep, this crap sounds like its from a libertarian",
+        "target": "응, 이 쓰레기 같은 말은 마치 자유주의자가 말한 것 같군",
+        "id": "toxicspans_1_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                2,
+                32
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                38,
+                49
+            ]
+        ],
+        "reference": "응, 이 쓰레기는 자유지상주의자 같은 소리네."
+    },
+    {
+        "source": "yep, this crap sounds like its from a libertarian",
+        "target": "응, 이 쓰레기 같은 말은 자유주의자에서 나온 것 같아",
+        "id": "toxicspans_1_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                2,
+                30
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                38,
+                49
+            ]
+        ],
+        "reference": "응, 이 쓰레기는 자유지상주의자 같은 소리네."
+    }
+]

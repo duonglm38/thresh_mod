@@ -1,0 +1,358 @@
+[
+    {
+        "source": "Good answer. !!  Thank you for illustrating the utter stupidity of liberals.",
+        "target": "好答案。！！谢谢你生动地展示了自由主义者的彻底愚蠢。",
+        "metadata": {
+            "id": "toxicspans_105_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        54,
+                        63
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        23,
+                        25
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Good answer. !!  Thank you for illustrating the utter stupidity of liberals.",
+        "target": "好答案！！感谢你展示了自由派的彻底愚蠢。",
+        "metadata": {
+            "id": "toxicspans_105_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        54,
+                        63
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        17,
+                        19
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "@USER @USER You welcome ... Pretenders only do the worse.. Fucking hypocrites 😒😒💆‍♂️",
+        "target": "@USER @USER 欢迎… 伪君子只会更糟..他妈的伪虚伪者 😒😒💆‍♂️",
+        "metadata": {
+            "id": "tbo_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        59,
+                        66
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        25,
+                        28
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        67,
+                        77
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        28,
+                        32
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "@USER @USER You welcome ... Pretenders only do the worse.. Fucking hypocrites 😒😒💆‍♂️",
+        "target": "@USER @USER 欢迎… 伪君子只会搞砸一切.. 操他妈的虚伪人士 😒😒💆‍♂️",
+        "metadata": {
+            "id": "tbo_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        59,
+                        66
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        28,
+                        32
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        67,
+                        77
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        32,
+                        36
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "@USER BEYOND fucked up!!! People are SHIT and the way folks try to talk about cancer in twisted ways is absolutely disgusting",
+        "target": "@USER 超级搞砸了！！！人就是垃圾，而人们以扭曲的方式谈论癌症的方式简直令人作呕",
+        "metadata": {
+            "id": "tbo_44_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        26,
+                        32
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        14,
+                        15
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        37,
+                        41
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        17,
+                        19
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "@USER BEYOND fucked up!!! People are SHIT and the way folks try to talk about cancer in twisted ways is absolutely disgusting",
+        "target": "@USER 超级搞砸了！！！人们就是垃圾，那些人用扭曲的方式谈论癌症，简直令人作呕",
+        "metadata": {
+            "id": "tbo_44_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        26,
+                        32
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        14,
+                        16
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        37,
+                        41
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        20
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "I'm 34 f and I am dating have remarked that I was gazing into his huge mansion like house. He doesn't do anything with. I apologized for not keeping my options and is good advice and similar experiences would be free sometime this week. Not just to see him again. We walked inside and I want to be this way? Basically it's just not what fwb is, he likes me &amp;amp; how to deal with. He is upper middle class white family and friends told me to be ok with that response, I appreciated her patience.",
+        "target": "我34岁，女，正在约会时有人注意到我一直凝视着他那座巨大的豪宅般的房子。他对此无动于衷。我为没有保留选择而道歉，这是个很好的建议，类似的经历这周某个时候也会有空。不是仅仅想再见到他。我们走进屋内，我想知道自己是不是要这样做？基本上，这并不是朋友加性伴侣的模式，他喜欢我&amp;amp;如何应对。他来自中上阶层的白人家庭，朋友们告诉我要接受这个回应，我很感激她的耐心。",
+        "metadata": {
+            "id": "selfdisclosure_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        8
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        6
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "I'm 34 f and I am dating have remarked that I was gazing into his huge mansion like house. He doesn't do anything with. I apologized for not keeping my options and is good advice and similar experiences would be free sometime this week. Not just to see him again. We walked inside and I want to be this way? Basically it's just not what fwb is, he likes me &amp;amp; how to deal with. He is upper middle class white family and friends told me to be ok with that response, I appreciated her patience.",
+        "target": "我34岁，女性，正在约会。有人评论说我一直盯着他那座巨大豪宅般的房子看。他对此毫不理会。我为没有保留我的选择道歉，这是个好建议，我还有类似的经历，这周某个时候能抽空聊天。不只是为了再见他。我们走了进去，我想知道我是否该这样做？基本上，这并不是朋友伴侣关系的模式，他喜欢我，也不知道该怎么处理。他是中上阶层的白人，家人和朋友告诉我对那种反应要接受，我很感激她的耐心。",
+        "metadata": {
+            "id": "selfdisclosure_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        8
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        7
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "[Care.com](https://Care.com) is Horrible please don't, My wife is a nanny unfortunately your a little far for her. My niece is also a nanny but she is way booked.",
+        "target": "[Care.com](https://Care.com) 非常糟糕，请不要使用，我的妻子是一名保姆，但不幸的是你们离她有点远。我的侄女也是一名保姆，但她已经排满了日程。",
+        "metadata": {
+            "id": "selfdisclosure_403_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        55,
+                        73
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        40,
+                        49
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        115,
+                        139
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        63,
+                        73
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "[Care.com](https://Care.com) is Horrible please don't, My wife is a nanny unfortunately your a little far for her. My niece is also a nanny but she is way booked.",
+        "target": "[Care.com](https://Care.com) 非常糟糕，请不要使用。我的妻子是一名保姆，但不幸的是你们离她太远了。我的侄女也是一名保姆，但她已经排满了日程。",
+        "metadata": {
+            "id": "selfdisclosure_403_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        55,
+                        73
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        40,
+                        49
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        115,
+                        139
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        63,
+                        73
+                    ]
+                ]
+            }
+        ]
+    }
+]

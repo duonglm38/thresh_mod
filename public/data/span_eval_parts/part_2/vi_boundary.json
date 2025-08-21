@@ -1,0 +1,518 @@
+[
+    {
+        "source": "if a bitch start scratching amp pulling my hair during a fight omm imma stomp on a hoe head dumb ass bitch",
+        "target": "nếu một con khốn bắt đầu cào và túm tóc tôi trong lúc đánh nhau thì tao sẽ đạp bẹp cái đầu con chịu chơi ngu ngốc con khốn hèn",
+        "metadata": {
+            "id": "hatexplain_751_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        5,
+                        10
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        16
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        5,
+                        16
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        24
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        83,
+                        106
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        95,
+                        126
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        92,
+                        106
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        114,
+                        126
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "if a bitch start scratching amp pulling my hair during a fight omm imma stomp on a hoe head dumb ass bitch",
+        "target": "Nếu con chó cái nào đó bắt đầu cào và giật tóc tôi trong lúc đánh nhau thì tao sẽ đạp bẹp cái đầu con khốn đó, con chó cái ngu ngốc khốn kiếp",
+        "metadata": {
+            "id": "hatexplain_751_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        5,
+                        10
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        15
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        5,
+                        16
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        30
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        83,
+                        106
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        90,
+                        141
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        92,
+                        106
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        111,
+                        141
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "me girl otherwise you just a sad ass bitch 😇",
+        "target": "tôi là con gái, nếu không thì bạn chỉ là một con đồ khốn buồn thôi 😇",
+        "metadata": {
+            "id": "hatexplain_940_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        29,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        45,
+                        61
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        37,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        49,
+                        56
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "me girl otherwise you just a sad ass bitch 😇",
+        "target": "Tao là con gái, nếu không thì mày chỉ là một con đĩ buồn thảm thôi 😇",
+        "metadata": {
+            "id": "hatexplain_940_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        29,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        45,
+                        61
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        37,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        45,
+                        51
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Lion, the Witch and the Wardrobe is the first and only published and chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia. The animated television film that was broadcast on CBS in 1979, The Lion, the Witch and the Wardrobe, is a 1979 adaptation of the novel. The 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a British-American high fantasy film directed by Andrew Adamson and based on The Lion, the Witch and the Wardrobe, the Wardrobe, the first published and second chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia.\n",
+        "target": "Sư tử, Phù thủy và Tủ quần áo là cuốn tiểu thuyết đầu tiên và duy nhất được xuất bản, đồng thời là cuốn tiểu thuyết đầu tiên theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia. Bộ phim truyền hình hoạt hình được phát sóng trên CBS vào năm 1979, Sư tử, Phù thủy và Tủ quần áo, là bản chuyển thể năm 1979 của cuốn tiểu thuyết. Bộ phim năm 2005 Biên niên sử Narnia: Sư tử, Phù thủy và Tủ quần áo là một bộ phim kỳ ảo Anh-Mỹ do Andrew Adamson đạo diễn và dựa trên Sư tử, Phù thủy và Tủ quần áo, Tủ quần áo, cuốn tiểu thuyết đầu tiên được xuất bản và thứ hai theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia.",
+        "metadata": {
+            "id": "qafeedback_61_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        54,
+                        68
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        62,
+                        84
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        232,
+                        269
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        302,
+                        332
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        275,
+                        279
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        355,
+                        359
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        387,
+                        408
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        471,
+                        477
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        449,
+                        640
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        505,
+                        719
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Lion, the Witch and the Wardrobe is the first and only published and chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia. The animated television film that was broadcast on CBS in 1979, The Lion, the Witch and the Wardrobe, is a 1979 adaptation of the novel. The 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a British-American high fantasy film directed by Andrew Adamson and based on The Lion, the Witch and the Wardrobe, the Wardrobe, the first published and second chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia.\n",
+        "target": "Sư Tử, Phù Thủy và Tủ Quần Áo là tiểu thuyết đầu tiên và duy nhất được xuất bản theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia. Bộ phim hoạt hình truyền hình được phát sóng trên CBS vào năm 1979, Sư Tử, Phù Thủy và Tủ Quần Áo, là bản chuyển thể năm 1979 của cuốn tiểu thuyết. Bộ phim năm 2005 Biên niên sử Narnia: Sư Tử, Phù Thủy và Tủ Quần Áo là một bộ phim kỳ ảo sử thi Anh-Mỹ do Andrew Adamson đạo diễn và dựa trên Sư Tử, Phù Thủy và Tủ Quần Áo, cuốn tiểu thuyết đầu tiên được xuất bản và thứ hai theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia.",
+        "metadata": {
+            "id": "qafeedback_61_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        54,
+                        68
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        57,
+                        79
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        232,
+                        269
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        257,
+                        287
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        275,
+                        279
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        306,
+                        314
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        387,
+                        408
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        433,
+                        439
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        449,
+                        640
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        467,
+                        669
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The player with the most points in a Finals game is Elgin Baylor, who played 14 seasons in the National Basketball Association for the Los Angeles Lakers. Baylor scored a finals record 61 points in the 1962 NBA Finals against the Los Angeles Lakers.",
+        "target": "Người chơi ghi được nhiều điểm nhất trong một trận chung kết là Elgin Baylor, người đã thi đấu 14 mùa giải tại Liên đoàn Bóng rổ Quốc gia cho đội Los Angeles Lakers. Baylor đã ghi kỷ lục chung kết 61 điểm trong trận chung kết NBA năm 1962 gặp đội Los Angeles Lakers.",
+        "metadata": {
+            "id": "qafeedback_87_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        226,
+                        249
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        243,
+                        266
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The player with the most points in a Finals game is Elgin Baylor, who played 14 seasons in the National Basketball Association for the Los Angeles Lakers. Baylor scored a finals record 61 points in the 1962 NBA Finals against the Los Angeles Lakers.",
+        "target": "Cầu thủ ghi nhiều điểm nhất trong một trận chung kết là Elgin Baylor, người đã thi đấu 14 mùa giải tại Liên đoàn Bóng rổ Quốc gia cho đội Los Angeles Lakers. Baylor đã ghi 61 điểm trong trận chung kết NBA năm 1962 gặp đội Los Angeles Lakers, lập kỷ lục chung kết.",
+        "metadata": {
+            "id": "qafeedback_87_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        226,
+                        249
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        218,
+                        240
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "the princeton vase is a famous example of late classic maya ceramics in codex style , first published in m . d . thompson ' s ' the great maya and his contemporaries ' ( 1931 ) , and now a major piece of the pre - columbian collection of the national museum of mexico . originally painted as a drinking vessel for wine , it depicts a throne being approached by an owl , with an owl flying above him and by three young women surrounding him . in front of the throne a female dancer is being watched and threatened by two young men , a scene that has long been assumed to refer to an incident in the ahau san maya . as to the vase ' s art - historical importance , it invites comparison to the equally famous jaguar baby vase in the san francisco museum collection .",
+        "target": "bình princeton là một ví dụ nổi tiếng về đồ gốm maya cổ điển muộn theo phong cách codex, lần đầu được xuất bản trong cuốn \"the great maya and his contemporaries\" của m. d. thompson (1931), và hiện là một tác phẩm lớn trong bộ sưu tập trước columbus của bảo tàng quốc gia mexico. ban đầu được vẽ như một đồ uống rượu vang, nó miêu tả một ngai vàng đang được tiếp cận bởi một con cú, với một con cú bay phía trên và ba người phụ nữ trẻ bao quanh. trước ngai vàng một vũ công nữ đang bị hai người đàn ông trẻ theo dõi và đe dọa, một cảnh lâu nay được cho là ám chỉ một sự kiện trong ahau san maya. về tầm quan trọng trong lịch sử nghệ thuật của bình, nó mời gọi sự so sánh với chiếc bình em bé báo nổi tiếng không kém trong bộ sưu tập bảo tàng san francisco.",
+        "metadata": {
+            "id": "hades_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        666,
+                        673
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        651,
+                        658
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "the princeton vase is a famous example of late classic maya ceramics in codex style , first published in m . d . thompson ' s ' the great maya and his contemporaries ' ( 1931 ) , and now a major piece of the pre - columbian collection of the national museum of mexico . originally painted as a drinking vessel for wine , it depicts a throne being approached by an owl , with an owl flying above him and by three young women surrounding him . in front of the throne a female dancer is being watched and threatened by two young men , a scene that has long been assumed to refer to an incident in the ahau san maya . as to the vase ' s art - historical importance , it invites comparison to the equally famous jaguar baby vase in the san francisco museum collection .",
+        "target": "Bình Princeton là một ví dụ nổi tiếng về gốm cổ điển muộn của người Maya theo phong cách codex, lần đầu tiên được công bố trong cuốn \"The Great Maya and His Contemporaries\" (1931) của M. D. Thompson, và hiện là một tác phẩm lớn trong bộ sưu tập tiền Colombia của Bảo tàng Quốc gia Mexico. Ban đầu được vẽ như một chiếc bình uống rượu vang, nó mô tả một ngai vàng đang có một con cú tiếp cận, với một con cú bay phía trên và ba phụ nữ trẻ xung quanh ngai. Trước ngai vàng, một nữ vũ công đang bị hai chàng trai trẻ quan sát và đe dọa, một cảnh được cho là ám chỉ đến một sự kiện trong Ahau San Maya. Về tầm quan trọng lịch sử nghệ thuật của chiếc bình, nó mời gọi sự so sánh với chiếc bình bé báo cũng nổi tiếng trong bộ sưu tập của Bảo tàng San Francisco.",
+        "metadata": {
+            "id": "hades_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        666,
+                        673
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        655,
+                        673
+                    ]
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,318 @@
+[
+    {
+        "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
+        "target": "남부 프랑스의 날씨는 러시아의 기온보다 훨씬 좋으며, 그 이유는 날씨가 항상 따뜻하기 때문입니다.",
+        "metadata": {
+            "id": "natural_instruct_task033_64_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        10
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        91,
+                        98
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        36,
+                        38
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
+        "target": "남부 프랑스의 날씨는 늘 따뜻하기 때문에 러시아의 기온보다 훨씬 좋다.",
+        "metadata": {
+            "id": "natural_instruct_task033_64_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        10
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        91,
+                        98
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        10
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
+        "target": "문장: 모두들 브라운 버터 버번 향신료 쿠키를 정말 좋아했어요. 반면에 카라멜 피칸 쿠키는 몇몇 사람들만 좋아했습니다. 다음에는 그것을 더 적게 만들어야 할 것 같아요.",
+        "metadata": {
+            "id": "natural_instruct_task249_3_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        32,
+                        70
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        24
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        97,
+                        122
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        40,
+                        49
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        165
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        72,
+                        74
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
+        "target": "문장: 모두들 브라운 버터 버번 스파이스 쿠키를 정말 좋아했어요; 캐러멜 피칸 쿠키는 몇몇 사람만 좋아했어요. 다음에는 그것들을 더 적게 만들어야 할 것 같아요.",
+        "metadata": {
+            "id": "natural_instruct_task249_3_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        32,
+                        70
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        26
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        97,
+                        122
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        37,
+                        47
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        165
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        67,
+                        71
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "sentence: Lucy comforted Emma because she was so upset .",
+        "target": "문장: 루시는 에마가 너무 화가 나서 그녀를 위로했다.",
+        "metadata": {
+            "id": "natural_instruct_task249_12_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        10,
+                        14
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        25,
+                        29
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        10
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        38,
+                        41
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        21,
+                        23
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "sentence: Lucy comforted Emma because she was so upset .",
+        "target": "문장: 루시는 엠마가 너무 억울해하자 그녀를 위로했다.",
+        "metadata": {
+            "id": "natural_instruct_task249_12_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        10,
+                        14
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        25,
+                        29
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        10
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        38,
+                        41
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        21,
+                        23
+                    ]
+                ]
+            }
+        ]
+    }
+]

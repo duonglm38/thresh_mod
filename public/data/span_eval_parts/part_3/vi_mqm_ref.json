@@ -1,0 +1,498 @@
+[
+    {
+        "source": "shannon is an unincorporated community in mason county , kentucky , united states . the village is southwest of mason city on u . s . route 40 , in the township of pine hill . the highest point in the community is dominated by a prominent limestone cliff and a mound built by the first settlers of the area . the original limestone lined earthwork is 2 ¹⁄₂ stories - high and 10 feet in diameter . historical holes in the mound have allowed further study and more precise dating of the mound ' s location . shannon is part of the mason city metropolitan statistical area statistical area .",
+        "target": "shannon là một cộng đồng chưa hợp nhất ở quận mason, kentucky, hoa kỳ. ngôi làng nằm ở phía tây nam của mason city trên tuyến đường u.s. route 40, thuộc khu dân cư pine hill. điểm cao nhất trong cộng đồng này được thống trị bởi một vách đá vôi nổi bật và một gò đất do những người định cư đầu tiên của khu vực xây dựng. công trình đất được lót bằng đá vôi ban đầu cao 2 ¹⁄₂ tầng và có đường kính 10 feet. các lỗ lịch sử trên gò đất đã cho phép nghiên cứu sâu hơn và xác định niên đại chính xác hơn về vị trí của gò đất. shannon là một phần của khu thống kê đô thị mason city.",
+        "id": "hades_87_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                432,
+                518
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                496,
+                504
+            ]
+        ],
+        "reference": "Shannon là một cộng đồng không được hợp nhất trong quận Mason, bang Kentucky, Hoa Kỳ. Làng nằm về phía tây nam của thành phố Mason trên tuyến đường U.S. 40, trong hội đồng Pine Hill. Điểm cao nhất trong cộng đồng được chiếm ưu thế bởi một vách đá vôi nổi bật và một gò được xây dựng bởi những người định cư đầu tiên trong khu vực. Cấu trúc đất ban đầu có viền đá vôi cao 2 ¹⁄₂ tầng và đường kính 10 feet. Những lỗ hổng lịch sử trong gò đã cho phép nghiên cứu thêm một cách chính xác hơn về vị trí của gò. Shannon là một phần của khu vực thống kê đô thị thành phố Mason."
+    },
+    {
+        "source": "shannon is an unincorporated community in mason county , kentucky , united states . the village is southwest of mason city on u . s . route 40 , in the township of pine hill . the highest point in the community is dominated by a prominent limestone cliff and a mound built by the first settlers of the area . the original limestone lined earthwork is 2 ¹⁄₂ stories - high and 10 feet in diameter . historical holes in the mound have allowed further study and more precise dating of the mound ' s location . shannon is part of the mason city metropolitan statistical area statistical area .",
+        "target": "Shannon là một cộng đồng chưa hợp nhất ở quận Mason, Kentucky, Hoa Kỳ. Ngôi làng nằm ở phía tây nam của Mason City trên tuyến đường U.S. 40, trong thị trấn Pine Hill. Điểm cao nhất trong cộng đồng được thống trị bởi một vách đá vôi nổi bật và một gò đất do những người định cư đầu tiên của khu vực xây dựng. Công trình đất có lớp đá vôi ban đầu cao 2¹⁄₂ tầng và đường kính 10 feet. Các lỗ lịch sử trong gò đất đã cho phép nghiên cứu sâu hơn và xác định niên đại chính xác hơn về vị trí của gò đất. Shannon là một phần của khu vực thống kê đô thị Mason City.",
+        "id": "hades_87_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                410,
+                496
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                496,
+                504
+            ]
+        ],
+        "reference": "Shannon là một cộng đồng không được hợp nhất trong quận Mason, bang Kentucky, Hoa Kỳ. Làng nằm về phía tây nam của thành phố Mason trên tuyến đường U.S. 40, trong hội đồng Pine Hill. Điểm cao nhất trong cộng đồng được chiếm ưu thế bởi một vách đá vôi nổi bật và một gò được xây dựng bởi những người định cư đầu tiên trong khu vực. Cấu trúc đất ban đầu có viền đá vôi cao 2 ¹⁄₂ tầng và đường kính 10 feet. Những lỗ hổng lịch sử trong gò đã cho phép nghiên cứu thêm một cách chính xác hơn về vị trí của gò. Shannon là một phần của khu vực thống kê đô thị thành phố Mason."
+    },
+    {
+        "source": "The image features a red street sign that reads \"LIKE A BRICK FITTCHEN.\" The sign is mounted on a pole, and it stands out against the background of the snowy cityscape.",
+        "target": "Hình ảnh hiển thị một biển báo đường phố màu đỏ với dòng chữ \"LIKE A BRICK FITTCHEN\". Biển báo được gắn trên cột, và nổi bật giữa nền cảnh thành phố tuyết trắng xóa.",
+        "id": "mhal_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                113,
+                165
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                104,
+                168
+            ]
+        ],
+        "reference": "Bức ảnh có một biển báo đường màu đỏ ghi chữ \"NHƯ MỘT VIÊN GẠCH FITTCHEN.\" Biển báo được gắn trên một cột và nổi bật trên nền cảnh thành phố phủ tuyết."
+    },
+    {
+        "source": "The image features a red street sign that reads \"LIKE A BRICK FITTCHEN.\" The sign is mounted on a pole, and it stands out against the background of the snowy cityscape.",
+        "target": "Hình ảnh hiển thị một biển báo đường phố màu đỏ ghi dòng chữ \"LIKE A BRICK FITTCHEN\". Biển báo được gắn trên một cột, nổi bật giữa nền cảnh thành phố tuyết trắng xóa.",
+        "id": "mhal_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                117,
+                166
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                104,
+                168
+            ]
+        ],
+        "reference": "Bức ảnh có một biển báo đường màu đỏ ghi chữ \"NHƯ MỘT VIÊN GẠCH FITTCHEN.\" Biển báo được gắn trên một cột và nổi bật trên nền cảnh thành phố phủ tuyết."
+    },
+    {
+        "source": "In the image, there are two cats sitting on a carpeted floor. One of the cats is orange and the other is black. The cats are positioned close to each other, creating a cozy and intimate atmosphere. The carpet provides a soft and comfortable surface for the cats to rest on. The overall mood of the image is peaceful and relaxed, as the cats seem to be enjoying each other's company while resting on the carpet.",
+        "target": "Trong bức ảnh, có hai con mèo đang ngồi trên sàn trải thảm. Một con mèo màu cam và con còn lại màu đen. Những con mèo được đặt gần nhau, tạo nên một không gian ấm cúng và thân mật. Tấm thảm cung cấp một bề mặt mềm mại và thoải mái để mèo nghỉ ngơi. Tâm trạng chung của bức ảnh rất yên bình và thư giãn, khi những con mèo dường như đang tận hưởng sự hiện diện của nhau trong khi nghỉ ngơi trên tấm thảm.",
+        "id": "mhal_114_gpt4_ez",
+        "target_focus_areas": [
+            [
+                136,
+                401
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                157,
+                197
+            ],
+            [
+                198,
+                273
+            ],
+            [
+                274,
+                409
+            ]
+        ],
+        "reference": "Trong hình ảnh, có hai con mèo đang ngồi trên sàn trải thảm. Một con mèo có màu cam và con còn lại có màu đen. Hai con mèo được đặt gần nhau, tạo ra một bầu không khí ấm cúng và thân mật. Chiếc thảm cung cấp một bề mặt mềm mại và thoải mái cho các con mèo nghỉ ngơi. Tổng thể, tâm trạng của bức ảnh là bình yên và thư giãn, khi các con mèo dường như đang tận hưởng sự có mặt của nhau trong lúc nghỉ ngơi trên thảm."
+    },
+    {
+        "source": "In the image, there are two cats sitting on a carpeted floor. One of the cats is orange and the other is black. The cats are positioned close to each other, creating a cozy and intimate atmosphere. The carpet provides a soft and comfortable surface for the cats to rest on. The overall mood of the image is peaceful and relaxed, as the cats seem to be enjoying each other's company while resting on the carpet.",
+        "target": "Trong hình, có hai con mèo đang ngồi trên một sàn trải thảm. Một con mèo màu cam và con kia màu đen. Hai con mèo được đặt gần nhau, tạo nên một không gian ấm cúng và thân mật. Tấm thảm cung cấp một bề mặt mềm mại và thoải mái để mèo nghỉ ngơi. Tổng thể bức ảnh mang lại cảm giác yên bình và thư giãn, khi hai con mèo dường như đang tận hưởng sự đồng hành của nhau trong lúc nghỉ ngơi trên tấm thảm.",
+        "id": "mhal_114_gpt4_clap",
+        "target_focus_areas": [
+            [
+                131,
+                398
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                157,
+                197
+            ],
+            [
+                198,
+                273
+            ],
+            [
+                274,
+                409
+            ]
+        ],
+        "reference": "Trong hình ảnh, có hai con mèo đang ngồi trên sàn trải thảm. Một con mèo có màu cam và con còn lại có màu đen. Hai con mèo được đặt gần nhau, tạo ra một bầu không khí ấm cúng và thân mật. Chiếc thảm cung cấp một bề mặt mềm mại và thoải mái cho các con mèo nghỉ ngơi. Tổng thể, tâm trạng của bức ảnh là bình yên và thư giãn, khi các con mèo dường như đang tận hưởng sự có mặt của nhau trong lúc nghỉ ngơi trên thảm."
+    },
+    {
+        "source": "in this image in the foreground there is one man who is holding some vegetables it seems and walking, and on the right side there is one person who is standing and it looks like there are some vegetables. and there are some poles and plastic covers, and there is a wire. on the wire there are some clothes and some ropes, and in the background also there are poles and we could see roof at the top and there are trees and buildings on the left side and one woman and one child who is holding a cup and eating something. and there are some clothes and we could see some doors, wall and at the bottom there is floor. and in the center there are some poles, and at the top there is sky.",
+        "target": "Trong hình ảnh này, ở tiền cảnh có một người đàn ông người đang cầm một số loại rau có vẻ như vậy và đang đi bộ, và ở phía bên phải có một người người đang đứng và có vẻ như có một số loại rau. và có một số cột và tấm phủ nhựa, và có một sợi dây. trên sợi dây có một số quần áo và một số sợi dây thừng, và ở hậu cảnh cũng có cột và chúng ta có thể thấy mái nhà ở trên cùng và có cây cối và tòa nhà ở phía bên trái và một người phụ nữ và một đứa trẻ đang cầm một chiếc cốc và ăn thứ gì đó. và có một số quần áo và chúng ta có thể thấy một số cánh cửa, tường và ở phía dưới có sàn nhà. và ở trung tâm có một số cột, và ở trên cùng có bầu trời.",
+        "id": "cin_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                19,
+                111
+            ],
+            [
+                112,
+                192
+            ],
+            [
+                193,
+                226
+            ],
+            [
+                227,
+                245
+            ],
+            [
+                246,
+                301
+            ],
+            [
+                302,
+                487
+            ],
+            [
+                488,
+                549
+            ],
+            [
+                550,
+                582
+            ],
+            [
+                583,
+                612
+            ],
+            [
+                613,
+                640
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                41,
+                48
+            ],
+            [
+                49,
+                52
+            ],
+            [
+                64,
+                79
+            ],
+            [
+                133,
+                143
+            ],
+            [
+                144,
+                147
+            ],
+            [
+                188,
+                203
+            ],
+            [
+                219,
+                229
+            ],
+            [
+                234,
+                248
+            ],
+            [
+                263,
+                269
+            ],
+            [
+                274,
+                282
+            ],
+            [
+                293,
+                305
+            ],
+            [
+                310,
+                320
+            ],
+            [
+                359,
+                364
+            ],
+            [
+                382,
+                386
+            ],
+            [
+                412,
+                417
+            ],
+            [
+                422,
+                431
+            ],
+            [
+                453,
+                462
+            ],
+            [
+                467,
+                476
+            ],
+            [
+                492,
+                497
+            ],
+            [
+                509,
+                518
+            ],
+            [
+                534,
+                546
+            ],
+            [
+                564,
+                574
+            ],
+            [
+                576,
+                580
+            ],
+            [
+                608,
+                613
+            ],
+            [
+                643,
+                653
+            ],
+            [
+                679,
+                682
+            ]
+        ],
+        "reference": "Trong bức tranh này, ở bối cảnh phía trước có một người đàn ông đang cầm một số loại rau và đi bộ, và ở bên phải có một người đứng và trông có vẻ như có một số loại rau. Có một số cột và bạt nhựa, và có một dây. Trên dây có một số quần áo và một số dây thừng, và ở phía sau cũng có cột và chúng ta có thể thấy mái nhà ở phía trên. Có cây cối và các tòa nhà ở bên trái một người phụ nữ và một đứa trẻ đang cầm một cái cốc và đang ăn gì đó. Có một số quần áo và chúng ta có thể thấy một số cửa, tường và ở phía dưới có sàn nhà. Ở giữa có một số cột, và ở phía trên có bầu trời."
+    },
+    {
+        "source": "in this image in the foreground there is one man who is holding some vegetables it seems and walking, and on the right side there is one person who is standing and it looks like there are some vegetables. and there are some poles and plastic covers, and there is a wire. on the wire there are some clothes and some ropes, and in the background also there are poles and we could see roof at the top and there are trees and buildings on the left side and one woman and one child who is holding a cup and eating something. and there are some clothes and we could see some doors, wall and at the bottom there is floor. and in the center there are some poles, and at the top there is sky.",
+        "target": "Trong hình ảnh này, ở phía trước có một người đàn ông đang cầm một số loại rau có vẻ như vậy và đang đi bộ, và ở phía bên phải có một người đang đứng và có vẻ như có một số loại rau. Và có một số cột và tấm nhựa, và có một sợi dây. Trên sợi dây có một số quần áo và dây thừng, và ở phía sau cũng có các cột và chúng ta có thể thấy mái nhà ở trên cùng, và có cây cối và các tòa nhà ở phía bên trái và một người phụ nữ và một đứa trẻ đang cầm cốc và ăn gì đó. Và có một số quần áo và chúng ta có thể thấy một số cửa, tường và ở phía dưới có sàn nhà. Và ở trung tâm có một số cột, và ở trên cùng là bầu trời.",
+        "id": "cin_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                19,
+                106
+            ],
+            [
+                107,
+                181
+            ],
+            [
+                182,
+                211
+            ],
+            [
+                212,
+                230
+            ],
+            [
+                231,
+                275
+            ],
+            [
+                276,
+                350
+            ],
+            [
+                351,
+                456
+            ],
+            [
+                457,
+                513
+            ],
+            [
+                514,
+                546
+            ],
+            [
+                547,
+                576
+            ],
+            [
+                577,
+                604
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                41,
+                48
+            ],
+            [
+                49,
+                52
+            ],
+            [
+                64,
+                79
+            ],
+            [
+                133,
+                143
+            ],
+            [
+                144,
+                147
+            ],
+            [
+                188,
+                203
+            ],
+            [
+                219,
+                229
+            ],
+            [
+                234,
+                248
+            ],
+            [
+                263,
+                269
+            ],
+            [
+                274,
+                282
+            ],
+            [
+                293,
+                305
+            ],
+            [
+                310,
+                320
+            ],
+            [
+                359,
+                364
+            ],
+            [
+                382,
+                386
+            ],
+            [
+                412,
+                417
+            ],
+            [
+                422,
+                431
+            ],
+            [
+                453,
+                462
+            ],
+            [
+                467,
+                476
+            ],
+            [
+                492,
+                497
+            ],
+            [
+                509,
+                518
+            ],
+            [
+                534,
+                546
+            ],
+            [
+                564,
+                574
+            ],
+            [
+                576,
+                580
+            ],
+            [
+                608,
+                613
+            ],
+            [
+                643,
+                653
+            ],
+            [
+                679,
+                682
+            ]
+        ],
+        "reference": "Trong bức tranh này, ở bối cảnh phía trước có một người đàn ông đang cầm một số loại rau và đi bộ, và ở bên phải có một người đứng và trông có vẻ như có một số loại rau. Có một số cột và bạt nhựa, và có một dây. Trên dây có một số quần áo và một số dây thừng, và ở phía sau cũng có cột và chúng ta có thể thấy mái nhà ở phía trên. Có cây cối và các tòa nhà ở bên trái một người phụ nữ và một đứa trẻ đang cầm một cái cốc và đang ăn gì đó. Có một số quần áo và chúng ta có thể thấy một số cửa, tường và ở phía dưới có sàn nhà. Ở giữa có một số cột, và ở phía trên có bầu trời."
+    },
+    {
+        "source": "Earlier , he visited Our Lady Queen of Angels School in East Harlem .",
+        "target": "Trước đó, ông đã thăm Trường Our Lady Queen of Angels ở East Harlem.",
+        "id": "m2e2_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                9,
+                67
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                12
+            ],
+            [
+                13,
+                20
+            ],
+            [
+                39,
+                52
+            ],
+            [
+                56,
+                67
+            ]
+        ],
+        "reference": "Trước đó, ông đã thăm Trường Nữ Vương Thiên Thần ở East Harlem."
+    },
+    {
+        "source": "Earlier , he visited Our Lady Queen of Angels School in East Harlem .",
+        "target": "Trước đó, ông đã đến thăm Trường Our Lady Queen of Angels ở East Harlem.",
+        "id": "m2e2_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                9,
+                71
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                12
+            ],
+            [
+                13,
+                20
+            ],
+            [
+                39,
+                52
+            ],
+            [
+                56,
+                67
+            ]
+        ],
+        "reference": "Trước đó, ông đã thăm Trường Nữ Vương Thiên Thần ở East Harlem."
+    }
+]

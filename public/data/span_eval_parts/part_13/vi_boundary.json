@@ -1,0 +1,318 @@
+[
+    {
+        "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
+        "target": "Thời tiết ở miền nam nước Pháp tốt hơn nhiều so với nhiệt độ ở Nga, vì thời tiết luôn ấm áp.",
+        "metadata": {
+            "id": "natural_instruct_task033_64_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        9
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        91,
+                        98
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        71,
+                        80
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
+        "target": "Thời tiết ở miền Nam nước Pháp tốt hơn nhiều so với nhiệt độ ở Nga, vì thời tiết ở đó luôn ấm áp.",
+        "metadata": {
+            "id": "natural_instruct_task033_64_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        9
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        91,
+                        98
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        71,
+                        80
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
+        "target": "câu: mọi người thực sự thích bánh quy bơ nâu rượu bourbon gia vị; chỉ có một vài người thích bánh quy caramel hạt hồ đào. lần tới, chúng ta nên làm ít hơn chúng.",
+        "metadata": {
+            "id": "natural_instruct_task249_3_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        32,
+                        70
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        29,
+                        64
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        97,
+                        122
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        93,
+                        120
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        165
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        155,
+                        160
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
+        "target": "Câu: mọi người thực sự thích bánh quy bơ nâu bourbon gia vị; chỉ một vài người thích bánh quy caramel pecan. Lần tới, chúng ta nên làm ít loại đó hơn.",
+        "metadata": {
+            "id": "natural_instruct_task249_3_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        32,
+                        70
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        29,
+                        59
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        97,
+                        122
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        85,
+                        107
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        165
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        138,
+                        145
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "sentence: Lucy comforted Emma because she was so upset .",
+        "target": "câu: Lucy an ủi Emma vì cô ấy quá buồn bã.",
+        "metadata": {
+            "id": "natural_instruct_task249_12_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        10,
+                        14
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        5,
+                        9
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        25,
+                        29
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        16,
+                        20
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        38,
+                        41
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        24,
+                        29
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "sentence: Lucy comforted Emma because she was so upset .",
+        "target": "Câu: Lucy an ủi Emma vì Emma quá buồn.",
+        "metadata": {
+            "id": "natural_instruct_task249_12_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        10,
+                        14
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        5,
+                        9
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        25,
+                        29
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        16,
+                        20
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        38,
+                        41
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        24,
+                        28
+                    ]
+                ]
+            }
+        ]
+    }
+]

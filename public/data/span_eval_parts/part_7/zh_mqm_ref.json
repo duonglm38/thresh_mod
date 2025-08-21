@@ -1,0 +1,606 @@
+[
+    {
+        "source": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Cod liver oil one capsule GT q. day. 9. Multivitamin 1 tablet GT q. day. 10. Bicitra 10 mL GT b.i.d. DISCHARGE DIET: The patient is to resume his Pediasure home regimen.",
+        "target": "6. 普瑞莱塞克 10毫克 口服液 每日两次 7. 肉碱 500毫克 口服液 每日两次 8. 鱼肝油 一粒胶囊 口服液 每日一次 9. 多种维生素 1片 口服液 每日一次 10. 碳酸氢钠钾 10毫升 口服液 每日两次 出院饮食：患者需恢复其在家中的Pediasure方案。",
+        "id": "clinicalie_attr_1_gpt4_ez",
+        "target_focus_areas": [
+            [
+                2,
+                24
+            ],
+            [
+                25,
+                45
+            ],
+            [
+                46,
+                66
+            ],
+            [
+                67,
+                88
+            ],
+            [
+                89,
+                114
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                3,
+                11
+            ],
+            [
+                12,
+                17
+            ],
+            [
+                18,
+                20
+            ],
+            [
+                21,
+                27
+            ],
+            [
+                31,
+                40
+            ],
+            [
+                41,
+                47
+            ],
+            [
+                48,
+                50
+            ],
+            [
+                51,
+                57
+            ],
+            [
+                61,
+                74
+            ],
+            [
+                75,
+                86
+            ],
+            [
+                87,
+                89
+            ],
+            [
+                90,
+                96
+            ],
+            [
+                101,
+                113
+            ],
+            [
+                114,
+                122
+            ],
+            [
+                123,
+                125
+            ],
+            [
+                126,
+                132
+            ],
+            [
+                138,
+                145
+            ],
+            [
+                146,
+                151
+            ],
+            [
+                152,
+                154
+            ],
+            [
+                155,
+                161
+            ]
+        ],
+        "reference": "6. Prilosec 10 毫克，双日一次。7. Carnitine 500 毫克，双日一次。8. 鳕鱼肝油一粒，日一次。9. 复合维生素1片，日一次。10. Bicitra 10 毫升，双日一次。出院饮食：患者应恢复其 Pediasure 家庭方案。"
+    },
+    {
+        "source": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Cod liver oil one capsule GT q. day. 9. Multivitamin 1 tablet GT q. day. 10. Bicitra 10 mL GT b.i.d. DISCHARGE DIET: The patient is to resume his Pediasure home regimen.",
+        "target": "6. 帕洛塞克（Prilosec）10 毫克，口服，一日两次。7. 左旋肉碱 500 毫克，口服，一日两次。8. 鳕鱼肝油胶囊，每日口服一粒。9. 多种维生素，口服，每日一片。10. 比西特拉（Bicitra）10 毫升，口服，一日两次。出院饮食：患者恢复其家用佩迪舒尔（Pediasure）饮食方案。",
+        "id": "clinicalie_attr_1_gpt4_clap",
+        "target_focus_areas": [
+            [
+                2,
+                22
+            ],
+            [
+                23,
+                25
+            ],
+            [
+                26,
+                30
+            ],
+            [
+                33,
+                45
+            ],
+            [
+                46,
+                48
+            ],
+            [
+                49,
+                53
+            ],
+            [
+                56,
+                63
+            ],
+            [
+                64,
+                70
+            ],
+            [
+                73,
+                79
+            ],
+            [
+                80,
+                82
+            ],
+            [
+                83,
+                87
+            ],
+            [
+                91,
+                110
+            ],
+            [
+                111,
+                113
+            ],
+            [
+                114,
+                118
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                3,
+                11
+            ],
+            [
+                12,
+                17
+            ],
+            [
+                18,
+                20
+            ],
+            [
+                21,
+                27
+            ],
+            [
+                31,
+                40
+            ],
+            [
+                41,
+                47
+            ],
+            [
+                48,
+                50
+            ],
+            [
+                51,
+                57
+            ],
+            [
+                61,
+                74
+            ],
+            [
+                75,
+                86
+            ],
+            [
+                87,
+                89
+            ],
+            [
+                90,
+                96
+            ],
+            [
+                101,
+                113
+            ],
+            [
+                114,
+                122
+            ],
+            [
+                123,
+                125
+            ],
+            [
+                126,
+                132
+            ],
+            [
+                138,
+                145
+            ],
+            [
+                146,
+                151
+            ],
+            [
+                152,
+                154
+            ],
+            [
+                155,
+                161
+            ]
+        ],
+        "reference": "6. Prilosec 10 毫克，双日一次。7. Carnitine 500 毫克，双日一次。8. 鳕鱼肝油一粒，日一次。9. 复合维生素1片，日一次。10. Bicitra 10 毫升，双日一次。出院饮食：患者应恢复其 Pediasure 家庭方案。"
+    },
+    {
+        "source": "Her mother suffers from hypertension. Other female relatives suffer from endometriosis. SOCIAL HISTORY: The patient is married. She works as an account coordinator at US Bank. She denies use of tobacco, alcohol, or drugs. ADMISSION PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 136/80 to 147/106.",
+        "target": "她的母亲患有高血压。其他女性亲属患有子宫内膜异位症。社会史：患者已婚。她在US Bank担任账户协调员。她否认吸烟、饮酒或吸毒。入院体格检查：生命体征：血压 136/80 至 147/106。",
+        "id": "clinicalie_coref_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                30,
+                34
+            ],
+            [
+                35,
+                44
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                104,
+                115
+            ],
+            [
+                128,
+                131
+            ]
+        ],
+        "reference": "她的母亲患有高血压。其他女性亲属患有子宫内膜异位症。社会历史：患者已婚。她在美国银行担任客户协调员。她否认使用烟草、酒精或药物。入院体检：生命体征：血压136/80到147/106。"
+    },
+    {
+        "source": "Her mother suffers from hypertension. Other female relatives suffer from endometriosis. SOCIAL HISTORY: The patient is married. She works as an account coordinator at US Bank. She denies use of tobacco, alcohol, or drugs. ADMISSION PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 136/80 to 147/106.",
+        "target": "她的母亲患有高血压。其他女性亲属患有子宫内膜异位症。社会史：患者已婚。她在美国银行担任账户协调员。她否认吸烟、饮酒或吸毒。入院体格检查：生命体征：血压 136/80 至 147/106。",
+        "id": "clinicalie_coref_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                30,
+                34
+            ],
+            [
+                35,
+                44
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                104,
+                115
+            ],
+            [
+                128,
+                131
+            ]
+        ],
+        "reference": "她的母亲患有高血压。其他女性亲属患有子宫内膜异位症。社会历史：患者已婚。她在美国银行担任客户协调员。她否认使用烟草、酒精或药物。入院体检：生命体征：血压136/80到147/106。"
+    },
+    {
+        "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
+        "target": "自从上周以来，她又减轻了四磅体重。她一直有持续性腹泻。不过，我们原本打算作为门诊患者来处理这种情况，直到CDI的放射科医生打电话给我，报告说除了上述发现外，他在CT扫描中还看到了左侧肺栓塞。",
+        "id": "clinicalie_coref_1_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                17,
+                26
+            ],
+            [
+                37,
+                49
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                59,
+                78
+            ],
+            [
+                117,
+                121
+            ]
+        ],
+        "reference": "自上周以来，她又减掉了四磅。她一直有持续的腹泻。然而，我们准备好在门诊管理这一情况，直到CDI的放射科医师给我打电话，报告他在CT扫描中除了上述发现外，还看到了左侧肺栓塞。"
+    },
+    {
+        "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
+        "target": "她从上周以来又减轻了四磅。她一直有持续性腹泻。不过，我们原本计划作为门诊病人进行管理，直到CDI的放射科医生打电话告诉我，他在CT扫描中除了上述发现外，还看到了左侧肺栓塞。",
+        "id": "clinicalie_coref_1_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                13,
+                22
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                59,
+                78
+            ],
+            [
+                117,
+                121
+            ]
+        ],
+        "reference": "自上周以来，她又减掉了四磅。她一直有持续的腹泻。然而，我们准备好在门诊管理这一情况，直到CDI的放射科医师给我打电话，报告他在CT扫描中除了上述发现外，还看到了左侧肺栓塞。"
+    },
+    {
+        "source": "I will hold the Amaryl for now to make sure this may not be contributing to his nausea. I will perform Accu-Cheks and sliding scale. 5. Nausea. I will DC all narcotics and pain pills and will treat him only with Tylenol. Continue his Protonex. I will DC his Isordil. As stated above, we will hold his Amaryl for now.",
+        "target": "我将暂时停止使用Amaryl，以确保这不会导致他的恶心症状。我将进行Accu-Chek血糖监测和滑动比例胰岛素使用。5. 恶心。我将停止所有麻醉剂和止痛药，仅用Tylenol治疗他。继续服用他的Protonex。我将停止他的Isordil。如上所述，我们将暂时停止他的Amaryl。",
+        "id": "clinicalie_mse_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                14
+            ],
+            [
+                78,
+                90
+            ],
+            [
+                91,
+                105
+            ],
+            [
+                106,
+                119
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                16,
+                22
+            ],
+            [
+                212,
+                219
+            ],
+            [
+                234,
+                242
+            ],
+            [
+                258,
+                265
+            ]
+        ],
+        "reference": "我将暂时停止使用阿玛利，以确保这可能不会导致他的恶心。我将进行血糖监测和滑动剂量调整。5. 恶心。我将停用所有麻醉药物和止痛药，仅用泰诺来治疗他。继续使用他的质子泵抑制剂。我将停用他的异索络尔。如上所述，我们将暂时停止使用他的阿玛利。"
+    },
+    {
+        "source": "I will hold the Amaryl for now to make sure this may not be contributing to his nausea. I will perform Accu-Cheks and sliding scale. 5. Nausea. I will DC all narcotics and pain pills and will treat him only with Tylenol. Continue his Protonex. I will DC his Isordil. As stated above, we will hold his Amaryl for now.",
+        "target": "我将暂时停用阿玛利（Amaryl），以确保这不会导致他的恶心。我会进行Accu-Cheks检测和滑动比例胰岛素调整。5. 恶心。我将停用所有麻醉药和止痛药，仅用泰诺（Tylenol）治疗他。继续使用他的Protonex。停用他的异山梨酯（Isordil）。如上所述，我们将暂时停用他的阿玛利。",
+        "id": "clinicalie_mse_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                17
+            ],
+            [
+                78,
+                94
+            ],
+            [
+                95,
+                109
+            ],
+            [
+                110,
+                127
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                16,
+                22
+            ],
+            [
+                212,
+                219
+            ],
+            [
+                234,
+                242
+            ],
+            [
+                258,
+                265
+            ]
+        ],
+        "reference": "我将暂时停止使用阿玛利，以确保这可能不会导致他的恶心。我将进行血糖监测和滑动剂量调整。5. 恶心。我将停用所有麻醉药物和止痛药，仅用泰诺来治疗他。继续使用他的质子泵抑制剂。我将停用他的异索络尔。如上所述，我们将暂时停止使用他的阿玛利。"
+    },
+    {
+        "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
+        "target": "她也没有明确的克罗恩病切除术史。4. 高血压。5. 1998年进行了胸部减容术。用药情况：入院时包括：1. 6-巯基嘌呤。2. 赖诺普利。3. 避孕药。4. 氢氯噻嗪。5. 维生素B12。6. 保泰适。7. 达劳迪。过敏史：她对吗啡、磺胺类药物过敏，并且对英夫利昔单抗有不良反应。",
+        "id": "clinicalie_mse_1_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                53,
+                60
+            ],
+            [
+                63,
+                68
+            ],
+            [
+                78,
+                83
+            ],
+            [
+                86,
+                93
+            ],
+            [
+                96,
+                100
+            ],
+            [
+                103,
+                107
+            ],
+            [
+                112,
+                116
+            ],
+            [
+                117,
+                124
+            ],
+            [
+                125,
+                139
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                152,
+                156
+            ],
+            [
+                161,
+                171
+            ],
+            [
+                199,
+                218
+            ],
+            [
+                223,
+                227
+            ],
+            [
+                232,
+                240
+            ],
+            [
+                245,
+                253
+            ],
+            [
+                288,
+                296
+            ],
+            [
+                298,
+                303
+            ],
+            [
+                331,
+                339
+            ]
+        ],
+        "reference": "她的克罗恩病也没有明确的切除。4. 高血压。5. 1998年进行了乳房缩小手术。用药：入院时包括：1. 6 MP。2. 利辛普利。3. 口服避孕药。4. 氢氯噻嗪。5. B-12。6. 帕克西特。7. 地拉呱。过敏：她对吗啡、磺胺类药物过敏，并对Remicade有不良反应。"
+    },
+    {
+        "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
+        "target": "她也没有明确的克罗恩病切除术。4. 高血压。5. 1998年进行了胸部缩减术。用药：入院时包括：1. 6-MP。2. 赖诺普利。3. 避孕药。4. 氢氯噻嗪。5. B-12。6. 哌西酮。7. 达劳迪。过敏史：她对吗啡、磺胺类药物过敏，并且对Remicade有不良反应。",
+        "id": "clinicalie_mse_1_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                50,
+                55
+            ],
+            [
+                58,
+                63
+            ],
+            [
+                73,
+                78
+            ],
+            [
+                81,
+                86
+            ],
+            [
+                89,
+                93
+            ],
+            [
+                96,
+                100
+            ],
+            [
+                105,
+                109
+            ],
+            [
+                110,
+                117
+            ],
+            [
+                118,
+                134
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                152,
+                156
+            ],
+            [
+                161,
+                171
+            ],
+            [
+                199,
+                218
+            ],
+            [
+                223,
+                227
+            ],
+            [
+                232,
+                240
+            ],
+            [
+                245,
+                253
+            ],
+            [
+                288,
+                296
+            ],
+            [
+                298,
+                303
+            ],
+            [
+                331,
+                339
+            ]
+        ],
+        "reference": "她的克罗恩病也没有明确的切除。4. 高血压。5. 1998年进行了乳房缩小手术。用药：入院时包括：1. 6 MP。2. 利辛普利。3. 口服避孕药。4. 氢氯噻嗪。5. B-12。6. 帕克西特。7. 地拉呱。过敏：她对吗啡、磺胺类药物过敏，并对Remicade有不良反应。"
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "source": "Good answer. !!  Thank you for illustrating the utter stupidity of liberals.",
+        "target": "好答案。！！谢谢你生动地展示了自由主义者的彻底愚蠢。",
+        "id": "toxicspans_105_gpt4_ez",
+        "target_focus_areas": [
+            [
+                15,
+                25
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                54,
+                63
+            ]
+        ],
+        "reference": "好的回答。谢谢你说明了自由主义者的彻底愚蠢。"
+    },
+    {
+        "source": "Good answer. !!  Thank you for illustrating the utter stupidity of liberals.",
+        "target": "好答案！！感谢你展示了自由派的彻底愚蠢。",
+        "id": "toxicspans_105_gpt4_clap",
+        "target_focus_areas": [
+            [
+                9,
+                19
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                54,
+                63
+            ]
+        ],
+        "reference": "好的回答。谢谢你说明了自由主义者的彻底愚蠢。"
+    },
+    {
+        "source": "@USER @USER You welcome ... Pretenders only do the worse.. Fucking hypocrites 😒😒💆‍♂️",
+        "target": "@USER @USER 欢迎… 伪君子只会更糟..他妈的伪虚伪者 😒😒💆‍♂️",
+        "id": "tbo_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                25,
+                39
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                59,
+                66
+            ],
+            [
+                67,
+                77
+            ]
+        ],
+        "reference": "@USER @USER 你欢迎... 冒充者只会做得更糟.. 他妈的伪君子 😒😒💆‍♂️"
+    },
+    {
+        "source": "@USER @USER You welcome ... Pretenders only do the worse.. Fucking hypocrites 😒😒💆‍♂️",
+        "target": "@USER @USER 欢迎… 伪君子只会搞砸一切.. 操他妈的虚伪人士 😒😒💆‍♂️",
+        "id": "tbo_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                27,
+                43
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                59,
+                66
+            ],
+            [
+                67,
+                77
+            ]
+        ],
+        "reference": "@USER @USER 你欢迎... 冒充者只会做得更糟.. 他妈的伪君子 😒😒💆‍♂️"
+    },
+    {
+        "source": "@USER BEYOND fucked up!!! People are SHIT and the way folks try to talk about cancer in twisted ways is absolutely disgusting",
+        "target": "@USER 超级搞砸了！！！人就是垃圾，而人们以扭曲的方式谈论癌症的方式简直令人作呕",
+        "id": "tbo_44_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                14,
+                19
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                26,
+                32
+            ],
+            [
+                37,
+                41
+            ]
+        ],
+        "reference": "@USER 真是太糟糕了!!! 人们太糟糕了，大家讨论癌症的扭曲方式真是让人恶心"
+    },
+    {
+        "source": "@USER BEYOND fucked up!!! People are SHIT and the way folks try to talk about cancer in twisted ways is absolutely disgusting",
+        "target": "@USER 超级搞砸了！！！人们就是垃圾，那些人用扭曲的方式谈论癌症，简直令人作呕",
+        "id": "tbo_44_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                14,
+                20
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                26,
+                32
+            ],
+            [
+                37,
+                41
+            ]
+        ],
+        "reference": "@USER 真是太糟糕了!!! 人们太糟糕了，大家讨论癌症的扭曲方式真是让人恶心"
+    },
+    {
+        "source": "I'm 34 f and I am dating have remarked that I was gazing into his huge mansion like house. He doesn't do anything with. I apologized for not keeping my options and is good advice and similar experiences would be free sometime this week. Not just to see him again. We walked inside and I want to be this way? Basically it's just not what fwb is, he likes me &amp;amp; how to deal with. He is upper middle class white family and friends told me to be ok with that response, I appreciated her patience.",
+        "target": "我34岁，女，正在约会时有人注意到我一直凝视着他那座巨大的豪宅般的房子。他对此无动于衷。我为没有保留选择而道歉，这是个很好的建议，类似的经历这周某个时候也会有空。不是仅仅想再见到他。我们走进屋内，我想知道自己是不是要这样做？基本上，这并不是朋友加性伴侣的模式，他喜欢我&amp;amp;如何应对。他来自中上阶层的白人家庭，朋友们告诉我要接受这个回应，我很感激她的耐心。",
+        "id": "selfdisclosure_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                6
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                8
+            ]
+        ],
+        "reference": "我34岁，女性，我正在约会，有人评论我在盯着他那座像豪宅一样的大房子。他对此不做任何事情。我为没有保持我的选择而道歉，这是好建议，类似的经历会在本周的某个时候有空。不是仅仅为了再次见到他。我们走了进去，我想问这种方式是否合理？基本上，这不是约会关系的本质，他喜欢我，以及如何处理这个问题。他来自中上层中产阶级的白人家庭，朋友们告诉我要对这种回应感到满意，我很感激她的耐心。"
+    },
+    {
+        "source": "I'm 34 f and I am dating have remarked that I was gazing into his huge mansion like house. He doesn't do anything with. I apologized for not keeping my options and is good advice and similar experiences would be free sometime this week. Not just to see him again. We walked inside and I want to be this way? Basically it's just not what fwb is, he likes me &amp;amp; how to deal with. He is upper middle class white family and friends told me to be ok with that response, I appreciated her patience.",
+        "target": "我34岁，女性，正在约会。有人评论说我一直盯着他那座巨大豪宅般的房子看。他对此毫不理会。我为没有保留我的选择道歉，这是个好建议，我还有类似的经历，这周某个时候能抽空聊天。不只是为了再见他。我们走了进去，我想知道我是否该这样做？基本上，这并不是朋友伴侣关系的模式，他喜欢我，也不知道该怎么处理。他是中上阶层的白人，家人和朋友告诉我对那种反应要接受，我很感激她的耐心。",
+        "id": "selfdisclosure_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                7
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                8
+            ]
+        ],
+        "reference": "我34岁，女性，我正在约会，有人评论我在盯着他那座像豪宅一样的大房子。他对此不做任何事情。我为没有保持我的选择而道歉，这是好建议，类似的经历会在本周的某个时候有空。不是仅仅为了再次见到他。我们走了进去，我想问这种方式是否合理？基本上，这不是约会关系的本质，他喜欢我，以及如何处理这个问题。他来自中上层中产阶级的白人家庭，朋友们告诉我要对这种回应感到满意，我很感激她的耐心。"
+    },
+    {
+        "source": "[Care.com](https://Care.com) is Horrible please don't, My wife is a nanny unfortunately your a little far for her. My niece is also a nanny but she is way booked.",
+        "target": "[Care.com](https://Care.com) 非常糟糕，请不要使用，我的妻子是一名保姆，但不幸的是你们离她有点远。我的侄女也是一名保姆，但她已经排满了日程。",
+        "id": "selfdisclosure_403_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                40,
+                49
+            ],
+            [
+                63,
+                73
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                55,
+                73
+            ],
+            [
+                115,
+                139
+            ]
+        ],
+        "reference": "[Care.com](https://Care.com) 太糟糕了，请不要使用。我妻子是保姆，但不幸的是你离她有点远。我侄女也是保姆，但她的工作安排已经满了。"
+    },
+    {
+        "source": "[Care.com](https://Care.com) is Horrible please don't, My wife is a nanny unfortunately your a little far for her. My niece is also a nanny but she is way booked.",
+        "target": "[Care.com](https://Care.com) 非常糟糕，请不要使用。我的妻子是一名保姆，但不幸的是你们离她太远了。我的侄女也是一名保姆，但她已经排满了日程。",
+        "id": "selfdisclosure_403_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                40,
+                49
+            ],
+            [
+                63,
+                73
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                55,
+                73
+            ],
+            [
+                115,
+                139
+            ]
+        ],
+        "reference": "[Care.com](https://Care.com) 太糟糕了，请不要使用。我妻子是保姆，但不幸的是你离她有点远。我侄女也是保姆，但她的工作安排已经满了。"
+    }
+]

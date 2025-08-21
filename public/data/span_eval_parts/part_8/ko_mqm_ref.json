@@ -1,0 +1,390 @@
+[
+    {
+        "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
+        "target": "모든 이러한 경우에 우리의 정책은 법에 따라 요구되는 대로 협력하는 것이지만, 법에서 요구하는 범위 내에서만 정보를 제공하는 것이다. 제공",
+        "id": "policyie_12_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                0,
+                42
+            ],
+            [
+                43,
+                73
+            ],
+            [
+                74,
+                77
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                20,
+                23
+            ],
+            [
+                75,
+                82
+            ],
+            [
+                93,
+                104
+            ],
+            [
+                108,
+                124
+            ]
+        ],
+        "reference": "모든 경우에 있어서, 우리의 정책은 법이 요구하는 대로 협력하는 것이지만, 법이 요구하는 정보만 제공하는 것입니다."
+    },
+    {
+        "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
+        "target": "모든 이러한 사례에서 우리의 정책은 법에 따라 요구되는 범위 내에서 협력하는 것이지만, 법에서 요구하는 정보만을 제공하는 것이다.",
+        "id": "policyie_12_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                0,
+                47
+            ],
+            [
+                48,
+                71
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                20,
+                23
+            ],
+            [
+                75,
+                82
+            ],
+            [
+                93,
+                104
+            ],
+            [
+                108,
+                124
+            ]
+        ],
+        "reference": "모든 경우에 있어서, 우리의 정책은 법이 요구하는 대로 협력하는 것이지만, 법이 요구하는 정보만 제공하는 것입니다."
+    },
+    {
+        "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
+        "target": "법률은 우리가 사전 통지 없이 자발적으로 법 집행 기관에 고객 정보를, 통신 내용을 포함하여 공개하는 것을 허용합니다. 다만, 즉각적인 사망 위험이나 심각한 신체 상해와 관련된 비상 상황이 지체 없이 그러한 공개를 요구한다고 합리적으로 믿는 경우에 한합니다.",
+        "id": "policyie_13_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                38
+            ],
+            [
+                39,
+                65
+            ],
+            [
+                70,
+                143
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                20,
+                22
+            ],
+            [
+                26,
+                34
+            ],
+            [
+                38,
+                53
+            ],
+            [
+                56,
+                92
+            ],
+            [
+                95,
+                103
+            ],
+            [
+                104,
+                115
+            ],
+            [
+                132,
+                158
+            ],
+            [
+                164,
+                305
+            ]
+        ],
+        "reference": "법은 고객 정보, 통신 내용 포함하여, 즉각적인 위협이 있는 긴급 상황이 발생한다고 합리적으로 믿을 경우 사전 통지 없이 자발적으로 법 집행 기관에 공개할 수 있도록 허용합니다."
+    },
+    {
+        "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
+        "target": "법은 긴급 상황으로 즉각적인 사망 또는 심각한 신체 상해의 위험이 있는 경우, 지연 없이 그러한 공개가 필요하다고 합리적으로 믿을 때, 고객 정보(통신 내용 포함)를 사전 통지 없이 자발적으로 법 집행 기관에 공개할 수 있도록 허용하고 있습니다.",
+        "id": "policyie_13_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                74
+            ],
+            [
+                75,
+                81
+            ],
+            [
+                82,
+                90
+            ],
+            [
+                91,
+                136
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                20,
+                22
+            ],
+            [
+                26,
+                34
+            ],
+            [
+                38,
+                53
+            ],
+            [
+                56,
+                92
+            ],
+            [
+                95,
+                103
+            ],
+            [
+                104,
+                115
+            ],
+            [
+                132,
+                158
+            ],
+            [
+                164,
+                305
+            ]
+        ],
+        "reference": "법은 고객 정보, 통신 내용 포함하여, 즉각적인 위협이 있는 긴급 상황이 발생한다고 합리적으로 믿을 경우 사전 통지 없이 자발적으로 법 집행 기관에 공개할 수 있도록 허용합니다."
+    },
+    {
+        "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
+        "target": "Equinor는 기록적인 세전 이익을 발표하고 배당금 및 자사주 매입을 늘릴 것이라고 밝혔으며, 금융 분야에서는 Amundi가 전략 목표를 초과 달성했고 ABN Amro가 순이익 증가에 따라 5억 유로 규모의 자사주 매입을 발표했습니다.",
+        "id": "finentity_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                0,
+                39
+            ],
+            [
+                53,
+                124
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                17
+            ],
+            [
+                122,
+                128
+            ],
+            [
+                161,
+                169
+            ]
+        ],
+        "reference": "석유 그룹 에퀴노르가 기록적인 세전 이익을 발표했으며 배당금과 자사주 매입을 늘릴 것이라고 밝혔고, 금융 부문에서는 아뮤니가 전략적 목표를 초과 달성했으며 ABN 암로가 순이익 증가에 따라 5억 유로 규모의 자사주 매입을 발표했습니다."
+    },
+    {
+        "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
+        "target": "석유 그룹 Equinor는 기록적인 세전 이익을 발표하고 배당금 및 자사주 매입을 늘릴 것이라고 밝혔으며, 금융 분야에서는 Amundi가 전략 목표를 초과 달성했고 ABN Amro는 순이익 급증에 따라 5억 유로 규모의 자사주 매입을 발표했습니다.",
+        "id": "finentity_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                0,
+                45
+            ],
+            [
+                59,
+                130
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                17
+            ],
+            [
+                122,
+                128
+            ],
+            [
+                161,
+                169
+            ]
+        ],
+        "reference": "석유 그룹 에퀴노르가 기록적인 세전 이익을 발표했으며 배당금과 자사주 매입을 늘릴 것이라고 밝혔고, 금융 부문에서는 아뮤니가 전략적 목표를 초과 달성했으며 ABN 암로가 순이익 증가에 따라 5억 유로 규모의 자사주 매입을 발표했습니다."
+    },
+    {
+        "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
+        "target": "\"Gunvor 그룹 $lt;GGL.UL$gt;의 글로벌 시장 연구 및 분석 담당 이사인 프레드릭 라서르는 '석유 수요에 관해, 최신 데이터를 보면 여전히 괜찮은 편이다. 우리는 수요 감소를 예상했지만, 실제로는 그럴 일 없었다'라고 말했다.",
+        "id": "finentity_9_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                1,
+                11
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                210,
+                222
+            ]
+        ],
+        "reference": "\"석유 수요 ... 최신 데이터를 보면 여전히 괜찮습니다. 우리는 수요 파괴가 있을 것으로 예상했지만 실제로는 일어나지 않았습니다.\"라고 Gunvor Group의 글로벌 시장 조사 및 분석 책임자인 프레드릭 라세르가 말했습니다."
+    },
+    {
+        "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
+        "target": "\"석유 수요... 최신 데이터를 보면 여전히 괜찮은 편이에요. 수요 감소가 있을 것이라 예상했지만, 실제로는 그 정도로 나타나지 않았습니다,\"라고 Gunvor 그룹(GGL.UL)의 글로벌 마켓 리서치 및 분석 전문 책임자 프레드릭 라세르는 말했다.",
+        "id": "finentity_9_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                79,
+                91
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                210,
+                222
+            ]
+        ],
+        "reference": "\"석유 수요 ... 최신 데이터를 보면 여전히 괜찮습니다. 우리는 수요 파괴가 있을 것으로 예상했지만 실제로는 일어나지 않았습니다.\"라고 Gunvor Group의 글로벌 시장 조사 및 분석 책임자인 프레드릭 라세르가 말했습니다."
+    },
+    {
+        "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
+        "target": "사업 인수 2012년 4월 2일, 우리는 Green River Collieries, LLC(\"Green River\")의 석탄 채굴 사업 및 운영과 관련된 자산 대부분을 인수했으며, 해당 자산은 웹스터와 홉킨스 카운티, 켄터키에 위치해 있습니다.",
+        "id": "fire_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                17
+            ],
+            [
+                18,
+                99
+            ],
+            [
+                100,
+                120
+            ],
+            [
+                121,
+                135
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                11
+            ],
+            [
+                27,
+                41
+            ],
+            [
+                47,
+                55
+            ],
+            [
+                77,
+                128
+            ],
+            [
+                151,
+                186
+            ],
+            [
+                198,
+                205
+            ],
+            [
+                210,
+                217
+            ],
+            [
+                229,
+                237
+            ]
+        ],
+        "reference": "사업 인수 2012년 4월 2일, 우리는 켄터키 주 웹스터 및 홉킨스 카운티에 위치한 Green River Collieries, LLC(이하 '그린 리버')의 석탄 채굴 사업 및 운영과 관련된 거의 모든 자산을 인수했습니다."
+    },
+    {
+        "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
+        "target": "사업 인수 2012년 4월 2일, 당사는 켄터키 주 웹스터 및 홉킨스 카운티에 위치한 Green River Collieries, LLC(\"Green River\")의 석탄 채굴 사업 및 운영과 관련된 자산 대부분을 인수하였습니다.",
+        "id": "fire_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                17
+            ],
+            [
+                18,
+                126
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                11
+            ],
+            [
+                27,
+                41
+            ],
+            [
+                47,
+                55
+            ],
+            [
+                77,
+                128
+            ],
+            [
+                151,
+                186
+            ],
+            [
+                198,
+                205
+            ],
+            [
+                210,
+                217
+            ],
+            [
+                229,
+                237
+            ]
+        ],
+        "reference": "사업 인수 2012년 4월 2일, 우리는 켄터키 주 웹스터 및 홉킨스 카운티에 위치한 Green River Collieries, LLC(이하 '그린 리버')의 석탄 채굴 사업 및 운영과 관련된 거의 모든 자산을 인수했습니다."
+    }
+]

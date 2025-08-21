@@ -1,0 +1,474 @@
+[
+    {
+        "source": "Veterans Slam Government for Shifting Goalpost",
+        "target": "전우회, 정부를 향해 목표를 바꾸다 비판 목표선 이동",
+        "metadata": {
+            "id": "recess_0_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        24
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        19
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        25,
+                        28
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        20,
+                        22
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        29,
+                        46
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        23,
+                        29
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Veterans Slam Government for Shifting Goalpost",
+        "target": "전역군인들, 목표를 바꾸는 정부를 강하게 비난",
+        "metadata": {
+            "id": "recess_0_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        24
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        25,
+                        28
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        15,
+                        18
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        29,
+                        46
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        7,
+                        14
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "04th September 2015 04:21 AM NEW DELHI : Deadlock over the ‘ One rank One Pension ’ ( OROP ) scheme persisted on Thursday with agitating ex-servicemen accusing the government of “ constantly shifting the goalpost ” and not coming out with any “ concrete proposal ” to resolve the issue .",
+        "target": "2015년 9월 4일 04:21 AM 뉴델리 : 교착 상태가 계속된 ‘일괄 계급 연금’(OROP) 제도 문제에 대해 항의 중인 전직 군인들은 정부가 “끊임없이 목표를 바꾸고” 있으며 문제를 해결하기 위한 “구체적인 제안”을 내놓지 않고 있다고 비난했다.",
+        "metadata": {
+            "id": "recess_2_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        41,
+                        49
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        27,
+                        32
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        50,
+                        54
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        34,
+                        37
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        55,
+                        99
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        38,
+                        57
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "04th September 2015 04:21 AM NEW DELHI : Deadlock over the ‘ One rank One Pension ’ ( OROP ) scheme persisted on Thursday with agitating ex-servicemen accusing the government of “ constantly shifting the goalpost ” and not coming out with any “ concrete proposal ” to resolve the issue .",
+        "target": "2015년 9월 4일 오전 4시 21분 뉴델리: ‘동일 계급 동일 연금’(OROP) 제도를 둘러싼 교착상태가 목요일에도 계속되었으며, 시위 중인 전직 군인들은 정부가 “끊임없이 목표를 바꾸고” 문제를 해결할 “구체적인 제안”을 내놓지 않고 있다고 비난했다.",
+        "metadata": {
+            "id": "recess_2_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        41,
+                        49
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        55,
+                        59
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        50,
+                        54
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        49,
+                        54
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        55,
+                        99
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        27,
+                        49
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Warren should not have taken the test; having taken it, she should not have publicized it; having publicized it, she should quietly fire anyone who urged this gambit and move on.",
+        "target": "워렌은 그 시험을 보지 말았어야 했다. 시험을 봤다면, 결과를 공개하지 말았어야 했고, 결과를 공개했다면, 이 도박을 부추긴 사람들을 조용히 해고하고 넘어가야 한다.",
+        "metadata": {
+            "id": "semeval20task5_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        37
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        20
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Warren should not have taken the test; having taken it, she should not have publicized it; having publicized it, she should quietly fire anyone who urged this gambit and move on.",
+        "target": "워렌은 그 시험을 보지 말았어야 했다. 시험을 봤다면, 그걸 공개하지 말았어야 했다. 공개했다면, 이 도박을 부추긴 사람들을 조용히 해고하고 그냥 넘어가야 한다.",
+        "metadata": {
+            "id": "semeval20task5_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        37
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        20
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
+        "target": "베어 스티어너스 파산의 영향이 월스트리트 일부 기업에 국한될 것이라는 생각은 사실이 아니다. 디모н은 연방준비은행의 재정적 지원이 없었다면 자신의 회사가 베어를 인수하는 데 동의하지 않았을 것이라고 말했으며, 제이피모건이 베어가 중앙은행으로부터 빌린 250억 달러에 대해 보증하기로 했다고 밝혔다.",
+        "metadata": {
+            "id": "semeval20task5_35_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        1,
+                        90
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        50
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        118,
+                        166
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        57,
+                        107
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
+        "target": "\"베어 스티어نز 파산의 영향이 월스트리트 일부 기업에 국한될 것이라는 아이디어는 사실이 아니다.\" 디몬은 자신의 회사가 연방준비은행의 재정적 지원이 없었다면 베어 스티어즈 인수에 동의하지 않았을 것이라고 말하며, JPMorgan이 베어 스티어즈가 중앙은행으로부터 빌린 250억 달러에 대해 보증하기로 약속했다고 밝혔다.",
+        "metadata": {
+            "id": "semeval20task5_35_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        1,
+                        90
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        118,
+                        166
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        60,
+                        118
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
+        "target": "최근에, 3차원(3D) 컨볼루션 신경망(CNNs)은 기존의 2D CNNs에 세 번째인 시간 차원을 추가함으로써 비디오에서 시공간적 표현을 포착하는 주요 방법으로 떠올랐습니다.",
+        "metadata": {
+            "id": "scier_0_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        36,
+                        65
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        13,
+                        21
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        68,
+                        72
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        22,
+                        26
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        190,
+                        197
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        33,
+                        40
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
+        "target": "최근 3차원(3D) 합성곱 신경망(CNN)이 기존 2D CNN에 세 번째 시간 차원을 추가하여 비디오의 시공간 표현을 포착하는 지배적인 방법으로 떠올랐습니다.",
+        "metadata": {
+            "id": "scier_0_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        36,
+                        65
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        11,
+                        18
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        68,
+                        72
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        31,
+                        34
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        190,
+                        197
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        28,
+                        34
+                    ]
+                ]
+            }
+        ]
+    }
+]

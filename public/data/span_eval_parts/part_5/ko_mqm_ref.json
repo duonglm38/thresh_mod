@@ -1,0 +1,254 @@
+[
+    {
+        "source": "Veterans Slam Government for Shifting Goalpost",
+        "target": "전우회, 정부를 향해 목표를 바꾸다 비판 목표선 이동",
+        "id": "recess_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                0,
+                29
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                24
+            ],
+            [
+                25,
+                28
+            ],
+            [
+                29,
+                46
+            ]
+        ],
+        "reference": "재향군인들은 정부의 목표 변경에 강하게 반발하고 있다."
+    },
+    {
+        "source": "Veterans Slam Government for Shifting Goalpost",
+        "target": "전역군인들, 목표를 바꾸는 정부를 강하게 비난",
+        "id": "recess_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                6,
+                25
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                24
+            ],
+            [
+                25,
+                28
+            ],
+            [
+                29,
+                46
+            ]
+        ],
+        "reference": "재향군인들은 정부의 목표 변경에 강하게 반발하고 있다."
+    },
+    {
+        "source": "04th September 2015 04:21 AM NEW DELHI : Deadlock over the ‘ One rank One Pension ’ ( OROP ) scheme persisted on Thursday with agitating ex-servicemen accusing the government of “ constantly shifting the goalpost ” and not coming out with any “ concrete proposal ” to resolve the issue .",
+        "target": "2015년 9월 4일 04:21 AM 뉴델리 : 교착 상태가 계속된 ‘일괄 계급 연금’(OROP) 제도 문제에 대해 항의 중인 전직 군인들은 정부가 “끊임없이 목표를 바꾸고” 있으며 문제를 해결하기 위한 “구체적인 제안”을 내놓지 않고 있다고 비난했다.",
+        "id": "recess_2_gpt4_ez",
+        "target_focus_areas": [
+            [
+                26,
+                88
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                41,
+                49
+            ],
+            [
+                50,
+                54
+            ],
+            [
+                55,
+                99
+            ]
+        ],
+        "reference": "2015년 9월 4일 오전 4시 21분, 뉴델리: '한등급 한연금'(OROP) 계획에 대한 교착 상태가 목요일도 계속되었으며, 시위 중인 퇴역 군인들은 정부가 '지속적으로 목표를 변경하고 있다'고 비난하며 문제 해결을 위한 '구체적인 제안'을 내놓지 않았다고 주장했다."
+    },
+    {
+        "source": "04th September 2015 04:21 AM NEW DELHI : Deadlock over the ‘ One rank One Pension ’ ( OROP ) scheme persisted on Thursday with agitating ex-servicemen accusing the government of “ constantly shifting the goalpost ” and not coming out with any “ concrete proposal ” to resolve the issue .",
+        "target": "2015년 9월 4일 오전 4시 21분 뉴델리: ‘동일 계급 동일 연금’(OROP) 제도를 둘러싼 교착상태가 목요일에도 계속되었으며, 시위 중인 전직 군인들은 정부가 “끊임없이 목표를 바꾸고” 문제를 해결할 “구체적인 제안”을 내놓지 않고 있다고 비난했다.",
+        "id": "recess_2_gpt4_clap",
+        "target_focus_areas": [
+            [
+                26,
+                73
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                41,
+                49
+            ],
+            [
+                50,
+                54
+            ],
+            [
+                55,
+                99
+            ]
+        ],
+        "reference": "2015년 9월 4일 오전 4시 21분, 뉴델리: '한등급 한연금'(OROP) 계획에 대한 교착 상태가 목요일도 계속되었으며, 시위 중인 퇴역 군인들은 정부가 '지속적으로 목표를 변경하고 있다'고 비난하며 문제 해결을 위한 '구체적인 제안'을 내놓지 않았다고 주장했다."
+    },
+    {
+        "source": "Warren should not have taken the test; having taken it, she should not have publicized it; having publicized it, she should quietly fire anyone who urged this gambit and move on.",
+        "target": "워렌은 그 시험을 보지 말았어야 했다. 시험을 봤다면, 결과를 공개하지 말았어야 했고, 결과를 공개했다면, 이 도박을 부추긴 사람들을 조용히 해고하고 넘어가야 한다.",
+        "id": "semeval20task5_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                0,
+                20
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                37
+            ]
+        ],
+        "reference": "워렌은 시험을 치르지 말았어야 했고; 이미 시험을 치른 이상, 그녀는 그것을 공개하지 말았어야 했으며; 그것을 공개한 이상, 그녀는 이 gambit을 권장한 사람들을 조용히 해고하고 나아가야 한다."
+    },
+    {
+        "source": "Warren should not have taken the test; having taken it, she should not have publicized it; having publicized it, she should quietly fire anyone who urged this gambit and move on.",
+        "target": "워렌은 그 시험을 보지 말았어야 했다. 시험을 봤다면, 그걸 공개하지 말았어야 했다. 공개했다면, 이 도박을 부추긴 사람들을 조용히 해고하고 그냥 넘어가야 한다.",
+        "id": "semeval20task5_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                0,
+                20
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                37
+            ]
+        ],
+        "reference": "워렌은 시험을 치르지 말았어야 했고; 이미 시험을 치른 이상, 그녀는 그것을 공개하지 말았어야 했으며; 그것을 공개한 이상, 그녀는 이 gambit을 권장한 사람들을 조용히 해고하고 나아가야 한다."
+    },
+    {
+        "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
+        "target": "베어 스티어너스 파산의 영향이 월스트리트 일부 기업에 국한될 것이라는 생각은 사실이 아니다. 디모н은 연방준비은행의 재정적 지원이 없었다면 자신의 회사가 베어를 인수하는 데 동의하지 않았을 것이라고 말했으며, 제이피모건이 베어가 중앙은행으로부터 빌린 250억 달러에 대해 보증하기로 했다고 밝혔다.",
+        "id": "semeval20task5_35_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                0,
+                50
+            ],
+            [
+                51,
+                115
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                1,
+                90
+            ],
+            [
+                118,
+                166
+            ]
+        ],
+        "reference": "\"베어 스턴스의 여파가 몇몇 월스트리트 기업에만 국한될 것이라는 생각은 사실이 아니다.\" 다이먼은 그의 회사가 연방준비제도(Fed)의 재정 지원 없이 베어를 인수하겠다고 합의하지 않았다고 말했으며, JPMorgan이 또한 베어가 중앙은행으로부터 차입한 250억 달러를 보증하기로 했다고 언급했다."
+    },
+    {
+        "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
+        "target": "\"베어 스티어نز 파산의 영향이 월스트리트 일부 기업에 국한될 것이라는 아이디어는 사실이 아니다.\" 디몬은 자신의 회사가 연방준비은행의 재정적 지원이 없었다면 베어 스티어즈 인수에 동의하지 않았을 것이라고 말하며, JPMorgan이 베어 스티어즈가 중앙은행으로부터 빌린 250억 달러에 대해 보증하기로 약속했다고 밝혔다.",
+        "id": "semeval20task5_35_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                55,
+                118
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                1,
+                90
+            ],
+            [
+                118,
+                166
+            ]
+        ],
+        "reference": "\"베어 스턴스의 여파가 몇몇 월스트리트 기업에만 국한될 것이라는 생각은 사실이 아니다.\" 다이먼은 그의 회사가 연방준비제도(Fed)의 재정 지원 없이 베어를 인수하겠다고 합의하지 않았다고 말했으며, JPMorgan이 또한 베어가 중앙은행으로부터 차입한 250억 달러를 보증하기로 했다고 언급했다."
+    },
+    {
+        "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
+        "target": "최근에, 3차원(3D) 컨볼루션 신경망(CNNs)은 기존의 2D CNNs에 세 번째인 시간 차원을 추가함으로써 비디오에서 시공간적 표현을 포착하는 주요 방법으로 떠올랐습니다.",
+        "id": "scier_0_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                12,
+                21
+            ],
+            [
+                22,
+                26
+            ],
+            [
+                27,
+                76
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                36,
+                65
+            ],
+            [
+                68,
+                72
+            ],
+            [
+                190,
+                197
+            ]
+        ],
+        "reference": "최근에 3차원(3D) 합성곱 신경망(CNN)이 비디오에서 시공간 표현을 포착하는 주된 방법으로 떠오르고 있습니다. 이는 기존의 2D CNN에 세 번째인 시간 차원을 추가한 것입니다."
+    },
+    {
+        "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
+        "target": "최근 3차원(3D) 합성곱 신경망(CNN)이 기존 2D CNN에 세 번째 시간 차원을 추가하여 비디오의 시공간 표현을 포착하는 지배적인 방법으로 떠올랐습니다.",
+        "id": "scier_0_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                10,
+                18
+            ],
+            [
+                23,
+                65
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                36,
+                65
+            ],
+            [
+                68,
+                72
+            ],
+            [
+                190,
+                197
+            ]
+        ],
+        "reference": "최근에 3차원(3D) 합성곱 신경망(CNN)이 비디오에서 시공간 표현을 포착하는 주된 방법으로 떠오르고 있습니다. 이는 기존의 2D CNN에 세 번째인 시간 차원을 추가한 것입니다."
+    }
+]

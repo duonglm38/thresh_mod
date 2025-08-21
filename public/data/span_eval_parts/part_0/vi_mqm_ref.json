@@ -1,0 +1,118 @@
+[
+    {
+        "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+        "target": "Mặc dù điều này có thể được cấu trúc giống như một loại thuế bán hàng, những đề xuất thực tế về thuế tiêu dùng công nhận rằng tính lùi là một vấn đề với các loại thuế bán hàng thuần túy.",
+        "id": "wikibias_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                70,
+                185
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                48,
+                57
+            ],
+            [
+                90,
+                152
+            ]
+        ],
+        "reference": "Mặc dù điều này có thể được cấu trúc giống như thuế bán hàng, nhưng các đề xuất thực tế cho một loại thuế tiêu dùng công nhận rằng tính lũy thoái là một vấn đề trong các loại thuế bán hàng thuần túy."
+    },
+    {
+        "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+        "target": "Trong khi điều này có thể được cấu trúc giống như thuế bán hàng, các đề xuất thực tế về thuế tiêu thụ thừa nhận rằng tính phản thuế là một vấn đề với các loại thuế bán hàng thuần túy.",
+        "id": "wikibias_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                64,
+                182
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                48,
+                57
+            ],
+            [
+                90,
+                152
+            ]
+        ],
+        "reference": "Mặc dù điều này có thể được cấu trúc giống như thuế bán hàng, nhưng các đề xuất thực tế cho một loại thuế tiêu dùng công nhận rằng tính lũy thoái là một vấn đề trong các loại thuế bán hàng thuần túy."
+    },
+    {
+        "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target": "Các thành viên gia đình Coors, và gián tiếp là chính Công ty Bia Coors, đã đóng một vai trò nổi bật trong chính trị và chính sách công của Mỹ, ủng hộ nhiều mục tiêu bảo thủ.",
+        "id": "wikibias_22_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                30,
+                70
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                27,
+                72
+            ]
+        ],
+        "reference": "Các thành viên trong gia đình Coors, và theo cách khác là chính công ty Bia Coors, đã đóng một vai trò nổi bật trong chính trị và chính sách công của Mỹ, ủng hộ nhiều nguyên nhân bảo thủ."
+    },
+    {
+        "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target": "Các thành viên gia đình Coors, và thông qua đó là chính Công ty Bia Coors, đã đóng một vai trò nổi bật trong chính trị và chính sách công của Mỹ, ủng hộ nhiều mục tiêu bảo thủ.",
+        "id": "wikibias_22_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                30,
+                73
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                27,
+                72
+            ]
+        ],
+        "reference": "Các thành viên trong gia đình Coors, và theo cách khác là chính công ty Bia Coors, đã đóng một vai trò nổi bật trong chính trị và chính sách công của Mỹ, ủng hộ nhiều nguyên nhân bảo thủ."
+    },
+    {
+        "source": "yep, this crap sounds like its from a libertarian",
+        "target": "đúng vậy, thứ rác rưởi này nghe như thể đến từ một chủ nghĩa tự do cá nhân",
+        "id": "toxicspans_1_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                9,
+                74
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                38,
+                49
+            ]
+        ],
+        "reference": "Ừ, mấy cái này nghe như từ một người theo chủ nghĩa tự do."
+    },
+    {
+        "source": "yep, this crap sounds like its from a libertarian",
+        "target": "Ừ, cái thứ rác rưởi này nghe giống như xuất phát từ một kẻ theo chủ nghĩa tư do tự do",
+        "id": "toxicspans_1_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                2,
+                85
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                38,
+                49
+            ]
+        ],
+        "reference": "Ừ, mấy cái này nghe như từ một người theo chủ nghĩa tự do."
+    }
+]

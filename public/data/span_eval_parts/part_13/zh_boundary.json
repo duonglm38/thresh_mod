@@ -1,0 +1,312 @@
+[
+    {
+        "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
+        "target": "法国南部的天气比俄罗斯的气温好多了，因为天气总是很温暖。",
+        "metadata": {
+            "id": "natural_instruct_task033_64_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        5,
+                        7
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        91,
+                        98
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        20,
+                        22
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
+        "target": "法国南部的天气比俄罗斯的气温好得多，因为那里总是温暖。",
+        "metadata": {
+            "id": "natural_instruct_task033_64_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        5,
+                        7
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        91,
+                        98
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
+        "target": "句子：每个人都很喜欢焦糖黄油波本香料饼干；只有少数人喜欢焦糖山核桃饼干。下次，我们应该少做一些它们。",
+        "metadata": {
+            "id": "natural_instruct_task249_3_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        32,
+                        70
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        10,
+                        20
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        97,
+                        122
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        28,
+                        35
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        165
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        47,
+                        49
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
+        "target": "句子：大家都非常喜欢焦糖黄油波本香料饼干；只有少数人喜欢焦糖山核桃饼干。下次，我们应该少做一些。",
+        "metadata": {
+            "id": "natural_instruct_task249_3_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        32,
+                        70
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        10,
+                        20
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        97,
+                        122
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        28,
+                        35
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        165
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        45,
+                        47
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "sentence: Lucy comforted Emma because she was so upset .",
+        "target": "句子：露西安慰了艾玛，因为她太难过了。",
+        "metadata": {
+            "id": "natural_instruct_task249_12_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        10,
+                        14
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        3,
+                        5
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        25,
+                        29
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        10
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        38,
+                        41
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        13,
+                        14
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "sentence: Lucy comforted Emma because she was so upset .",
+        "target": "露西安慰艾玛，因为她非常难过。",
+        "metadata": {
+            "id": "natural_instruct_task249_12_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        10,
+                        14
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        2
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        25,
+                        29
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        38,
+                        41
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        9,
+                        10
+                    ]
+                ]
+            }
+        ]
+    }
+]

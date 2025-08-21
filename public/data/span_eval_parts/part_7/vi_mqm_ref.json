@@ -1,0 +1,566 @@
+[
+    {
+        "source": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Cod liver oil one capsule GT q. day. 9. Multivitamin 1 tablet GT q. day. 10. Bicitra 10 mL GT b.i.d. DISCHARGE DIET: The patient is to resume his Pediasure home regimen.",
+        "target": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Dầu gan cá một viên nang GT q. day. 9. Multivitamin 1 viên GT q. day. 10. Bicitra 10 mL GT b.i.d. CHẾ ĐỘ ĂN KHI XUẤT VIỆN: Bệnh nhân tiếp tục chế độ Pediasure tại nhà.",
+        "id": "clinicalie_attr_1_gpt4_ez",
+        "target_focus_areas": [
+            [
+                2,
+                29
+            ],
+            [
+                30,
+                59
+            ],
+            [
+                60,
+                95
+            ],
+            [
+                99,
+                129
+            ],
+            [
+                134,
+                182
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                3,
+                11
+            ],
+            [
+                12,
+                17
+            ],
+            [
+                18,
+                20
+            ],
+            [
+                21,
+                27
+            ],
+            [
+                31,
+                40
+            ],
+            [
+                41,
+                47
+            ],
+            [
+                48,
+                50
+            ],
+            [
+                51,
+                57
+            ],
+            [
+                61,
+                74
+            ],
+            [
+                75,
+                86
+            ],
+            [
+                87,
+                89
+            ],
+            [
+                90,
+                96
+            ],
+            [
+                101,
+                113
+            ],
+            [
+                114,
+                122
+            ],
+            [
+                123,
+                125
+            ],
+            [
+                126,
+                132
+            ],
+            [
+                138,
+                145
+            ],
+            [
+                146,
+                151
+            ],
+            [
+                152,
+                154
+            ],
+            [
+                155,
+                161
+            ]
+        ],
+        "reference": "6. Prilosec 10 mg uống 2 lần/ngày. 7. Carnitine 500 mg uống 2 lần/ngày. 8. Dầu gan cá một viên uống mỗi ngày. 9. Vitamin tổng hợp 1 viên uống mỗi ngày. 10. Bicitra 10 mL uống 2 lần/ngày. CHẾ ĐỘ ĂN KHI XUẤT VIỆN: Bệnh nhân sẽ tiếp tục chế độ ăn Pediasure tại nhà."
+    },
+    {
+        "source": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Cod liver oil one capsule GT q. day. 9. Multivitamin 1 tablet GT q. day. 10. Bicitra 10 mL GT b.i.d. DISCHARGE DIET: The patient is to resume his Pediasure home regimen.",
+        "target": "6. Prilosec 10 mg GT ngày hai lần. 7. Carnitine 500 mg GT ngày hai lần. 8. Dầu gan cá cod một viên GT mỗi ngày. 9. Multivitamin 1 viên GT mỗi ngày. 10. Bicitra 10 mL GT ngày hai lần. CHẾ ĐỘ ĂN XUẤT VIỆN: Bệnh nhân sẽ trở lại chế độ dinh dưỡng Pediasure tại nhà.",
+        "id": "clinicalie_attr_1_gpt4_clap",
+        "target_focus_areas": [
+            [
+                2,
+                33
+            ],
+            [
+                37,
+                70
+            ],
+            [
+                74,
+                110
+            ],
+            [
+                114,
+                146
+            ],
+            [
+                151,
+                181
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                3,
+                11
+            ],
+            [
+                12,
+                17
+            ],
+            [
+                18,
+                20
+            ],
+            [
+                21,
+                27
+            ],
+            [
+                31,
+                40
+            ],
+            [
+                41,
+                47
+            ],
+            [
+                48,
+                50
+            ],
+            [
+                51,
+                57
+            ],
+            [
+                61,
+                74
+            ],
+            [
+                75,
+                86
+            ],
+            [
+                87,
+                89
+            ],
+            [
+                90,
+                96
+            ],
+            [
+                101,
+                113
+            ],
+            [
+                114,
+                122
+            ],
+            [
+                123,
+                125
+            ],
+            [
+                126,
+                132
+            ],
+            [
+                138,
+                145
+            ],
+            [
+                146,
+                151
+            ],
+            [
+                152,
+                154
+            ],
+            [
+                155,
+                161
+            ]
+        ],
+        "reference": "6. Prilosec 10 mg uống 2 lần/ngày. 7. Carnitine 500 mg uống 2 lần/ngày. 8. Dầu gan cá một viên uống mỗi ngày. 9. Vitamin tổng hợp 1 viên uống mỗi ngày. 10. Bicitra 10 mL uống 2 lần/ngày. CHẾ ĐỘ ĂN KHI XUẤT VIỆN: Bệnh nhân sẽ tiếp tục chế độ ăn Pediasure tại nhà."
+    },
+    {
+        "source": "Her mother suffers from hypertension. Other female relatives suffer from endometriosis. SOCIAL HISTORY: The patient is married. She works as an account coordinator at US Bank. She denies use of tobacco, alcohol, or drugs. ADMISSION PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 136/80 to 147/106.",
+        "target": "Mẹ cô bị cao huyết áp. Các thân nhân nữ khác bị lạc nội mạc tử cung. TIỀN SỬ XÃ HỘI: Bệnh nhân đã kết hôn. Cô làm việc với vai trò điều phối viên tài khoản tại Ngân hàng US Bank. Cô phủ nhận việc sử dụng thuốc lá, rượu hoặc ma túy. KHÁM THỰC THỂ KHI NHẬP VIỆN: DẤU HIỆU SINH TỒN: Huyết áp 136/80 đến 147/106.",
+        "id": "clinicalie_coref_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                84,
+                105
+            ],
+            [
+                106,
+                145
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                104,
+                115
+            ],
+            [
+                128,
+                131
+            ]
+        ],
+        "reference": "Mẹ cô ấy bị huyết áp cao. Các bà con nữ khác bị bệnh lạc nội mạc tử cung. LỊCH SỬ XÃ HỘI: Bệnh nhân đã kết hôn. Cô ấy làm việc như một điều phối viên tài khoản tại Ngân hàng Mỹ. Cô ấy phủ nhận việc sử dụng thuốc lá, rượu hoặc ma túy. KHÁM SỨC KHỎE KHI NHẬP VIỆN: DẤU HIỆU SỐ SINH TỒN: Huyết áp 136/80 đến 147/106."
+    },
+    {
+        "source": "Her mother suffers from hypertension. Other female relatives suffer from endometriosis. SOCIAL HISTORY: The patient is married. She works as an account coordinator at US Bank. She denies use of tobacco, alcohol, or drugs. ADMISSION PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 136/80 to 147/106.",
+        "target": "Mẹ cô bị cao huyết áp. Các nữ thân thuộc khác bị lạc nội mạc tử cung. TIỀN SỬ XÃ HỘI: Bệnh nhân đã kết hôn. Cô làm việc với vai trò điều phối viên tài khoản tại Ngân hàng US Bank. Cô phủ nhận việc sử dụng thuốc lá, rượu hoặc ma túy. KHÁM THỰC THỂ KHI NHẬP VIỆN: DẤU HIỆU SINH TỒN: Huyết áp 136/80 đến 147/106.",
+        "id": "clinicalie_coref_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                85,
+                106
+            ],
+            [
+                107,
+                146
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                104,
+                115
+            ],
+            [
+                128,
+                131
+            ]
+        ],
+        "reference": "Mẹ cô ấy bị huyết áp cao. Các bà con nữ khác bị bệnh lạc nội mạc tử cung. LỊCH SỬ XÃ HỘI: Bệnh nhân đã kết hôn. Cô ấy làm việc như một điều phối viên tài khoản tại Ngân hàng Mỹ. Cô ấy phủ nhận việc sử dụng thuốc lá, rượu hoặc ma túy. KHÁM SỨC KHỎE KHI NHẬP VIỆN: DẤU HIỆU SỐ SINH TỒN: Huyết áp 136/80 đến 147/106."
+    },
+    {
+        "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
+        "target": "Cô ấy đã giảm thêm bốn pound kể từ tuần trước. Cô đã bị tiêu chảy kéo dài. Tuy nhiên, chúng tôi đã chuẩn bị quản lý tình trạng này như một bệnh nhân ngoại trú cho đến khi bác sĩ chẩn đoán hình ảnh từ CDI gọi điện cho tôi để báo rằng ông ấy đã phát hiện một cục máu đông phổi bên trái trên phim CT cộng hưởng, ngoài các kết quả đã nêu ở trên.",
+        "id": "clinicalie_coref_1_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                46,
+                73
+            ],
+            [
+                85,
+                166
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                59,
+                78
+            ],
+            [
+                117,
+                121
+            ]
+        ],
+        "reference": "Cô ấy đã giảm bốn pounds nữa kể từ tuần trước. Cô ấy đã bị tiêu chảy kéo dài. Tuy nhiên, chúng tôi đã chuẩn bị để quản lý điều đó như một bệnh nhân ngoại trú cho đến khi bác sĩ chẩn đoán hình ảnh từ CDI gọi cho tôi báo rằng ông ấy đã thấy một cục tắc động mạch phổi bên trái trên CT scan ngoài những phát hiện trên."
+    },
+    {
+        "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
+        "target": "Cô ấy đã giảm thêm bốn pound kể từ tuần trước. Cô ấy bị tiêu chảy kéo dài. Tuy nhiên, chúng tôi đã chuẩn bị quản lý tình trạng này như một bệnh nhân ngoại trú cho đến khi bác sĩ chẩn đoán hình ảnh từ CDI gọi điện cho tôi báo rằng ông ấy đã phát hiện một cục máu đông phổi bên trái trên xét nghiệm CT scan, ngoài các phát hiện đã nêu.",
+        "id": "clinicalie_coref_1_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                46,
+                73
+            ],
+            [
+                85,
+                166
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                59,
+                78
+            ],
+            [
+                117,
+                121
+            ]
+        ],
+        "reference": "Cô ấy đã giảm bốn pounds nữa kể từ tuần trước. Cô ấy đã bị tiêu chảy kéo dài. Tuy nhiên, chúng tôi đã chuẩn bị để quản lý điều đó như một bệnh nhân ngoại trú cho đến khi bác sĩ chẩn đoán hình ảnh từ CDI gọi cho tôi báo rằng ông ấy đã thấy một cục tắc động mạch phổi bên trái trên CT scan ngoài những phát hiện trên."
+    },
+    {
+        "source": "I will hold the Amaryl for now to make sure this may not be contributing to his nausea. I will perform Accu-Cheks and sliding scale. 5. Nausea. I will DC all narcotics and pain pills and will treat him only with Tylenol. Continue his Protonex. I will DC his Isordil. As stated above, we will hold his Amaryl for now.",
+        "target": "Tôi sẽ tạm ngưng Amaryl để đảm bảo rằng thuốc này không gây buồn nôn cho anh ấy. Tôi sẽ thực hiện xét nghiệm Accu-Cheks và cân bằng liều theo thang trượt. 5. Buồn nôn. Tôi sẽ ngưng tất cả các thuốc gây nghiện và thuốc giảm đau, chỉ điều trị cho anh ấy bằng Tylenol. Tiếp tục dùng Protonex. Tôi sẽ ngưng Isordil của anh ấy. Như đã nêu ở trên, chúng tôi sẽ tạm ngưng Amaryl của anh ấy.",
+        "id": "clinicalie_mse_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                59
+            ],
+            [
+                227,
+                264
+            ],
+            [
+                265,
+                288
+            ],
+            [
+                289,
+                321
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                16,
+                22
+            ],
+            [
+                212,
+                219
+            ],
+            [
+                234,
+                242
+            ],
+            [
+                258,
+                265
+            ]
+        ],
+        "reference": "Tôi sẽ tạm dừng Amaryl để đảm bảo rằng điều này không góp phần vào việc anh ấy buồn nôn. Tôi sẽ thực hiện Accu-Cheks và thang đo trượt. 5. Buồn nôn. Tôi sẽ ngừng tất cả các loại thuốc giảm đau và sẽ chỉ điều trị cho anh ấy bằng Tylenol. Tiếp tục sử dụng Protonex. Tôi sẽ ngừng Isordil của anh ấy. Như đã nêu ở trên, chúng tôi sẽ tạm dừng Amaryl của anh ấy."
+    },
+    {
+        "source": "I will hold the Amaryl for now to make sure this may not be contributing to his nausea. I will perform Accu-Cheks and sliding scale. 5. Nausea. I will DC all narcotics and pain pills and will treat him only with Tylenol. Continue his Protonex. I will DC his Isordil. As stated above, we will hold his Amaryl for now.",
+        "target": "Tôi sẽ tạm ngưng thuốc Amaryl để đảm bảo thuốc này không góp phần gây buồn nôn cho bệnh nhân. Tôi sẽ làm xét nghiệm Accu-Cheks và theo dõi đường huyết bằng phương pháp sliding scale. 5. Buồn nôn. Tôi sẽ ngưng tất cả các loại thuốc gây nghiện và thuốc giảm đau và sẽ chỉ điều trị bằng Tylenol. Tiếp tục cho bệnh nhân dùng Protonex. Tôi sẽ ngưng thuốc Isordil. Như đã nêu ở trên, hiện tại chúng ta sẽ tạm ngưng thuốc Amaryl.",
+        "id": "clinicalie_mse_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                65
+            ],
+            [
+                213,
+                291
+            ],
+            [
+                292,
+                329
+            ],
+            [
+                330,
+                357
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                16,
+                22
+            ],
+            [
+                212,
+                219
+            ],
+            [
+                234,
+                242
+            ],
+            [
+                258,
+                265
+            ]
+        ],
+        "reference": "Tôi sẽ tạm dừng Amaryl để đảm bảo rằng điều này không góp phần vào việc anh ấy buồn nôn. Tôi sẽ thực hiện Accu-Cheks và thang đo trượt. 5. Buồn nôn. Tôi sẽ ngừng tất cả các loại thuốc giảm đau và sẽ chỉ điều trị cho anh ấy bằng Tylenol. Tiếp tục sử dụng Protonex. Tôi sẽ ngừng Isordil của anh ấy. Như đã nêu ở trên, chúng tôi sẽ tạm dừng Amaryl của anh ấy."
+    },
+    {
+        "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
+        "target": "Cô ấy cũng không được cắt bỏ rõ ràng phần bệnh Crohn của mình. 4. Tăng huyết áp. 5. Giảm kích thước vòng một vào năm 1998. THUỐC: Tại thời điểm nhập viện bao gồm: 1. 6 MP. 2. Lisinopril. 3. Thuốc tránh thai. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. DỊ ỨNG: Cô ấy bị dị ứng với morphine, sulfa và phản ứng bất lợi với Remicade.",
+        "id": "clinicalie_mse_1_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                165,
+                170
+            ],
+            [
+                174,
+                185
+            ],
+            [
+                210,
+                230
+            ],
+            [
+                234,
+                239
+            ],
+            [
+                243,
+                252
+            ],
+            [
+                256,
+                265
+            ],
+            [
+                274,
+                303
+            ],
+            [
+                304,
+                343
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                152,
+                156
+            ],
+            [
+                161,
+                171
+            ],
+            [
+                199,
+                218
+            ],
+            [
+                223,
+                227
+            ],
+            [
+                232,
+                240
+            ],
+            [
+                245,
+                253
+            ],
+            [
+                288,
+                296
+            ],
+            [
+                298,
+                303
+            ],
+            [
+                331,
+                339
+            ]
+        ],
+        "reference": "Cô ấy cũng không có sự cắt bỏ rõ ràng bệnh Crohn của mình. 4. Tăng huyết áp. 5. Giảm kích thước ngực vào năm 1998. THUỐC: Tại thời điểm nhập viện bao gồm: 1. 6 MP. 2. Lisinopril. 3. Thuốc tránh thai. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. DỊ ỨNG: Cô ấy bị dị ứng với morphine, sulfa và phản ứng bất lợi với Remicade."
+    },
+    {
+        "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
+        "target": "Cô ấy cũng không được cắt bỏ rõ ràng phần bệnh Crohn của mình. 4. Tăng huyết áp. 5. Phẫu thuật giảm kích thước ngực năm 1998. THUỐC: Tại thời điểm nhập viện bao gồm: 1. 6 MP. 2. Lisinopril. 3. Thuốc tránh thai. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. DỊ ỨNG: Cô ấy bị dị ứng với morphine, sulfa và phản ứng bất lợi với Remicade.",
+        "id": "clinicalie_mse_1_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                168,
+                173
+            ],
+            [
+                177,
+                188
+            ],
+            [
+                213,
+                233
+            ],
+            [
+                237,
+                242
+            ],
+            [
+                246,
+                255
+            ],
+            [
+                259,
+                268
+            ],
+            [
+                277,
+                306
+            ],
+            [
+                307,
+                346
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                152,
+                156
+            ],
+            [
+                161,
+                171
+            ],
+            [
+                199,
+                218
+            ],
+            [
+                223,
+                227
+            ],
+            [
+                232,
+                240
+            ],
+            [
+                245,
+                253
+            ],
+            [
+                288,
+                296
+            ],
+            [
+                298,
+                303
+            ],
+            [
+                331,
+                339
+            ]
+        ],
+        "reference": "Cô ấy cũng không có sự cắt bỏ rõ ràng bệnh Crohn của mình. 4. Tăng huyết áp. 5. Giảm kích thước ngực vào năm 1998. THUỐC: Tại thời điểm nhập viện bao gồm: 1. 6 MP. 2. Lisinopril. 3. Thuốc tránh thai. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. DỊ ỨNG: Cô ấy bị dị ứng với morphine, sulfa và phản ứng bất lợi với Remicade."
+    }
+]

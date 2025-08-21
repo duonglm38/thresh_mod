@@ -1,0 +1,270 @@
+[
+    {
+        "source": "I’ve given big incentives for electric cars but what they’ve done in California is just crazy. He’s absolutely wrong, number one. Number two, if in fact, when, during our Administration in the Recovery Act, I was able, was in charge, able to bring down the cost of renewable energy to cheaper than or as cheap as coal and gas and oil.",
+        "target": "저는 전기차에 대한 큰 인센티브를 제공했지만, 캘리포니아에서 한 일은 정말 미친 짓입니다. 그는 완전히 틀렸습니다, 우선 첫 번째로. 두 번째로, 실제로, 만약, 우리 행정부 시절 회복법을 통해 재생 에너지 비용을 석탄, 가스, 석유보다 저렴하거나 같은 수준으로 낮출 수 있었습니다.",
+        "id": "elecdeb_232_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                50,
+                73
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                100,
+                117
+            ]
+        ],
+        "reference": "전기차에 대한 큰 인센티브를 제공했지만, 캘리포니아에서 그들이 한 일은 정말 미친 짓입니다. 그는 절대 잘못했습니다. 첫째, 둘째, 사실, 우리 행정부의 회복법안 동안 제가 Renewable 에너지 비용을 석탄과 가스, 석유보다 저렴하게 낮출 수 있었던 것을 담당하고 있었습니다."
+    },
+    {
+        "source": "I’ve given big incentives for electric cars but what they’ve done in California is just crazy. He’s absolutely wrong, number one. Number two, if in fact, when, during our Administration in the Recovery Act, I was able, was in charge, able to bring down the cost of renewable energy to cheaper than or as cheap as coal and gas and oil.",
+        "target": "전기차에 대한 큰 인센티브를 제공했지만, 캘리포니아에서 한 일은 정말 미친 짓입니다. 그는 완전히 틀렸고, 우선 첫째입니다. 둘째, 만약, 실제로, 우리 행정부의 경기부양법 동안, 제가 할 수 있었고, 책임을 맡았을 때, 재생 에너지 비용을 석탄, 가스, 석유보다 저렴하거나 같은 수준으로 낮출 수 있었습니다.",
+        "id": "elecdeb_232_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                47,
+                58
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                100,
+                117
+            ]
+        ],
+        "reference": "전기차에 대한 큰 인센티브를 제공했지만, 캘리포니아에서 그들이 한 일은 정말 미친 짓입니다. 그는 절대 잘못했습니다. 첫째, 둘째, 사실, 우리 행정부의 회복법안 동안 제가 Renewable 에너지 비용을 석탄과 가스, 석유보다 저렴하게 낮출 수 있었던 것을 담당하고 있었습니다."
+    },
+    {
+        "source": "True, our Constitution has no 'due process' clause or the VIII Amendment; but, in this branch of law, after R.C. Cooper v. Union of India, (1970) 1 SCC 248 and Maneka Gandhi v. Union of India, (1978) 1 SCC 248, the consequence is the same.",
+        "target": "맞습니다. 우리의 헌법에는 '적정 절차' 조항이나 제8개 수정안이 없지만, 이 법 분야에서는 R.C. 쿠퍼 대 인도 연방, (1970) 1 SCC 248와 만에카 간디 대 인도 연방, (1978) 1 SCC 248 이후 결과는 동일합니다.",
+        "id": "legalner_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                5,
+                15
+            ],
+            [
+                41,
+                132
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                22
+            ],
+            [
+                108,
+                155
+            ],
+            [
+                160,
+                209
+            ]
+        ],
+        "reference": "맞습니다, 우리 헌법에는 '적법 절차' 조항이나 VIII 수정 조항이 없습니다; 그러나 이 법의 분야에서는 R.C. 쿠퍼 대 인도 연합 사건(1970) 1 SCC 248과 마네카 간디 대 인도 연합 사건(1978) 1 SCC 248 이후, 그 결과는 동일합니다."
+    },
+    {
+        "source": "True, our Constitution has no 'due process' clause or the VIII Amendment; but, in this branch of law, after R.C. Cooper v. Union of India, (1970) 1 SCC 248 and Maneka Gandhi v. Union of India, (1978) 1 SCC 248, the consequence is the same.",
+        "target": "정말로 우리 헌법에는 '적절한 절차에 따른 권리' 조항이나 제8개 수정안이 없지만, 이 법 분야에서는 R.C. 쿠퍼 대 인도 연방 사건(1970) 1 SCC 248 및 만에카 간디 대 인도 연방 사건(1978) 1 SCC 248 이후의 결과는 동일하다.",
+        "id": "legalner_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                0,
+                12
+            ],
+            [
+                46,
+                140
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                22
+            ],
+            [
+                108,
+                155
+            ],
+            [
+                160,
+                209
+            ]
+        ],
+        "reference": "맞습니다, 우리 헌법에는 '적법 절차' 조항이나 VIII 수정 조항이 없습니다; 그러나 이 법의 분야에서는 R.C. 쿠퍼 대 인도 연합 사건(1970) 1 SCC 248과 마네카 간디 대 인도 연합 사건(1978) 1 SCC 248 이후, 그 결과는 동일합니다."
+    },
+    {
+        "source": "During that time he was part of an ABC News team that came under sniper fire in Sarajevo, Bosnia in August 1992. David Kaplan, a veteran ABC News Washington producer, was killed in the incident. In 1997, Sherwood joined NBC 's Nightly News with Tom Brokaw as a producer, then senior producer, and ultimately senior broadcast producer, where hewas present during coverage of the September 11th attacks.",
+        "target": "그 기간 동안 그는 1992년 8월 보스니아 사라예보에서 저격수의 총격을 받은 ABC 뉴스 팀의 일원이었습니다. 베테랑 ABC 뉴스 워싱턴 프로듀서인 데이비드 카플란은 그 사건으로 사망했습니다. 1997년 셔우드는 NBC의 톰 브로코와 함께하는 Nightly News에 프로듀서로 합류했으며, 이후 수석 프로듀서 그리고 궁극적으로 수석 방송 프로듀서가 되었고, 그는 9·11 테러 보도 당시 현장에 있었습니다.",
+        "id": "natural_instruct_task329_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                108,
+                162
+            ],
+            [
+                201,
+                206
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                204,
+                212
+            ],
+            [
+                245,
+                255
+            ],
+            [
+                341,
+                343
+            ]
+        ],
+        "reference": "그 당시 그는 1992년 8월 보스니아 사라예보에서 저격수의 총에 맞는 ABC 뉴스 팀의 일원이었습니다. ABC 뉴스 워싱턴 프로듀서인 데이비드 카플란이 이 사건에서 사망했습니다. 1997년, 셔우드는 NBC의 톰 브로코와 함께하는 '나이틀리 뉴스'에 프로듀서로 합류하여, 이후 수석 프로듀서, 궁극적으로 수석 방송 프로듀서로 활동하며 9.11 테러 사건의 보도에 참석했습니다."
+    },
+    {
+        "source": "During that time he was part of an ABC News team that came under sniper fire in Sarajevo, Bosnia in August 1992. David Kaplan, a veteran ABC News Washington producer, was killed in the incident. In 1997, Sherwood joined NBC 's Nightly News with Tom Brokaw as a producer, then senior producer, and ultimately senior broadcast producer, where hewas present during coverage of the September 11th attacks.",
+        "target": "그 당시 그는 1992년 8월 보스니아 사라예보에서 저격수의 사격을 받은 ABC 뉴스 팀의 일원이었습니다. 베테랑 ABC 뉴스 워싱턴 프로듀서인 데이비드 카플란은 그 사건에서 목숨을 잃었습니다. 1997년에 셔우드는 톰 브로코와 함께 하는 NBC의 나이트리 뉴스에 프로듀서로 합류했고, 이후 선임 프로듀서, 궁극적으로는 수석 방송 프로듀서가 되었으며, 9/11 테러 보도 당시 현장에 있었습니다.",
+        "id": "natural_instruct_task329_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                108,
+                158
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                204,
+                212
+            ],
+            [
+                245,
+                255
+            ],
+            [
+                341,
+                343
+            ]
+        ],
+        "reference": "그 당시 그는 1992년 8월 보스니아 사라예보에서 저격수의 총에 맞는 ABC 뉴스 팀의 일원이었습니다. ABC 뉴스 워싱턴 프로듀서인 데이비드 카플란이 이 사건에서 사망했습니다. 1997년, 셔우드는 NBC의 톰 브로코와 함께하는 '나이틀리 뉴스'에 프로듀서로 합류하여, 이후 수석 프로듀서, 궁극적으로 수석 방송 프로듀서로 활동하며 9.11 테러 사건의 보도에 참석했습니다."
+    },
+    {
+        "source": "On 27 September 2014, Toshney signed for Ross County and made his debut the same day as they beat Dundee 2--1. Having been released by Ross County, Toshney signed for Cowdenbeath on 3 February 2015, signing a contract until the end of the 2014--15 season. On 11 June 2015, Toshney signed for Raith Rovers. Following his move to Scottish Championship rivals Dundee United, former Raith Rovers manager Ray McKinnon expressed an interest in bringing Toshney to Tannadice.",
+        "target": "2014년 9월 27일, 토시니는 로스 카운티와 계약을 맺고 같은 날 던디를 2-1로 꺾은 경기에서 데뷔했습니다. 로스 카운티에서 방출된 후 토시니는 2015년 2월 3일 코든비스와 계약하여 2014-15 시즌 종료까지 계약을 체결했습니다. 2015년 6월 11일, 토시니는 레이스 로버스에 입단했습니다. 스코티시 챔피언십 경쟁팀 던디 유나이티드로 이적한 후, 전 레이스 로버스 감독 레이 맥키논은 토시니를 타나디스(Tannadice)로 데려오는 데 관심을 표명했습니다. 그의 이적에 따른 것입니다.",
+        "id": "natural_instruct_task329_44_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                13,
+                44
+            ],
+            [
+                201,
+                232
+            ],
+            [
+                263,
+                278
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                22,
+                29
+            ],
+            [
+                316,
+                319
+            ],
+            [
+                400,
+                412
+            ]
+        ],
+        "reference": "2014년 9월 27일, 토시니는 로스 카운티와 계약을 맺고 그날 던디를 2-1로 이기며 데뷔를 했다. 로스 카운티와 계약이 종료된 후, 토시니는 2015년 2월 3일 코우든비스와 계약을 맺고 2014-15 시즌 종료까지 계약을 체결하였다. 2015년 6월 11일, 토시니는 레이트 로버스와 계약을 맺었다. 스코티시 챔피언십 라이벌 던디 유나이티드로 이적한 후, 전 레이트 로버스 감독 레이 맥키넌은 토시니를 탄나디스에 데려오는 것에 관심을 표명했다."
+    },
+    {
+        "source": "On 27 September 2014, Toshney signed for Ross County and made his debut the same day as they beat Dundee 2--1. Having been released by Ross County, Toshney signed for Cowdenbeath on 3 February 2015, signing a contract until the end of the 2014--15 season. On 11 June 2015, Toshney signed for Raith Rovers. Following his move to Scottish Championship rivals Dundee United, former Raith Rovers manager Ray McKinnon expressed an interest in bringing Toshney to Tannadice.",
+        "target": "2014년 9월 27일, 토시니는 로스 카운티에 입단하여 같은 날 던디를 2-1로 꺾은 경기에서 데뷔했다. 로스 카운티에서 방출된 후, 토시니는 2015년 2월 3일 코든비스를 계약하여 2014-15 시즌 종료까지 계약을 맺었다. 2015년 6월 11일, 토시니는 레이스 로버스에 입단했다. 스코티시 챔피언십 경쟁팀 던디 유나이티드로 이적 후, 전 레이스 로버스 감독 레이 맥키넌은 토시니를 타나다이스로 데려오는 데 관심을 표명했다.",
+        "id": "natural_instruct_task329_44_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                13,
+                42
+            ],
+            [
+                192,
+                241
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                22,
+                29
+            ],
+            [
+                316,
+                319
+            ],
+            [
+                400,
+                412
+            ]
+        ],
+        "reference": "2014년 9월 27일, 토시니는 로스 카운티와 계약을 맺고 그날 던디를 2-1로 이기며 데뷔를 했다. 로스 카운티와 계약이 종료된 후, 토시니는 2015년 2월 3일 코우든비스와 계약을 맺고 2014-15 시즌 종료까지 계약을 체결하였다. 2015년 6월 11일, 토시니는 레이트 로버스와 계약을 맺었다. 스코티시 챔피언십 라이벌 던디 유나이티드로 이적한 후, 전 레이트 로버스 감독 레이 맥키넌은 토시니를 탄나디스에 데려오는 것에 관심을 표명했다."
+    },
+    {
+        "source": "Jim went to the bank to get a statement to see how much money he had for the weekend, but the statement said the was broke.",
+        "target": "짐은 주말 동안 얼마나 많은 돈이 있는지 알아보기 위해 은행에 가서 통장 내역을 요청했지만, 통장 내역에는 돈이 없다고 나와 있었다.",
+        "id": "natural_instruct_task033_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                0,
+                50
+            ],
+            [
+                51,
+                73
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                30,
+                39
+            ],
+            [
+                94,
+                103
+            ]
+        ],
+        "reference": "Jim은 주말에 얼마의 돈이 있는지 보기 위해 은행에 가서 명세서를 받았지만, 명세서에는 그가 파산했다고 나와 있었다."
+    },
+    {
+        "source": "Jim went to the bank to get a statement to see how much money he had for the weekend, but the statement said the was broke.",
+        "target": "짐은 주말 동안 얼마나 많은 돈이 있는지 알아보기 위해 은행에 가서 통장 내역을 요청했다. 그러나 내역에는 그가 파산했다고 나와 있었다.",
+        "id": "natural_instruct_task033_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                0,
+                49
+            ],
+            [
+                50,
+                75
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                30,
+                39
+            ],
+            [
+                94,
+                103
+            ]
+        ],
+        "reference": "Jim은 주말에 얼마의 돈이 있는지 보기 위해 은행에 가서 명세서를 받았지만, 명세서에는 그가 파산했다고 나와 있었다."
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
+        "target": "Trong tất cả các trường hợp như vậy, chính sách của chúng tôi là hợp tác theo yêu cầu của luật pháp, nhưng chỉ cung cấp những thông tin mà luật pháp yêu cầu.",
+        "id": "policyie_12_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                36,
+                94
+            ],
+            [
+                100,
+                156
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                20,
+                23
+            ],
+            [
+                75,
+                82
+            ],
+            [
+                93,
+                104
+            ],
+            [
+                108,
+                124
+            ]
+        ],
+        "reference": "Trong tất cả các trường hợp như vậy, chính sách của chúng tôi là hợp tác theo yêu cầu của pháp luật, nhưng chỉ cung cấp thông tin mà pháp luật yêu cầu."
+    },
+    {
+        "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
+        "target": "Trong tất cả các trường hợp như vậy, chính sách của chúng tôi là hợp tác theo yêu cầu của pháp luật, nhưng chỉ cung cấp những thông tin mà pháp luật yêu cầu.",
+        "id": "policyie_12_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                36,
+                94
+            ],
+            [
+                100,
+                156
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                20,
+                23
+            ],
+            [
+                75,
+                82
+            ],
+            [
+                93,
+                104
+            ],
+            [
+                108,
+                124
+            ]
+        ],
+        "reference": "Trong tất cả các trường hợp như vậy, chính sách của chúng tôi là hợp tác theo yêu cầu của pháp luật, nhưng chỉ cung cấp thông tin mà pháp luật yêu cầu."
+    },
+    {
+        "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
+        "target": "Luật pháp cho phép chúng tôi tiết lộ cho cơ quan thực thi pháp luật, tự nguyện và không báo trước, thông tin khách hàng, bao gồm nội dung các cuộc liên lạc, nếu chúng tôi có cơ sở hợp lý để tin rằng một trường hợp khẩn cấp liên quan đến nguy hiểm ngay lập tức về cái chết hoặc thương tích nghiêm trọng đòi hỏi phải tiết lộ mà không chậm trễ.",
+        "id": "policyie_13_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                67
+            ],
+            [
+                68,
+                97
+            ],
+            [
+                98,
+                119
+            ],
+            [
+                120,
+                155
+            ],
+            [
+                156,
+                340
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                20,
+                22
+            ],
+            [
+                26,
+                34
+            ],
+            [
+                38,
+                53
+            ],
+            [
+                56,
+                92
+            ],
+            [
+                95,
+                103
+            ],
+            [
+                104,
+                115
+            ],
+            [
+                132,
+                158
+            ],
+            [
+                164,
+                305
+            ]
+        ],
+        "reference": "Luật cho phép chúng tôi tiết lộ thông tin khách hàng, bao gồm nội dung của các cuộc giao tiếp, cho cơ quan thực thi pháp luật, một cách tự nguyện và không cần thông báo trước, nếu chúng tôi hợp lý tin rằng có một tình huống khẩn cấp liên quan đến nguy hiểm ngay lập tức đến tính mạng hoặc thương tật nghiêm trọng yêu cầu sự tiết lộ đó mà không có sự chậm trễ."
+    },
+    {
+        "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
+        "target": "Pháp luật cho phép chúng tôi tiết lộ cho cơ quan thực thi pháp luật, tự nguyện và không cần thông báo trước, thông tin khách hàng, bao gồm cả nội dung của các cuộc liên lạc, nếu chúng tôi có lý do chính đáng tin rằng một tình trạng khẩn cấp liên quan đến nguy cơ tử vong hoặc thương tích nghiêm trọng ngay lập tức đòi hỏi tiết lộ như vậy mà không được trì hoãn.",
+        "id": "policyie_13_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                67
+            ],
+            [
+                68,
+                107
+            ],
+            [
+                108,
+                129
+            ],
+            [
+                130,
+                172
+            ],
+            [
+                173,
+                360
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                20,
+                22
+            ],
+            [
+                26,
+                34
+            ],
+            [
+                38,
+                53
+            ],
+            [
+                56,
+                92
+            ],
+            [
+                95,
+                103
+            ],
+            [
+                104,
+                115
+            ],
+            [
+                132,
+                158
+            ],
+            [
+                164,
+                305
+            ]
+        ],
+        "reference": "Luật cho phép chúng tôi tiết lộ thông tin khách hàng, bao gồm nội dung của các cuộc giao tiếp, cho cơ quan thực thi pháp luật, một cách tự nguyện và không cần thông báo trước, nếu chúng tôi hợp lý tin rằng có một tình huống khẩn cấp liên quan đến nguy hiểm ngay lập tức đến tính mạng hoặc thương tật nghiêm trọng yêu cầu sự tiết lộ đó mà không có sự chậm trễ."
+    },
+    {
+        "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
+        "target": "Tập đoàn dầu khí Equinor đã công bố lợi nhuận trước thuế kỷ lục và cho biết sẽ tăng cổ tức và mua lại cổ phiếu, còn trong lĩnh vực tài chính, Amundi đã vượt qua các mục tiêu chiến lược và ABN Amro thông báo về việc mua lại cổ phiếu trị giá 500 triệu euro sau khi lợi nhuận ròng tăng vọt.",
+        "id": "finentity_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                0,
+                59
+            ],
+            [
+                141,
+                231
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                17
+            ],
+            [
+                122,
+                128
+            ],
+            [
+                161,
+                169
+            ]
+        ],
+        "reference": "Tập đoàn dầu khí Equinor đã công bố lợi nhuận trước thuế kỷ lục và cho biết sẽ tăng cổ tức và mua lại cổ phiếu. Trong số các công ty tài chính, Amundi đã vượt qua các mục tiêu chiến lược của mình và ABN Amro công bố kế hoach mua lại cổ phiếu trị giá 500 triệu euro sau khi lợi nhuận ròng tăng vọt."
+    },
+    {
+        "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
+        "target": "Tập đoàn dầu khí Equinor công bố lợi nhuận trước thuế kỷ lục và cho biết sẽ tăng cổ tức và mua lại cổ phiếu, còn trong lĩnh vực tài chính, Amundi vượt mục tiêu chiến lược và ABN Amro thông báo chương trình mua lại cổ phiếu 500 triệu euro sau khi lợi nhuận ròng tăng vọt.",
+        "id": "finentity_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                0,
+                60
+            ],
+            [
+                138,
+                222
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                17
+            ],
+            [
+                122,
+                128
+            ],
+            [
+                161,
+                169
+            ]
+        ],
+        "reference": "Tập đoàn dầu khí Equinor đã công bố lợi nhuận trước thuế kỷ lục và cho biết sẽ tăng cổ tức và mua lại cổ phiếu. Trong số các công ty tài chính, Amundi đã vượt qua các mục tiêu chiến lược của mình và ABN Amro công bố kế hoach mua lại cổ phiếu trị giá 500 triệu euro sau khi lợi nhuận ròng tăng vọt."
+    },
+    {
+        "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
+        "target": "\"Nhu cầu dầu mỏ... nếu bạn xem dữ liệu mới nhất, thì vẫn đang ổn. Chúng tôi dự kiến sẽ có sự sụt giảm nhu cầu, nhưng điều đó thực tế không xảy ra,\" Frederic Lasserre, trưởng nhóm nghiên cứu và phân tích thị trường toàn cầu tại Nhóm Gunvor $lt;GGL.UL$gt; cho biết.",
+        "id": "finentity_9_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                166,
+                239
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                210,
+                222
+            ]
+        ],
+        "reference": "\"Nhu cầu dầu ... nếu bạn nhìn vào dữ liệu mới nhất, nó vẫn đang ổn. Chúng tôi đã dự đoán một số sự suy giảm nhu cầu, nhưng điều đó không thực sự xảy ra,\" ông Frederic Lasserre, người đứng đầu nghiên cứu và phân tích thị trường toàn cầu tại Gunvor Group $lt;GGL.UL$gt;, cho biết."
+    },
+    {
+        "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
+        "target": "\"Nhu cầu dầu... nếu bạn xem dữ liệu mới nhất, thì vẫn đang ổn. Chúng tôi dự đoán sẽ có sự sụt giảm nhu cầu, nhưng điều đó thực tế không xảy ra,\" Frederic Lasserre, trưởng bộ phận nghiên cứu và phân tích thị trường toàn cầu tại Tập đoàn Gunvor $lt;GGL.UL$gt;, nói.",
+        "id": "finentity_9_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                163,
+                243
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                210,
+                222
+            ]
+        ],
+        "reference": "\"Nhu cầu dầu ... nếu bạn nhìn vào dữ liệu mới nhất, nó vẫn đang ổn. Chúng tôi đã dự đoán một số sự suy giảm nhu cầu, nhưng điều đó không thực sự xảy ra,\" ông Frederic Lasserre, người đứng đầu nghiên cứu và phân tích thị trường toàn cầu tại Gunvor Group $lt;GGL.UL$gt;, cho biết."
+    },
+    {
+        "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
+        "target": "MUA LẠI DOANH NGHIỆP Vào ngày 2 tháng 4 năm 2012, chúng tôi đã mua lại gần như toàn bộ tài sản của Green River Collieries, LLC (\"Green River\") liên quan đến ngành kinh doanh và hoạt động khai thác than của họ, nằm ở huyện Webster và huyện Hopkins, bang Kentucky.",
+        "id": "fire_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                48
+            ],
+            [
+                49,
+                208
+            ],
+            [
+                209,
+                246
+            ],
+            [
+                247,
+                261
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                11
+            ],
+            [
+                27,
+                41
+            ],
+            [
+                47,
+                55
+            ],
+            [
+                77,
+                128
+            ],
+            [
+                151,
+                186
+            ],
+            [
+                198,
+                205
+            ],
+            [
+                210,
+                217
+            ],
+            [
+                229,
+                237
+            ]
+        ],
+        "reference": "THU MUA DOANH NGHIỆP Vào ngày 2 tháng 4 năm 2012, chúng tôi đã mua lại hầu hết tài sản của Green River Collieries, LLC ('Green River') liên quan đến hoạt động khai thác than của họ ở các quận Webster và Hopkins, Kentucky."
+    },
+    {
+        "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
+        "target": "MUA LẠI DOANH NGHIỆP Vào ngày 2 tháng 4 năm 2012, chúng tôi đã mua lại gần như toàn bộ tài sản liên quan đến hoạt động khai thác than của Green River Collieries, LLC (\"Green River\") tại các quận Webster và Hopkins, bang Kentucky.",
+        "id": "fire_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                48
+            ],
+            [
+                49,
+                213
+            ],
+            [
+                214,
+                228
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                11
+            ],
+            [
+                27,
+                41
+            ],
+            [
+                47,
+                55
+            ],
+            [
+                77,
+                128
+            ],
+            [
+                151,
+                186
+            ],
+            [
+                198,
+                205
+            ],
+            [
+                210,
+                217
+            ],
+            [
+                229,
+                237
+            ]
+        ],
+        "reference": "THU MUA DOANH NGHIỆP Vào ngày 2 tháng 4 năm 2012, chúng tôi đã mua lại hầu hết tài sản của Green River Collieries, LLC ('Green River') liên quan đến hoạt động khai thác than của họ ở các quận Webster và Hopkins, Kentucky."
+    }
+]

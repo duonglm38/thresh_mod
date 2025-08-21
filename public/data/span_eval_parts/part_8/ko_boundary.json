@@ -1,0 +1,864 @@
+[
+    {
+        "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
+        "target": "모든 이러한 경우에 우리의 정책은 법에 따라 요구되는 대로 협력하는 것이지만, 법에서 요구하는 범위 내에서만 정보를 제공하는 것이다. 제공",
+        "metadata": {
+            "id": "policyie_12_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        20,
+                        23
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        11,
+                        14
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        75,
+                        82
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        75,
+                        77
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        93,
+                        104
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        61,
+                        67
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        108,
+                        124
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        44,
+                        60
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
+        "target": "모든 이러한 사례에서 우리의 정책은 법에 따라 요구되는 범위 내에서 협력하는 것이지만, 법에서 요구하는 정보만을 제공하는 것이다.",
+        "metadata": {
+            "id": "policyie_12_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        20,
+                        23
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        12,
+                        15
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        75,
+                        82
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        63,
+                        67
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        93,
+                        104
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        58,
+                        60
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        108,
+                        124
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        49,
+                        57
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
+        "target": "법률은 우리가 사전 통지 없이 자발적으로 법 집행 기관에 고객 정보를, 통신 내용을 포함하여 공개하는 것을 허용합니다. 다만, 즉각적인 사망 위험이나 심각한 신체 상해와 관련된 비상 상황이 지체 없이 그러한 공개를 요구한다고 합리적으로 믿는 경우에 한합니다.",
+        "metadata": {
+            "id": "policyie_13_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        20,
+                        22
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        26,
+                        34
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        23,
+                        30
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        38,
+                        53
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        32,
+                        34
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        56,
+                        92
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        22
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        95,
+                        103
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        52,
+                        54
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        104,
+                        115
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        35,
+                        37
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        132,
+                        158
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        40,
+                        45
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        164,
+                        305
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        71,
+                        143
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
+        "target": "법은 긴급 상황으로 즉각적인 사망 또는 심각한 신체 상해의 위험이 있는 경우, 지연 없이 그러한 공개가 필요하다고 합리적으로 믿을 때, 고객 정보(통신 내용 포함)를 사전 통지 없이 자발적으로 법 집행 기관에 공개할 수 있도록 허용하고 있습니다.",
+        "metadata": {
+            "id": "policyie_13_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        20,
+                        22
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        26,
+                        34
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        117,
+                        136
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        38,
+                        53
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        108,
+                        115
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        56,
+                        92
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        93,
+                        107
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        95,
+                        103
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        76,
+                        78
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        104,
+                        115
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        79,
+                        81
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        132,
+                        158
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        82,
+                        87
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        164,
+                        305
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        3,
+                        74
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
+        "target": "Equinor는 기록적인 세전 이익을 발표하고 배당금 및 자사주 매입을 늘릴 것이라고 밝혔으며, 금융 분야에서는 Amundi가 전략 목표를 초과 달성했고 ABN Amro가 순이익 증가에 따라 5억 유로 규모의 자사주 매입을 발표했습니다.",
+        "metadata": {
+            "id": "finentity_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        10,
+                        17
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        7
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        122,
+                        128
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        63,
+                        69
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        169
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        86,
+                        94
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
+        "target": "석유 그룹 Equinor는 기록적인 세전 이익을 발표하고 배당금 및 자사주 매입을 늘릴 것이라고 밝혔으며, 금융 분야에서는 Amundi가 전략 목표를 초과 달성했고 ABN Amro는 순이익 급증에 따라 5억 유로 규모의 자사주 매입을 발표했습니다.",
+        "metadata": {
+            "id": "finentity_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        10,
+                        17
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        6,
+                        13
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        122,
+                        128
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        69,
+                        75
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        169
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        92,
+                        100
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
+        "target": "\"Gunvor 그룹 $lt;GGL.UL$gt;의 글로벌 시장 연구 및 분석 담당 이사인 프레드릭 라서르는 '석유 수요에 관해, 최신 데이터를 보면 여전히 괜찮은 편이다. 우리는 수요 감소를 예상했지만, 실제로는 그럴 일 없었다'라고 말했다.",
+        "metadata": {
+            "id": "finentity_9_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        210,
+                        222
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        1,
+                        10
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
+        "target": "\"석유 수요... 최신 데이터를 보면 여전히 괜찮은 편이에요. 수요 감소가 있을 것이라 예상했지만, 실제로는 그 정도로 나타나지 않았습니다,\"라고 Gunvor 그룹(GGL.UL)의 글로벌 마켓 리서치 및 분석 전문 책임자 프레드릭 라세르는 말했다.",
+        "metadata": {
+            "id": "finentity_9_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        210,
+                        222
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        82,
+                        91
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
+        "target": "사업 인수 2012년 4월 2일, 우리는 Green River Collieries, LLC(\"Green River\")의 석탄 채굴 사업 및 운영과 관련된 자산 대부분을 인수했으며, 해당 자산은 웹스터와 홉킨스 카운티, 켄터키에 위치해 있습니다.",
+        "metadata": {
+            "id": "fire_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        5
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        27,
+                        41
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        12,
+                        17
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        47,
+                        55
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        94,
+                        96
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        77,
+                        128
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        23,
+                        65
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        151,
+                        186
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        67,
+                        80
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        198,
+                        205
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        108,
+                        111
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        210,
+                        217
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        113,
+                        116
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        229,
+                        237
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        122,
+                        125
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
+        "target": "사업 인수 2012년 4월 2일, 당사는 켄터키 주 웹스터 및 홉킨스 카운티에 위치한 Green River Collieries, LLC(\"Green River\")의 석탄 채굴 사업 및 운영과 관련된 자산 대부분을 인수하였습니다.",
+        "metadata": {
+            "id": "fire_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        3,
+                        5
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        27,
+                        41
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        6,
+                        17
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        47,
+                        55
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        119,
+                        126
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        77,
+                        128
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        48,
+                        90
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        151,
+                        186
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        92,
+                        105
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        198,
+                        205
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        29,
+                        32
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        210,
+                        217
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        35,
+                        38
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        229,
+                        237
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        23,
+                        28
+                    ]
+                ]
+            }
+        ]
+    }
+]

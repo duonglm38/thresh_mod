@@ -1,0 +1,174 @@
+[
+    {
+        "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
+        "target": "Thời tiết ở miền nam nước Pháp tốt hơn nhiều so với nhiệt độ ở Nga, vì thời tiết luôn ấm áp.",
+        "id": "natural_instruct_task033_64_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                44
+            ],
+            [
+                67,
+                91
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                4,
+                11
+            ],
+            [
+                91,
+                98
+            ]
+        ],
+        "reference": "Thời tiết ở miền nam Pháp tốt hơn nhiệt độ ở Nga rất nhiều, vì thời tiết luôn ấm áp."
+    },
+    {
+        "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
+        "target": "Thời tiết ở miền Nam nước Pháp tốt hơn nhiều so với nhiệt độ ở Nga, vì thời tiết ở đó luôn ấm áp.",
+        "id": "natural_instruct_task033_64_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                44
+            ],
+            [
+                67,
+                96
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                4,
+                11
+            ],
+            [
+                91,
+                98
+            ]
+        ],
+        "reference": "Thời tiết ở miền nam Pháp tốt hơn nhiệt độ ở Nga rất nhiều, vì thời tiết luôn ấm áp."
+    },
+    {
+        "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
+        "target": "câu: mọi người thực sự thích bánh quy bơ nâu rượu bourbon gia vị; chỉ có một vài người thích bánh quy caramel hạt hồ đào. lần tới, chúng ta nên làm ít hơn chúng.",
+        "id": "natural_instruct_task249_3_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                4,
+                64
+            ],
+            [
+                65,
+                120
+            ],
+            [
+                130,
+                160
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                32,
+                70
+            ],
+            [
+                97,
+                122
+            ],
+            [
+                161,
+                165
+            ]
+        ],
+        "reference": "Câu: mọi người thực sự thích những chiếc bánh quy nâu bơ bourbon gia vị; chỉ có một vài người thích những chiếc bánh quy caramel hạt hồ đào. Lần tới, chúng ta nên làm ít bánh hơn."
+    },
+    {
+        "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
+        "target": "Câu: mọi người thực sự thích bánh quy bơ nâu bourbon gia vị; chỉ một vài người thích bánh quy caramel pecan. Lần tới, chúng ta nên làm ít loại đó hơn.",
+        "id": "natural_instruct_task249_3_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                4,
+                59
+            ],
+            [
+                60,
+                107
+            ],
+            [
+                117,
+                149
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                32,
+                70
+            ],
+            [
+                97,
+                122
+            ],
+            [
+                161,
+                165
+            ]
+        ],
+        "reference": "Câu: mọi người thực sự thích những chiếc bánh quy nâu bơ bourbon gia vị; chỉ có một vài người thích những chiếc bánh quy caramel hạt hồ đào. Lần tới, chúng ta nên làm ít bánh hơn."
+    },
+    {
+        "source": "sentence: Lucy comforted Emma because she was so upset .",
+        "target": "câu: Lucy an ủi Emma vì cô ấy quá buồn bã.",
+        "id": "natural_instruct_task249_12_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                4,
+                41
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                14
+            ],
+            [
+                25,
+                29
+            ],
+            [
+                38,
+                41
+            ]
+        ],
+        "reference": "Câu: Lucy đã an ủi Emma vì cô ấy rất buồn."
+    },
+    {
+        "source": "sentence: Lucy comforted Emma because she was so upset .",
+        "target": "Câu: Lucy an ủi Emma vì Emma quá buồn.",
+        "id": "natural_instruct_task249_12_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                4,
+                37
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                14
+            ],
+            [
+                25,
+                29
+            ],
+            [
+                38,
+                41
+            ]
+        ],
+        "reference": "Câu: Lucy đã an ủi Emma vì cô ấy rất buồn."
+    }
+]

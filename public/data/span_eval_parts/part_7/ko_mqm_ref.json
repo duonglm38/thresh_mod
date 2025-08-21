@@ -1,0 +1,554 @@
+[
+    {
+        "source": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Cod liver oil one capsule GT q. day. 9. Multivitamin 1 tablet GT q. day. 10. Bicitra 10 mL GT b.i.d. DISCHARGE DIET: The patient is to resume his Pediasure home regimen.",
+        "target": "6. 프릴로섹 10mg GT 하루 두 번 7. 카르니틴 500mg GT 하루 두 번 8. 대구 간유 1캡슐 GT 하루 한 번 9. 멀티비타민 1정 GT 하루 한 번 10. 비시트라 10mL GT 하루 두 번 퇴원 시 식이: 환자는 Pediasure 가정 요법을 재개할 예정입니다.",
+        "id": "clinicalie_attr_1_gpt4_ez",
+        "target_focus_areas": [
+            [
+                2,
+                24
+            ],
+            [
+                25,
+                48
+            ],
+            [
+                49,
+                71
+            ],
+            [
+                72,
+                94
+            ],
+            [
+                95,
+                123
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                3,
+                11
+            ],
+            [
+                12,
+                17
+            ],
+            [
+                18,
+                20
+            ],
+            [
+                21,
+                27
+            ],
+            [
+                31,
+                40
+            ],
+            [
+                41,
+                47
+            ],
+            [
+                48,
+                50
+            ],
+            [
+                51,
+                57
+            ],
+            [
+                61,
+                74
+            ],
+            [
+                75,
+                86
+            ],
+            [
+                87,
+                89
+            ],
+            [
+                90,
+                96
+            ],
+            [
+                101,
+                113
+            ],
+            [
+                114,
+                122
+            ],
+            [
+                123,
+                125
+            ],
+            [
+                126,
+                132
+            ],
+            [
+                138,
+                145
+            ],
+            [
+                146,
+                151
+            ],
+            [
+                152,
+                154
+            ],
+            [
+                155,
+                161
+            ]
+        ],
+        "reference": "6. 프릴로섹 10mg 하루 두 번 복용. 7. 카르니틴 500mg 하루 두 번 복용. 8. 생선 간유 1캡슐 하루 한 번 복용. 9. 종합비타민 1정 하루 한 번 복용. 10. 비시트라 10mL 하루 두 번 복용. 퇴원 식단: 환자는 페디아슈어 자택 요법을 재개해야 합니다."
+    },
+    {
+        "source": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Cod liver oil one capsule GT q. day. 9. Multivitamin 1 tablet GT q. day. 10. Bicitra 10 mL GT b.i.d. DISCHARGE DIET: The patient is to resume his Pediasure home regimen.",
+        "target": "6. 프릴로섹 10mg 경구투여 하루 2회  \n7. 카르니틴 500mg 경구투여 하루 2회  \n8. 대구간유 캡슐 1개 경구투여 매일  \n9. 종합비타민 1정 경구투여 매일  \n10. 비시트라 10mL 경구투여 하루 2회  \n퇴원 식이: 환자는 집에서 페디어슈어 복용을 재개할 것입니다.",
+        "id": "clinicalie_attr_1_gpt4_clap",
+        "target_focus_areas": [
+            [
+                2,
+                27
+            ],
+            [
+                28,
+                54
+            ],
+            [
+                55,
+                78
+            ],
+            [
+                79,
+                101
+            ],
+            [
+                102,
+                131
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                3,
+                11
+            ],
+            [
+                12,
+                17
+            ],
+            [
+                18,
+                20
+            ],
+            [
+                21,
+                27
+            ],
+            [
+                31,
+                40
+            ],
+            [
+                41,
+                47
+            ],
+            [
+                48,
+                50
+            ],
+            [
+                51,
+                57
+            ],
+            [
+                61,
+                74
+            ],
+            [
+                75,
+                86
+            ],
+            [
+                87,
+                89
+            ],
+            [
+                90,
+                96
+            ],
+            [
+                101,
+                113
+            ],
+            [
+                114,
+                122
+            ],
+            [
+                123,
+                125
+            ],
+            [
+                126,
+                132
+            ],
+            [
+                138,
+                145
+            ],
+            [
+                146,
+                151
+            ],
+            [
+                152,
+                154
+            ],
+            [
+                155,
+                161
+            ]
+        ],
+        "reference": "6. 프릴로섹 10mg 하루 두 번 복용. 7. 카르니틴 500mg 하루 두 번 복용. 8. 생선 간유 1캡슐 하루 한 번 복용. 9. 종합비타민 1정 하루 한 번 복용. 10. 비시트라 10mL 하루 두 번 복용. 퇴원 식단: 환자는 페디아슈어 자택 요법을 재개해야 합니다."
+    },
+    {
+        "source": "Her mother suffers from hypertension. Other female relatives suffer from endometriosis. SOCIAL HISTORY: The patient is married. She works as an account coordinator at US Bank. She denies use of tobacco, alcohol, or drugs. ADMISSION PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 136/80 to 147/106.",
+        "target": "어머니는 고혈압으로 고생하십니다. 다른 여성 친척들은 자궁내막증으로 고생합니다. 사회력: 환자는 결혼했습니다. 그녀는 US Bank에서 계정 코디네이터로 일합니다. 담배, 술, 약물 사용을 부인합니다. 입원 신체 검사: 활력 징후: 혈압 136/80 ~ 147/106.",
+        "id": "clinicalie_coref_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                49,
+                60
+            ],
+            [
+                61,
+                90
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                104,
+                115
+            ],
+            [
+                128,
+                131
+            ]
+        ],
+        "reference": "그녀의 어머니는 고혈압으로 고통받고 있습니다. 다른 여성 친척들은 자궁내막증으로 고통받고 있습니다. 사회력: 환자는 기혼입니다. 그녀는 US 뱅크에서 회계 조정자로 일하고 있습니다. 그녀는 담배, 알코올 또는 약물 사용을 부인합니다. 입원 신체 검사: 생체 징후: 혈압 136/80에서 147/106."
+    },
+    {
+        "source": "Her mother suffers from hypertension. Other female relatives suffer from endometriosis. SOCIAL HISTORY: The patient is married. She works as an account coordinator at US Bank. She denies use of tobacco, alcohol, or drugs. ADMISSION PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 136/80 to 147/106.",
+        "target": "그녀의 어머니는 고혈압으로 고통받고 있습니다. 다른 여성 친척들은 자궁내막증으로 고통받고 있습니다. 사회력: 환자는 결혼했습니다. US Bank에서 계정 코디네이터로 일합니다. 담배, 술, 약물 사용을 부인합니다. 입원 신체 검사: 활력 징후: 혈압 136/80에서 147/106까지.",
+        "id": "clinicalie_coref_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                60,
+                71
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                104,
+                115
+            ],
+            [
+                128,
+                131
+            ]
+        ],
+        "reference": "그녀의 어머니는 고혈압으로 고통받고 있습니다. 다른 여성 친척들은 자궁내막증으로 고통받고 있습니다. 사회력: 환자는 기혼입니다. 그녀는 US 뱅크에서 회계 조정자로 일하고 있습니다. 그녀는 담배, 알코올 또는 약물 사용을 부인합니다. 입원 신체 검사: 생체 징후: 혈압 136/80에서 147/106."
+    },
+    {
+        "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
+        "target": "지난 주부터 그녀는 네 파운드를 더 잃었다. 그녀는 지속적인 설사를 겪고 있다. 그러나 우리는 이 상태를 외래 환자로 관리할 준비가 되어 있었으며, CDI의 방사선의가 내게 전화를 걸어 CT 촬영에서 위의 소견 외에도 좌측 폐색전증을 발견했다고 보고했다.",
+        "id": "clinicalie_coref_1_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                24,
+                43
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                59,
+                78
+            ],
+            [
+                117,
+                121
+            ]
+        ],
+        "reference": "그녀는 지난 주 이후로 4파운드를 더 감량했습니다. 그녀는 지속적인 설사를 하고 있습니다. 그러나 우리는 방사선사가 이러한 소견 외에 CT 스캔에서 좌측 폐색전증을 발견했다고 전화하기 전까지는 외래환자로 관리할 준비가 되어 있었습니다."
+    },
+    {
+        "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
+        "target": "그녀는 지난 주 이후에 네 킬로그램을 더 빼掉了. 지속적인 설사 증세가 있다. 그러나 우리는 외래에서 관리할 준비가 되어 있었는데, CDI 소속 방사선의가 나에게 전화를 걸어 CT 촬영에서 위의 소견 외에 좌측 폐색전증도 발견했다고 보고했다.",
+        "id": "clinicalie_coref_1_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                27,
+                42
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                59,
+                78
+            ],
+            [
+                117,
+                121
+            ]
+        ],
+        "reference": "그녀는 지난 주 이후로 4파운드를 더 감량했습니다. 그녀는 지속적인 설사를 하고 있습니다. 그러나 우리는 방사선사가 이러한 소견 외에 CT 스캔에서 좌측 폐색전증을 발견했다고 전화하기 전까지는 외래환자로 관리할 준비가 되어 있었습니다."
+    },
+    {
+        "source": "I will hold the Amaryl for now to make sure this may not be contributing to his nausea. I will perform Accu-Cheks and sliding scale. 5. Nausea. I will DC all narcotics and pain pills and will treat him only with Tylenol. Continue his Protonex. I will DC his Isordil. As stated above, we will hold his Amaryl for now.",
+        "target": "우선 Amaryl은 그의 메스꺼움에 원인이 아닐지 확인하기 위해 잠시 중단하겠습니다. Accu-Cheks와 슬라이딩 스케일을 시행하겠습니다. 5. 메스꺼움. 모든 마약성 진통제와 진통제는 중단하고, Tylenol만으로 치료하겠습니다. 그의 Protonex는 계속 투여합니다. Isordil은 중단하겠습니다. 위에서 언급한 대로, Amaryl은 당분간 중단합니다.",
+        "id": "clinicalie_mse_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                46
+            ],
+            [
+                110,
+                129
+            ],
+            [
+                130,
+                152
+            ],
+            [
+                153,
+                170
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                16,
+                22
+            ],
+            [
+                212,
+                219
+            ],
+            [
+                234,
+                242
+            ],
+            [
+                258,
+                265
+            ]
+        ],
+        "reference": "이것이 그의 메스꺼움에 기여하지 않도록 지금은 아마릴을 붙잡을 것입니다. Accu-Cheks와 슬라이딩 스케일을 수행합니다. 5. 메스꺼움. 나는 모든 마약과 진통제를 DC하고 타이레놀로만 치료할 것입니다. 그의 Protonex를 계속하십시오. 나는 그의 Isordil을 DC할 것입니다. 위에서 언급했듯이 우리는 지금은 그의 아마릴을 보유할 것입니다."
+    },
+    {
+        "source": "I will hold the Amaryl for now to make sure this may not be contributing to his nausea. I will perform Accu-Cheks and sliding scale. 5. Nausea. I will DC all narcotics and pain pills and will treat him only with Tylenol. Continue his Protonex. I will DC his Isordil. As stated above, we will hold his Amaryl for now.",
+        "target": "일단은 이 약물이 그의 메스꺼움에 영향을 주는지 확인하기 위해 아마릴 복용을 중단하겠습니다. 혈당 체크와 슬라이딩 스케일을 시행할 예정입니다. 5. 메스꺼움. 모든 마약성 진통제와 진통제를 중단하고 타이레놀만 투여하겠습니다. 프로토넥스는 계속 유지하겠습니다. 이소르딜은 중단하겠습니다. 위에 언급한 대로 아마릴은 일단 중단하겠습니다.",
+        "id": "clinicalie_mse_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                50
+            ],
+            [
+                88,
+                124
+            ],
+            [
+                125,
+                143
+            ],
+            [
+                144,
+                158
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                16,
+                22
+            ],
+            [
+                212,
+                219
+            ],
+            [
+                234,
+                242
+            ],
+            [
+                258,
+                265
+            ]
+        ],
+        "reference": "이것이 그의 메스꺼움에 기여하지 않도록 지금은 아마릴을 붙잡을 것입니다. Accu-Cheks와 슬라이딩 스케일을 수행합니다. 5. 메스꺼움. 나는 모든 마약과 진통제를 DC하고 타이레놀로만 치료할 것입니다. 그의 Protonex를 계속하십시오. 나는 그의 Isordil을 DC할 것입니다. 위에서 언급했듯이 우리는 지금은 그의 아마릴을 보유할 것입니다."
+    },
+    {
+        "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
+        "target": "그녀는 크론병에 대한 명확한 절제술도 받지 않았습니다. 4. 고혈압. 5. 1998년 유방 축소술. 약물: 입원 당시 포함된 약물은 다음과 같습니다. 1. 6 MP. 2. 리시노프릴. 3. 피임약. 4. 히드로클로로티아지드. 5. B-12. 6. 퍼코셋. 7. 딜라우디드. 알레르기: 그녀는 모르핀, 설폰아미드 및 레미케이드에 알레르기가 있으며 부작용이 있습니다.",
+        "id": "clinicalie_mse_1_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                86,
+                91
+            ],
+            [
+                95,
+                101
+            ],
+            [
+                113,
+                124
+            ],
+            [
+                128,
+                133
+            ],
+            [
+                137,
+                141
+            ],
+            [
+                145,
+                151
+            ],
+            [
+                158,
+                166
+            ],
+            [
+                167,
+                202
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                152,
+                156
+            ],
+            [
+                161,
+                171
+            ],
+            [
+                199,
+                218
+            ],
+            [
+                223,
+                227
+            ],
+            [
+                232,
+                240
+            ],
+            [
+                245,
+                253
+            ],
+            [
+                288,
+                296
+            ],
+            [
+                298,
+                303
+            ],
+            [
+                331,
+                339
+            ]
+        ],
+        "reference": "그녀는 크론병의 명확한 절제 수술을 받지 않았습니다. 4. 고혈압. 5. 1998년에 유방 축소 수술. 약물: 입원 시 포함된 약물은 다음과 같습니다: 1. 6 MP. 2. 리시노프릴. 3. 경구 피임약. 4. 하이드로클로로티아지드. 5. 비타민 B-12. 6. 펀코셋. 7. 딜라우디드. 알레르기: 그녀는 모르핀, 설파에 대한 알레르기가 있으며, 레미케이드에 대한 부작용이 있습니다."
+    },
+    {
+        "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
+        "target": "그녀는 크론병에 대한 명확한 절제술을 받지 못했습니다. 4. 고혈압. 5. 1998년 가슴 축소술. 약물: 입원 당시 포함된 약물은 다음과 같습니다: 1. 6 MP. 2. 리시노프릴. 3. 피임약. 4. 히드로클로로티아지드. 5. B-12. 6. 퍼코셋. 7. 딜라우디드. 알레르기: 그녀는 모르핀, 설폰아미드에 알레르기가 있으며 레미케이드에 대한 부작용이 있습니다.",
+        "id": "clinicalie_mse_1_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                86,
+                91
+            ],
+            [
+                95,
+                101
+            ],
+            [
+                113,
+                124
+            ],
+            [
+                128,
+                133
+            ],
+            [
+                137,
+                141
+            ],
+            [
+                145,
+                151
+            ],
+            [
+                158,
+                166
+            ],
+            [
+                167,
+                204
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                152,
+                156
+            ],
+            [
+                161,
+                171
+            ],
+            [
+                199,
+                218
+            ],
+            [
+                223,
+                227
+            ],
+            [
+                232,
+                240
+            ],
+            [
+                245,
+                253
+            ],
+            [
+                288,
+                296
+            ],
+            [
+                298,
+                303
+            ],
+            [
+                331,
+                339
+            ]
+        ],
+        "reference": "그녀는 크론병의 명확한 절제 수술을 받지 않았습니다. 4. 고혈압. 5. 1998년에 유방 축소 수술. 약물: 입원 시 포함된 약물은 다음과 같습니다: 1. 6 MP. 2. 리시노프릴. 3. 경구 피임약. 4. 하이드로클로로티아지드. 5. 비타민 B-12. 6. 펀코셋. 7. 딜라우디드. 알레르기: 그녀는 모르핀, 설파에 대한 알레르기가 있으며, 레미케이드에 대한 부작용이 있습니다."
+    }
+]

@@ -1,0 +1,550 @@
+[
+    {
+        "source": "The final stage in the development of the Skyfox was the production of a model with tricycle landing gear to better cater for the pilot training market .",
+        "target": "Skyfox 开发的最后阶段是生产配备三轮起落架的型号，以更好地满足飞行员培训市场的需求。",
+        "metadata": {
+            "id": "fewnerd_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        42,
+                        48
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        6
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The final stage in the development of the Skyfox was the production of a model with tricycle landing gear to better cater for the pilot training market .",
+        "target": "Skyfox 研发的最后阶段是生产一种配备三轮起落架的机型，以更好地满足飞行员培训市场的需求。",
+        "metadata": {
+            "id": "fewnerd_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        42,
+                        48
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        6
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The play is set to return to the United States , originally to open on Broadway at the Nederlander Theatre on 7 March 2020 in previews , officially on 26 March .",
+        "target": "该剧计划重返美国，原定于 2020 年 3 月 7 日在百老汇的尼德兰剧院开始试演，并于 3 月 26 日正式首演。",
+        "metadata": {
+            "id": "fewnerd_938_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        33,
+                        46
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        6,
+                        8
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        71,
+                        79
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        28,
+                        31
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        87,
+                        106
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        32,
+                        37
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The play is set to return to the United States , originally to open on Broadway at the Nederlander Theatre on 7 March 2020 in previews , officially on 26 March .",
+        "target": "该剧计划重返美国，原定于2020年3月7日在尼德兰剧院开始百老汇试演，并于3月26日正式首演。",
+        "metadata": {
+            "id": "fewnerd_938_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        33,
+                        46
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        6,
+                        8
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        71,
+                        79
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        29,
+                        32
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        87,
+                        106
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        22,
+                        27
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Letter from Birmingham Jail , also known as the Letter from Birmingham City Jail and The Negro Is Your Brother , is an open letter written on April 16 , 1963 , by Martin Luther King Jr . The letter defends the strategy of nonviolent resistance to racism . It says that people have a moral responsibility to break unjust laws and to take direct action rather than waiting potentially forever for justice to come through the courts . Responding to being referred to as an `` outsider , '' King writes , `` Injustice anywhere is a threat to justice everywhere '' . The letter , written during the 1963 Birmingham campaign , was widely published , and became an important text for the American Civil Rights Movement .",
+        "target": "《伯明翰监狱来信》，又称《伯明翰市监狱来信》和《黑人就是你的兄弟》，是马丁·路德·金于1963年4月16日撰写的一封公开信。信中为非暴力抵抗种族主义的策略进行辩护。信中指出，人们有道义责任去违反不公正的法律，并采取直接行动，而不是可能永远等待司法系统带来正义。针对被称作“外来者”的指责，金写道：“任何地方的不正义都是对所有地方正义的威胁。” 这封信写于1963年伯明翰运动期间，广泛发表后，成为美国民权运动的重要文献。",
+        "metadata": {
+            "id": "multispanqa_0_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        210,
+                        257
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        65,
+                        77
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        287,
+                        433
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        90,
+                        129
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Letter from Birmingham Jail , also known as the Letter from Birmingham City Jail and The Negro Is Your Brother , is an open letter written on April 16 , 1963 , by Martin Luther King Jr . The letter defends the strategy of nonviolent resistance to racism . It says that people have a moral responsibility to break unjust laws and to take direct action rather than waiting potentially forever for justice to come through the courts . Responding to being referred to as an `` outsider , '' King writes , `` Injustice anywhere is a threat to justice everywhere '' . The letter , written during the 1963 Birmingham campaign , was widely published , and became an important text for the American Civil Rights Movement .",
+        "target": "《伯明翰监狱来信》，又称《伯明翰市监狱来信》和《黑人就是你的兄弟》，是马丁·路德·金于1963年4月16日撰写的一封公开信。信中捍卫了以非暴力方式抵抗种族主义的策略。信中指出，人们有道德责任去违背不公正的法律，并采取直接行动，而不是可能永远等待司法系统带来正义。针对被称作“外人”的指责，金写道：“任何地方的不正义都是对所有地方正义的威胁。” 这封信写于1963年伯明翰运动期间，被广泛发表，成为美国民权运动的重要文献。",
+        "metadata": {
+            "id": "multispanqa_0_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        210,
+                        257
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        67,
+                        82
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        287,
+                        433
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        88,
+                        130
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Mohenjo - daro was built in the 26th century BCE . It was one of the largest cities of the ancient Indus Valley Civilization , also known as the Harappan Civilization , which developed around 3,000 BCE from the prehistoric Indus culture . At its height , the Indus Civilization spanned much of what is now Pakistan and North India , extending westwards to the Iranian border , south to Gujarat in India and northwards to an outpost in Bactria , with major urban centers at Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira and Rakhigarhi . Mohenjo - daro was the most advanced city of its time , with remarkably sophisticated civil engineering and urban planning . When the Indus civilization went into sudden decline around 1900 BCE , Mohenjo - daro was abandoned . The ruins of the city remained undocumented for around 3,700 years until R.D. Banerji , an officer of the Archaeological Survey of India , visited the site in 1919 -- 20 , identifying the Buddhist stupa ( 150 -- 500 CE ) known to be there and finding a flint scraper which convinced him of the site 's antiquity . This led to large - scale excavations of Mohenjo - daro led by Kashinath Narayan Dikshit in 1924 -- 25 , and John Marshall in 1925 -- 26 . In the 1930s , major excavations were conducted at the site under the leadership of Marshall , D.K. Dikshitar and Ernest Mackay . Further excavations were carried out in 1945 by Ahmad Hasan Dani and Mortimer Wheeler . The last major series of excavations were conducted in 1964 and 1965 by Dr. George F. Dales .",
+        "target": "摩亨佐-达罗建于公元前26世纪。它是古代印度河流域文明中最大的城市之一，该文明也被称为哈拉帕文明，起源于公元前3000年左右的史前印度河文化。在其鼎盛时期，印度河文明覆盖了现今巴基斯坦和印度北部的大部分地区，向西延伸至伊朗边境，向南延伸至印度的古吉拉特邦，向北延伸至巴克特里亚的一个前哨，主要城市包括哈拉帕、摩亨佐-达罗、洛塔尔、卡利班甘、多拉维拉和拉基加尔希。摩亨佐-达罗是当时最先进的城市，拥有极其复杂的土木工程和城市规划。当印度河文明在公元前1900年左右突然衰落时，摩亨佐-达罗被废弃。该城废墟在未经记录的状态下保持了约3700年，直到印度考古局官员R.D. Banerji于1919年至1920年访问该遗址，他确认了已知存在的佛教佛塔（公元150至500年）并发现了一块燧石刮刀，确信该遗址的古老性。这促使Kashinath Narayan Dikshit于1924至1925年领导了摩亨佐-达罗的大规模发掘工作，随后John Marshall于1925至1926年继续发掘。1930年代，Marshall、D.K. Dikshitar和Ernest Mackay领导下在该遗址进行了重大发掘。1945年，Ahmad Hasan Dani和Mortimer Wheeler进行了进一步的发掘。而1964年和1965年，Dr. George F. Dales主持了最后一轮重要发掘。",
+        "metadata": {
+            "id": "multispanqa_52_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        1153,
+                        1178
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        358,
+                        383
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        1199,
+                        1212
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        414,
+                        427
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        1324,
+                        1338
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        459,
+                        473
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        1343,
+                        1356
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        474,
+                        487
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        1407,
+                        1423
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        508,
+                        524
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        1428,
+                        1444
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        525,
+                        541
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1523,
+                        1538
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        568,
+                        583
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Mohenjo - daro was built in the 26th century BCE . It was one of the largest cities of the ancient Indus Valley Civilization , also known as the Harappan Civilization , which developed around 3,000 BCE from the prehistoric Indus culture . At its height , the Indus Civilization spanned much of what is now Pakistan and North India , extending westwards to the Iranian border , south to Gujarat in India and northwards to an outpost in Bactria , with major urban centers at Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira and Rakhigarhi . Mohenjo - daro was the most advanced city of its time , with remarkably sophisticated civil engineering and urban planning . When the Indus civilization went into sudden decline around 1900 BCE , Mohenjo - daro was abandoned . The ruins of the city remained undocumented for around 3,700 years until R.D. Banerji , an officer of the Archaeological Survey of India , visited the site in 1919 -- 20 , identifying the Buddhist stupa ( 150 -- 500 CE ) known to be there and finding a flint scraper which convinced him of the site 's antiquity . This led to large - scale excavations of Mohenjo - daro led by Kashinath Narayan Dikshit in 1924 -- 25 , and John Marshall in 1925 -- 26 . In the 1930s , major excavations were conducted at the site under the leadership of Marshall , D.K. Dikshitar and Ernest Mackay . Further excavations were carried out in 1945 by Ahmad Hasan Dani and Mortimer Wheeler . The last major series of excavations were conducted in 1964 and 1965 by Dr. George F. Dales .",
+        "target": "摩亨佐-达罗建于公元前26世纪。它是古代印度河流域文明中最大的城市之一，该文明也被称为哈拉帕文明，起源于公元前3000年左右的史前印度河文化。在其鼎盛时期，印度河文明覆盖了现今巴基斯坦和北印度的大部分地区，向西延伸至伊朗边界，向南延伸至印度古吉拉特邦，向北延伸至巴克特里亚的前哨站，主要城市中心有哈拉帕、摩亨佐-达罗、罗塔尔、卡利班根、多拉维拉和拉基加尔希。摩亨佐-达罗是当时最先进的城市，拥有极为精密的土木工程和城市规划。约公元前1900年印度河文明突然衰落，摩亨佐-达罗被废弃。该城市遗址在未被记录的状态下保存了约3700年，直到1919年至1920年间，印度考古调查局官员R.D.巴内尔吉拜访该遗址，确定了那里存在的佛教佛塔（公元150至500年），并发现了一把燧石刮刀，使他确信该遗址的古老性。此后，卡西纳斯·纳拉扬·迪克希特于1924至1925年和约翰·马歇尔于1925至1926年领导了对摩亨佐-达罗的大规模发掘。1930年代，马歇尔、D.K.迪克希塔和欧内斯特·麦凯领导了该遗址的主要发掘。1945年，艾哈迈德·哈桑·达尼和莫提默·惠勒进行了进一步发掘。1964年和1965年，乔治·F·戴尔斯博士进行了最后一轮大型发掘。",
+        "metadata": {
+            "id": "multispanqa_52_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        1153,
+                        1178
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        354,
+                        367
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        1199,
+                        1212
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        379,
+                        385
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        1324,
+                        1338
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        424,
+                        432
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        1343,
+                        1356
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        433,
+                        440
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        1407,
+                        1423
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        458,
+                        468
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        1428,
+                        1444
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        469,
+                        475
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1523,
+                        1538
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        496,
+                        506
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Comets may possibly have been a source of water delivery to the earth along with organic matter that can form proteins and support life. Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago.",
+        "target": "彗星可能一直是向地球输送水分的来源，同时也带来了可以形成蛋白质和支持生命的有机物。科学家们希望了解行星的形成方式，特别是地球是如何形成的，因为彗星很久以前就与地球发生了碰撞。",
+        "metadata": {
+            "id": "belebeleqa_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        167,
+                        216
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        49,
+                        68
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Comets may possibly have been a source of water delivery to the earth along with organic matter that can form proteins and support life. Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago.",
+        "target": "彗星可能一直是向地球输送水以及能够形成蛋白质和支持生命有机物质的来源。科学家们希望了解行星是如何形成的，特别是地球是如何形成的，因为彗星很久以前就与地球相撞过。",
+        "metadata": {
+            "id": "belebeleqa_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        167,
+                        216
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        43,
+                        63
+                    ]
+                ]
+            }
+        ]
+    }
+]

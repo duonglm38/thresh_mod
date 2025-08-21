@@ -1,0 +1,884 @@
+[
+    {
+        "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
+        "target": "保诚提出的股票要约价值为 265 亿美元，但在保诚股价在公告后暴跌后，该要约价值降至略高于200 亿美元。美国国际集团 (AIG) 随后介入并提出了230 亿美元的报价，美国通用已接受该报价。",
+        "metadata": {
+            "id": "fire_22_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        12
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        2
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        13,
+                        16
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        37,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        5,
+                        7
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        68,
+                        79
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        45,
+                        52
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        85,
+                        97
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        23,
+                        25
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        98,
+                        104
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        25,
+                        27
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        139,
+                        142
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        53,
+                        65
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        171,
+                        182
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        74,
+                        81
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        205,
+                        221
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        85,
+                        89
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
+        "target": "保诚公司提出的265亿美元股票报价，在公告发布后保诚股价暴跌，已降至略高于200亿美元。随后，美国国际集团（AIG）提出230亿美元的报价，并被美国通用公司（American General）接受。",
+        "metadata": {
+            "id": "fire_22_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        12
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        4
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        13,
+                        16
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        15,
+                        17
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        37,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        13,
+                        15
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        68,
+                        79
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        34,
+                        43
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        85,
+                        97
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        24,
+                        26
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        98,
+                        104
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        26,
+                        28
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        139,
+                        142
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        47,
+                        58
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        171,
+                        182
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        60,
+                        66
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        205,
+                        221
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        72,
+                        96
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The primary backdoor used in the Epic attacks is also known as '' WorldCupSec '' , '' TadjMakhal '' , '' Wipbot '' or '' Tavdig '' .",
+        "target": "主要后门 在 Epic 攻击中使用 的，也被称为“WorldCupSec”、“TadjMakhal”、“Wipbot”或“Tavdig”。",
+        "metadata": {
+            "id": "malwaretextdb_0_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        20
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        4
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        21,
+                        25
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        5,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        26,
+                        28
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        7,
+                        17
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        29,
+                        45
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The primary backdoor used in the Epic attacks is also known as '' WorldCupSec '' , '' TadjMakhal '' , '' Wipbot '' or '' Tavdig '' .",
+        "target": "在“史诗”攻击中使用的主要后门也被称为“WorldCupSec”、“TadjMakhal”、“Wipbot”或“Tavdig”。",
+        "metadata": {
+            "id": "malwaretextdb_0_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        20
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        11,
+                        15
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        21,
+                        25
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        10
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        26,
+                        28
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        29,
+                        45
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        1,
+                        8
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
+        "target": "Epic 后门由庞大的被黑服务器网络控制，提供指挥和控制功能。",
+        "metadata": {
+            "id": "malwaretextdb_21_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        18
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        7
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        19,
+                        32
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        7,
+                        8
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        36,
+                        68
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        18
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        74,
+                        81
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        21
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        82,
+                        115
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        21,
+                        30
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
+        "target": "Epic后门由一个庞大的被黑服务器网络控制，这些服务器提供指挥和控制功能。",
+        "metadata": {
+            "id": "malwaretextdb_21_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        18
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        19,
+                        32
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        19,
+                        21
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        36,
+                        68
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        7,
+                        19
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        74,
+                        81
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        27,
+                        29
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        82,
+                        115
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        29,
+                        36
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.",
+        "target": "但是又有一个被推送出来了，今天，所以有可能这个问题终于，彻底解决了。",
+        "metadata": {
+            "id": "casie_0_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        15
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        2,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        16,
+                        30
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        6,
+                        12
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        31,
+                        36
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        13,
+                        15
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        60,
+                        69
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        21,
+                        25
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        83,
+                        99
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        28,
+                        33
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.",
+        "target": "但今天又发布了一个版本，所以可能这个问题终于、彻底地修复了。",
+        "metadata": {
+            "id": "casie_0_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        15
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        3,
+                        11
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        16,
+                        30
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        31,
+                        36
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        1,
+                        3
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        60,
+                        69
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        16,
+                        20
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        83,
+                        99
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        23,
+                        29
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
+        "target": "当微软发布补丁时，它感谢了哈森，这位来自FireEye的研究人员以及其自身员工。",
+        "metadata": {
+            "id": "casie_9_6_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        5,
+                        14
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        1,
+                        3
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        15,
+                        22
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
+        "target": "当微软发布补丁时，感谢了汉森（FireEye 的研究人员）以及其自身员工。",
+        "metadata": {
+            "id": "casie_9_6_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        5,
+                        14
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        1,
+                        3
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        15,
+                        22
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        3,
+                        7
+                    ]
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,566 @@
+[
+    {
+        "source": "shannon is an unincorporated community in mason county , kentucky , united states . the village is southwest of mason city on u . s . route 40 , in the township of pine hill . the highest point in the community is dominated by a prominent limestone cliff and a mound built by the first settlers of the area . the original limestone lined earthwork is 2 ¹⁄₂ stories - high and 10 feet in diameter . historical holes in the mound have allowed further study and more precise dating of the mound ' s location . shannon is part of the mason city metropolitan statistical area statistical area .",
+        "target": "香农是美国肯塔基州梅森县的一个非建制社区。该村庄位于梅森市的西南方向，靠近美国40号公路，在松山乡。该社区的最高点由一个突出的石灰岩悬崖和一个由该地区最早的定居者建造的土墩组成。最初的石灰岩衬里的土方工程高约2¹⁄₂层，直径10英尺。土墩中的历史洞穴允许进一步研究和对土墩位置的更精确测定。香农是梅森城市区统计区的一部分。",
+        "id": "hades_87_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                128,
+                144
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                496,
+                504
+            ]
+        ],
+        "reference": "香农是美国肯塔基州梅森县的一个非合并社区。该村位于梅森市西南部，沿美国40号公路，位于松山镇。社区的最高点被一座显著的石灰岩悬崖和由该地区的第一批开拓者修建的土墩所主导。原始的石灰岩衬砌土工作为2 ¹⁄₂层高，直径10英尺。土墩上的历史洞穴使得对土墩位置的进一步研究和更精确的日期确定成为可能。香农是梅森市大都市统计区的一部分。"
+    },
+    {
+        "source": "shannon is an unincorporated community in mason county , kentucky , united states . the village is southwest of mason city on u . s . route 40 , in the township of pine hill . the highest point in the community is dominated by a prominent limestone cliff and a mound built by the first settlers of the area . the original limestone lined earthwork is 2 ¹⁄₂ stories - high and 10 feet in diameter . historical holes in the mound have allowed further study and more precise dating of the mound ' s location . shannon is part of the mason city metropolitan statistical area statistical area .",
+        "target": "香农是美国肯塔基州梅森县的一个非建制社区。该村庄位于美国40号公路的梅森市西南方，在松丘乡。该社区的最高点由一座突出的石灰岩悬崖和早期定居者建造的土堆所占据。最初的石灰岩衬砌土丘高约2¹⁄₂层，直径10英尺。土丘上的历史性洞穴允许进一步研究并更精确地确定土丘的位置。香农是梅森城市统计区的一部分。",
+        "id": "hades_87_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                122,
+                132
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                496,
+                504
+            ]
+        ],
+        "reference": "香农是美国肯塔基州梅森县的一个非合并社区。该村位于梅森市西南部，沿美国40号公路，位于松山镇。社区的最高点被一座显著的石灰岩悬崖和由该地区的第一批开拓者修建的土墩所主导。原始的石灰岩衬砌土工作为2 ¹⁄₂层高，直径10英尺。土墩上的历史洞穴使得对土墩位置的进一步研究和更精确的日期确定成为可能。香农是梅森市大都市统计区的一部分。"
+    },
+    {
+        "source": "The image features a red street sign that reads \"LIKE A BRICK FITTCHEN.\" The sign is mounted on a pole, and it stands out against the background of the snowy cityscape.",
+        "target": "该图像中有一块红色的街道路牌，上面写着“LIKE A BRICK FITTCHEN”。路牌安装在一根杆子上，在雪景城市背景的映衬下格外显眼。",
+        "id": "mhal_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                54,
+                70
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                104,
+                168
+            ]
+        ],
+        "reference": "这幅图像展示了一个红色的街道标志，上面写着“像一块砖砖”。这个标志安装在一个杆子上，在雪白的城市风景背景中显得格外突出。"
+    },
+    {
+        "source": "The image features a red street sign that reads \"LIKE A BRICK FITTCHEN.\" The sign is mounted on a pole, and it stands out against the background of the snowy cityscape.",
+        "target": "图片中有一块红色的街道标志，上面写着“LIKE A BRICK FITTCHEN”。标志安装在一根杆子上，在雪景城市背景的衬托下格外显眼。",
+        "id": "mhal_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                53,
+                69
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                104,
+                168
+            ]
+        ],
+        "reference": "这幅图像展示了一个红色的街道标志，上面写着“像一块砖砖”。这个标志安装在一个杆子上，在雪白的城市风景背景中显得格外突出。"
+    },
+    {
+        "source": "In the image, there are two cats sitting on a carpeted floor. One of the cats is orange and the other is black. The cats are positioned close to each other, creating a cozy and intimate atmosphere. The carpet provides a soft and comfortable surface for the cats to rest on. The overall mood of the image is peaceful and relaxed, as the cats seem to be enjoying each other's company while resting on the carpet.",
+        "target": "图片中有两只猫坐在铺有地毯的地板上。其中一只猫是橙色的，另一只是黑色的。猫咪们靠得很近，营造出一种温馨亲密的氛围。地毯为猫咪们提供了一个柔软舒适的休息表面。整体画面氛围宁静而放松，猫咪们似乎在享受彼此的陪伴，安静地休息在地毯上。",
+        "id": "mhal_114_gpt4_ez",
+        "target_focus_areas": [
+            [
+                44,
+                114
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                157,
+                197
+            ],
+            [
+                198,
+                273
+            ],
+            [
+                274,
+                409
+            ]
+        ],
+        "reference": "在图片中，有两只猫坐在地毯上。一只猫是橙色的，另一只是黑色的。这两只猫靠得很近，营造出了温馨和亲密的氛围。地毯为猫提供了一个柔软舒适的休息表面。整体画面的氛围是宁静和放松的，因为这些猫似乎在享受彼此的陪伴，同时在地毯上休息。"
+    },
+    {
+        "source": "In the image, there are two cats sitting on a carpeted floor. One of the cats is orange and the other is black. The cats are positioned close to each other, creating a cozy and intimate atmosphere. The carpet provides a soft and comfortable surface for the cats to rest on. The overall mood of the image is peaceful and relaxed, as the cats seem to be enjoying each other's company while resting on the carpet.",
+        "target": "图片中有两只猫坐在铺有地毯的地板上。其中一只猫是橘色的，另一只是黑色的。两只猫靠得很近，营造出一种温馨亲密的氛围。地毯为猫咪提供了一个柔软舒适的休息表面。整张图片的氛围宁静而放松，猫咪们似乎在享受彼此的陪伴，安然地躺在地毯上。",
+        "id": "mhal_114_gpt4_clap",
+        "target_focus_areas": [
+            [
+                44,
+                113
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                157,
+                197
+            ],
+            [
+                198,
+                273
+            ],
+            [
+                274,
+                409
+            ]
+        ],
+        "reference": "在图片中，有两只猫坐在地毯上。一只猫是橙色的，另一只是黑色的。这两只猫靠得很近，营造出了温馨和亲密的氛围。地毯为猫提供了一个柔软舒适的休息表面。整体画面的氛围是宁静和放松的，因为这些猫似乎在享受彼此的陪伴，同时在地毯上休息。"
+    },
+    {
+        "source": "in this image in the foreground there is one man who is holding some vegetables it seems and walking, and on the right side there is one person who is standing and it looks like there are some vegetables. and there are some poles and plastic covers, and there is a wire. on the wire there are some clothes and some ropes, and in the background also there are poles and we could see roof at the top and there are trees and buildings on the left side and one woman and one child who is holding a cup and eating something. and there are some clothes and we could see some doors, wall and at the bottom there is floor. and in the center there are some poles, and at the top there is sky.",
+        "target": "在这张图片的前景中，有一个男人，他正在拿着一些蔬菜，并走着。在右边，有一个人正在站着，看起来那里也有一些蔬菜。还有一些杆子和塑料布，以及一根电线。在电线上，有一些衣服和一些绳子。在背景中，也有杆子，我们可以看到顶部的屋顶，左边有树木和建筑物，还有一个女人和一个孩子，他/她正在拿着一个杯子，吃着东西。还有一些衣服，我们可以看到一些门、墙，在底部有地板。在中心有一些杆子，在顶部是天空。",
+        "id": "cin_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                10,
+                15
+            ],
+            [
+                16,
+                25
+            ],
+            [
+                34,
+                42
+            ],
+            [
+                43,
+                54
+            ],
+            [
+                55,
+                65
+            ],
+            [
+                66,
+                72
+            ],
+            [
+                73,
+                77
+            ],
+            [
+                78,
+                88
+            ],
+            [
+                94,
+                98
+            ],
+            [
+                100,
+                110
+            ],
+            [
+                111,
+                120
+            ],
+            [
+                121,
+                132
+            ],
+            [
+                135,
+                144
+            ],
+            [
+                145,
+                149
+            ],
+            [
+                150,
+                156
+            ],
+            [
+                157,
+                166
+            ],
+            [
+                167,
+                168
+            ],
+            [
+                169,
+                175
+            ],
+            [
+                176,
+                184
+            ],
+            [
+                185,
+                191
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                41,
+                48
+            ],
+            [
+                49,
+                52
+            ],
+            [
+                64,
+                79
+            ],
+            [
+                133,
+                143
+            ],
+            [
+                144,
+                147
+            ],
+            [
+                188,
+                203
+            ],
+            [
+                219,
+                229
+            ],
+            [
+                234,
+                248
+            ],
+            [
+                263,
+                269
+            ],
+            [
+                274,
+                282
+            ],
+            [
+                293,
+                305
+            ],
+            [
+                310,
+                320
+            ],
+            [
+                359,
+                364
+            ],
+            [
+                382,
+                386
+            ],
+            [
+                412,
+                417
+            ],
+            [
+                422,
+                431
+            ],
+            [
+                453,
+                462
+            ],
+            [
+                467,
+                476
+            ],
+            [
+                492,
+                497
+            ],
+            [
+                509,
+                518
+            ],
+            [
+                534,
+                546
+            ],
+            [
+                564,
+                574
+            ],
+            [
+                576,
+                580
+            ],
+            [
+                608,
+                613
+            ],
+            [
+                643,
+                653
+            ],
+            [
+                679,
+                682
+            ]
+        ],
+        "reference": "在这张图片的前景中，有一个男人似乎在拿着一些蔬菜走路，右侧有一个人站着，看起来那里也有一些蔬菜。还有一些杆子和塑料覆盖物，还有一根电线。电线上挂着一些衣服和绳子，在背景中我们也能看到杆子，顶部可以看到屋顶，左侧有树和建筑物，还有一个女人和一个正在拿杯子吃东西的孩子。还有一些衣服，我们可以看到一些门和墙，底部是地板。中心有一些杆子，顶部是天空。"
+    },
+    {
+        "source": "in this image in the foreground there is one man who is holding some vegetables it seems and walking, and on the right side there is one person who is standing and it looks like there are some vegetables. and there are some poles and plastic covers, and there is a wire. on the wire there are some clothes and some ropes, and in the background also there are poles and we could see roof at the top and there are trees and buildings on the left side and one woman and one child who is holding a cup and eating something. and there are some clothes and we could see some doors, wall and at the bottom there is floor. and in the center there are some poles, and at the top there is sky.",
+        "target": "在这张图片的前景，有一个男人似乎拿着一些蔬菜在走路，右边有一个人站着，看起来那里有一些蔬菜。还有一些杆子和塑料布，还有一根电线。电线上挂着一些衣服和绳子，背景中也有杆子，我们可以看到顶部的屋顶，左边有树木和建筑物，还有一个女人和一个孩子，孩子手里拿着杯子在吃东西。还有一些衣服，我们可以看到一些门、墙，底部是地板。在中心有一些杆子，顶部是天空。",
+        "id": "cin_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                9,
+                25
+            ],
+            [
+                26,
+                34
+            ],
+            [
+                35,
+                45
+            ],
+            [
+                46,
+                56
+            ],
+            [
+                57,
+                63
+            ],
+            [
+                64,
+                76
+            ],
+            [
+                77,
+                84
+            ],
+            [
+                86,
+                96
+            ],
+            [
+                97,
+                106
+            ],
+            [
+                107,
+                118
+            ],
+            [
+                119,
+                131
+            ],
+            [
+                132,
+                138
+            ],
+            [
+                139,
+                148
+            ],
+            [
+                149,
+                150
+            ],
+            [
+                151,
+                156
+            ],
+            [
+                157,
+                165
+            ],
+            [
+                166,
+                171
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                41,
+                48
+            ],
+            [
+                49,
+                52
+            ],
+            [
+                64,
+                79
+            ],
+            [
+                133,
+                143
+            ],
+            [
+                144,
+                147
+            ],
+            [
+                188,
+                203
+            ],
+            [
+                219,
+                229
+            ],
+            [
+                234,
+                248
+            ],
+            [
+                263,
+                269
+            ],
+            [
+                274,
+                282
+            ],
+            [
+                293,
+                305
+            ],
+            [
+                310,
+                320
+            ],
+            [
+                359,
+                364
+            ],
+            [
+                382,
+                386
+            ],
+            [
+                412,
+                417
+            ],
+            [
+                422,
+                431
+            ],
+            [
+                453,
+                462
+            ],
+            [
+                467,
+                476
+            ],
+            [
+                492,
+                497
+            ],
+            [
+                509,
+                518
+            ],
+            [
+                534,
+                546
+            ],
+            [
+                564,
+                574
+            ],
+            [
+                576,
+                580
+            ],
+            [
+                608,
+                613
+            ],
+            [
+                643,
+                653
+            ],
+            [
+                679,
+                682
+            ]
+        ],
+        "reference": "在这张图片的前景中，有一个男人似乎在拿着一些蔬菜走路，右侧有一个人站着，看起来那里也有一些蔬菜。还有一些杆子和塑料覆盖物，还有一根电线。电线上挂着一些衣服和绳子，在背景中我们也能看到杆子，顶部可以看到屋顶，左侧有树和建筑物，还有一个女人和一个正在拿杯子吃东西的孩子。还有一些衣服，我们可以看到一些门和墙，底部是地板。中心有一些杆子，顶部是天空。"
+    },
+    {
+        "source": "Earlier , he visited Our Lady Queen of Angels School in East Harlem .",
+        "target": "早些时候，他 参观了 天使圣母学校，位于东哈莱姆。",
+        "id": "m2e2_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                5,
+                17
+            ],
+            [
+                18,
+                24
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                12
+            ],
+            [
+                13,
+                20
+            ],
+            [
+                39,
+                52
+            ],
+            [
+                56,
+                67
+            ]
+        ],
+        "reference": "早些时候，他访问了位于东哈莱姆的天主教圣母天使学校。"
+    },
+    {
+        "source": "Earlier , he visited Our Lady Queen of Angels School in East Harlem .",
+        "target": "此前，他访问了东哈莱姆的天使之后学校。",
+        "id": "m2e2_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                3,
+                18
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                12
+            ],
+            [
+                13,
+                20
+            ],
+            [
+                39,
+                52
+            ],
+            [
+                56,
+                67
+            ]
+        ],
+        "reference": "早些时候，他访问了位于东哈莱姆的天主教圣母天使学校。"
+    }
+]

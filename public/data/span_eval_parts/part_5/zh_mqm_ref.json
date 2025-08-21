@@ -1,0 +1,262 @@
+[
+    {
+        "source": "Veterans Slam Government for Shifting Goalpost",
+        "target": "退伍军人抨击政府 因 不断更改标准",
+        "id": "recess_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                0,
+                17
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                24
+            ],
+            [
+                25,
+                28
+            ],
+            [
+                29,
+                46
+            ]
+        ],
+        "reference": "退伍军人抨击政府改变目标"
+    },
+    {
+        "source": "Veterans Slam Government for Shifting Goalpost",
+        "target": "退伍军人抨击政府不断改变标准",
+        "id": "recess_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                0,
+                14
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                24
+            ],
+            [
+                25,
+                28
+            ],
+            [
+                29,
+                46
+            ]
+        ],
+        "reference": "退伍军人抨击政府改变目标"
+    },
+    {
+        "source": "04th September 2015 04:21 AM NEW DELHI : Deadlock over the ‘ One rank One Pension ’ ( OROP ) scheme persisted on Thursday with agitating ex-servicemen accusing the government of “ constantly shifting the goalpost ” and not coming out with any “ concrete proposal ” to resolve the issue .",
+        "target": "2015年9月4日凌晨4:21 新德里：“同一等级同等待遇”（OROP）方案的僵局在周四持续，抗议的退役军人指责政府“不断改变规则”，且未提出任何“具体方案”来解决该问题。",
+        "id": "recess_2_gpt4_ez",
+        "target_focus_areas": [
+            [
+                20,
+                46
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                41,
+                49
+            ],
+            [
+                50,
+                54
+            ],
+            [
+                55,
+                99
+            ]
+        ],
+        "reference": "2015年9月4日 04:21 新德里：关于‘同岗同薪’（OROP）计划的僵局在星期四继续存在，抗议的退伍军人指责政府“不断改变目标”，并没有提出任何“具体建议”来解决这一问题。"
+    },
+    {
+        "source": "04th September 2015 04:21 AM NEW DELHI : Deadlock over the ‘ One rank One Pension ’ ( OROP ) scheme persisted on Thursday with agitating ex-servicemen accusing the government of “ constantly shifting the goalpost ” and not coming out with any “ concrete proposal ” to resolve the issue .",
+        "target": "2015年9月4日凌晨4:21 新德里：关于“同级同酬养老金”（OROP）计划的僵局周四依旧存在，抗议的退伍军人指责政府“不断改变目标”，没有拿出任何“切实的提案”来解决这一问题。",
+        "id": "recess_2_gpt4_clap",
+        "target_focus_areas": [
+            [
+                20,
+                48
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                41,
+                49
+            ],
+            [
+                50,
+                54
+            ],
+            [
+                55,
+                99
+            ]
+        ],
+        "reference": "2015年9月4日 04:21 新德里：关于‘同岗同薪’（OROP）计划的僵局在星期四继续存在，抗议的退伍军人指责政府“不断改变目标”，并没有提出任何“具体建议”来解决这一问题。"
+    },
+    {
+        "source": "Warren should not have taken the test; having taken it, she should not have publicized it; having publicized it, she should quietly fire anyone who urged this gambit and move on.",
+        "target": "沃伦不应该参加那个测试；既然参加了，她就不应该公开它；既然公开了，她应该悄悄解雇任何怂恿这一冒险行为的人，然后继续前进。",
+        "id": "semeval20task5_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                0,
+                11
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                37
+            ]
+        ],
+        "reference": "沃伦不应该参加考试；参加之后，她不应该公开它；公开之后，她应该默默解雇任何鼓励这个策略的人，并继续前进。"
+    },
+    {
+        "source": "Warren should not have taken the test; having taken it, she should not have publicized it; having publicized it, she should quietly fire anyone who urged this gambit and move on.",
+        "target": "沃伦不应该参加那个测试；参加了之后，她不应该公开它；公开了之后，她应该悄悄地解雇任何怂恿这一冒险行为的人，然后继续前进。",
+        "id": "semeval20task5_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                0,
+                11
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                37
+            ]
+        ],
+        "reference": "沃伦不应该参加考试；参加之后，她不应该公开它；公开之后，她应该默默解雇任何鼓励这个策略的人，并继续前进。"
+    },
+    {
+        "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
+        "target": "认为贝尔斯登事件的影响仅限于少数华尔街公司这种想法根本站不住脚。”迪蒙表示，如果没有美联储的财务支持，他们公司绝不会同意接管贝尔斯登，他还表示，摩根大通也已同意为贝尔斯登从央行借入的250亿美元提供担保。",
+        "id": "semeval20task5_35_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                0,
+                29
+            ],
+            [
+                38,
+                66
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                1,
+                90
+            ],
+            [
+                118,
+                166
+            ]
+        ],
+        "reference": "“贝尔斯登的后果仅限于少数华尔街公司这一想法并不正确。”迪蒙表示，他的公司在没有美联储的财政支持下不会同意接管贝尔斯登，并表示摩根大通还同意担保贝尔斯登从中央银行借来的250亿美元。"
+    },
+    {
+        "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
+        "target": "“认为贝尔斯登的负面影响仅限于少数华尔街公司，这种想法根本站不住脚。”迪蒙表示，他的公司不会在美联储没有提供财务支持的情况下接手贝尔斯登，他还表示，摩根大通也同意为贝尔斯登从央行借入的250亿美元提供担保。",
+        "id": "semeval20task5_35_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                0,
+                22
+            ],
+            [
+                40,
+                68
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                1,
+                90
+            ],
+            [
+                118,
+                166
+            ]
+        ],
+        "reference": "“贝尔斯登的后果仅限于少数华尔街公司这一想法并不正确。”迪蒙表示，他的公司在没有美联储的财政支持下不会同意接管贝尔斯登，并表示摩根大通还同意担保贝尔斯登从中央银行借来的250亿美元。"
+    },
+    {
+        "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
+        "target": "最近，三维（3D）卷积神经网络（CNNs）作为捕捉视频时空表示的主流方法出现，通过为已有的二维 CNNs增加第三个时间维度。",
+        "id": "scier_0_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                9,
+                15
+            ],
+            [
+                16,
+                20
+            ],
+            [
+                39,
+                60
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                36,
+                65
+            ],
+            [
+                68,
+                72
+            ],
+            [
+                190,
+                197
+            ]
+        ],
+        "reference": "最近，三维（3D）卷积神经网络（CNN）作为捕捉视频中的时空表示的主流方法出现，通过在已有的2D CNN上添加第三个时间维度。"
+    },
+    {
+        "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
+        "target": "最近，三维（3D）卷积神经网络（CNN）作为捕捉视频时空特征的主流方法出现，通过在现有的二维CNN基础上增加第三个时间维度。",
+        "id": "scier_0_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                9,
+                15
+            ],
+            [
+                16,
+                19
+            ],
+            [
+                38,
+                57
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                36,
+                65
+            ],
+            [
+                68,
+                72
+            ],
+            [
+                190,
+                197
+            ]
+        ],
+        "reference": "最近，三维（3D）卷积神经网络（CNN）作为捕捉视频中的时空表示的主流方法出现，通过在已有的2D CNN上添加第三个时间维度。"
+    }
+]

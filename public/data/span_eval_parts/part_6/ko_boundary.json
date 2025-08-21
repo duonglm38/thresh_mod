@@ -1,0 +1,1632 @@
+[
+    {
+        "source": "The human cell lines of breast cancer (MCF-7), colon adenocarcinoma (HT-29), and leukemia (CCRF/CEM) were obtained from American Type Culture Collection (Rockville, Maryland, USA) and maintained in the Cell Culture Collection at the Institute of Immunology and Experimental Therapy, Wroclaw, Poland.\n",
+        "target": "인간 암세포주인 유방암(MCF-7), 대장 선암(HT-29) 및 백혈병(CCRF/CEM)은 미국 세포 배양 컬렉션(미국 메릴랜드 주 로크빌)으로부터 확보되었으며, 폴란드 브로츠와프의 면역학 및 실험 치료 연구소의 세포 배양 컬렉션에서 유지되었다.",
+        "metadata": {
+            "id": "pubmed_0_2_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        20
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        7
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        24,
+                        37
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        9,
+                        12
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        39,
+                        44
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        13,
+                        18
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        47,
+                        67
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        21,
+                        26
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        69,
+                        74
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        27,
+                        32
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        81,
+                        89
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        36,
+                        39
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        91,
+                        99
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        40,
+                        48
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        106,
+                        114
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        83,
+                        85
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        120,
+                        152
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        51,
+                        63
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        184,
+                        194
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        131,
+                        133
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        202,
+                        225
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        119,
+                        128
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        233,
+                        281
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        102,
+                        117
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The human cell lines of breast cancer (MCF-7), colon adenocarcinoma (HT-29), and leukemia (CCRF/CEM) were obtained from American Type Culture Collection (Rockville, Maryland, USA) and maintained in the Cell Culture Collection at the Institute of Immunology and Experimental Therapy, Wroclaw, Poland.\n",
+        "target": "유방암(MCF-7), 결장 선암(HT-29), 백혈병(CCRF/CEM) 인간 세포주는 미국 유형 배양 컬렉션(미국 메릴랜드 주 로크빌)에서 얻었으며 폴란드 브로츠와프의 면역학 및 실험 치료 연구소의 세포 배양 컬렉션에서 유지했습니다.",
+        "metadata": {
+            "id": "pubmed_0_2_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        20
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        40,
+                        46
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        24,
+                        37
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        3
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        39,
+                        44
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        9
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        47,
+                        67
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        12,
+                        17
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        69,
+                        74
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        23
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        81,
+                        89
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        26,
+                        29
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        91,
+                        99
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        30,
+                        38
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        106,
+                        114
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        78,
+                        82
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        120,
+                        152
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        48,
+                        60
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        184,
+                        194
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        123,
+                        129
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        202,
+                        225
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        111,
+                        120
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        233,
+                        281
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        94,
+                        109
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "A solution of oxalyl chloride (0.97 ml) in dry dichloromethane (10 ml) was stirred at −55° C. under an atmosphere of dry nitrogen.\n",
+        "target": "옥살릴 클로라이드 (0.97 ml)를 건조한 디클로로메탄 (10 ml)에 녹인 용액을 건조한 질소 분위기 하에서 −55° C.에서  stirring 하였다.",
+        "metadata": {
+            "id": "chemsyn_0_2_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        2,
+                        10
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        44,
+                        46
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        14,
+                        29
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        9
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        31,
+                        38
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        11,
+                        18
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        43,
+                        46
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        21,
+                        24
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        47,
+                        62
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        25,
+                        31
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        64,
+                        69
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        33,
+                        38
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        75,
+                        82
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        73,
+                        82
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        86,
+                        93
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        63,
+                        70
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        103,
+                        113
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        48,
+                        51
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        117,
+                        120
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        121,
+                        129
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        52,
+                        54
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "A solution of oxalyl chloride (0.97 ml) in dry dichloromethane (10 ml) was stirred at −55° C. under an atmosphere of dry nitrogen.\n",
+        "target": "건조한 디클로로메탄(10 ml) 10 ml에 용해된 옥살릴 클로라이드(0.97 ml) 용액을 건조한 질소 분위기 하에서 −55°C에서 교반하였다.",
+        "metadata": {
+            "id": "chemsyn_0_2_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        2,
+                        10
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        48,
+                        51
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        14,
+                        29
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        29,
+                        38
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        31,
+                        38
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        39,
+                        46
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        43,
+                        46
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        3
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        47,
+                        62
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        10
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        64,
+                        69
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        23
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        75,
+                        82
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        75,
+                        80
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        86,
+                        93
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        67,
+                        74
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        103,
+                        113
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        59,
+                        62
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        117,
+                        120
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        52,
+                        55
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        121,
+                        129
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        56,
+                        58
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Contribution of a Speech Perception Intervention to the Prevention of Phonological Awareness Deficits in Children With Speech Sound Disorders | Recent research reveals genetic and symptomatic overlap among children with speech sound disorders (i.e., those who (misarticulate more sounds than would be expected for their age) and children with dyslexia (i.e., those who struggle to learn to read). Children who have speech sound disorders as preschoolers are at risk for the later emergence of dyslexia, a risk that often reveals itself in the form of poor phonological awareness skills during the preschool period. Traditional speech therapy methods focus on articulation accuracy and do not focus on the child's more abstract knowledge of the sound system of the language. The ultimate objective of this research program is to prevent reading disability in children who present with speech sounds disorders. The relative effectiveness of different interventions to help these children achieve age-appropriate phonological processing skills prior to school entry will be investigated. It is expected that a combination of treatment approaches that focus on speech perception skills and vocabulary knowledge will have a superior impact on phonological awareness in comparison with a treatment approach that focuses solely on articulation accuracy.",
+        "target": "음성 인지 중재가 언어 음운 장애 아동의 음운 인식 결손 예방에 기여하는 바 | 최근 연구는 언어 음운 장애(즉, 연령에 비해 더 많은 소리를 잘못 발음하는 아동)와 난독증(즉, 읽기 학습에 어려움을 겪는 아동) 사이에 유전적 및 증상상의 중복이 있음을 밝혀냈다. 유아기 때 언어 음운 장애가 있는 아동은 이후 난독증이 발생할 위험이 있으며, 이 위험은 종종 유아기 동안의 낮은 음운 인식 능력으로 나타난다. 전통적인 언어 치료 방법은 조음 정확성에 초점을 맞추고 있으며, 아동의 언어 음운 체계에 대한 보다 추상적인 지식에는 집중하지 않는다. 이 연구 프로그램의 궁극적인 목표는 언어 음운 장애를 가진 아동의 읽기 장애를 예방하는 것이다. 학교 입학 전에 이들 아동이 연령에 적합한 음운 처리 능력을 획득하도록 돕기 위한 다양한 중재의 상대적 효과가 조사될 예정이다. 음성 인지 능력과 어휘 지식에 초점을 맞춘 치료 접근법의 결합이 조음 정확성에만 초점을 둔 치료 접근법보다 음운 인식에 더 우수한 영향을 미칠 것으로 기대된다.",
+        "metadata": {
+            "id": "neuraltrial_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        22,
+                        52
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        8
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        123,
+                        145
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        10,
+                        18
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        224,
+                        246
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        52,
+                        60
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        419,
+                        441
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        154,
+                        162
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        888,
+                        911
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        325,
+                        333
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        1111,
+                        1210
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        431,
+                        465
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1286,
+                        1349
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        467,
+                        488
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Contribution of a Speech Perception Intervention to the Prevention of Phonological Awareness Deficits in Children With Speech Sound Disorders | Recent research reveals genetic and symptomatic overlap among children with speech sound disorders (i.e., those who (misarticulate more sounds than would be expected for their age) and children with dyslexia (i.e., those who struggle to learn to read). Children who have speech sound disorders as preschoolers are at risk for the later emergence of dyslexia, a risk that often reveals itself in the form of poor phonological awareness skills during the preschool period. Traditional speech therapy methods focus on articulation accuracy and do not focus on the child's more abstract knowledge of the sound system of the language. The ultimate objective of this research program is to prevent reading disability in children who present with speech sounds disorders. The relative effectiveness of different interventions to help these children achieve age-appropriate phonological processing skills prior to school entry will be investigated. It is expected that a combination of treatment approaches that focus on speech perception skills and vocabulary knowledge will have a superior impact on phonological awareness in comparison with a treatment approach that focuses solely on articulation accuracy.",
+        "target": "음성 지각 개입이 언어음운 인식 결핍 예방에 기여하는 바: 최근 연구는 언어음운 장애 아동(즉, 또래에 비해 더 많은 음을 부정확하게 발음하는 아동)과 난독증 아동(즉, 읽기 학습에 어려움을 겪는 아동) 사이에 유전적 및 증상적 중복이 있음을 밝히고 있다. 유아기 언어음운 장애를 가진 아동은 이후 난독증이 나타날 위험이 있으며, 이 위험은 주로 유아기 동안 음운 인식 능력의 저하 형태로 드러난다. 전통적인 언어 치료 방법은 조음 정확성에 초점을 맞추나, 아동의 언어 음운 체계에 대한 더 추상적인 지식에는 집중하지 않는다. 이 연구 프로그램의 궁극적 목표는 언어음운 장애를 가진 아동의 읽기 장애를 예방하는 것이다. 학교 입학 이전에 이 아동들이 또래 수준의 음운 처리 능력을 달성하도록 돕기 위해 다양한 개입 방법의 상대적 효과가 조사될 것이다. 음성 지각 기술과 어휘 지식에 중점을 둔 치료법의 병행이 조음 정확성만을 중점으로 하는 치료법보다 음운 인식에 더 우수한 영향을 미칠 것으로 예상된다.",
+        "metadata": {
+            "id": "neuraltrial_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        22,
+                        52
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        8
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        123,
+                        145
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        40,
+                        47
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        224,
+                        246
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        40,
+                        47
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        419,
+                        441
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        148,
+                        155
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        888,
+                        911
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        314,
+                        321
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        1111,
+                        1210
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        421,
+                        451
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1286,
+                        1349
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        453,
+                        473
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Intravenous sodium valproate versus diazepam infusion for the control of refractory status epilepticus in children : a randomized controlled trial . An open-label , randomized controlled study was conducted at a tertiary care teaching hospital to compare efficacy and safety of intravenous sodium valproate versus diazepam infusion for control of refractory status epilepticus . Forty children with refractory status epilepticus were randomized to receive either intravenous sodium valproate or diazepam infusion . Refractory status epilepticus was controlled in 80 % of the valproate and 85 % of the diazepam patients . The median time to control refractory status epilepticus was less in the valproate group ( 5 minutes ) than the diazepam group ( 17 minutes ; P $lt; .001 ) . None of the patients in the valproate group required ventilation or developed hypotension , whereas in the diazepam group 60 % required ventilation and 50 % developed hypotension after starting diazepam infusion . No adverse effects on liver functions were seen with valproate . It is concluded that intravenous sodium valproate is an effective alternative to diazepam infusion in controlling refractory status epilepticus in children and is free of respiratory depression and hypotension .",
+        "target": "정맥 주사 발프로산 나트륨과 디아제팜 주입을 이용한 소아의 난치성 지속성 간질 조절 비교 : 무작위 대조 시험. 개방 라벨, 무작위 대조 연구는 3차 의료 교육 병원에서 난치성 지속성 간질 조절을 위한 정맥 주사 발프로산 나트륨과 디아제팜 주입의 효능 및 안전성을 비교하기 위해 수행되었습니다. 난치성 지속성 간질을 앓고 있는 40명의 소아가 정맥 주사 발프로산 나트륨 또는 디아제팜 주입을 받도록 무작위 배정되었습니다. 발프로산 치료군은 80%, 디아제팜 치료군은 85%에서 난치성 지속성 간질이 조절되었습니다. 난치성 지속성 간질을 조절하는 데 걸리는 중앙값은 발프로산군(5분)이 디아제팜군(17분; P $lt; .001)보다 짧았습니다. 발프로산군 환자 중 누구도 인공호흡기 치료를 받거나 저혈압을 겪지 않았지만, 디아제팜군에서는 60%가 인공호흡기 치료를 받았고 디아제팜 주입 시작 후 50%가 저혈압을 겪었습니다. 발프로산 투여 시 간 기능에 대한 부작용은 관찰되지 않았습니다. 결론적으로, 정맥 주사 발프로산 나트륨은 소아의 난치성 지속성 간질 조절에 있어 디아제팜 주입의 효과적인 대안이며 호흡 억제 및 저혈압으로부터 자유롭습니다.",
+        "metadata": {
+            "id": "ebmpico_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        28
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        14
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        36,
+                        53
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        16,
+                        23
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        73,
+                        102
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        33,
+                        43
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        106,
+                        114
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        29,
+                        31
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        278,
+                        306
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        113,
+                        127
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        314,
+                        331
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        129,
+                        136
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        379,
+                        384
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        183,
+                        186
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        399,
+                        428
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        165,
+                        175
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        463,
+                        512
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        192,
+                        217
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        1202,
+                        1210
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        517,
+                        519
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Intravenous sodium valproate versus diazepam infusion for the control of refractory status epilepticus in children : a randomized controlled trial . An open-label , randomized controlled study was conducted at a tertiary care teaching hospital to compare efficacy and safety of intravenous sodium valproate versus diazepam infusion for control of refractory status epilepticus . Forty children with refractory status epilepticus were randomized to receive either intravenous sodium valproate or diazepam infusion . Refractory status epilepticus was controlled in 80 % of the valproate and 85 % of the diazepam patients . The median time to control refractory status epilepticus was less in the valproate group ( 5 minutes ) than the diazepam group ( 17 minutes ; P $lt; .001 ) . None of the patients in the valproate group required ventilation or developed hypotension , whereas in the diazepam group 60 % required ventilation and 50 % developed hypotension after starting diazepam infusion . No adverse effects on liver functions were seen with valproate . It is concluded that intravenous sodium valproate is an effective alternative to diazepam infusion in controlling refractory status epilepticus in children and is free of respiratory depression and hypotension .",
+        "target": "소아 난치성 간질 지속 상태 조절을 위한 정맥 주사 발프로산나트륨 대 디아제팜 주입 : 무작위 대조 시험. 개방 라벨, 무작위 대조 연구는 3차 의료 교육 병원에서 난치성 간질 지속 상태 조절을 위한 정맥 주사 발프로산나트륨 대 디아제팜 주입의 효능과 안전성을 비교하기 위해 수행되었다. 40명의 난치성 간질 지속 상태를 가진 어린이가 정맥 주사 발프로산나트륨 또는 디아제팜 주입을 받도록 무작위 배정되었다. 발프로산나트륨 그룹의 80%와 디아제팜 그룹의 85%에서 난치성 간질 지속 상태가 조절되었다. 난치성 간질 지속 상태를 조절하는 데 걸리는 중앙값은 발프로산나트륨 그룹(5분)이 디아제팜 그룹(17분; P $lt; .001)보다 짧았다. 발프로산나트륨 그룹의 환자 중 누구도 인공호흡기 치료를 받거나 저혈압이 발생하지 않았지만, 디아제팜 그룹에서는 60%가 인공호흡기 치료가 필요했고 디아제팜 주입 시작 후 50%에서 저혈압이 발생했다. 발프로산나트륨으로 간 기능에 대한 부작용은 관찰되지 않았다. 결론적으로 정맥 주사 발프로산나트륨은 소아의 난치성 간질 지속 상태 조절에 디아제팜 주입의 효과적인 대안이며 호흡 억제 및 저혈압이 없다.",
+        "metadata": {
+            "id": "ebmpico_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        28
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        23,
+                        36
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        36,
+                        53
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        39,
+                        46
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        73,
+                        102
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        3,
+                        15
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        106,
+                        114
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        183,
+                        186
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        278,
+                        306
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        112,
+                        125
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        314,
+                        331
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        128,
+                        135
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        379,
+                        384
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        161,
+                        164
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        399,
+                        428
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        166,
+                        178
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        463,
+                        512
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        188,
+                        212
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        1202,
+                        1210
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        525,
+                        527
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "IMPRESSION: 1. Eight-month-old with initially diagnosed bronchiolitis which developed into a right middle lobe pneumonia. She will be discharged on Augmentin ES 600 mg per 5 ml, 300 mg p.o. b.i.d. x10 days. Of note, this is a change since she had been treated with Unasyn IV in the hospital.",
+        "target": "인상: 1. 처음에는 기관지염으로 진단된 8개월 된 환아가 우측 중엽 폐렴으로 악화됨. 퇴원 시 아우그멘틴 ES 5ml당 600mg, 300mg 경구 1일 2회 10일간 처방됨. 참고로, 이는 병원에서 유나신 정맥주사로 치료받았던 것과 달라진 점임.",
+        "metadata": {
+            "id": "clinicalie_attr_0_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        91,
+                        120
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        33,
+                        41
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        148,
+                        160
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        54,
+                        62
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        184
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        63,
+                        80
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        185,
+                        189
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        81,
+                        83
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        190,
+                        196
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        84,
+                        89
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        197,
+                        205
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        90,
+                        94
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        265,
+                        271
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        113,
+                        116
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        272,
+                        274
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        117,
+                        121
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "IMPRESSION: 1. Eight-month-old with initially diagnosed bronchiolitis which developed into a right middle lobe pneumonia. She will be discharged on Augmentin ES 600 mg per 5 ml, 300 mg p.o. b.i.d. x10 days. Of note, this is a change since she had been treated with Unasyn IV in the hospital.",
+        "target": "인상: 1. 처음에는 기관지염으로 진단된 8개월 된 환아가 오른쪽 중간엽 폐렴으로 악화됨. 그녀는 Augmentin ES 600 mg/5ml, 300 mg 경구 1일 2회, 10일간 투여하여 퇴원할 예정임. 참고로, 이는 병원에서 IV로 Unasyn로 치료받았던 것과 달라진 치료 계획임.",
+        "metadata": {
+            "id": "clinicalie_attr_0_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        91,
+                        120
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        33,
+                        43
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        148,
+                        160
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        55,
+                        67
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        184
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        68,
+                        86
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        185,
+                        189
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        87,
+                        89
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        190,
+                        196
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        90,
+                        95
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        197,
+                        205
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        97,
+                        101
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        265,
+                        271
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        133,
+                        139
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        272,
+                        274
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        129,
+                        131
+                    ]
+                ]
+            }
+        ]
+    }
+]

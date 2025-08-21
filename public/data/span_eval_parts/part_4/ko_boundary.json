@@ -1,0 +1,2050 @@
+[
+    {
+        "source": "C.T. Vivian , shown at home in Atlanta in June 2015 , 50 years earlier told a hostile white sheriff in Selma , Alabama : ' You ca n't turn your back on justice . '",
+        "target": "C.T. 비비안은 2015년 6월 애틀랜타 자택에서 촬영된 모습이며, 50년 전 앨라배마 셀마에서 적대적인 백인 보안관에게 이렇게 말했습니다: '당신은 정의를 외면할 수 없습니다.'",
+        "metadata": {
+            "id": "m2e2_60_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        8
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        31,
+                        38
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        19,
+                        23
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        92,
+                        99
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        63,
+                        66
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        103,
+                        108
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        50,
+                        52
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        111,
+                        118
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        45,
+                        49
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "C.T. Vivian , shown at home in Atlanta in June 2015 , 50 years earlier told a hostile white sheriff in Selma , Alabama : ' You ca n't turn your back on justice . '",
+        "target": "C.T. 비비언은 2015년 6월 애틀랜타의 자택에서 촬영된 사진이며, 50년 전 앨라배마주 셀마에서 적대적인 백인 보안관에게 이렇게 말했습니다: \"당신은 정의를 외면할 수 없습니다.\"",
+        "metadata": {
+            "id": "m2e2_60_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        8
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        31,
+                        38
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        19,
+                        23
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        92,
+                        99
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        65,
+                        68
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        103,
+                        108
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        52,
+                        54
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        111,
+                        118
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        46,
+                        51
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "it is a metro station , there is a metro rail on the left side track , the right side track is empty the platform is also empty, there are some boards and posters to the pillars , in the left side platform some people are waiting for the train , there is a big roof above that, there are also some poles they are looking like the network poles , the train is of blue, white and yellow color .",
+        "target": "이곳은 지하철역입니다. 왼쪽 선로에는 지하철이 있고, 오른쪽 선로는 비어 있습니다. 승강장도 비어 있으며, 기둥에는 몇몇 게시판과 포스터가 붙어 있습니다. 사람들은 기차를 기다리기 위해 왼쪽 승강장에 서 있고, 그 위에는 큰 지붕이 있습니다. 또한, 네트워크 기둥처럼 보이는 기둥들도 있습니다. 기차는 파란색, 흰색, 노란색으로 칠해져 있습니다.",
+        "metadata": {
+            "id": "png_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        35,
+                        45
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        21,
+                        24
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        53,
+                        68
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        13,
+                        18
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        75,
+                        91
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        30,
+                        36
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        105,
+                        113
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        47,
+                        50
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        155,
+                        162
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        73,
+                        76
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        211,
+                        217
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        87,
+                        89
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        238,
+                        243
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        92,
+                        94
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        257,
+                        265
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        124,
+                        128
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        350,
+                        355
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        165,
+                        167
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "it is a metro station , there is a metro rail on the left side track , the right side track is empty the platform is also empty, there are some boards and posters to the pillars , in the left side platform some people are waiting for the train , there is a big roof above that, there are also some poles they are looking like the network poles , the train is of blue, white and yellow color .",
+        "target": "지하철역입니다. 왼쪽 선로는 지하철 열차가 있고, 오른쪽 선로는 비어 있습니다. 플랫폼도 비어 있고, 기둥에는 간판과 포스터가 몇 개 붙어 있습니다. 왼쪽 플랫폼에는 몇몇 사람들이 기차를 기다리고 있고, 그 위에는 큰 지붕이 있으며, 네트워크 기둥처럼 보이는 기둥들도 있습니다. 열차는 파란색, 흰색, 노란색입니다.",
+        "metadata": {
+            "id": "png_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        35,
+                        45
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        16,
+                        22
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        53,
+                        68
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        9,
+                        14
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        75,
+                        91
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        28,
+                        34
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        105,
+                        113
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        45,
+                        48
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        155,
+                        162
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        66,
+                        69
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        211,
+                        217
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        96,
+                        99
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        238,
+                        243
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        101,
+                        103
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        257,
+                        265
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        120,
+                        124
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        350,
+                        355
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        156,
+                        158
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "A man in a blue hard hat and orange safety vest stands in an intersection while holding a flag .",
+        "target": "한 남자가 파란색 보호모를 쓰고 주황색 안전 조끼를 입은 채 모퉁이 교차로에 서서 깃발을 들고 있다.",
+        "metadata": {
+            "id": "flickr_0_0_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        5
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        4
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        9,
+                        24
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        6,
+                        13
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        29,
+                        47
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        27
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        58,
+                        73
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        34,
+                        41
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        88,
+                        94
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        46,
+                        48
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "A man in a blue hard hat and orange safety vest stands in an intersection while holding a flag .",
+        "target": "파란 보안모와 오렌지색 안전 조끼를 입은 남자가 깃발을 들고 교차로에 서 있다.",
+        "metadata": {
+            "id": "flickr_0_0_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        5
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        23,
+                        25
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        9,
+                        24
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        29,
+                        47
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        18
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        58,
+                        73
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        34,
+                        37
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        88,
+                        94
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        27,
+                        29
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Chargers ’ Jamal Williams Arrested For DUI on February 4 , 2009 Chargers defensive tackle Jamal Williams was arrested early Sunday for suspicions of driving under the influence . Williams was pulled over by the California Highway Patrol for speeding in a San Diego freeway . He was given a blood alcohol test but the results have not been revealed . He was taken to the County jail where he was booked and released on bail . According to authorities , he was driving his Bentley at about 1 : 00 am Sunday on highway 94 when the cops stopped him . This is the second DUI related arrest for the team . Earlier this year , star receiver Vincent Jackson was arrested for drunk driving a few days before their play - off game .",
+        "target": "챠저스의 재멀 윌리엄스가 2009년 2월 4일 DUI 혐의로 체포되었습니다. 챠저스의 수비 태클 재멀 윌리엄스는 일요일 이른 아침에 음주 운전 의심으로 체포되었습니다. 그는 캘리포니아 고속도로 순찰대에 의해 샌디에이고 고속도로에서 과속으로 단속되었습니다. 그는 혈중 알코올 검사 를 받았으나 결과는 아직 공개되지 않았습니다. 이후 카운티 구치소로 이송되어 기록을 남기고 보석금으로 석방되었습니다. 당국에 따르면, 일요일 오전 1시경 그는 자신의 벤틀리를 몰고 고속도로 94에서 단속 당했다고 합니다. 이번이 팀에서 두 번째 DUI 관련 체포입니다. 올해 초에는 스타 리시버 빈센트 잭슨이 플레이오프 경기 며칠 전에 음주 운전으로 체포된 바 있습니다.",
+        "metadata": {
+            "id": "eventstoryline_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        26,
+                        34
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        14,
+                        36
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        39,
+                        42
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        109,
+                        117
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        85,
+                        87
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        135,
+                        145
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        80,
+                        82
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        149,
+                        176
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        74,
+                        79
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        192,
+                        203
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        134,
+                        136
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        241,
+                        249
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        129,
+                        131
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        282,
+                        287
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        156,
+                        180
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        339,
+                        347
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        170,
+                        172
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        357,
+                        362
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        194,
+                        196
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        395,
+                        401
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        199,
+                        201
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        406,
+                        414
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        213,
+                        215
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 12,
+                "input_idx": [
+                    [
+                        415,
+                        422
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        207,
+                        210
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 13,
+                "input_idx": [
+                    [
+                        459,
+                        466
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 14,
+                "input_idx": [
+                    [
+                        533,
+                        540
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        267,
+                        269
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 15,
+                "input_idx": [
+                    [
+                        559,
+                        565
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        288,
+                        292
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 16,
+                "input_idx": [
+                    [
+                        566,
+                        569
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        293,
+                        296
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 17,
+                "input_idx": [
+                    [
+                        578,
+                        584
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        300,
+                        302
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 18,
+                "input_idx": [
+                    [
+                        654,
+                        662
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        352,
+                        354
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 19,
+                "input_idx": [
+                    [
+                        667,
+                        680
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        344,
+                        349
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 20,
+                "input_idx": [
+                    [
+                        705,
+                        720
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        329,
+                        337
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Chargers ’ Jamal Williams Arrested For DUI on February 4 , 2009 Chargers defensive tackle Jamal Williams was arrested early Sunday for suspicions of driving under the influence . Williams was pulled over by the California Highway Patrol for speeding in a San Diego freeway . He was given a blood alcohol test but the results have not been revealed . He was taken to the County jail where he was booked and released on bail . According to authorities , he was driving his Bentley at about 1 : 00 am Sunday on highway 94 when the cops stopped him . This is the second DUI related arrest for the team . Earlier this year , star receiver Vincent Jackson was arrested for drunk driving a few days before their play - off game .",
+        "target": "샌디에이고 차저스의 수비 태클 자말 윌리엄스가 2009년 2월 4일 음주운전 혐의로 체포됐다. 윌리엄스는 일요일 이른 새벽 음주운전 의심으로 체포되었다. 그는 캘리포니아 고속도로 순찰대에 의해 산디에이고 고속도로에서 과속으로 단속되었다. 혈중 알코올 농도 검사를 받았으나 결과는 공개되지 않았다. 그는 카운티 교도소에 구금됐으며 보석금 지불 후 석방되었다. 당국에 따르면 그는 일요일 새벽 1시경 고속도로 94번에서 벤틀리를 운전하다 경찰에 적발되었다. 이번 사건은 팀 내 두 번째 음주운전 관련 체포이다. 올해 초에는 스타 리시버 빈센트 잭슨이 플레이오프 경기 며칠 전 음주운전으로 체포된 바 있다.",
+        "metadata": {
+            "id": "eventstoryline_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        26,
+                        34
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        47,
+                        51
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        39,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        38,
+                        42
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        109,
+                        117
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        79,
+                        84
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        135,
+                        145
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        74,
+                        76
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        149,
+                        176
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        69,
+                        73
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        192,
+                        203
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        126,
+                        131
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        241,
+                        249
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        121,
+                        123
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        282,
+                        287
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        147,
+                        151
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        339,
+                        347
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        156,
+                        164
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        357,
+                        362
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        178,
+                        183
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        395,
+                        401
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        406,
+                        414
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        193,
+                        198
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 12,
+                "input_idx": [
+                    [
+                        415,
+                        422
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        184,
+                        192
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 13,
+                "input_idx": [
+                    [
+                        459,
+                        466
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        238,
+                        242
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 14,
+                "input_idx": [
+                    [
+                        533,
+                        540
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        247,
+                        252
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 15,
+                "input_idx": [
+                    [
+                        559,
+                        565
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        265,
+                        269
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 16,
+                "input_idx": [
+                    [
+                        566,
+                        569
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        270,
+                        274
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 17,
+                "input_idx": [
+                    [
+                        578,
+                        584
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        278,
+                        280
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 18,
+                "input_idx": [
+                    [
+                        654,
+                        662
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        327,
+                        330
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 19,
+                "input_idx": [
+                    [
+                        667,
+                        680
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        320,
+                        324
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 20,
+                "input_idx": [
+                    [
+                        705,
+                        720
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        306,
+                        314
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The January 2010 Rio de Janeiro floods and mudslides was an extreme weather event that affected the State of Rio de Janeiro in Brazil in the first days of January 2010 . at least 85 people died , with at least 29 people in the hotel sankey after it was destroyed by landslides , and many more have been injured . More than 4,000 people were forced to evacuate their homes . The worst affected municipality was Angra dos Reis , about southwest of the city of Rio de Janeiro . At least 35 people were killed at a resort on Ilha Grande : about forty people were staying in the hotel which was buried under a mudslide , and the death toll is expected to rise further . Brazil 's only functioning nuclear power plant , Central Nuclear Almirante Álvaro Alberto , is also located within the municipality : plans were made for a temporary shutdown , as blocked roads would make any evacuation difficult or impossible in the event of an incident at the plant . In Rio Grande do Sul , at least seven people died and 20 went missing after a bridge collapsed due to heavy rains .",
+        "target": "2010년 1월 브라질 리우데자네이루의 홍수와 산사태는 2010년 1월 초에 브라질 리우데자네이루 주에 영향을 미친 극심한 기상 이변이었습니다. 최소 85명이 사망했으며, 산사태로 파괴된 호텔 생키에서는 최소 29명이 사망했고, 훨씬 더 많은 사람들이 부상을 입었습니다. 4,000명 이상이 집에서 대피해야 하는 상황에 처했습니다. 가장 큰 피해를 입은 지역은 리우데자네이루 시의 남서쪽에 위치한 앙그라두스레이스였습니다. 일랴그란데 섬의 한 리조트에서 최소 35명이 숨졌습니다. 약 40명이 산사태로 매몰된 호텔에 머물고 있었으며, 사망자 수는 더 늘어날 것으로 예상됩니다. 브라질 유일의 가동 중인 원자력 발전소인 센트랄 누클레아르 알미란테 알바루 알베르투도 이 지역에 위치해 있었으며, 도로가 막히면 발전소 사고 발생 시 대피가 어렵거나 불가능해짐에 따라 임시 폐쇄 계획이 수립되었습니다. 히우그란지두술에서는 폭우로 인해 다리가 붕괴하면서 최소 7명이 사망하고 20명이 실종되었습니다.",
+        "metadata": {
+            "id": "maven_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        16
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        8
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        32,
+                        38
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        22,
+                        24
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        87,
+                        95
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        58,
+                        64
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        155,
+                        167
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        31,
+                        39
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        189,
+                        193
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        89,
+                        91
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        253,
+                        262
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        101,
+                        104
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        303,
+                        310
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        141,
+                        150
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        341,
+                        347
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        175,
+                        184
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        351,
+                        359
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        167,
+                        174
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        384,
+                        392
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        499,
+                        505
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        261,
+                        266
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        559,
+                        566
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        288,
+                        291
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 12,
+                "input_idx": [
+                    [
+                        590,
+                        596
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        280,
+                        283
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 13,
+                "input_idx": [
+                    [
+                        624,
+                        629
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 14,
+                "input_idx": [
+                    [
+                        650,
+                        654
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        307,
+                        310
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 15,
+                "input_idx": [
+                    [
+                        799,
+                        804
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        425,
+                        430
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 16,
+                "input_idx": [
+                    [
+                        810,
+                        814
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        431,
+                        433
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 17,
+                "input_idx": [
+                    [
+                        865,
+                        869
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 18,
+                "input_idx": [
+                    [
+                        874,
+                        884
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        406,
+                        408
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 19,
+                "input_idx": [
+                    [
+                        997,
+                        1001
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        479,
+                        481
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 20,
+                "input_idx": [
+                    [
+                        1009,
+                        1013
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        489,
+                        496
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 21,
+                "input_idx": [
+                    [
+                        1037,
+                        1046
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        466,
+                        471
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The January 2010 Rio de Janeiro floods and mudslides was an extreme weather event that affected the State of Rio de Janeiro in Brazil in the first days of January 2010 . at least 85 people died , with at least 29 people in the hotel sankey after it was destroyed by landslides , and many more have been injured . More than 4,000 people were forced to evacuate their homes . The worst affected municipality was Angra dos Reis , about southwest of the city of Rio de Janeiro . At least 35 people were killed at a resort on Ilha Grande : about forty people were staying in the hotel which was buried under a mudslide , and the death toll is expected to rise further . Brazil 's only functioning nuclear power plant , Central Nuclear Almirante Álvaro Alberto , is also located within the municipality : plans were made for a temporary shutdown , as blocked roads would make any evacuation difficult or impossible in the event of an incident at the plant . In Rio Grande do Sul , at least seven people died and 20 went missing after a bridge collapsed due to heavy rains .",
+        "target": "2010년 1월 리우데자네이루 홍수와 산사태는 2010년 1월 초 브라질 리우데자네이루 주에 영향을 미친 극심한 기상 이변이었습니다. 최소 85명이 사망했으며, 산사태로 파괴된 호텔 생키에 있던 최소 29명이 사망했고, 훨씬 더 많은 사람들이 부상을 입었습니다. 4,000명 이상이 집에서 대피해야 했습니다. 가장 큰 피해를 입은 시는 리우데자네이루시 남서쪽의 앙그라두스레이스였습니다. 일랴그란데 섬의 한 리조트에서 최소 35명이 사망했습니다. 호텔에는 약 40명이 투숙하고 있었는데, 산사태로 매몰되었으며, 사망자 수는 더욱 늘어날 것으로 예상됩니다. 브라질 유일의 가동 중인 원자력 발전소인 센트랄 누클레아르 알미란테 알바로 알베르토도 이 시 내에 위치해 있습니다. 도로가 막혀 발전소 사고 발생 시 대피가 어렵거나 불가능해질 경우를 대비하여 일시 폐쇄 계획이 수립되었습니다. 히우그란지두술에서는 폭우로 인해 다리가 붕괴하면서 최소 7명이 사망하고 20명이 실종되었습니다.",
+        "metadata": {
+            "id": "maven_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        16
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        8
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        32,
+                        38
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        17,
+                        24
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        87,
+                        95
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        52,
+                        58
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        155,
+                        167
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        26,
+                        36
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        189,
+                        193
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        83,
+                        88
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        253,
+                        262
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        95,
+                        98
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        303,
+                        310
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        136,
+                        145
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        341,
+                        347
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        162,
+                        166
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        351,
+                        359
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        162,
+                        164
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        384,
+                        392
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        178,
+                        184
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        499,
+                        505
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        241,
+                        247
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        559,
+                        566
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        261,
+                        270
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 12,
+                "input_idx": [
+                    [
+                        590,
+                        596
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        277,
+                        283
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 13,
+                "input_idx": [
+                    [
+                        624,
+                        629
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        285,
+                        290
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 14,
+                "input_idx": [
+                    [
+                        650,
+                        654
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        295,
+                        308
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 15,
+                "input_idx": [
+                    [
+                        799,
+                        804
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        424,
+                        427
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 16,
+                "input_idx": [
+                    [
+                        810,
+                        814
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        428,
+                        435
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 17,
+                "input_idx": [
+                    [
+                        865,
+                        869
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        398,
+                        408
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 18,
+                "input_idx": [
+                    [
+                        874,
+                        884
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        394,
+                        396
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 19,
+                "input_idx": [
+                    [
+                        997,
+                        1001
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        472,
+                        476
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 20,
+                "input_idx": [
+                    [
+                        1009,
+                        1013
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        482,
+                        489
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 21,
+                "input_idx": [
+                    [
+                        1037,
+                        1046
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        459,
+                        464
+                    ]
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "source": "The final stage in the development of the Skyfox was the production of a model with tricycle landing gear to better cater for the pilot training market .",
+        "target": "Giai đoạn cuối cùng trong quá trình phát triển của Skyfox là việc sản xuất một mẫu với bộ cứu trợ tiếp đất ba bánh nhằm phục vụ tốt hơn cho thị trường đào tạo phi công.",
+        "id": "fewnerd_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                89
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                42,
+                48
+            ]
+        ],
+        "reference": "Giai đoạn cuối trong việc phát triển Skyfox là sản xuất một mẫu với bộ bánh đáp ba bánh để phục vụ tốt hơn cho thị trường đào tạo phi công."
+    },
+    {
+        "source": "The final stage in the development of the Skyfox was the production of a model with tricycle landing gear to better cater for the pilot training market .",
+        "target": "Giai đoạn cuối cùng trong quá trình phát triển Skyfox là sản xuất một mẫu máy bay với bộ càng đáp ba bánh để phục vụ tốt hơn cho thị trường đào tạo phi công.",
+        "id": "fewnerd_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                85
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                42,
+                48
+            ]
+        ],
+        "reference": "Giai đoạn cuối trong việc phát triển Skyfox là sản xuất một mẫu với bộ bánh đáp ba bánh để phục vụ tốt hơn cho thị trường đào tạo phi công."
+    },
+    {
+        "source": "The play is set to return to the United States , originally to open on Broadway at the Nederlander Theatre on 7 March 2020 in previews , officially on 26 March .",
+        "target": "Vở kịch dự kiến sẽ trở lại Hoa Kỳ, ban đầu dự kiến ra mắt tại Broadway ở Nhà hát Nederlander vào ngày 7 tháng 3 năm 2020 trong các buổi diễn thử, chính thức vào ngày 26 tháng 3.",
+        "id": "fewnerd_938_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                0,
+                33
+            ],
+            [
+                34,
+                126
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                33,
+                46
+            ],
+            [
+                71,
+                79
+            ],
+            [
+                87,
+                106
+            ]
+        ],
+        "reference": "Vở kịch dự kiến sẽ trở lại Hoa Kỳ, ban đầu dự kiến khai mạc trên Broadway tại Nhà hát Nederlander vào ngày 7 tháng 3 năm 2020 trong buổi diễn thử nghiệm, chính thức vào ngày 26 tháng 3."
+    },
+    {
+        "source": "The play is set to return to the United States , originally to open on Broadway at the Nederlander Theatre on 7 March 2020 in previews , officially on 26 March .",
+        "target": "Vở kịch dự kiến sẽ trở lại Hoa Kỳ, ban đầu dự kiến ra mắt tại Broadway ở Nhà hát Nederlander vào ngày 7 tháng 3 năm 2020 trong các buổi diễn thử, chính thức vào ngày 26 tháng 3.",
+        "id": "fewnerd_938_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                0,
+                33
+            ],
+            [
+                34,
+                126
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                33,
+                46
+            ],
+            [
+                71,
+                79
+            ],
+            [
+                87,
+                106
+            ]
+        ],
+        "reference": "Vở kịch dự kiến sẽ trở lại Hoa Kỳ, ban đầu dự kiến khai mạc trên Broadway tại Nhà hát Nederlander vào ngày 7 tháng 3 năm 2020 trong buổi diễn thử nghiệm, chính thức vào ngày 26 tháng 3."
+    },
+    {
+        "source": "The Letter from Birmingham Jail , also known as the Letter from Birmingham City Jail and The Negro Is Your Brother , is an open letter written on April 16 , 1963 , by Martin Luther King Jr . The letter defends the strategy of nonviolent resistance to racism . It says that people have a moral responsibility to break unjust laws and to take direct action rather than waiting potentially forever for justice to come through the courts . Responding to being referred to as an `` outsider , '' King writes , `` Injustice anywhere is a threat to justice everywhere '' . The letter , written during the 1963 Birmingham campaign , was widely published , and became an important text for the American Civil Rights Movement .",
+        "target": "Thư từ nhà tù Birmingham, còn được biết đến với tên Thư từ nhà tù thành phố Birmingham và Người da đen là anh em của bạn, là một bức thư mở được viết vào ngày 16 tháng 4 năm 1963 bởi Martin Luther King Jr. Thư này bảo vệ chiến lược phản kháng bất bạo động trước nạn phân biệt chủng tộc. Nó nói rằng con người có một trách nhiệm đạo đức phải vi phạm những luật pháp bất công và hành động trực tiếp thay vì chờ đợi vô thời hạn để công lý đến từ các tòa án. Trả lời việc bị gọi là \"người ngoài,\" King viết: \"Sự bất công ở bất cứ đâu đều là mối đe dọa đối với công lý ở mọi nơi\". Bức thư, được viết trong khuôn khổ chiến dịch Birmingham năm 1963, đã được phổ biến rộng rãi và trở thành một văn kiện quan trọng cho Phong trào Quyền dân sự Mỹ.",
+        "id": "multispanqa_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                205,
+                285
+            ],
+            [
+                286,
+                453
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                210,
+                257
+            ],
+            [
+                287,
+                433
+            ]
+        ],
+        "reference": "Bức thư từ nhà tù Birmingham, còn được biết đến với tên gọi Bức thư từ Nhà tù thành phố Birmingham và Người da đen là anh em của bạn, là một bức thư ngỏ được viết vào ngày 16 tháng 4 năm 1963, bởi Martin Luther King Jr. Bức thư biện minh cho chiến lược kháng cự phi bạo lực đối với nạn phân biệt chủng tộc. Nó nói rằng mọi người có trách nhiệm đạo đức để phá bỏ các luật lệ bất công và hành động trực tiếp thay vì chờ đợi có thể mãi mãi công lý sẽ đến qua các tòa án. Phản ứng lại việc bị gọi là một “người ngoài”, King viết, “Bất công ở bất cứ đâu là mối đe dọa cho công lý ở mọi nơi”. Bức thư, được viết trong chiến dịch Birmingham năm 1963, đã được xuất bản rộng rãi và trở thành một văn bản quan trọng cho Phong trào Quyền dân sự Mỹ."
+    },
+    {
+        "source": "The Letter from Birmingham Jail , also known as the Letter from Birmingham City Jail and The Negro Is Your Brother , is an open letter written on April 16 , 1963 , by Martin Luther King Jr . The letter defends the strategy of nonviolent resistance to racism . It says that people have a moral responsibility to break unjust laws and to take direct action rather than waiting potentially forever for justice to come through the courts . Responding to being referred to as an `` outsider , '' King writes , `` Injustice anywhere is a threat to justice everywhere '' . The letter , written during the 1963 Birmingham campaign , was widely published , and became an important text for the American Civil Rights Movement .",
+        "target": "Thư Tù Birmingham, còn được biết đến với tên Thư Tù Thành phố Birmingham và Người da đen là anh em của bạn, là một bức thư mở được viết vào ngày 16 tháng 4 năm 1963 bởi Martin Luther King Jr. Thư này bảo vệ chiến lược phản kháng phi bạo lực trước chủ nghĩa phân biệt chủng tộc. Nó cho rằng con người có trách nhiệm đạo đức phải vi phạm những luật pháp bất công và thực hiện hành động trực tiếp thay vì chờ đợi mãi mãi cho công lý đến từ các tòa án. Trả lời việc bị gọi là \"người ngoài\", King viết: \"Sự bất công ở bất kỳ đâu đều là mối đe dọa đối với công lý ở mọi nơi\". Thư được viết trong khuôn khổ chiến dịch Birmingham năm 1963, được công bố rộng rãi và trở thành một văn kiện quan trọng cho Phong trào Quyền dân sự Mỹ.",
+        "id": "multispanqa_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                191,
+                276
+            ],
+            [
+                277,
+                447
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                210,
+                257
+            ],
+            [
+                287,
+                433
+            ]
+        ],
+        "reference": "Bức thư từ nhà tù Birmingham, còn được biết đến với tên gọi Bức thư từ Nhà tù thành phố Birmingham và Người da đen là anh em của bạn, là một bức thư ngỏ được viết vào ngày 16 tháng 4 năm 1963, bởi Martin Luther King Jr. Bức thư biện minh cho chiến lược kháng cự phi bạo lực đối với nạn phân biệt chủng tộc. Nó nói rằng mọi người có trách nhiệm đạo đức để phá bỏ các luật lệ bất công và hành động trực tiếp thay vì chờ đợi có thể mãi mãi công lý sẽ đến qua các tòa án. Phản ứng lại việc bị gọi là một “người ngoài”, King viết, “Bất công ở bất cứ đâu là mối đe dọa cho công lý ở mọi nơi”. Bức thư, được viết trong chiến dịch Birmingham năm 1963, đã được xuất bản rộng rãi và trở thành một văn bản quan trọng cho Phong trào Quyền dân sự Mỹ."
+    },
+    {
+        "source": "Mohenjo - daro was built in the 26th century BCE . It was one of the largest cities of the ancient Indus Valley Civilization , also known as the Harappan Civilization , which developed around 3,000 BCE from the prehistoric Indus culture . At its height , the Indus Civilization spanned much of what is now Pakistan and North India , extending westwards to the Iranian border , south to Gujarat in India and northwards to an outpost in Bactria , with major urban centers at Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira and Rakhigarhi . Mohenjo - daro was the most advanced city of its time , with remarkably sophisticated civil engineering and urban planning . When the Indus civilization went into sudden decline around 1900 BCE , Mohenjo - daro was abandoned . The ruins of the city remained undocumented for around 3,700 years until R.D. Banerji , an officer of the Archaeological Survey of India , visited the site in 1919 -- 20 , identifying the Buddhist stupa ( 150 -- 500 CE ) known to be there and finding a flint scraper which convinced him of the site 's antiquity . This led to large - scale excavations of Mohenjo - daro led by Kashinath Narayan Dikshit in 1924 -- 25 , and John Marshall in 1925 -- 26 . In the 1930s , major excavations were conducted at the site under the leadership of Marshall , D.K. Dikshitar and Ernest Mackay . Further excavations were carried out in 1945 by Ahmad Hasan Dani and Mortimer Wheeler . The last major series of excavations were conducted in 1964 and 1965 by Dr. George F. Dales .",
+        "target": "Mohenjo - daro được xây dựng vào thế kỷ 26 trước Công nguyên. Đây là một trong những thành phố lớn nhất của nền Văn minh Thung lũng sông Ấn cổ đại, còn được biết đến với tên gọi Văn minh Harappan, phát triển vào khoảng năm 3000 trước Công nguyên từ văn hóa tiền sử sông Ấn. Đỉnh cao của nền Văn minh sông Ấn trải rộng trên phần lớn khu vực hiện nay là Pakistan và Bắc Ấn Độ, mở rộng về phía tây đến biên giới Iran, về phía nam tới Gujarat ở Ấn Độ và về phía bắc tới một tiền đồn ở Bactria, với các trung tâm đô thị chính tại Harappa, Mohenjo - daro, Lothal, Kalibangan, Dholavira và Rakhigarhi. Mohenjo - daro là thành phố tiên tiến nhất của thời đại đó, với kỹ thuật công trình dân dụng và quy hoạch đô thị cực kỳ tinh vi. Khi nền văn minh sông Ấn suy thoái đột ngột vào khoảng năm 1900 trước Công nguyên, Mohenjo - daro bị bỏ hoang. Tàn tích của thành phố không được ghi chép trong khoảng 3.700 năm cho đến khi R.D. Banerji, một viên chức của Khảo cổ Ấn Độ, đến thăm địa điểm này vào năm 1919 - 20, nhận diện được tháp Phật giáo (150 - 500 Công nguyên) từng tồn tại ở đó và tìm thấy một dụng cụ cạo đá lửa, điều này thuyết phục ông về độ cổ xưa của địa điểm. Điều này dẫn đến các cuộc khai quật quy mô lớn tại Mohenjo - daro do Kashinath Narayan Dikshit lãnh đạo vào năm 1924 - 25, và John Marshall vào năm 1925 - 26. Vào thập niên 1930, các cuộc khai quật chính được tiến hành tại địa điểm dưới sự chỉ đạo của Marshall, D.K. Dikshitar và Ernest Mackay. Các cuộc khai quật tiếp theo được thực hiện vào năm 1945 bởi Ahmad Hasan Dani và Mortimer Wheeler. Loạt khai quật quan trọng cuối cùng diễn ra vào năm 1964 và 1965 do Tiến sĩ George F. Dales tiến hành.",
+        "id": "multispanqa_52_gpt4_ez",
+        "target_focus_areas": [
+            [
+                1221,
+                1278
+            ],
+            [
+                1283,
+                1314
+            ],
+            [
+                1422,
+                1454
+            ],
+            [
+                1455,
+                1553
+            ],
+            [
+                1560,
+                1656
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                1153,
+                1178
+            ],
+            [
+                1199,
+                1212
+            ],
+            [
+                1324,
+                1338
+            ],
+            [
+                1343,
+                1356
+            ],
+            [
+                1407,
+                1423
+            ],
+            [
+                1428,
+                1444
+            ],
+            [
+                1523,
+                1538
+            ]
+        ],
+        "reference": "Mohenjo - daro được xây dựng vào thế kỷ 26 trước Công nguyên. Đây là một trong những thành phố lớn nhất của nền văn minh lưu vực Ấn Độ cổ đại, còn được gọi là nền văn minh Harappan, phát triển vào khoảng 3000 trước Công nguyên từ văn hóa Ấn Độ tiền sử. Vào thời kỳ đỉnh cao, nền văn minh Ấn Độ trải dài trên phần lớn lãnh thổ của Pakistan và Bắc Ấn Độ, mở rộng về phía tây đến biên giới Iran, về phía nam đến Gujarat ở Ấn Độ và về phía bắc đến một trạm tiền tiêu ở Bactria, với những trung tâm đô thị lớn tại Harappa, Mohenjo - daro, Lothal, Kalibangan, Dholavira và Rakhigarhi. Mohenjo - daro là thành phố tiên tiến nhất vào thời điểm đó, với kỹ thuật xây dựng dân dụng và quy hoạch đô thị đặc biệt tinh vi. Khi nền văn minh Ấn Độ đột ngột suy tàn vào khoảng 1900 trước Công nguyên, Mohenjo - daro đã bị bỏ hoang. Di tích của thành phố đã không được ghi chép trong khoảng 3.700 năm cho đến khi R.D. Banerji, một viên chức của Cơ quan Khảo cổ Ấn Độ, đã đến thăm địa điểm vào năm 1919 -- 20, xác định một tháp Phật giáo (150 -- 500 CN) được biết là có mặt ở đó và tìm thấy một chiếc dao cạo bằng đá lửa, điều này đã thuyết phục ông về tính cổ xưa của địa điểm. Điều này đã dẫn đến các cuộc khai quật quy mô lớn tại Mohenjo-daro do Kashinath Narayan Dikshit lãnh đạo vào năm 1924 -- 25 và John Marshall vào năm 1925 -- 26. Vào thập niên 1930, các cuộc khai quật lớn đã được thực hiện tại địa điểm dưới sự lãnh đạo của Marshall, D.K. Dikshitar và Ernest Mackay. Các cuộc khai quật tiếp theo đã được thực hiện vào năm 1945 bởi Ahmad Hasan Dani và Mortimer Wheeler. Chuỗi các cuộc khai quật lớn cuối cùng diễn ra vào năm 1964 và 1965 bởi Tiến sĩ George F. Dales."
+    },
+    {
+        "source": "Mohenjo - daro was built in the 26th century BCE . It was one of the largest cities of the ancient Indus Valley Civilization , also known as the Harappan Civilization , which developed around 3,000 BCE from the prehistoric Indus culture . At its height , the Indus Civilization spanned much of what is now Pakistan and North India , extending westwards to the Iranian border , south to Gujarat in India and northwards to an outpost in Bactria , with major urban centers at Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira and Rakhigarhi . Mohenjo - daro was the most advanced city of its time , with remarkably sophisticated civil engineering and urban planning . When the Indus civilization went into sudden decline around 1900 BCE , Mohenjo - daro was abandoned . The ruins of the city remained undocumented for around 3,700 years until R.D. Banerji , an officer of the Archaeological Survey of India , visited the site in 1919 -- 20 , identifying the Buddhist stupa ( 150 -- 500 CE ) known to be there and finding a flint scraper which convinced him of the site 's antiquity . This led to large - scale excavations of Mohenjo - daro led by Kashinath Narayan Dikshit in 1924 -- 25 , and John Marshall in 1925 -- 26 . In the 1930s , major excavations were conducted at the site under the leadership of Marshall , D.K. Dikshitar and Ernest Mackay . Further excavations were carried out in 1945 by Ahmad Hasan Dani and Mortimer Wheeler . The last major series of excavations were conducted in 1964 and 1965 by Dr. George F. Dales .",
+        "target": "Mohenjo-daro được xây dựng vào thế kỷ 26 trước Công nguyên. Đây là một trong những thành phố lớn nhất của nền văn minh Thung lũng sông Ấn cổ đại, còn được biết đến với tên gọi văn minh Harappa, phát triển khoảng năm 3.000 trước Công nguyên từ văn hóa tiền sử sông Ấn. Ở thời kỳ đỉnh cao, nền văn minh sông Ấn bao phủ phần lớn khu vực hiện nay là Pakistan và Bắc Ấn Độ, kéo dài về phía tây đến biên giới Iran, phía nam đến Gujarat ở Ấn Độ và về phía bắc tới một tiền đồn ở Bactria, với các trung tâm đô thị lớn tại Harappa, Mohenjo-daro, Lothal, Kalibangan, Dholavira và Rakhigarhi. Mohenjo-daro là thành phố tiên tiến nhất thời đó, với kỹ thuật xây dựng dân sự và quy hoạch đô thị vô cùng tinh vi. Khi nền văn minh sông Ấn suy tàn đột ngột khoảng năm 1900 trước Công nguyên, Mohenjo-daro đã bị bỏ hoang. Đống đổ nát của thành phố này không được ghi chép trong khoảng 3.700 năm cho đến khi R.D. Banerji, một viên chức của Cục Khảo cổ Ấn Độ, đến thăm địa điểm vào năm 1919-20, xác định được một bảo tháp Phật giáo (150-500 SCN) được biết đến ở đó và tìm thấy một công cụ cạo bằng đá lửa khiến ông tin vào sự cổ xưa của địa điểm này. Điều này dẫn đến các cuộc khai quật quy mô lớn tại Mohenjo-daro do Kashinath Narayan Dikshit dẫn đầu vào năm 1924-25, và John Marshall vào năm 1925-26. Vào những năm 1930, các cuộc khai quật quan trọng được tiến hành tại đây dưới sự lãnh đạo của Marshall, D.K. Dikshitar và Ernest Mackay. Các cuộc khai quật tiếp tục được thực hiện vào năm 1945 bởi Ahmad Hasan Dani và Mortimer Wheeler. Loạt khai quật lớn cuối cùng được tiến hành vào năm 1964 và 1965 bởi Tiến sĩ George F. Dales.",
+        "id": "multispanqa_52_gpt4_clap",
+        "target_focus_areas": [
+            [
+                1190,
+                1244
+            ],
+            [
+                1248,
+                1278
+            ],
+            [
+                1386,
+                1418
+            ],
+            [
+                1419,
+                1516
+            ],
+            [
+                1517,
+                1610
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                1153,
+                1178
+            ],
+            [
+                1199,
+                1212
+            ],
+            [
+                1324,
+                1338
+            ],
+            [
+                1343,
+                1356
+            ],
+            [
+                1407,
+                1423
+            ],
+            [
+                1428,
+                1444
+            ],
+            [
+                1523,
+                1538
+            ]
+        ],
+        "reference": "Mohenjo - daro được xây dựng vào thế kỷ 26 trước Công nguyên. Đây là một trong những thành phố lớn nhất của nền văn minh lưu vực Ấn Độ cổ đại, còn được gọi là nền văn minh Harappan, phát triển vào khoảng 3000 trước Công nguyên từ văn hóa Ấn Độ tiền sử. Vào thời kỳ đỉnh cao, nền văn minh Ấn Độ trải dài trên phần lớn lãnh thổ của Pakistan và Bắc Ấn Độ, mở rộng về phía tây đến biên giới Iran, về phía nam đến Gujarat ở Ấn Độ và về phía bắc đến một trạm tiền tiêu ở Bactria, với những trung tâm đô thị lớn tại Harappa, Mohenjo - daro, Lothal, Kalibangan, Dholavira và Rakhigarhi. Mohenjo - daro là thành phố tiên tiến nhất vào thời điểm đó, với kỹ thuật xây dựng dân dụng và quy hoạch đô thị đặc biệt tinh vi. Khi nền văn minh Ấn Độ đột ngột suy tàn vào khoảng 1900 trước Công nguyên, Mohenjo - daro đã bị bỏ hoang. Di tích của thành phố đã không được ghi chép trong khoảng 3.700 năm cho đến khi R.D. Banerji, một viên chức của Cơ quan Khảo cổ Ấn Độ, đã đến thăm địa điểm vào năm 1919 -- 20, xác định một tháp Phật giáo (150 -- 500 CN) được biết là có mặt ở đó và tìm thấy một chiếc dao cạo bằng đá lửa, điều này đã thuyết phục ông về tính cổ xưa của địa điểm. Điều này đã dẫn đến các cuộc khai quật quy mô lớn tại Mohenjo-daro do Kashinath Narayan Dikshit lãnh đạo vào năm 1924 -- 25 và John Marshall vào năm 1925 -- 26. Vào thập niên 1930, các cuộc khai quật lớn đã được thực hiện tại địa điểm dưới sự lãnh đạo của Marshall, D.K. Dikshitar và Ernest Mackay. Các cuộc khai quật tiếp theo đã được thực hiện vào năm 1945 bởi Ahmad Hasan Dani và Mortimer Wheeler. Chuỗi các cuộc khai quật lớn cuối cùng diễn ra vào năm 1964 và 1965 bởi Tiến sĩ George F. Dales."
+    },
+    {
+        "source": "Comets may possibly have been a source of water delivery to the earth along with organic matter that can form proteins and support life. Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago.",
+        "target": "Sao chổi có thể là nguồn cung cấp nước cho Trái Đất, cùng với các chất hữu cơ có thể tạo thành protein và duy trì sự sống. Các nhà khoa học hy vọng sẽ hiểu cách các hành tinh hình thành, đặc biệt là cách Trái Đất hình thành, vì sao chổi đã va chạm với Trái Đất từ lâu.",
+        "id": "belebeleqa_0_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                122,
+                223
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                167,
+                216
+            ]
+        ],
+        "reference": "Có thể các sao chổi đã là nguồn cung cấp nước cho Trái Đất cùng với vật chất hữu cơ có thể hình thành protein và hỗ trợ sự sống. Các nhà khoa học hy vọng có thể hiểu cách các hành tinh hình thành, đặc biệt là cách mà Trái Đất được hình thành, vì các sao chổi đã va chạm với Trái Đất từ lâu."
+    },
+    {
+        "source": "Comets may possibly have been a source of water delivery to the earth along with organic matter that can form proteins and support life. Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago.",
+        "target": "Sao chổi có thể là nguồn cung cấp nước cho Trái Đất cùng với các chất hữu cơ có thể tạo thành protein và hỗ trợ sự sống. Các nhà khoa học hy vọng sẽ hiểu được cách các hành tinh hình thành, đặc biệt là cách Trái Đất hình thành, vì sao chổi đã va chạm với Trái Đất từ lâu.",
+        "id": "belebeleqa_0_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                120,
+                226
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                167,
+                216
+            ]
+        ],
+        "reference": "Có thể các sao chổi đã là nguồn cung cấp nước cho Trái Đất cùng với vật chất hữu cơ có thể hình thành protein và hỗ trợ sự sống. Các nhà khoa học hy vọng có thể hiểu cách các hành tinh hình thành, đặc biệt là cách mà Trái Đất được hình thành, vì các sao chổi đã va chạm với Trái Đất từ lâu."
+    }
+]

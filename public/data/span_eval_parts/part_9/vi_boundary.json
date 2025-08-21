@@ -1,0 +1,890 @@
+[
+    {
+        "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
+        "target": "Đề nghị của Prudential trị giá 26,5 tỷ đô la bằng cổ phiếu đã giảm xuống còn hơn 20 tỷ đô la khi cổ phiếu của Prudential giảm mạnh sau thông báo. AIG sau đó đã bước vào và đề nghị 23 tỷ đô la, mức giá đã được American General chấp nhận.",
+        "metadata": {
+            "id": "fire_22_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        12
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        22
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        13,
+                        16
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        37,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        50,
+                        58
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        68,
+                        79
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        81,
+                        92
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        85,
+                        97
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        97,
+                        120
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        98,
+                        104
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        139,
+                        142
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        146,
+                        149
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        171,
+                        182
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        180,
+                        191
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        205,
+                        221
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        209,
+                        225
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
+        "target": "Đề nghị của Prudential với giá 26,5 tỷ đô la cổ phiếu đã giảm xuống còn hơn 20 tỷ đô la khi cổ phiếu của Prudential giảm mạnh sau thông báo. Sau đó, AIG đã can thiệp và đưa ra mức giá 23 tỷ đô la, đã được American General chấp nhận.",
+        "metadata": {
+            "id": "fire_22_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        12
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        12,
+                        22
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        13,
+                        16
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        7
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        37,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        45,
+                        53
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        68,
+                        79
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        76,
+                        87
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        85,
+                        97
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        105,
+                        115
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        98,
+                        104
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        92,
+                        100
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        139,
+                        142
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        149,
+                        152
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        171,
+                        182
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        184,
+                        195
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        205,
+                        221
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        205,
+                        221
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The primary backdoor used in the Epic attacks is also known as '' WorldCupSec '' , '' TadjMakhal '' , '' Wipbot '' or '' Tavdig '' .",
+        "target": "Cổng hậu chính được sử dụng trong các cuộc tấn công Epic cũng được biết đến với tên gọi '' WorldCupSec '', '' TadjMakhal '', '' Wipbot '' hoặc '' Tavdig ''.",
+        "metadata": {
+            "id": "malwaretextdb_0_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        20
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        14
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        21,
+                        25
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        15,
+                        27
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        26,
+                        28
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        28,
+                        33
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        29,
+                        45
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        34,
+                        56
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The primary backdoor used in the Epic attacks is also known as '' WorldCupSec '' , '' TadjMakhal '' , '' Wipbot '' or '' Tavdig '' .",
+        "target": "Cổng hậu chính được sử dụng trong các cuộc tấn công Epic cũng được biết đến với tên gọi ''WorldCupSec'', ''TadjMakhal'', ''Wipbot'' hoặc ''Tavdig''.",
+        "metadata": {
+            "id": "malwaretextdb_0_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        20
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        14
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        21,
+                        25
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        15,
+                        27
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        26,
+                        28
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        28,
+                        33
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        29,
+                        45
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        34,
+                        56
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
+        "target": "Cửa hậu Epic được điều khiển bởi một mạng lưới rộng lớn các máy chủ bị hack mà cung cấp chức năng chỉ huy và kiểm soát .",
+        "metadata": {
+            "id": "malwaretextdb_21_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        18
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        12
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        19,
+                        32
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        13,
+                        28
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        36,
+                        68
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        33,
+                        75
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        74,
+                        81
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        79,
+                        87
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        82,
+                        115
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        88,
+                        118
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
+        "target": "Các cửa hậu Epic được điều khiển bởi một mạng lưới lớn các máy chủ bị hack cung cấp chức năng chỉ huy và kiểm soát.",
+        "metadata": {
+            "id": "malwaretextdb_21_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        18
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        16
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        19,
+                        32
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        17,
+                        32
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        36,
+                        68
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        37,
+                        74
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        74,
+                        81
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        75,
+                        83
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        82,
+                        115
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        84,
+                        114
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.",
+        "target": "Nhưng một bản vá lỗi khác đã được phát hành hôm nay, vì vậy có khả năng vấn đề đã được, chắc chắn khắc phục.",
+        "metadata": {
+            "id": "casie_0_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        15
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        6,
+                        25
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        16,
+                        30
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        26,
+                        43
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        31,
+                        36
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        44,
+                        51
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        60,
+                        69
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        72,
+                        78
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        83,
+                        99
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        88,
+                        107
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.",
+        "target": "Nhưng một bản vá lỗi khác đã được phát hành hôm nay, vì vậy có khả năng vấn đề cuối cùng cũng đã được khắc phục dứt điểm.",
+        "metadata": {
+            "id": "casie_0_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        15
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        6,
+                        25
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        16,
+                        30
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        26,
+                        43
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        31,
+                        36
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        44,
+                        51
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        60,
+                        69
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        72,
+                        78
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        83,
+                        99
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        102,
+                        120
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
+        "target": "Khi Microsoft bổ sung bản vá, họ đã cảm ơn Hanson, một nhà nghiên cứu của FireEye và cả nhân viên của chính họ.",
+        "metadata": {
+            "id": "casie_9_6_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        5,
+                        14
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        13
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        15,
+                        22
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        14,
+                        28
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
+        "target": "Khi Microsoft vá lỗi, họ đã cảm ơn Hanson, một nhà nghiên cứu của FireEye và cả nhân viên của chính họ.",
+        "metadata": {
+            "id": "casie_9_6_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        5,
+                        14
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        13
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        15,
+                        22
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        14,
+                        20
+                    ]
+                ]
+            }
+        ]
+    }
+]

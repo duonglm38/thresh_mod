@@ -1,0 +1,282 @@
+[
+    {
+        "source": "I’ve given big incentives for electric cars but what they’ve done in California is just crazy. He’s absolutely wrong, number one. Number two, if in fact, when, during our Administration in the Recovery Act, I was able, was in charge, able to bring down the cost of renewable energy to cheaper than or as cheap as coal and gas and oil.",
+        "target": "我为电动汽车提供了很大的激励，但他们在加利福尼亚所做的事情简直是疯狂。他绝对是错的，第一点。第二点是，事实上，在我们政府的复苏法案期间，我能够、我负责、能够将可再生能源的成本降低到比煤炭、天然气和石油更便宜或同样便宜的水平。",
+        "id": "elecdeb_232_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                35,
+                45
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                100,
+                117
+            ]
+        ],
+        "reference": "我已为电动车提供了巨大的激励，但他们在加利福尼亚所做的简直疯狂。他完全错了，第一点。第二点，如果在我们的行政部门的复苏法案期间，我能够负责，将可再生能源的成本降低到比煤、天然气和石油更便宜或同样便宜的水平。"
+    },
+    {
+        "source": "I’ve given big incentives for electric cars but what they’ve done in California is just crazy. He’s absolutely wrong, number one. Number two, if in fact, when, during our Administration in the Recovery Act, I was able, was in charge, able to bring down the cost of renewable energy to cheaper than or as cheap as coal and gas and oil.",
+        "target": "我为电动汽车提供了很大的激励，但他们在加利福尼亚所做的事情简直是疯狂。他绝对是错的，第一点。第二点是，事实上，在我们政府的复苏法案期间，我能够、我负责、能够将可再生能源的成本降低到比煤炭、天然气和石油更便宜或同样便宜的水平。",
+        "id": "elecdeb_232_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                35,
+                41
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                100,
+                117
+            ]
+        ],
+        "reference": "我已为电动车提供了巨大的激励，但他们在加利福尼亚所做的简直疯狂。他完全错了，第一点。第二点，如果在我们的行政部门的复苏法案期间，我能够负责，将可再生能源的成本降低到比煤、天然气和石油更便宜或同样便宜的水平。"
+    },
+    {
+        "source": "True, our Constitution has no 'due process' clause or the VIII Amendment; but, in this branch of law, after R.C. Cooper v. Union of India, (1970) 1 SCC 248 and Maneka Gandhi v. Union of India, (1978) 1 SCC 248, the consequence is the same.",
+        "target": "确实，我们的宪法没有“正当程序”条款或第八修正案；但在这一法律领域，自R.C. Cooper 诉 印度联邦，(1970) 1 SCC 248和曼尼卡·甘地 诉 印度联邦，(1978) 1 SCC 248之后，结果是一样的。",
+        "id": "legalner_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                3,
+                16
+            ],
+            [
+                34,
+                103
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                22
+            ],
+            [
+                108,
+                155
+            ],
+            [
+                160,
+                209
+            ]
+        ],
+        "reference": "确实，我们的宪法没有“正当法律程序”条款或第八修正案；但是，在这一法律领域，经过R.C. Cooper诉印度联盟案（1970年）1 SCC 248和Maneka Gandhi诉印度联盟案（1978年）1 SCC 248，其后果是一样的。"
+    },
+    {
+        "source": "True, our Constitution has no 'due process' clause or the VIII Amendment; but, in this branch of law, after R.C. Cooper v. Union of India, (1970) 1 SCC 248 and Maneka Gandhi v. Union of India, (1978) 1 SCC 248, the consequence is the same.",
+        "target": "确实，我们的宪法没有“正当程序”条款或第八修正案；但在这一法律领域，自1970年R.C. Cooper诉印度联邦案（1970）1 SCC 248以及1978年曼尼卡·甘地诉印度联邦案（1978）1 SCC 248之后，其结果是一样的。",
+        "id": "legalner_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                3,
+                16
+            ],
+            [
+                34,
+                108
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                22
+            ],
+            [
+                108,
+                155
+            ],
+            [
+                160,
+                209
+            ]
+        ],
+        "reference": "确实，我们的宪法没有“正当法律程序”条款或第八修正案；但是，在这一法律领域，经过R.C. Cooper诉印度联盟案（1970年）1 SCC 248和Maneka Gandhi诉印度联盟案（1978年）1 SCC 248，其后果是一样的。"
+    },
+    {
+        "source": "During that time he was part of an ABC News team that came under sniper fire in Sarajevo, Bosnia in August 1992. David Kaplan, a veteran ABC News Washington producer, was killed in the incident. In 1997, Sherwood joined NBC 's Nightly News with Tom Brokaw as a producer, then senior producer, and ultimately senior broadcast producer, where hewas present during coverage of the September 11th attacks.",
+        "target": "在那段时间里，他是ABC新闻团队的一员，该团队于1992年8月在波斯尼亚萨拉热窝遭到狙击手射击。ABC新闻资深华盛顿制片人大卫·卡普兰在事件中遇难。1997年，Sherwood加入NBC《夜间新闻》，与Tom Brokaw一同担任制片人，随后晋升为高级制片人，最终成为高级广播制片人，他在报道9·11袭击事件时在场。",
+        "id": "natural_instruct_task329_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                80,
+                93
+            ],
+            [
+                100,
+                118
+            ],
+            [
+                142,
+                147
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                204,
+                212
+            ],
+            [
+                245,
+                255
+            ],
+            [
+                341,
+                343
+            ]
+        ],
+        "reference": "在那段时间，他是ABC新闻团队的一部分，该团队在1992年8月在波斯尼亚萨拉热窝遭到狙击手火力袭击。资深ABC新闻华盛顿制片人大卫·卡普兰在事件中遇难。1997年，谢伍德加入NBC的《今晚新闻》，担任制片人，随后成为高级制片人，最终成为高级广播制片人，他在911袭击报道中亲历了整个过程。"
+    },
+    {
+        "source": "During that time he was part of an ABC News team that came under sniper fire in Sarajevo, Bosnia in August 1992. David Kaplan, a veteran ABC News Washington producer, was killed in the incident. In 1997, Sherwood joined NBC 's Nightly News with Tom Brokaw as a producer, then senior producer, and ultimately senior broadcast producer, where hewas present during coverage of the September 11th attacks.",
+        "target": "在那段时间里，他是 ABC 新闻团队的一员，该团队在 1992 年 8 月在波斯尼亚萨拉热窝遭到狙击手射击。ABC 新闻华盛顿资深制片人大卫·卡普兰在事件中丧生。1997 年，舍伍德加入 NBC 的《夜间新闻》担任制片人，随后升任高级制片人，最终成为高级广播制片人，他在报道 9·11 事件时参与其中。",
+        "id": "natural_instruct_task329_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                88,
+                99
+            ],
+            [
+                133,
+                139
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                204,
+                212
+            ],
+            [
+                245,
+                255
+            ],
+            [
+                341,
+                343
+            ]
+        ],
+        "reference": "在那段时间，他是ABC新闻团队的一部分，该团队在1992年8月在波斯尼亚萨拉热窝遭到狙击手火力袭击。资深ABC新闻华盛顿制片人大卫·卡普兰在事件中遇难。1997年，谢伍德加入NBC的《今晚新闻》，担任制片人，随后成为高级制片人，最终成为高级广播制片人，他在911袭击报道中亲历了整个过程。"
+    },
+    {
+        "source": "On 27 September 2014, Toshney signed for Ross County and made his debut the same day as they beat Dundee 2--1. Having been released by Ross County, Toshney signed for Cowdenbeath on 3 February 2015, signing a contract until the end of the 2014--15 season. On 11 June 2015, Toshney signed for Raith Rovers. Following his move to Scottish Championship rivals Dundee United, former Raith Rovers manager Ray McKinnon expressed an interest in bringing Toshney to Tannadice.",
+        "target": "2014年9月27日，托什尼加盟罗斯郡，并在当天罗斯郡2比1击败邓迪的比赛中首次亮相。在被罗斯郡解约后，托什尼于2015年2月3日加盟考登比斯，签订一份合同至2014-15赛季结束。2015年6月11日，托什尼加盟雷斯罗弗斯。在他转会到苏格兰锦标赛竞争对手邓迪联队后，前雷斯罗弗斯主教练雷·麦金农表示有兴趣将托什尼带到坦纳迪斯球场。",
+        "id": "natural_instruct_task329_44_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                11,
+                19
+            ],
+            [
+                113,
+                123
+            ],
+            [
+                135,
+                156
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                22,
+                29
+            ],
+            [
+                316,
+                319
+            ],
+            [
+                400,
+                412
+            ]
+        ],
+        "reference": "2014年9月27日，托什尼签约罗斯县，并在当天首次出场，帮助球队以2-1战胜邓迪。在罗斯县被释放后，托什尼于2015年2月3日签约科登比斯，合同到2014-15赛季结束。2015年6月11日，托什尼签约瑞斯流浪者。在他转会至苏格兰冠军联赛对手邓迪联队后，前瑞斯流浪者经理雷·麦金农表示有兴趣将托什尼带到坦纳代斯。"
+    },
+    {
+        "source": "On 27 September 2014, Toshney signed for Ross County and made his debut the same day as they beat Dundee 2--1. Having been released by Ross County, Toshney signed for Cowdenbeath on 3 February 2015, signing a contract until the end of the 2014--15 season. On 11 June 2015, Toshney signed for Raith Rovers. Following his move to Scottish Championship rivals Dundee United, former Raith Rovers manager Ray McKinnon expressed an interest in bringing Toshney to Tannadice.",
+        "target": "2014年9月27日，托什尼加盟罗斯郡队并于当天首次亮相，当时他们以2比1战胜丹迪队。在被罗斯郡队解约后，托什尼于2015年2月3日加盟考登比斯队，签订合同至2014-15赛季结束。2015年6月11日，托什尼加盟雷斯罗弗斯队。在转会到苏格兰锦标赛的竞争对手丹迪联队后，前雷斯罗弗斯队主教练雷·麦金农表示有兴趣将托什尼带到坦纳代斯球场。",
+        "id": "natural_instruct_task329_44_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                11,
+                22
+            ],
+            [
+                29,
+                40
+            ],
+            [
+                137,
+                158
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                22,
+                29
+            ],
+            [
+                316,
+                319
+            ],
+            [
+                400,
+                412
+            ]
+        ],
+        "reference": "2014年9月27日，托什尼签约罗斯县，并在当天首次出场，帮助球队以2-1战胜邓迪。在罗斯县被释放后，托什尼于2015年2月3日签约科登比斯，合同到2014-15赛季结束。2015年6月11日，托什尼签约瑞斯流浪者。在他转会至苏格兰冠军联赛对手邓迪联队后，前瑞斯流浪者经理雷·麦金农表示有兴趣将托什尼带到坦纳代斯。"
+    },
+    {
+        "source": "Jim went to the bank to get a statement to see how much money he had for the weekend, but the statement said the was broke.",
+        "target": "吉姆去银行获取一份账单，想看看自己周末有多少钱，但账单显示他已身无分文。",
+        "id": "natural_instruct_task033_0_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                1,
+                11
+            ],
+            [
+                24,
+                35
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                30,
+                39
+            ],
+            [
+                94,
+                103
+            ]
+        ],
+        "reference": "吉姆去银行获取账单，以查看他周末有多少钱，但账单上说他破产了。"
+    },
+    {
+        "source": "Jim went to the bank to get a statement to see how much money he had for the weekend, but the statement said the was broke.",
+        "target": "吉姆去银行打印了一份账单，想看看自己周末有多少钱，但账单上写着他已经破产了。",
+        "id": "natural_instruct_task033_0_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                2,
+                12
+            ],
+            [
+                25,
+                36
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                30,
+                39
+            ],
+            [
+                94,
+                103
+            ]
+        ],
+        "reference": "吉姆去银行获取账单，以查看他周末有多少钱，但账单上说他破产了。"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+        "target": "虽然这可以被结构化为一种销售税，现实的消费税提案认识到累退性是纯销售税的一个问题。",
+        "id": "wikibias_0_gpt4_ez",
+        "target_focus_areas": [
+            [
+                16,
+                40
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                48,
+                57
+            ],
+            [
+                90,
+                152
+            ]
+        ],
+        "reference": "虽然这可以像销售税那样结构化，但针对消费税的现实提案认识到，纯销售税的倒退性是一个问题。"
+    },
+    {
+        "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+        "target": "虽然这可以像销售税一样构建，但对消费税的现实提议认识到，纯销售税存在累退性问题。",
+        "id": "wikibias_0_gpt4_clap",
+        "target_focus_areas": [
+            [
+                14,
+                39
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                48,
+                57
+            ],
+            [
+                90,
+                152
+            ]
+        ],
+        "reference": "虽然这可以像销售税那样结构化，但针对消费税的现实提案认识到，纯销售税的倒退性是一个问题。"
+    },
+    {
+        "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target": "库尔斯家族成员，以及通过他们库尔斯酿酒公司本身，在美国政治和公共政策中发挥了重要作用，支持了许多保守事业。",
+        "id": "wikibias_22_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                8,
+                23
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                27,
+                72
+            ]
+        ],
+        "reference": "库尔斯家族成员，以及由此而来的库尔斯啤酒公司本身，在美国政治和公共政策中发挥了重要作用，支持许多保守派事业。"
+    },
+    {
+        "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target": "库尔斯家族成员，以及以此为代表的库尔斯酿酒公司，在美国政治和公共政策中发挥了重要作用，支持了许多保守主义事业。",
+        "id": "wikibias_22_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                8,
+                23
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                27,
+                72
+            ]
+        ],
+        "reference": "库尔斯家族成员，以及由此而来的库尔斯啤酒公司本身，在美国政治和公共政策中发挥了重要作用，支持许多保守派事业。"
+    },
+    {
+        "source": "yep, this crap sounds like its from a libertarian",
+        "target": "是的，这垃圾听起来像是出自一个自由意志主义者",
+        "id": "toxicspans_1_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                7,
+                22
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                38,
+                49
+            ]
+        ],
+        "reference": "是的，这些废话听起来像是来自一个自由意志主义者。"
+    },
+    {
+        "source": "yep, this crap sounds like its from a libertarian",
+        "target": "是的，这垃圾听起来就像出自自由意志主义者之口。",
+        "id": "toxicspans_1_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                5,
+                22
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                38,
+                49
+            ]
+        ],
+        "reference": "是的，这些废话听起来像是来自一个自由意志主义者。"
+    }
+]

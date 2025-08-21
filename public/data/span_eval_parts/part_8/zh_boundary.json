@@ -1,0 +1,864 @@
+[
+    {
+        "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
+        "target": "在所有此类情况下，我们的政策是依法配合，但仅提供法律所要求的信息。提供",
+        "metadata": {
+            "id": "policyie_12_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        20,
+                        23
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        9,
+                        11
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        75,
+                        82
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        33,
+                        35
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        93,
+                        104
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        30,
+                        32
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        108,
+                        124
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        24,
+                        29
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
+        "target": "在所有此类情况下，我们的政策是根据法律要求进行合作，但仅提供法律所要求的信息。",
+        "metadata": {
+            "id": "policyie_12_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        20,
+                        23
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        9,
+                        11
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        75,
+                        82
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        28,
+                        30
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        93,
+                        104
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        36,
+                        38
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        108,
+                        124
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        30,
+                        35
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
+        "target": "法律确实允许我们向执法部门 自愿且无需事先通知地披露 客户信息，包括通信内容，如果我们合理认为涉及立即死亡或严重身体伤害的紧急情况需要立即披露。",
+        "metadata": {
+            "id": "policyie_13_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        20,
+                        22
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        6,
+                        8
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        26,
+                        34
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        13
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        38,
+                        53
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        14,
+                        26
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        56,
+                        92
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        27,
+                        29
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        95,
+                        103
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        29,
+                        31
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        104,
+                        115
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        34,
+                        38
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        132,
+                        158
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        41,
+                        71
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        164,
+                        305
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
+        "target": "法律允许我们在合理相信涉及即刻死亡或严重人身伤害危险的紧急情况需要立即披露的情况下，自愿且无需事先通知地向执法部门披露客户信息，包括通信内容。",
+        "metadata": {
+            "id": "policyie_13_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        20,
+                        22
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        26,
+                        34
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        35,
+                        37
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        38,
+                        53
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        53,
+                        57
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        56,
+                        92
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        42,
+                        52
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        95,
+                        103
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        59,
+                        61
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        104,
+                        115
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        61,
+                        63
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        132,
+                        158
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        66,
+                        70
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        164,
+                        305
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        6,
+                        41
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
+        "target": "石油集团Equinor发布了创纪录的税前利润，并表示将提高股息和股票回购，而在金融领域，Amundi超额完成了其战略目标，ABN Amro宣布在净利润大幅增长后将进行 5 亿欧元的股票回购。",
+        "metadata": {
+            "id": "finentity_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        10,
+                        17
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        11
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        122,
+                        128
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        44,
+                        50
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        169
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        61,
+                        69
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
+        "target": "石油集团 Equinor 发布了创纪录的税前利润，并表示将提高股息和股票回购，而在金融领域，Amundi 超越了其战略目标，而 ABN Amro 在净利润大幅增长后宣布了 5 亿欧元的股票回购。",
+        "metadata": {
+            "id": "finentity_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        10,
+                        17
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        5,
+                        12
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        122,
+                        128
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        46,
+                        52
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        169
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        64,
+                        72
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
+        "target": "“石油需求……如果你看一下最新的数据，情况仍然不错。我们原本预期会出现需求下降，但这种情况并未真正发生，”全球市场研究与分析主管弗雷德里克·拉塞爾在贡沃集团（GGL.UL）表示。",
+        "metadata": {
+            "id": "finentity_9_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        210,
+                        222
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        74,
+                        78
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
+        "target": "“石油需求……如果你看看最新的数据，情况仍然不错。我们原本预期会出现需求下降，但实际上并未发生，”Gunvor集团全球市场研究与分析主管弗雷德里克·拉塞爾表示。",
+        "metadata": {
+            "id": "finentity_9_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        210,
+                        222
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        49,
+                        57
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
+        "target": "业务收购 于2012年4月2日，我们收购了几乎所有Green River Collieries, LLC（“Green River”）与其位于韦伯斯特和霍普金斯县，肯塔基州相关的煤矿业务和运营资产。",
+        "metadata": {
+            "id": "fire_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        4
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        27,
+                        41
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        6,
+                        15
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        47,
+                        55
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        21
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        77,
+                        128
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        25,
+                        67
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        151,
+                        186
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        89,
+                        96
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        198,
+                        205
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        71,
+                        75
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        210,
+                        217
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        76,
+                        80
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        229,
+                        237
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        82,
+                        86
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
+        "target": "业务收购 2012年4月2日，本公司收购了Green River Collieries, LLC（“Green River”）在肯塔基州韦伯斯特县和霍普金斯县与其煤炭采矿业务及运营相关的实质性全部资产。",
+        "metadata": {
+            "id": "fire_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        4
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        27,
+                        41
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        5,
+                        14
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        47,
+                        55
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        21
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        77,
+                        128
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        21,
+                        63
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        151,
+                        186
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        81,
+                        90
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        198,
+                        205
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        68,
+                        73
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        210,
+                        217
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        74,
+                        79
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        229,
+                        237
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        64,
+                        68
+                    ]
+                ]
+            }
+        ]
+    }
+]

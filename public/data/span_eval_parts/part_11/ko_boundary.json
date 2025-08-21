@@ -1,0 +1,1044 @@
+[
+    {
+        "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
+        "target": "최점에 이르렀을 때, 말레디브스어로 ' palm 나뭇잎 한 줌'을 뜻하는 이름을 가진 열대 폭풍 곤우는 지속적인 바람 속도 시속 240킬로미터(시속 149마일)에 달했다. 오늘 아침 현재 바람은 약 시속 83킬로미터 수준이었으며, 계속 약화될 것으로 예상된다.",
+        "metadata": {
+            "id": "belebeleqa_4_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        127,
+                        170
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        69,
+                        89
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
+        "target": "최정점에 이르렀을 때, 말레디브스어에서 '야자수 잎 한 뭉치'라는 의미를 가진 이름을 가진 열대 폭풍 곤우는 지속 풍속 시속 240km(마일당 149마일)에 달했다. 오늘 아침 현재 풍속은 약 시속 83km로 줄어들었으며, 앞으로도 약화될 것으로 예상된다.",
+        "metadata": {
+            "id": "belebeleqa_4_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        127,
+                        170
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        67,
+                        86
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Jens Oliver Lisberg ( 24 December 1896 – 31 August 1920 ) ( Jens Olivur Lisberg in modern Faroese ) is one of the designers of the Merkið , the flag of the Faroe Islands . While a law student in Copenhagen , he devised the flag in 1919 with two other Faroese students , Janus Øssursson from Tórshavn and Paul Dahl from Vágur . Lisberg raised the flag for the first time on Faroese soil on 22 June 1919 on returning to his home town of Fámjin . It would not however receive official status until 25 April 1940 when the British occupation government approved its use as the civil ensign of the islands . Lisberg died of pneumonia on 31 August 1920 . He is buried in Fámjin , where the church now holds the original copy of the Merkið .",
+        "target": "옌스 올리버 리스베르그 ( 1896년 12월 24일 – 1920년 8월 31일 ) ( 현대 페로어로는 옌스 올리부르 리스베르그 )는 페로 제도의 메르키트 깃발 디자이너 중 한 명입니다. 코펜하겐에서 법학을 공부하던 중, 그는 1919년에 다른 페로어 학생 두 명인 토르스하운 출신 야누스 외서르손과 바우구르 출신 폴 달과 함께 이 깃발을 고안했습니다. 리스베르그는 1919년 6월 22일 고향인 파므인으로 돌아와 처음으로 페로어 땅 위에서 깃발을 게양했습니다. 그러나 이 깃발이 공식 지위를 획득한 것은 영국 점령 정부가 섬의 민간 선박 깃발로 사용을 승인한 1940년 4월 25일이 되어서입니다. 리스베르그는 1920년 8월 31일 폐렴으로 사망했고, 파므인에 묻혔으며 현재 교회에는 메르키트의 원본이 보관되어 있습니다.",
+        "metadata": {
+            "id": "docred_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        19
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        12
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        22,
+                        38
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        15,
+                        28
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        41,
+                        55
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        31,
+                        43
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        60,
+                        79
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        57,
+                        70
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        90,
+                        97
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        51,
+                        54
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        131,
+                        137
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        81,
+                        85
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        156,
+                        169
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        74,
+                        79
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        195,
+                        205
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        104,
+                        108
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        231,
+                        235
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        126,
+                        131
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        241,
+                        244
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        251,
+                        258
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        136,
+                        139
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        270,
+                        285
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        157,
+                        165
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 12,
+                "input_idx": [
+                    [
+                        291,
+                        299
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        148,
+                        153
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 13,
+                "input_idx": [
+                    [
+                        304,
+                        313
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        175,
+                        178
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 14,
+                "input_idx": [
+                    [
+                        319,
+                        324
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        167,
+                        171
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 15,
+                "input_idx": [
+                    [
+                        327,
+                        334
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        197,
+                        202
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 16,
+                "input_idx": [
+                    [
+                        373,
+                        380
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        236,
+                        239
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 17,
+                "input_idx": [
+                    [
+                        389,
+                        401
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        204,
+                        216
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 18,
+                "input_idx": [
+                    [
+                        435,
+                        441
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        221,
+                        224
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 19,
+                "input_idx": [
+                    [
+                        495,
+                        508
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        313,
+                        325
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 20,
+                "input_idx": [
+                    [
+                        518,
+                        525
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        282,
+                        284
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 21,
+                "input_idx": [
+                    [
+                        602,
+                        609
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        335,
+                        340
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 22,
+                "input_idx": [
+                    [
+                        631,
+                        645
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        342,
+                        354
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 23,
+                "input_idx": [
+                    [
+                        664,
+                        670
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        366,
+                        369
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 24,
+                "input_idx": [
+                    [
+                        725,
+                        731
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        384,
+                        388
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Jens Oliver Lisberg ( 24 December 1896 – 31 August 1920 ) ( Jens Olivur Lisberg in modern Faroese ) is one of the designers of the Merkið , the flag of the Faroe Islands . While a law student in Copenhagen , he devised the flag in 1919 with two other Faroese students , Janus Øssursson from Tórshavn and Paul Dahl from Vágur . Lisberg raised the flag for the first time on Faroese soil on 22 June 1919 on returning to his home town of Fámjin . It would not however receive official status until 25 April 1940 when the British occupation government approved its use as the civil ensign of the islands . Lisberg died of pneumonia on 31 August 1920 . He is buried in Fámjin , where the church now holds the original copy of the Merkið .",
+        "target": "옌스 올리버 리스베르그(1896년 12월 24일 – 1920년 8월 31일)(현대 페로어로는 옌스 올리부르 리스베르그)는 페로 제도의 국기인 메르키트(Merkið)의 디자이너 중 한 명이다. 그는 코펜하겐에서 법학을 공부하던 중 1919년에 토르스항 출신 야누스 외슈르손(Janus Øssursson)과 바우르 출신 폴 달(Paul Dahl)과 함께 이 깃발을 고안하였다. 리스베르그는 1919년 6월 22일 고향인 팜여(Fámjin)로 돌아오면서 처음으로 페로 제도 영토에서 이 깃발을 게양하였다. 그러나 이 깃발이 공식적으로 인정받은 것은 영국 점령 정부가 1940년 4월 25일 페로 제도의 민간기(民間旗)로 사용을 승인했을 때였다. 리스베르그는 1920년 8월 31일 폐렴으로 사망하였으며, 팜여에 묻혀 있다. 현재 그가 묻힌 교회에는 메르키트의 원본이 보관되어 있다.",
+        "metadata": {
+            "id": "docred_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        19
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        12
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        22,
+                        38
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        13,
+                        26
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        41,
+                        55
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        29,
+                        41
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        60,
+                        79
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        52,
+                        65
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        90,
+                        97
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        43,
+                        50
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        131,
+                        137
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        79,
+                        91
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        156,
+                        169
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        68,
+                        73
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        195,
+                        205
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        110,
+                        114
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        231,
+                        235
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        128,
+                        133
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        241,
+                        244
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        251,
+                        258
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        270,
+                        285
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        143,
+                        168
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 12,
+                "input_idx": [
+                    [
+                        291,
+                        299
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        135,
+                        139
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 13,
+                "input_idx": [
+                    [
+                        304,
+                        313
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        177,
+                        191
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 14,
+                "input_idx": [
+                    [
+                        319,
+                        324
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        170,
+                        173
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 15,
+                "input_idx": [
+                    [
+                        327,
+                        334
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        209,
+                        214
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 16,
+                "input_idx": [
+                    [
+                        373,
+                        380
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        256,
+                        261
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 17,
+                "input_idx": [
+                    [
+                        389,
+                        401
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        216,
+                        228
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 18,
+                "input_idx": [
+                    [
+                        435,
+                        441
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        233,
+                        243
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 19,
+                "input_idx": [
+                    [
+                        495,
+                        508
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        314,
+                        326
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 20,
+                "input_idx": [
+                    [
+                        518,
+                        525
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        304,
+                        306
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 21,
+                "input_idx": [
+                    [
+                        602,
+                        609
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        358,
+                        363
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 22,
+                "input_idx": [
+                    [
+                        631,
+                        645
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        365,
+                        377
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 23,
+                "input_idx": [
+                    [
+                        664,
+                        670
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        391,
+                        393
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 24,
+                "input_idx": [
+                    [
+                        725,
+                        731
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        416,
+                        420
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
+        "target": "댄 패트릭이 이 리그의 아이들이 자신들은 면역이지만 부모/조부모를 죽이기 위해 바이러스를 퍼뜨리는 내용으로 제가 구상했던 SF 시나리오/조부모를 죽이기 위해 바이러스를 퍼뜨리는 내용으로 제가 구상했던 SF 시나리오$lt;/span$gt;를 현실로 만들고 있네.",
+        "metadata": {
+            "id": "curt_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        152
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        31
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
+        "target": "댄 패트릭이 이 리그의 아이들이 자신들은 면역이지만 부모/조부모를 죽이기 위해 바이러스를 퍼뜨리는 내용으로 제가 가졌던 SF 시나리오 아이디어를 현실로 만들고 있어.",
+        "metadata": {
+            "id": "curt_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        152
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        91
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
+        "target": "@CindyKendrick11 망고국수 이야기는 변명에 불과하다. 그게 웨이한에 있는 중국 생물무기 실험실에서 유출된 것이 분명하다. 중국 정부가 이 모든 것을 책임진다",
+        "metadata": {
+            "id": "curt_61_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        17,
+                        48
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        17,
+                        35
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        122,
+                        168
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        75,
+                        94
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
+        "target": "@CindyKendrick11 방망이 국수 이야기는 변명일 뿐이야. 그게 우한에 있는 중국 생물무기 실험실에서 새어나온 거야. 중국 정부가 이 모든 일에 책임이 있어",
+        "metadata": {
+            "id": "curt_61_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        17,
+                        48
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        17,
+                        36
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        122,
+                        168
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        71,
+                        92
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Well, Mr. Ford is - is uh changing uh considerably his previous philosophy. The present tax structure is a disgrace to this country; it's just a welfare program for the rich. As a matter of fact, uh - 25 percent of the total tax deductions, go for only 1 percent of the richest people in this country, and over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country.",
+        "target": "글쎄요, 포드 씨는 - 그의 이전 철학을 상당히 바꾸고 있습니다. 현재의 세금 구조는 이 나라에 대한 수치입니다; 그냥 부자들을 위한 복지 프로그램일 뿐입니다. 사실, 전체 세금 공제의 25퍼센트가 이 나라에서 가장 부유한 상위 1퍼센트에만 돌아가고, 세금 우대 혜택의 50퍼센트 이상이 이 나라에서 가장 부유한 상위 14퍼센트에 돌아갑니다.",
+        "metadata": {
+            "id": "elecdeb_161_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        105,
+                        132
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        48,
+                        63
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Well, Mr. Ford is - is uh changing uh considerably his previous philosophy. The present tax structure is a disgrace to this country; it's just a welfare program for the rich. As a matter of fact, uh - 25 percent of the total tax deductions, go for only 1 percent of the richest people in this country, and over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country.",
+        "target": "글쎄요, 포드 씨는 이전의 철학을 상당히 바꾸고 있습니다. 현재의 세금 구조는 이 나라에 수치스러운 일이며, 단지 부자들을 위한 복지 프로그램일 뿐입니다. 실제로, 전체 세금 공제의 25%가 이 나라에서 가장 부유한 1%의 사람들에게 돌아가며, 세금 공제의 50% 이상이 이 나라에서 가장 부유한 14%의 사람들에게 돌아갑니다.",
+        "metadata": {
+            "id": "elecdeb_161_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        105,
+                        132
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        44,
+                        59
+                    ]
+                ]
+            }
+        ]
+    }
+]

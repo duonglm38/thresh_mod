@@ -1,0 +1,872 @@
+[
+    {
+        "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
+        "target": "프루덴셜의 주식을 이용한 인수 제안 265억 달러는 발표 직후 주가가 폭락하면서 200억 달러가 조금 넘는 수준으로 줄어들었다. 이후 AIG가 230억 달러를 제시했고, 아메리칸 제너럴은 이를 수락했다.",
+        "metadata": {
+            "id": "fire_22_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        12
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        4
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        13,
+                        16
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        14,
+                        19
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        37,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        6,
+                        8
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        68,
+                        79
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        85,
+                        97
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        98,
+                        104
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        35,
+                        37
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        139,
+                        142
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        75,
+                        78
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        171,
+                        182
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        80,
+                        87
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        205,
+                        221
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        95,
+                        103
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
+        "target": "프루덴셜의 265억 달러 규모의 주식 인수를 제안했지만, 발표 직후 프루덴셜 주가가 폭락하면서 200억 달러가 조금 넘는 수준으로 줄었습니다. 이후 AIG가 230억 달러를 제시했고, 아메리칸 제너럴은 이를 수락했습니다.",
+        "metadata": {
+            "id": "fire_22_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        12
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        5
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        13,
+                        16
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        21,
+                        30
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        37,
+                        42
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        20
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        68,
+                        79
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        53,
+                        72
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        85,
+                        97
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        38,
+                        42
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        98,
+                        104
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        43,
+                        46
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        139,
+                        142
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        83,
+                        86
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        171,
+                        182
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        88,
+                        101
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        205,
+                        221
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        103,
+                        112
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The primary backdoor used in the Epic attacks is also known as '' WorldCupSec '' , '' TadjMakhal '' , '' Wipbot '' or '' Tavdig '' .",
+        "target": "에픽 공격에서 사용된 주요 백도어는 또한 ''WorldCupSec'', ''TadjMakhal'', ''Wipbot'', 또는 ''Tavdig''로도 알려져 있다.",
+        "metadata": {
+            "id": "malwaretextdb_0_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        20
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        18
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        21,
+                        25
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        26,
+                        28
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        29,
+                        45
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The primary backdoor used in the Epic attacks is also known as '' WorldCupSec '' , '' TadjMakhal '' , '' Wipbot '' or '' Tavdig '' .",
+        "target": "에픽 공격에서 주로 사용된 백도어는 또한 '월드컵세크', '타드마카할', '위프봇', 또는 '타브디그'로도 알려져 있다.",
+        "metadata": {
+            "id": "malwaretextdb_0_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        20
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        18
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        21,
+                        25
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        11,
+                        14
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        26,
+                        28
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        5,
+                        7
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        29,
+                        45
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        7
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
+        "target": "에픽 백도어는 거대한 해킹된 서버 네트워크에 의해 명령되며, 이들은 명령 및 제어 기능을 제공합니다.",
+        "metadata": {
+            "id": "malwaretextdb_21_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        18
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        19,
+                        32
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        28,
+                        32
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        36,
+                        68
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        23
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        74,
+                        81
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        50,
+                        55
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        82,
+                        115
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        38,
+                        48
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
+        "target": "에픽 백도어는 명령 및 제어 기능을 제공하는 거대한 해킹 서버 네트워크에 의해 조종됩니다.",
+        "metadata": {
+            "id": "malwaretextdb_21_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        18
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        19,
+                        32
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        44,
+                        49
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        36,
+                        68
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        25,
+                        39
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        74,
+                        81
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        20,
+                        24
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        82,
+                        115
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        18
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.",
+        "target": "하지만 또 다른 업데이트가 오늘 배포되었기 때문에, 문제가 드디어, 확실히 해결된 것일 수도 있습니다.",
+        "metadata": {
+            "id": "casie_0_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        15
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        13
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        16,
+                        30
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        22
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        31,
+                        36
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        15,
+                        17
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        60,
+                        69
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        29,
+                        31
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        83,
+                        99
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        38,
+                        45
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.",
+        "target": "하지만 오늘 또 다른 업데이트가 나왔으니, 문제가 드디어 확실히 해결되었을 가능성이 있다.",
+        "metadata": {
+            "id": "casie_0_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        15
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        7,
+                        16
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        16,
+                        30
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        22
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        31,
+                        36
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        60,
+                        69
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        24,
+                        27
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        83,
+                        99
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        32,
+                        41
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
+        "target": "마이크로소프트가 패치를 적용했을 때, 헨슨을 비롯해 페이어아이 연구원이자 내부 직원인 그들을 감사의 말로 격려했다.",
+        "metadata": {
+            "id": "casie_9_6_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        5,
+                        14
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        7
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        15,
+                        22
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        9,
+                        11
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
+        "target": "마이크로소프트가 패치를 적용했을 때, 헨슨(파이어아이 연구원이자 마이크로소프트 직원)에게 감사를 표했다.",
+        "metadata": {
+            "id": "casie_9_6_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        5,
+                        14
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        7
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        15,
+                        22
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        9,
+                        19
+                    ]
+                ]
+            }
+        ]
+    }
+]

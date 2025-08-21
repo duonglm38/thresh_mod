@@ -1,0 +1,1222 @@
+[
+    {
+        "source": "shannon is an unincorporated community in mason county , kentucky , united states . the village is southwest of mason city on u . s . route 40 , in the township of pine hill . the highest point in the community is dominated by a prominent limestone cliff and a mound built by the first settlers of the area . the original limestone lined earthwork is 2 ¹⁄₂ stories - high and 10 feet in diameter . historical holes in the mound have allowed further study and more precise dating of the mound ' s location . shannon is part of the mason city metropolitan statistical area statistical area .",
+        "target": "香农是美国肯塔基州梅森县的一个非建制社区。该村庄位于梅森市的西南方向，靠近美国40号公路，在松山乡。该社区的最高点由一个突出的石灰岩悬崖和一个由该地区最早的定居者建造的土墩组成。最初的石灰岩衬里的土方工程高约2¹⁄₂层，直径10英尺。土墩中的历史洞穴允许进一步研究和对土墩位置的更精确测定。香农是梅森城市区统计区的一部分。",
+        "metadata": {
+            "id": "hades_87_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        496,
+                        504
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        136,
+                        138
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "shannon is an unincorporated community in mason county , kentucky , united states . the village is southwest of mason city on u . s . route 40 , in the township of pine hill . the highest point in the community is dominated by a prominent limestone cliff and a mound built by the first settlers of the area . the original limestone lined earthwork is 2 ¹⁄₂ stories - high and 10 feet in diameter . historical holes in the mound have allowed further study and more precise dating of the mound ' s location . shannon is part of the mason city metropolitan statistical area statistical area .",
+        "target": "香农是美国肯塔基州梅森县的一个非建制社区。该村庄位于美国40号公路的梅森市西南方，在松丘乡。该社区的最高点由一座突出的石灰岩悬崖和早期定居者建造的土堆所占据。最初的石灰岩衬砌土丘高约2¹⁄₂层，直径10英尺。土丘上的历史性洞穴允许进一步研究并更精确地确定土丘的位置。香农是梅森城市统计区的一部分。",
+        "metadata": {
+            "id": "hades_87_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        496,
+                        504
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        130,
+                        132
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The image features a red street sign that reads \"LIKE A BRICK FITTCHEN.\" The sign is mounted on a pole, and it stands out against the background of the snowy cityscape.",
+        "target": "该图像中有一块红色的街道路牌，上面写着“LIKE A BRICK FITTCHEN”。路牌安装在一根杆子上，在雪景城市背景的映衬下格外显眼。",
+        "metadata": {
+            "id": "mhal_0_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        104,
+                        168
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        54,
+                        70
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The image features a red street sign that reads \"LIKE A BRICK FITTCHEN.\" The sign is mounted on a pole, and it stands out against the background of the snowy cityscape.",
+        "target": "图片中有一块红色的街道标志，上面写着“LIKE A BRICK FITTCHEN”。标志安装在一根杆子上，在雪景城市背景的衬托下格外显眼。",
+        "metadata": {
+            "id": "mhal_0_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        104,
+                        168
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        53,
+                        69
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "In the image, there are two cats sitting on a carpeted floor. One of the cats is orange and the other is black. The cats are positioned close to each other, creating a cozy and intimate atmosphere. The carpet provides a soft and comfortable surface for the cats to rest on. The overall mood of the image is peaceful and relaxed, as the cats seem to be enjoying each other's company while resting on the carpet.",
+        "target": "图片中有两只猫坐在铺有地毯的地板上。其中一只猫是橙色的，另一只是黑色的。猫咪们靠得很近，营造出一种温馨亲密的氛围。地毯为猫咪们提供了一个柔软舒适的休息表面。整体画面氛围宁静而放松，猫咪们似乎在享受彼此的陪伴，安静地休息在地毯上。",
+        "metadata": {
+            "id": "mhal_114_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        157,
+                        197
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        44,
+                        57
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        198,
+                        273
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        57,
+                        78
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        274,
+                        409
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        78,
+                        114
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "In the image, there are two cats sitting on a carpeted floor. One of the cats is orange and the other is black. The cats are positioned close to each other, creating a cozy and intimate atmosphere. The carpet provides a soft and comfortable surface for the cats to rest on. The overall mood of the image is peaceful and relaxed, as the cats seem to be enjoying each other's company while resting on the carpet.",
+        "target": "图片中有两只猫坐在铺有地毯的地板上。其中一只猫是橘色的，另一只是黑色的。两只猫靠得很近，营造出一种温馨亲密的氛围。地毯为猫咪提供了一个柔软舒适的休息表面。整张图片的氛围宁静而放松，猫咪们似乎在享受彼此的陪伴，安然地躺在地毯上。",
+        "metadata": {
+            "id": "mhal_114_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        157,
+                        197
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        44,
+                        57
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        198,
+                        273
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        57,
+                        77
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        274,
+                        409
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        77,
+                        113
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "in this image in the foreground there is one man who is holding some vegetables it seems and walking, and on the right side there is one person who is standing and it looks like there are some vegetables. and there are some poles and plastic covers, and there is a wire. on the wire there are some clothes and some ropes, and in the background also there are poles and we could see roof at the top and there are trees and buildings on the left side and one woman and one child who is holding a cup and eating something. and there are some clothes and we could see some doors, wall and at the bottom there is floor. and in the center there are some poles, and at the top there is sky.",
+        "target": "在这张图片的前景中，有一个男人，他正在拿着一些蔬菜，并走着。在右边，有一个人正在站着，看起来那里也有一些蔬菜。还有一些杆子和塑料布，以及一根电线。在电线上，有一些衣服和一些绳子。在背景中，也有杆子，我们可以看到顶部的屋顶，左边有树木和建筑物，还有一个女人和一个孩子，他/她正在拿着一个杯子，吃着东西。还有一些衣服，我们可以看到一些门、墙，在底部有地板。在中心有一些杆子，在顶部是天空。",
+        "metadata": {
+            "id": "cin_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        41,
+                        48
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        13,
+                        15
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        49,
+                        52
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        17,
+                        19
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        64,
+                        79
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        21,
+                        25
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        133,
+                        143
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        37,
+                        38
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        144,
+                        147
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        38,
+                        40
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        188,
+                        203
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        50,
+                        54
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        219,
+                        229
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        57,
+                        61
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        234,
+                        248
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        62,
+                        65
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        263,
+                        269
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        68,
+                        72
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        274,
+                        282
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        74,
+                        77
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        293,
+                        305
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        79,
+                        83
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        310,
+                        320
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        84,
+                        88
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 12,
+                "input_idx": [
+                    [
+                        359,
+                        364
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        96,
+                        98
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 13,
+                "input_idx": [
+                    [
+                        382,
+                        386
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        108,
+                        110
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 14,
+                "input_idx": [
+                    [
+                        412,
+                        417
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        114,
+                        116
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 15,
+                "input_idx": [
+                    [
+                        422,
+                        431
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        117,
+                        120
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 16,
+                "input_idx": [
+                    [
+                        453,
+                        462
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        123,
+                        127
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 17,
+                "input_idx": [
+                    [
+                        467,
+                        476
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        128,
+                        132
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 18,
+                "input_idx": [
+                    [
+                        492,
+                        497
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        140,
+                        144
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 19,
+                "input_idx": [
+                    [
+                        509,
+                        518
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        147,
+                        149
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 20,
+                "input_idx": [
+                    [
+                        534,
+                        546
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        152,
+                        156
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 21,
+                "input_idx": [
+                    [
+                        564,
+                        574
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        163,
+                        166
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 22,
+                "input_idx": [
+                    [
+                        576,
+                        580
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        167,
+                        168
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 23,
+                "input_idx": [
+                    [
+                        608,
+                        613
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        173,
+                        175
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 24,
+                "input_idx": [
+                    [
+                        643,
+                        653
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        180,
+                        184
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 25,
+                "input_idx": [
+                    [
+                        679,
+                        682
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        189,
+                        191
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "in this image in the foreground there is one man who is holding some vegetables it seems and walking, and on the right side there is one person who is standing and it looks like there are some vegetables. and there are some poles and plastic covers, and there is a wire. on the wire there are some clothes and some ropes, and in the background also there are poles and we could see roof at the top and there are trees and buildings on the left side and one woman and one child who is holding a cup and eating something. and there are some clothes and we could see some doors, wall and at the bottom there is floor. and in the center there are some poles, and at the top there is sky.",
+        "target": "在这张图片的前景，有一个男人似乎拿着一些蔬菜在走路，右边有一个人站着，看起来那里有一些蔬菜。还有一些杆子和塑料布，还有一根电线。电线上挂着一些衣服和绳子，背景中也有杆子，我们可以看到顶部的屋顶，左边有树木和建筑物，还有一个女人和一个孩子，孩子手里拿着杯子在吃东西。还有一些衣服，我们可以看到一些门、墙，底部是地板。在中心有一些杆子，顶部是天空。",
+        "metadata": {
+            "id": "cin_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        41,
+                        48
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        10,
+                        14
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        49,
+                        52
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        14,
+                        16
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        64,
+                        79
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        22
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        133,
+                        143
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        29,
+                        31
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        144,
+                        147
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        32,
+                        34
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        188,
+                        203
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        41,
+                        45
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        219,
+                        229
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        48,
+                        52
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        234,
+                        248
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        53,
+                        56
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        263,
+                        269
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        59,
+                        63
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        274,
+                        282
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        64,
+                        66
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        293,
+                        305
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        69,
+                        73
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        310,
+                        320
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        74,
+                        76
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 12,
+                "input_idx": [
+                    [
+                        359,
+                        364
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        82,
+                        84
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 13,
+                "input_idx": [
+                    [
+                        382,
+                        386
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        94,
+                        96
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 14,
+                "input_idx": [
+                    [
+                        412,
+                        417
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        100,
+                        102
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 15,
+                "input_idx": [
+                    [
+                        422,
+                        431
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        103,
+                        106
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 16,
+                "input_idx": [
+                    [
+                        453,
+                        462
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        109,
+                        113
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 17,
+                "input_idx": [
+                    [
+                        467,
+                        476
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        114,
+                        118
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 18,
+                "input_idx": [
+                    [
+                        492,
+                        497
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        125,
+                        127
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 19,
+                "input_idx": [
+                    [
+                        509,
+                        518
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        129,
+                        131
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 20,
+                "input_idx": [
+                    [
+                        534,
+                        546
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        134,
+                        138
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 21,
+                "input_idx": [
+                    [
+                        564,
+                        574
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        145,
+                        148
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 22,
+                "input_idx": [
+                    [
+                        576,
+                        580
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        149,
+                        150
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 23,
+                "input_idx": [
+                    [
+                        608,
+                        613
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        154,
+                        156
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 24,
+                "input_idx": [
+                    [
+                        643,
+                        653
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        161,
+                        165
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 25,
+                "input_idx": [
+                    [
+                        679,
+                        682
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        169,
+                        171
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Earlier , he visited Our Lady Queen of Angels School in East Harlem .",
+        "target": "早些时候，他 参观了 天使圣母学校，位于东哈莱姆。",
+        "metadata": {
+            "id": "m2e2_0_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        10,
+                        12
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        5,
+                        6
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        13,
+                        20
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        7,
+                        10
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        39,
+                        52
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        11,
+                        17
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        56,
+                        67
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        20,
+                        24
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Earlier , he visited Our Lady Queen of Angels School in East Harlem .",
+        "target": "此前，他访问了东哈莱姆的天使之后学校。",
+        "metadata": {
+            "id": "m2e2_0_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        10,
+                        12
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        3,
+                        4
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        13,
+                        20
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        7
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        39,
+                        52
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        12,
+                        18
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        56,
+                        67
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        7,
+                        11
+                    ]
+                ]
+            }
+        ]
+    }
+]

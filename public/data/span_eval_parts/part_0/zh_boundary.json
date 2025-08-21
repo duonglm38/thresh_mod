@@ -1,0 +1,190 @@
+[
+    {
+        "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+        "target": "虽然这可以被结构化为一种销售税，现实的消费税提案认识到累退性是纯销售税的一个问题。",
+        "metadata": {
+            "id": "wikibias_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        48,
+                        57
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        16,
+                        19
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        90,
+                        152
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        24,
+                        40
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+        "target": "虽然这可以像销售税一样构建，但对消费税的现实提议认识到，纯销售税存在累退性问题。",
+        "metadata": {
+            "id": "wikibias_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        48,
+                        57
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        20,
+                        22
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        90,
+                        152
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        24,
+                        39
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target": "库尔斯家族成员，以及通过他们库尔斯酿酒公司本身，在美国政治和公共政策中发挥了重要作用，支持了许多保守事业。",
+        "metadata": {
+            "id": "wikibias_22_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        27,
+                        72
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        23
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target": "库尔斯家族成员，以及以此为代表的库尔斯酿酒公司，在美国政治和公共政策中发挥了重要作用，支持了许多保守主义事业。",
+        "metadata": {
+            "id": "wikibias_22_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        27,
+                        72
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        8,
+                        23
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "yep, this crap sounds like its from a libertarian",
+        "target": "是的，这垃圾听起来像是出自一个自由意志主义者",
+        "metadata": {
+            "id": "toxicspans_1_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        38,
+                        49
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        15,
+                        22
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "yep, this crap sounds like its from a libertarian",
+        "target": "是的，这垃圾听起来就像出自自由意志主义者之口。",
+        "metadata": {
+            "id": "toxicspans_1_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        38,
+                        49
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        13,
+                        20
+                    ]
+                ]
+            }
+        ]
+    }
+]

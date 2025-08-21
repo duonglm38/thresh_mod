@@ -1,0 +1,178 @@
+[
+    {
+        "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
+        "target": "法国南部的天气比俄罗斯的气温好多了，因为天气总是很温暖。",
+        "id": "natural_instruct_task033_64_gpt4_ez",
+        "target_focus_areas": [
+            [
+                0,
+                15
+            ],
+            [
+                18,
+                27
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                4,
+                11
+            ],
+            [
+                91,
+                98
+            ]
+        ],
+        "reference": "南法的天气比俄罗斯的温度好得多，因为那里总是温暖的。"
+    },
+    {
+        "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
+        "target": "法国南部的天气比俄罗斯的气温好得多，因为那里总是温暖。",
+        "id": "natural_instruct_task033_64_gpt4_clap",
+        "target_focus_areas": [
+            [
+                0,
+                15
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                4,
+                11
+            ],
+            [
+                91,
+                98
+            ]
+        ],
+        "reference": "南法的天气比俄罗斯的温度好得多，因为那里总是温暖的。"
+    },
+    {
+        "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
+        "target": "句子：每个人都很喜欢焦糖黄油波本香料饼干；只有少数人喜欢焦糖山核桃饼干。下次，我们应该少做一些它们。",
+        "id": "natural_instruct_task249_3_gemma3_27b_ez",
+        "target_focus_areas": [
+            [
+                3,
+                20
+            ],
+            [
+                21,
+                35
+            ],
+            [
+                39,
+                49
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                32,
+                70
+            ],
+            [
+                97,
+                122
+            ],
+            [
+                161,
+                165
+            ]
+        ],
+        "reference": "句子：每个人都非常喜欢棕黄油波本威士忌香料饼干；只有少数人喜欢焦糖山核桃饼干。下次我们应该少做一些。"
+    },
+    {
+        "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
+        "target": "句子：大家都非常喜欢焦糖黄油波本香料饼干；只有少数人喜欢焦糖山核桃饼干。下次，我们应该少做一些。",
+        "id": "natural_instruct_task249_3_gemma3_27b_clap",
+        "target_focus_areas": [
+            [
+                3,
+                20
+            ],
+            [
+                21,
+                35
+            ],
+            [
+                39,
+                47
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                32,
+                70
+            ],
+            [
+                97,
+                122
+            ],
+            [
+                161,
+                165
+            ]
+        ],
+        "reference": "句子：每个人都非常喜欢棕黄油波本威士忌香料饼干；只有少数人喜欢焦糖山核桃饼干。下次我们应该少做一些。"
+    },
+    {
+        "source": "sentence: Lucy comforted Emma because she was so upset .",
+        "target": "句子：露西安慰了艾玛，因为她太难过了。",
+        "id": "natural_instruct_task249_12_qwen3_30b_a3b_it_ez",
+        "target_focus_areas": [
+            [
+                3,
+                10
+            ],
+            [
+                11,
+                18
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                14
+            ],
+            [
+                25,
+                29
+            ],
+            [
+                38,
+                41
+            ]
+        ],
+        "reference": "露西安慰了艾玛，因为她非常沮丧。"
+    },
+    {
+        "source": "sentence: Lucy comforted Emma because she was so upset .",
+        "target": "露西安慰艾玛，因为她非常难过。",
+        "id": "natural_instruct_task249_12_qwen3_30b_a3b_it_clap",
+        "target_focus_areas": [
+            [
+                0,
+                6
+            ],
+            [
+                7,
+                14
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                10,
+                14
+            ],
+            [
+                25,
+                29
+            ],
+            [
+                38,
+                41
+            ]
+        ],
+        "reference": "露西安慰了艾玛，因为她非常沮丧。"
+    }
+]

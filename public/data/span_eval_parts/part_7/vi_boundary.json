@@ -1,0 +1,1286 @@
+[
+    {
+        "source": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Cod liver oil one capsule GT q. day. 9. Multivitamin 1 tablet GT q. day. 10. Bicitra 10 mL GT b.i.d. DISCHARGE DIET: The patient is to resume his Pediasure home regimen.",
+        "target": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Dầu gan cá một viên nang GT q. day. 9. Multivitamin 1 viên GT q. day. 10. Bicitra 10 mL GT b.i.d. CHẾ ĐỘ ĂN KHI XUẤT VIỆN: Bệnh nhân tiếp tục chế độ Pediasure tại nhà.",
+        "metadata": {
+            "id": "clinicalie_attr_1_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        3,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        3,
+                        11
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        12,
+                        17
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        12,
+                        17
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        18,
+                        20
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        20
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        21,
+                        27
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        21,
+                        27
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        31,
+                        40
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        31,
+                        40
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        41,
+                        47
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        41,
+                        47
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        48,
+                        50
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        48,
+                        50
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        51,
+                        57
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        51,
+                        57
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        61,
+                        74
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        61,
+                        71
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        75,
+                        86
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        72,
+                        85
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        87,
+                        89
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        86,
+                        88
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        90,
+                        96
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        89,
+                        95
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 12,
+                "input_idx": [
+                    [
+                        101,
+                        113
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        100,
+                        112
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 13,
+                "input_idx": [
+                    [
+                        114,
+                        122
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        113,
+                        119
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 14,
+                "input_idx": [
+                    [
+                        123,
+                        125
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        120,
+                        122
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 15,
+                "input_idx": [
+                    [
+                        126,
+                        132
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        123,
+                        129
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 16,
+                "input_idx": [
+                    [
+                        138,
+                        145
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        135,
+                        142
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 17,
+                "input_idx": [
+                    [
+                        146,
+                        151
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        143,
+                        148
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 18,
+                "input_idx": [
+                    [
+                        152,
+                        154
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        149,
+                        151
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 19,
+                "input_idx": [
+                    [
+                        155,
+                        161
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        152,
+                        158
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Cod liver oil one capsule GT q. day. 9. Multivitamin 1 tablet GT q. day. 10. Bicitra 10 mL GT b.i.d. DISCHARGE DIET: The patient is to resume his Pediasure home regimen.",
+        "target": "6. Prilosec 10 mg GT ngày hai lần. 7. Carnitine 500 mg GT ngày hai lần. 8. Dầu gan cá cod một viên GT mỗi ngày. 9. Multivitamin 1 viên GT mỗi ngày. 10. Bicitra 10 mL GT ngày hai lần. CHẾ ĐỘ ĂN XUẤT VIỆN: Bệnh nhân sẽ trở lại chế độ dinh dưỡng Pediasure tại nhà.",
+        "metadata": {
+            "id": "clinicalie_attr_1_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        3,
+                        11
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        3,
+                        11
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        12,
+                        17
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        12,
+                        17
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        18,
+                        20
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        20
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        21,
+                        27
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        21,
+                        33
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        31,
+                        40
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        38,
+                        47
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        41,
+                        47
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        48,
+                        54
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        48,
+                        50
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        55,
+                        57
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        51,
+                        57
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        58,
+                        70
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        61,
+                        74
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        75,
+                        89
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        75,
+                        86
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        90,
+                        98
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        87,
+                        89
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        99,
+                        101
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        90,
+                        96
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        102,
+                        110
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 12,
+                "input_idx": [
+                    [
+                        101,
+                        113
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        115,
+                        127
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 13,
+                "input_idx": [
+                    [
+                        114,
+                        122
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        128,
+                        134
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 14,
+                "input_idx": [
+                    [
+                        123,
+                        125
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        166,
+                        168
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 15,
+                "input_idx": [
+                    [
+                        126,
+                        132
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        138,
+                        146
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 16,
+                "input_idx": [
+                    [
+                        138,
+                        145
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        152,
+                        159
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 17,
+                "input_idx": [
+                    [
+                        146,
+                        151
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        160,
+                        165
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 18,
+                "input_idx": [
+                    [
+                        152,
+                        154
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        166,
+                        168
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 19,
+                "input_idx": [
+                    [
+                        155,
+                        161
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        169,
+                        181
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Her mother suffers from hypertension. Other female relatives suffer from endometriosis. SOCIAL HISTORY: The patient is married. She works as an account coordinator at US Bank. She denies use of tobacco, alcohol, or drugs. ADMISSION PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 136/80 to 147/106.",
+        "target": "Mẹ cô bị cao huyết áp. Các thân nhân nữ khác bị lạc nội mạc tử cung. TIỀN SỬ XÃ HỘI: Bệnh nhân đã kết hôn. Cô làm việc với vai trò điều phối viên tài khoản tại Ngân hàng US Bank. Cô phủ nhận việc sử dụng thuốc lá, rượu hoặc ma túy. KHÁM THỰC THỂ KHI NHẬP VIỆN: DẤU HIỆU SINH TỒN: Huyết áp 136/80 đến 147/106.",
+        "metadata": {
+            "id": "clinicalie_coref_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        104,
+                        115
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        85,
+                        94
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        128,
+                        131
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        107,
+                        109
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Her mother suffers from hypertension. Other female relatives suffer from endometriosis. SOCIAL HISTORY: The patient is married. She works as an account coordinator at US Bank. She denies use of tobacco, alcohol, or drugs. ADMISSION PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 136/80 to 147/106.",
+        "target": "Mẹ cô bị cao huyết áp. Các nữ thân thuộc khác bị lạc nội mạc tử cung. TIỀN SỬ XÃ HỘI: Bệnh nhân đã kết hôn. Cô làm việc với vai trò điều phối viên tài khoản tại Ngân hàng US Bank. Cô phủ nhận việc sử dụng thuốc lá, rượu hoặc ma túy. KHÁM THỰC THỂ KHI NHẬP VIỆN: DẤU HIỆU SINH TỒN: Huyết áp 136/80 đến 147/106.",
+        "metadata": {
+            "id": "clinicalie_coref_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        104,
+                        115
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        86,
+                        95
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        128,
+                        131
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        108,
+                        110
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
+        "target": "Cô ấy đã giảm thêm bốn pound kể từ tuần trước. Cô đã bị tiêu chảy kéo dài. Tuy nhiên, chúng tôi đã chuẩn bị quản lý tình trạng này như một bệnh nhân ngoại trú cho đến khi bác sĩ chẩn đoán hình ảnh từ CDI gọi điện cho tôi để báo rằng ông ấy đã phát hiện một cục máu đông phổi bên trái trên phim CT cộng hưởng, ngoài các kết quả đã nêu ở trên.",
+        "metadata": {
+            "id": "clinicalie_coref_1_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        59,
+                        78
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        56,
+                        73
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        117,
+                        121
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        116,
+                        130
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
+        "target": "Cô ấy đã giảm thêm bốn pound kể từ tuần trước. Cô ấy bị tiêu chảy kéo dài. Tuy nhiên, chúng tôi đã chuẩn bị quản lý tình trạng này như một bệnh nhân ngoại trú cho đến khi bác sĩ chẩn đoán hình ảnh từ CDI gọi điện cho tôi báo rằng ông ấy đã phát hiện một cục máu đông phổi bên trái trên xét nghiệm CT scan, ngoài các phát hiện đã nêu.",
+        "metadata": {
+            "id": "clinicalie_coref_1_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        59,
+                        78
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        56,
+                        73
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        117,
+                        121
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        116,
+                        130
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "I will hold the Amaryl for now to make sure this may not be contributing to his nausea. I will perform Accu-Cheks and sliding scale. 5. Nausea. I will DC all narcotics and pain pills and will treat him only with Tylenol. Continue his Protonex. I will DC his Isordil. As stated above, we will hold his Amaryl for now.",
+        "target": "Tôi sẽ tạm ngưng Amaryl để đảm bảo rằng thuốc này không gây buồn nôn cho anh ấy. Tôi sẽ thực hiện xét nghiệm Accu-Cheks và cân bằng liều theo thang trượt. 5. Buồn nôn. Tôi sẽ ngưng tất cả các thuốc gây nghiện và thuốc giảm đau, chỉ điều trị cho anh ấy bằng Tylenol. Tiếp tục dùng Protonex. Tôi sẽ ngưng Isordil của anh ấy. Như đã nêu ở trên, chúng tôi sẽ tạm ngưng Amaryl của anh ấy.",
+        "metadata": {
+            "id": "clinicalie_mse_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        16,
+                        22
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        17,
+                        23
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        212,
+                        219
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        257,
+                        264
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        234,
+                        242
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        280,
+                        288
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        258,
+                        265
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        303,
+                        310
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "I will hold the Amaryl for now to make sure this may not be contributing to his nausea. I will perform Accu-Cheks and sliding scale. 5. Nausea. I will DC all narcotics and pain pills and will treat him only with Tylenol. Continue his Protonex. I will DC his Isordil. As stated above, we will hold his Amaryl for now.",
+        "target": "Tôi sẽ tạm ngưng thuốc Amaryl để đảm bảo thuốc này không góp phần gây buồn nôn cho bệnh nhân. Tôi sẽ làm xét nghiệm Accu-Cheks và theo dõi đường huyết bằng phương pháp sliding scale. 5. Buồn nôn. Tôi sẽ ngưng tất cả các loại thuốc gây nghiện và thuốc giảm đau và sẽ chỉ điều trị bằng Tylenol. Tiếp tục cho bệnh nhân dùng Protonex. Tôi sẽ ngưng thuốc Isordil. Như đã nêu ở trên, hiện tại chúng ta sẽ tạm ngưng thuốc Amaryl.",
+        "metadata": {
+            "id": "clinicalie_mse_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        16,
+                        22
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        17,
+                        29
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        212,
+                        219
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        284,
+                        291
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        234,
+                        242
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        321,
+                        329
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        258,
+                        265
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        344,
+                        357
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
+        "target": "Cô ấy cũng không được cắt bỏ rõ ràng phần bệnh Crohn của mình. 4. Tăng huyết áp. 5. Giảm kích thước vòng một vào năm 1998. THUỐC: Tại thời điểm nhập viện bao gồm: 1. 6 MP. 2. Lisinopril. 3. Thuốc tránh thai. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. DỊ ỨNG: Cô ấy bị dị ứng với morphine, sulfa và phản ứng bất lợi với Remicade.",
+        "metadata": {
+            "id": "clinicalie_mse_1_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        152,
+                        156
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        166,
+                        170
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        161,
+                        171
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        175,
+                        185
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        199,
+                        218
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        211,
+                        230
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        223,
+                        227
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        235,
+                        239
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        232,
+                        240
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        244,
+                        252
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        245,
+                        253
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        257,
+                        265
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        288,
+                        296
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        295,
+                        303
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        298,
+                        303
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        305,
+                        310
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        331,
+                        339
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        335,
+                        343
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
+        "target": "Cô ấy cũng không được cắt bỏ rõ ràng phần bệnh Crohn của mình. 4. Tăng huyết áp. 5. Phẫu thuật giảm kích thước ngực năm 1998. THUỐC: Tại thời điểm nhập viện bao gồm: 1. 6 MP. 2. Lisinopril. 3. Thuốc tránh thai. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. DỊ ỨNG: Cô ấy bị dị ứng với morphine, sulfa và phản ứng bất lợi với Remicade.",
+        "metadata": {
+            "id": "clinicalie_mse_1_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        152,
+                        156
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        169,
+                        173
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        161,
+                        171
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        178,
+                        188
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        199,
+                        218
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        214,
+                        233
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        223,
+                        227
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        238,
+                        242
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        232,
+                        240
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        247,
+                        255
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        245,
+                        253
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        260,
+                        268
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        288,
+                        296
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        298,
+                        306
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        298,
+                        303
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        308,
+                        313
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        331,
+                        339
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        338,
+                        346
+                    ]
+                ]
+            }
+        ]
+    }
+]

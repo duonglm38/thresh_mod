@@ -1,0 +1,1620 @@
+[
+    {
+        "source": "The human cell lines of breast cancer (MCF-7), colon adenocarcinoma (HT-29), and leukemia (CCRF/CEM) were obtained from American Type Culture Collection (Rockville, Maryland, USA) and maintained in the Cell Culture Collection at the Institute of Immunology and Experimental Therapy, Wroclaw, Poland.\n",
+        "target": "Các dòng tế bào người của ung thư vú (MCF-7), ung thư biểu mô đại tràng (HT-29) và bệnh bạch cầu (CCRF/CEM) đã được thu thập từ Bộ sưu tập Loại Văn hóa Mỹ (Rockville, Maryland, Hoa Kỳ) và duy trì trong Bộ sưu tập Nuôi cấy Tế bào tại Viện Miễn dịch học và Liệu pháp Thử nghiệm, Wroclaw, Ba Lan.",
+        "metadata": {
+            "id": "pubmed_0_2_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        20
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        26,
+                        36
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        24,
+                        37
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        39,
+                        44
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        38,
+                        43
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        47,
+                        67
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        46,
+                        71
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        69,
+                        74
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        73,
+                        78
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        81,
+                        89
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        83,
+                        96
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        91,
+                        99
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        98,
+                        106
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        106,
+                        114
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        116,
+                        124
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        120,
+                        152
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        128,
+                        154
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        184,
+                        194
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        188,
+                        195
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        202,
+                        225
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        202,
+                        228
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        233,
+                        281
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        233,
+                        275
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The human cell lines of breast cancer (MCF-7), colon adenocarcinoma (HT-29), and leukemia (CCRF/CEM) were obtained from American Type Culture Collection (Rockville, Maryland, USA) and maintained in the Cell Culture Collection at the Institute of Immunology and Experimental Therapy, Wroclaw, Poland.\n",
+        "target": "Các dòng tế bào người ung thư vú (MCF-7), ung thư biểu mô đại tràng (HT-29) và bạch cầu (CCRF/CEM) được lấy từ Bộ sưu tập Loại Văn hóa Mỹ (Rockville, Maryland, Hoa Kỳ) và được duy trì trong Bộ sưu tập Văn hóa Tế bào tại Viện Miễn dịch học và Liệu pháp Thử nghiệm, Wroclaw, Ba Lan.",
+        "metadata": {
+            "id": "pubmed_0_2_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        4,
+                        20
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        32
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        24,
+                        37
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        22,
+                        32
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        39,
+                        44
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        34,
+                        39
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        47,
+                        67
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        42,
+                        67
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        69,
+                        74
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        69,
+                        74
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        81,
+                        89
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        79,
+                        87
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        91,
+                        99
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        89,
+                        97
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        106,
+                        114
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        99,
+                        110
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        120,
+                        152
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        111,
+                        137
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        184,
+                        194
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        171,
+                        189
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        202,
+                        225
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        190,
+                        215
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 11,
+                "input_idx": [
+                    [
+                        233,
+                        281
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        220,
+                        262
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "A solution of oxalyl chloride (0.97 ml) in dry dichloromethane (10 ml) was stirred at −55° C. under an atmosphere of dry nitrogen.\n",
+        "target": "Một dung dịch của oxalyl chloride (0,97 ml) trong dichloromethane khô (10 ml) được khuấy ở −55° C dưới khí quyển của nitrogen khô.",
+        "metadata": {
+            "id": "chemsyn_0_2_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        2,
+                        10
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        4,
+                        13
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        14,
+                        29
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        18,
+                        33
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        31,
+                        38
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        35,
+                        42
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        43,
+                        46
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        50,
+                        65
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        47,
+                        62
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        64,
+                        69
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        71,
+                        76
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        75,
+                        82
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        83,
+                        88
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        86,
+                        93
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        91,
+                        97
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        103,
+                        113
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        103,
+                        112
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        117,
+                        120
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        117,
+                        125
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        121,
+                        129
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "A solution of oxalyl chloride (0.97 ml) in dry dichloromethane (10 ml) was stirred at −55° C. under an atmosphere of dry nitrogen.\n",
+        "target": "Dung dịch oxalyl chloride (0,97 ml) trong dichloromethane khan (10 ml) được khuấy ở nhiệt độ −55°C dưới atmosphere nitơ khan.",
+        "metadata": {
+            "id": "chemsyn_0_2_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        2,
+                        10
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        9
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        14,
+                        29
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        10,
+                        25
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        31,
+                        38
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        27,
+                        34
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        43,
+                        46
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        58,
+                        62
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        47,
+                        62
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        42,
+                        57
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        64,
+                        69
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        64,
+                        69
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        75,
+                        82
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        71,
+                        81
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        86,
+                        93
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        93,
+                        98
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        103,
+                        113
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        104,
+                        114
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        117,
+                        120
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        120,
+                        124
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 10,
+                "input_idx": [
+                    [
+                        121,
+                        129
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        115,
+                        119
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Contribution of a Speech Perception Intervention to the Prevention of Phonological Awareness Deficits in Children With Speech Sound Disorders | Recent research reveals genetic and symptomatic overlap among children with speech sound disorders (i.e., those who (misarticulate more sounds than would be expected for their age) and children with dyslexia (i.e., those who struggle to learn to read). Children who have speech sound disorders as preschoolers are at risk for the later emergence of dyslexia, a risk that often reveals itself in the form of poor phonological awareness skills during the preschool period. Traditional speech therapy methods focus on articulation accuracy and do not focus on the child's more abstract knowledge of the sound system of the language. The ultimate objective of this research program is to prevent reading disability in children who present with speech sounds disorders. The relative effectiveness of different interventions to help these children achieve age-appropriate phonological processing skills prior to school entry will be investigated. It is expected that a combination of treatment approaches that focus on speech perception skills and vocabulary knowledge will have a superior impact on phonological awareness in comparison with a treatment approach that focuses solely on articulation accuracy.",
+        "target": "Sự đóng góp của can thiệp nhận thức âm thanh nói trong việc phòng ngừa các khiếm khuyết về nhận thức ngữ âm ở trẻ em mắc rối loạn âm thanh lời nói | Nghiên cứu gần đây tiết lộ sự chồng chéo về mặt di truyền và triệu chứng giữa trẻ em mắc rối loạn âm thanh lời nói (tức là những trẻ (phát âm sai nhiều âm hơn so với độ tuổi của chúng) và trẻ em mắc chứng khó đọc (tức là những trẻ gặp khó khăn trong việc học đọc). Trẻ em mắc rối loạn âm thanh lời nói khi còn trong độ tuổi mẫu giáo có nguy cơ phát triển chứng khó đọc sau này, một nguy cơ thường biểu hiện dưới dạng kỹ năng nhận thức ngữ âm kém trong giai đoạn mẫu giáo. Các phương pháp trị liệu lời nói truyền thống tập trung vào độ chính xác trong phát âm và không chú trọng đến kiến thức trừu tượng hơn của trẻ về hệ thống âm thanh của ngôn ngữ. Mục tiêu cuối cùng của chương trình nghiên cứu này là ngăn ngừa khuyết tật đọc ở trẻ em có biểu hiện rối loạn âm thanh lời nói. Hiệu quả tương đối của các phương pháp can thiệp khác nhau nhằm giúp những trẻ này đạt được kỹ năng xử lý ngữ âm phù hợp với độ tuổi trước khi vào trường sẽ được nghiên cứu. Dự kiến rằng sự kết hợp các phương pháp điều trị tập trung vào kỹ năng nhận thức âm thanh và kiến thức từ vựng sẽ có tác động vượt trội đến nhận thức ngữ âm so với phương pháp điều trị chỉ tập trung vào độ chính xác của phát âm.",
+        "metadata": {
+            "id": "neuraltrial_0_gpt4",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        22,
+                        52
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        16,
+                        48
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        123,
+                        145
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        121,
+                        146
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        224,
+                        246
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        238,
+                        263
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        419,
+                        441
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        425,
+                        450
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        888,
+                        911
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        900,
+                        925
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        1111,
+                        1210
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        1114,
+                        1211
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1286,
+                        1349
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        1265,
+                        1328
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "The Contribution of a Speech Perception Intervention to the Prevention of Phonological Awareness Deficits in Children With Speech Sound Disorders | Recent research reveals genetic and symptomatic overlap among children with speech sound disorders (i.e., those who (misarticulate more sounds than would be expected for their age) and children with dyslexia (i.e., those who struggle to learn to read). Children who have speech sound disorders as preschoolers are at risk for the later emergence of dyslexia, a risk that often reveals itself in the form of poor phonological awareness skills during the preschool period. Traditional speech therapy methods focus on articulation accuracy and do not focus on the child's more abstract knowledge of the sound system of the language. The ultimate objective of this research program is to prevent reading disability in children who present with speech sounds disorders. The relative effectiveness of different interventions to help these children achieve age-appropriate phonological processing skills prior to school entry will be investigated. It is expected that a combination of treatment approaches that focus on speech perception skills and vocabulary knowledge will have a superior impact on phonological awareness in comparison with a treatment approach that focuses solely on articulation accuracy.",
+        "target": "Đóng góp của can thiệp nhận thức ngôn ngữ nói vào việc phòng ngừa thiếu hụt nhận thức ngữ âm ở trẻ em mắc rối loạn âm thanh nói | Nghiên cứu gần đây cho thấy sự chồng chéo về di truyền và triệu chứng giữa trẻ em mắc rối loạn âm thanh nói (tức là những trẻ phát âm sai nhiều âm hơn mức dự kiến so với độ tuổi) và trẻ em mắc chứng khó đọc (tức là những trẻ gặp khó khăn trong việc học đọc). Trẻ em có rối loạn âm thanh nói khi còn ở độ tuổi nhà trẻ có nguy cơ mắc chứng khó đọc sau này, một nguy cơ thường biểu hiện qua kỹ năng nhận thức ngữ âm kém trong giai đoạn nhà trẻ. Các phương pháp trị liệu ngôn ngữ truyền thống tập trung vào độ chính xác phát âm và không chú trọng đến kiến thức trừu tượng hơn của trẻ về hệ thống âm thanh của ngôn ngữ. Mục tiêu cuối cùng của chương trình nghiên cứu này là ngăn ngừa khuyết tật đọc ở những trẻ gặp rối loạn âm thanh nói. Hiệu quả tương đối của các phương pháp can thiệp khác nhau để giúp những trẻ này đạt được kỹ năng xử lý ngữ âm phù hợp với độ tuổi trước khi vào trường sẽ được điều tra. Dự kiến rằng sự kết hợp các phương pháp điều trị tập trung vào kỹ năng nhận thức ngôn ngữ nói và kiến thức từ vựng sẽ có tác động vượt trội đến nhận thức ngữ âm so với phương pháp điều trị chỉ tập trung vào độ chính xác phát âm.",
+        "metadata": {
+            "id": "neuraltrial_0_gpt4",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        22,
+                        52
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        13,
+                        45
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        123,
+                        145
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        106,
+                        127
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        224,
+                        246
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        216,
+                        237
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        419,
+                        441
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        399,
+                        420
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        888,
+                        911
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        840,
+                        861
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        1111,
+                        1210
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        1046,
+                        1147
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1286,
+                        1349
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        1201,
+                        1260
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Intravenous sodium valproate versus diazepam infusion for the control of refractory status epilepticus in children : a randomized controlled trial . An open-label , randomized controlled study was conducted at a tertiary care teaching hospital to compare efficacy and safety of intravenous sodium valproate versus diazepam infusion for control of refractory status epilepticus . Forty children with refractory status epilepticus were randomized to receive either intravenous sodium valproate or diazepam infusion . Refractory status epilepticus was controlled in 80 % of the valproate and 85 % of the diazepam patients . The median time to control refractory status epilepticus was less in the valproate group ( 5 minutes ) than the diazepam group ( 17 minutes ; P $lt; .001 ) . None of the patients in the valproate group required ventilation or developed hypotension , whereas in the diazepam group 60 % required ventilation and 50 % developed hypotension after starting diazepam infusion . No adverse effects on liver functions were seen with valproate . It is concluded that intravenous sodium valproate is an effective alternative to diazepam infusion in controlling refractory status epilepticus in children and is free of respiratory depression and hypotension .",
+        "target": "Natri valproat đường tĩnh mạch so với truyền diazepam trong điều trị tình trạng động kinh kéo dài kháng trị ở trẻ em: một thử nghiệm đối chứng ngẫu nhiên. Một nghiên cứu đối chứng ngẫu nhiên, mở nhãn đã được tiến hành tại một bệnh viện đa khoa để so sánh hiệu quả và độ an toàn của natri valproat đường tĩnh mạch so với truyền diazepam trong điều trị tình trạng động kinh kéo dài kháng trị. Bốn mươi trẻ em mắc tình trạng động kinh kéo dài kháng trị đã được ngẫu nhiên để nhận natri valproat đường tĩnh mạch hoặc truyền diazepam. Tình trạng động kinh kéo dài kháng trị được kiểm soát ở 80% bệnh nhân dùng valproat và 85% bệnh nhân dùng diazepam. Thời gian trung bình để kiểm soát tình trạng động kinh kéo dài kháng trị ngắn hơn ở nhóm valproat (5 phút) so với nhóm diazepam (17 phút; P $lt; .001). Không bệnh nhân nào trong nhóm valproat cần thở máy hoặc phát triển hạ huyết áp, trong khi ở nhóm diazepam, 60% cần thở máy và 50% phát triển hạ huyết áp sau khi bắt đầu truyền diazepam. Không có tác dụng phụ nào lên chức năng gan được quan sát thấy với valproat. Kết luận, natri valproat đường tĩnh mạch là một lựa chọn thay thế hiệu quả cho truyền diazepam trong điều trị tình trạng động kinh kéo dài kháng trị ở trẻ em và không gây suy hô hấp hoặc hạ huyết áp.",
+        "metadata": {
+            "id": "ebmpico_0_gemma3_27b",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        28
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        30
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        36,
+                        53
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        38,
+                        53
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        73,
+                        102
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        69,
+                        107
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        106,
+                        114
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        110,
+                        116
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        278,
+                        306
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        282,
+                        312
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        314,
+                        331
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        320,
+                        335
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        379,
+                        384
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        391,
+                        399
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        399,
+                        428
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        411,
+                        449
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        463,
+                        512
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        477,
+                        528
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        1202,
+                        1210
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        1210,
+                        1216
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "Intravenous sodium valproate versus diazepam infusion for the control of refractory status epilepticus in children : a randomized controlled trial . An open-label , randomized controlled study was conducted at a tertiary care teaching hospital to compare efficacy and safety of intravenous sodium valproate versus diazepam infusion for control of refractory status epilepticus . Forty children with refractory status epilepticus were randomized to receive either intravenous sodium valproate or diazepam infusion . Refractory status epilepticus was controlled in 80 % of the valproate and 85 % of the diazepam patients . The median time to control refractory status epilepticus was less in the valproate group ( 5 minutes ) than the diazepam group ( 17 minutes ; P $lt; .001 ) . None of the patients in the valproate group required ventilation or developed hypotension , whereas in the diazepam group 60 % required ventilation and 50 % developed hypotension after starting diazepam infusion . No adverse effects on liver functions were seen with valproate . It is concluded that intravenous sodium valproate is an effective alternative to diazepam infusion in controlling refractory status epilepticus in children and is free of respiratory depression and hypotension .",
+        "target": "Truyền tĩnh mạch natri valproate so với truyền diazepam để kiểm soát tình trạng động kinh kéo dài kháng trị ở trẻ em: một thử nghiệm kiểm soát ngẫu nhiên. Một nghiên cứu kiểm soát ngẫu nhiên, không che giấu đã được thực hiện tại một bệnh viện giảng dạy chuyên khoa để so sánh hiệu quả và độ an toàn của truyền tĩnh mạch natri valproate so với truyền diazepam để kiểm soát tình trạng động kinh kéo dài kháng trị. Bốn mươi trẻ em mắc chứng động kinh kéo dài kháng trị đã được phân ngẫu nhiên để nhận truyền tĩnh mạch natri valproate hoặc diazepam. Tình trạng động kinh kéo dài kháng trị được kiểm soát ở 80% bệnh nhân valproate và 85% bệnh nhân diazepam. Thời gian trung bình để kiểm soát tình trạng động kinh kéo dài kháng trị ngắn hơn ở nhóm valproate (5 phút) so với nhóm diazepam (17 phút; P $lt; .001). Không bệnh nhân nào trong nhóm valproate cần thở máy hoặc phát triển hạ huyết áp, trong khi ở nhóm diazepam, 60% cần thở máy và 50% phát triển hạ huyết áp sau khi bắt đầu truyền diazepam. Không có tác dụng bất lợi nào đối với chức năng gan được quan sát thấy với valproate. Kết luận, truyền tĩnh mạch natri valproate là một lựa chọn thay thế hiệu quả cho truyền diazepam trong việc kiểm soát tình trạng động kinh kéo dài kháng trị ở trẻ em và không gây suy hô hấp hoặc hạ huyết áp.",
+        "metadata": {
+            "id": "ebmpico_0_gemma3_27b",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        0,
+                        28
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        0,
+                        32
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        36,
+                        53
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        40,
+                        55
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        73,
+                        102
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        69,
+                        107
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        106,
+                        114
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        110,
+                        116
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        278,
+                        306
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        303,
+                        335
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        314,
+                        331
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        343,
+                        358
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        379,
+                        384
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        412,
+                        420
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        399,
+                        428
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        438,
+                        465
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 8,
+                "input_idx": [
+                    [
+                        463,
+                        512
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        498,
+                        544
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 9,
+                "input_idx": [
+                    [
+                        1202,
+                        1210
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        1236,
+                        1242
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "IMPRESSION: 1. Eight-month-old with initially diagnosed bronchiolitis which developed into a right middle lobe pneumonia. She will be discharged on Augmentin ES 600 mg per 5 ml, 300 mg p.o. b.i.d. x10 days. Of note, this is a change since she had been treated with Unasyn IV in the hospital.",
+        "target": "ẤN TƯỢNG: 1. Trẻ 8 tháng tuổi ban đầu được chẩn đoán viêm phế quản nhỏ, sau đó tiến triển thành viêm phổi thùy giữa phải. Trẻ sẽ được xuất viện với đơn Augmentin ES 600 mg mỗi 5 ml, 300 mg qua đường miệng hai lần mỗi ngày trong 10 ngày. Lưu ý, đây là thay đổi so với trước đó khi trẻ được điều trị bằng Unasyn tiêm tĩnh mạch tại bệnh viện.",
+        "metadata": {
+            "id": "clinicalie_attr_0_qwen3_30b_a3b_it",
+            "method": "EasyProject"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        91,
+                        120
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        96,
+                        120
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        148,
+                        160
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        152,
+                        164
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        184
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        165,
+                        188
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        185,
+                        189
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        189,
+                        204
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        190,
+                        196
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        205,
+                        221
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        197,
+                        205
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        222,
+                        235
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        265,
+                        271
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        303,
+                        309
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        272,
+                        274
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        310,
+                        324
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "IMPRESSION: 1. Eight-month-old with initially diagnosed bronchiolitis which developed into a right middle lobe pneumonia. She will be discharged on Augmentin ES 600 mg per 5 ml, 300 mg p.o. b.i.d. x10 days. Of note, this is a change since she had been treated with Unasyn IV in the hospital.",
+        "target": "ẤN TƯỢNG: 1. Trẻ 8 tháng tuổi ban đầu được chẩn đoán viêm phế quản, sau đó tiến triển thành viêm phổi thùy giữa phải. Trẻ sẽ được xuất viện với thuốc Augmentin ES 600 mg/5 ml, uống 300 mg đường uống mỗi ngày hai lần trong 10 ngày. Lưu ý, đây là thay đổi so với trước đó khi trẻ được điều trị bằng Unasyn truyền tĩnh mạch tại bệnh viện.",
+        "metadata": {
+            "id": "clinicalie_attr_0_qwen3_30b_a3b_it",
+            "method": "CLaP"
+        },
+        "edits": [
+            {
+                "category": "span",
+                "id": 0,
+                "input_idx": [
+                    [
+                        91,
+                        120
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        92,
+                        116
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 1,
+                "input_idx": [
+                    [
+                        148,
+                        160
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        150,
+                        162
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 2,
+                "input_idx": [
+                    [
+                        161,
+                        184
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        163,
+                        187
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 3,
+                "input_idx": [
+                    [
+                        185,
+                        189
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        188,
+                        198
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 4,
+                "input_idx": [
+                    [
+                        190,
+                        196
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        199,
+                        215
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 5,
+                "input_idx": [
+                    [
+                        197,
+                        205
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        216,
+                        229
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 6,
+                "input_idx": [
+                    [
+                        265,
+                        271
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        297,
+                        303
+                    ]
+                ]
+            },
+            {
+                "category": "span",
+                "id": 7,
+                "input_idx": [
+                    [
+                        272,
+                        274
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        304,
+                        320
+                    ]
+                ]
+            }
+        ]
+    }
+]
